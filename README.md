@@ -12,7 +12,16 @@ A curated list of awesome source-free domain adaptation methods. Your contributi
 
 ## Image Classification
 ### Before 2020
- - [xx] doo
+ - [Kuzborskij et al., ICML 2013] **Stability and hypothesis transfer learning** [[PDF]](https://proceedings.mlr.press/v28/kuzborskij13.html) <details><summary>[Bibtex]</summary>  
+@inproceedings{kuzborskij2013stability,
+  title={Stability and hypothesis transfer learning},
+  author={Kuzborskij, Ilja and Orabona, Francesco},
+  booktitle={International Conference on Machine Learning},
+  pages={942--950},
+  year={2013},
+  organization={PMLR}
+}
+</details>
  - [xx] doo
 ### 2020
  - [xx] doo
