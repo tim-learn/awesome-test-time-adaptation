@@ -25,11 +25,11 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `VDP` [Gan et al., Proc. AAAI 2023] **Decorate the newcomers: Visual domain prompt for continual test time adaptation** [[PDF]](https://arxiv.org/abs/2212.04145) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10934249662216784297&hl=en)
 
 ### segmentation
-- `OSVOS` [Voigtlaender and Leibe., Proc. BMVC 2017] **Online adaptation of convolutional neural networks for video object segmentation** [[PDF]](https://arxiv.org/abs/1706.09364) [[G-Scholar]](https://scholar.google.com.tw/scholar?cluster=7737687280948943248&hl=en)
+- `OnAVOS` [Voigtlaender and Leibe., Proc. BMVC 2017] **Online adaptation of convolutional neural networks for video object segmentation** [[PDF]](https://arxiv.org/abs/1706.09364) [[G-Scholar]](https://scholar.google.com.tw/scholar?cluster=7737687280948943248&hl=en)
 
 - `JITNet` [Mullapudi et al., Proc. ICCV 2019] **Online model distillation for efficient video inference** [[PDF]](https://openaccess.thecvf.com/content_ICCV_2019/html/Mullapudi_Online_Model_Distillation_for_Efficient_Video_Inference_ICCV_2019_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=855886852952280817&hl=en) [[CODE]](https://github.com/ravi-teja-mullapudi/JITNet-online-distillation)
 
-- `MLDG+SIB` [Zhang et al., Pattern Recognition 2022] **Generalizable model-agnostic semantic segmentation via target-specific normalization** [[PDF]](https://arxiv.org/abs/2003.12296) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17019012630684214147&hl=en)
+- `TN-SIB` [Zhang et al., Pattern Recognition 2022] **Generalizable model-agnostic semantic segmentation via target-specific normalization** [[PDF]](https://arxiv.org/abs/2003.12296) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17019012630684214147&hl=en)
 
 - `OASIS` [Volpi et al., Proc. CVPR 2022] **On the road to online adaptation for semantic image segmentation** [[PDF]](https://openaccess.thecvf.com/content/CVPR2022/html/Volpi_On_the_Road_to_Online_Adaptation_for_Semantic_Image_Segmentation_CVPR_2022_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9925554197632369771&hl=en) [[CODE]](https://github.com/naver/oasis)
 
