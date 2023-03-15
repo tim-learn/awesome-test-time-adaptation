@@ -46,7 +46,7 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `DoPrompt` [Zheng et al., Arxiv 2022] **Prompt vision transformer for domain generalization** [[PDF]](https://arxiv.org/abs/2208.08914) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12229109798487228669&hl=en) [[CODE]](https://github.com/zhengzangw/DoPrompt)
 
-- `DCN` [Jiang et al., Proc. ECCV Workshops 2022] **Domain-Conditioned normalization for test-time domain generalization** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-25085-9_17#chapter-info) [[G-Scholar--]]()
+- `DCN` [Jiang et al., Proc. ECCV Workshops 2022] **Domain-Conditioned normalization for test-time domain generalization** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-25085-9_17#chapter-info) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15238737988084445775&hl=en)
 
 - `BNE` [Segu et al., Pattern Recognition 2022] **Batch normalization embeddings for deep domain generalization** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320322005957) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1822183098800604393&hl=en)
 
