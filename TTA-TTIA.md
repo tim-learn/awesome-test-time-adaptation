@@ -260,13 +260,15 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 ### Misc
 - `TTP` [Li et al., Proc. NeurIPS 2021] **Test-time personalization with a transformer for human pose estimation** [[PDF]](https://openreview.net/forum?id=cwSkaedP-wz) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8881142280914530303&hl=en) [[CODE]](https://github.com/harry11162/TTP)
 
-- `MyStyle` [Nitzan et al., ACM TOG 2022] **MyStyle: A personalized generative prior** [[PDF]](https://arxiv.org/abs/2203.17272) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5043776863260191811&hl=en) [[CODE]](https://github.com/google/mystyle)
-
 - `BNTA` [Han et al., Proc. AAAI 2022] **Generalizable person re-identification via self-supervised batch norm test-time adaption** [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/19963) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2418291620221336553&hl=en)
 
 - `TTAS` [Bateson et al., Proc. MICCAI 2022] **Test-time adaptation with shape moments for image segmentation** [[PDF]](https://arxiv.org/abs/2205.07983) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18007426859983116683&hl=en) [[CODE]](https://github.com/mathilde-b/TTA)
 
 - `SUTA` [Lin et al., Proc. Interspeech 2022] **Listen, adapt, better WER: Source-free single-utterance test-time adaptation for automatic speech recognition** [[PDF]](https://arxiv.org/abs/2203.14222) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7797707155623619852&hl=en) [[CODE]](https://github.com/DanielLin94144/Test-time-adaptation-ASR-SUTA)
+
+- `...` [Lumentut and Park, Proc. ACMMM 2022] **3D body reconstruction revisited: Exploring the test-time 3D body mesh refinement strategy via surrogate adaptation** [[PDF]](https://dl.acm.org/doi/abs/10.1145/3503161.3547842) [[G-Scholar--]]()
+
+- `MyStyle` [Nitzan et al., ACM TOG 2022] **MyStyle: A personalized generative prior** [[PDF]](https://arxiv.org/abs/2203.17272) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5043776863260191811&hl=en) [[CODE]](https://github.com/google/mystyle)
 
 - `MetaSSN` [Kim et al., Expert Systems with Applications 2022] **Style selective normalization with meta learning for test-time adaptive face anti-spoofing** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0957417422021248) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16916146254562612393&hl=en)
 
