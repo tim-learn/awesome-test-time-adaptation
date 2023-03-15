@@ -118,8 +118,6 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `...` [Yuan et al., Proc. CVPR 2023] **Robust test-time adaptation in dynamic scenarios** [[PDF--]]() [[G-Scholar--]]()
 
-- `...` [Li et al., Proc. ICRA 2023] **Test-time domain adaptation for monocular depth estimation** [[PDF--]]() [[G-Scholar--]]()
-
 - `TeSLA` [Tomar et al., Proc. CVPR 2023] **TeSLA: Test-time self-learning With automatic adversarial augmentation** [[PDF--]]() [[G-Scholar--]]()
 
 - `ECL` [Han et al., Arxiv 2023] **Rethinking precision of pseudo label: Test-time adaptation via complementary learning** [[PDF]](https://arxiv.org/abs/2301.06013) [[G-Scholar--]]()
@@ -162,7 +160,7 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `OTF` [Lumentut and Park, Proc. ACMMM 2022] **3D body reconstruction revisited: Exploring the test-time 3D body mesh refinement strategy via surrogate adaptation** [[PDF]](https://dl.acm.org/doi/abs/10.1145/3503161.3547842) [[G-Scholar--]]()
 
-
+- `...` [Li et al., Proc. ICRA 2023] **Test-time domain adaptation for monocular depth estimation** [[PDF--]]() [[G-Scholar--]]()
 
 
 
