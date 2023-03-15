@@ -20,7 +20,7 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `FEDTHE+` [Jiang and Lin, Proc. ICLR 2023] **Test-time robust personalization for federated learning** [[PDF]](https://openreview.net/forum?id=3aBuJEza5sq) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8267318836942039958&hl=en) [[CODE]](https://github.com/lins-lab/fedthe)
 
-- `...` [Wu et al., Proc. CVPR 2023] **Learning to adapt to online streams with distribution shifts** [[PDF]](https://arxiv.org/abs/2303.01630) [[G-Scholar--]]()
+- `...` [Wu et al., Proc. CVPR 2023] **Learning to adapt to online streams with distribution shifts** [[PDF]](https://arxiv.org/abs/2303.01630) [[G-Scholar]](https://scholar.google.com.hk/scholar?cluster=7066739053418677013&hl=zh-CN&as_sdt=0,5)
 
 - `VDP` [Gan et al., Proc. AAAI 2023] **Decorate the newcomers: Visual domain prompt for continual test time adaptation** [[PDF]](https://arxiv.org/abs/2212.04145) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10934249662216784297&hl=en)
 
@@ -35,7 +35,7 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `FTEA` [Zhang et al., Arxiv 2022] **Unseen object instance segmentation with fully test-time RGB-D embeddings adaptation** [[PDF]](https://arxiv.org/abs/2204.09847) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5715333917067730978&hl=en)
 
-- `TransAdapt` [Das et al., Proc. ICASSP 2023] **TransAdapt: A transformative framework for online test time adaptive semantic segmentation** [[PDF]](https://arxiv.org/abs/2302.14611) [[G-Scholar--]]()
+- `TransAdapt` [Das et al., Proc. ICASSP 2023] **TransAdapt: A transformative framework for online test time adaptive semantic segmentation** [[PDF]](https://arxiv.org/abs/2302.14611) [[G-Scholar]](https://scholar.google.com.hk/scholar?cluster=6945447611975756954&hl=zh-CN&as_sdt=0,5)
 
 ### Misc
 - `ViTTA` [Lin et al., Arxiv 2022] **Video test-time adaptation for action recognition** [[PDF]](https://arxiv.org/abs/2211.15393) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14921741895103050225&hl=en) [[CODE--]](https://github.com/wlin-at/ViTTA)
@@ -110,7 +110,7 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `PETAL` [Brahma and Rai, Proc. CVPR 2023] **A probabilistic framework for lifelong test-time adaptation** [[PDF]](https://arxiv.org/abs/2212.09713) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5384729474659868228&hl=en)
 
-- `NHL` [Tang et al., Proc. CVPR 2023] **Neuro-modulated hebbian learning for fully test-time adaptation** [[PDF]](https://arxiv.org/abs/2303.00914) [[G-Scholar--]]()
+- `NHL` [Tang et al., Proc. CVPR 2023] **Neuro-modulated hebbian learning for fully test-time adaptation** [[PDF]](https://arxiv.org/abs/2303.00914) [[G-Scholar]]([Tang: Neuro-Modulated Hebbian Learning for Fully... - Google 学术搜索](https://scholar.google.com.hk/scholar?cluster=14688570943620704197&hl=zh-CN&as_sdt=0,5))
 
 - `EcoTTA` [Song et al., Proc. CVPR 2023] **EcoTTA: Memory-efficient continual test-time adaptation via self-distilled regularization** [[PDF]](https://arxiv.org/abs/2303.01904) [[G-Scholar]](https://scholar.google.com/scholar?cluster=416059884805222450&hl=en)
 
@@ -144,7 +144,7 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 ### Video
 - `...` [Peirone, Thesis 2022] **EGO-T3: Test time training for egocentric videos** [[PDF]](https://webthesis.biblio.polito.it/24483/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13288380011178253675&hl=en)
 
-- `TeCo` [Yi et al., Proc. ICLR 2023] **Temporal coherent test-time optimization for robust video classification** [[PDF]](https://openreview.net/forum?id=-t4D61w4zvQ) [[G-Scholar--]]()
+- `TeCo` [Yi et al., Proc. ICLR 2023] **Temporal coherent test-time optimization for robust video classification** [[PDF]](https://openreview.net/forum?id=-t4D61w4zvQ) [[G-Scholar]]([Yi: Temporal Coherent Test-Time Optimization for... - Google 学术搜索](https://scholar.google.com.hk/scholar?cluster=712239658202817336&hl=zh-CN&as_sdt=0,5))
 
 ### Graph
 - `GAPGC` [Chen et al., Proc. ICML Workshops 2022] **GraphTTA: Test time adaptation on graph neural networks** [[PDF]](https://arxiv.org/abs/2208.09126) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3397674391742244376&hl=en)

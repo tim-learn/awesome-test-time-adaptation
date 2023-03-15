@@ -360,7 +360,7 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `CPSS` [Zhao et al., IEEE TCSVT 2022] **Source-free open compound domain adaptation in semantic segmentation** [[PDF]](http://yuyangzhao.com/files/sfocda-tcsvt.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3170260958747192184&hl=en) [[CODE]](https://github.com/HeliosZhao/SFOCDA)
 
-- `RuST` [Luo et al., IEEE RAL 2022] **Multi-level consistency learning for source-free model adaptation** [[PDF]](https://ieeexplore.ieee.org/document/9928327/) [[G-Scholar--]]()
+- `RuST` [Luo et al., IEEE RAL 2022] **Multi-level consistency learning for source-free model adaptation** [[PDF]](https://ieeexplore.ieee.org/document/9928327/) [[G-Scholar]](https://scholar.google.com.hk/scholar?cluster=5126397401023348966&hl=en&as_sdt=2005&sciodt=0,5)
 
 - `STvM` [Akkaya et al., Arxiv 2022] **Self-training via metric learning for source-free domain adaptation of semantic segmentation** [[PDF]](https://arxiv.org/abs/2212.04227) [[G-Scholar--]]()
 
@@ -435,7 +435,7 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 ### 2022
 - `MetaTeacher` [Wang et al., Proc. NeurIPS 2022] **Metateacher: Coordinating multi-model domain adaptation for medical image classification** [[PDF]](https://openreview.net/forum?id=AQd4ugzALQ1) [[G-Scholar]](https://scholar.google.com/scholar?cluster=850871157744507452&hl=en) [[CODE]](https://github.com/wongzbb/metateacher)
 
-- `SI-SFDA` [Ye et al., Proc. ACMMM 2022] **Alleviating style sensitivity then adapting: Source-free domain adaptation for medical image segmentation** [[PDF]](https://dl.acm.org/doi/abs/10.1145/3503161.3548426) [[G-Scholar--]]()
+- `SI-SFDA` [Ye et al., Proc. ACMMM 2022] **Alleviating style sensitivity then adapting: Source-free domain adaptation for medical image segmentation** [[PDF]](https://dl.acm.org/doi/abs/10.1145/3503161.3548426) [[G-Scholar]](https://scholar.google.com.hk/scholar?cluster=9012096844528437040&hl=en&as_sdt=2005&sciodt=0,5)
 
 - - `SDG-CMT` [Zhu et al., Proc. BIBM 2022] **Domain adaptation for medical image classification without source data** [[PDF]](https://ieeexplore.ieee.org/document/9995395) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17378616917759340812&hl=en)
 
@@ -601,7 +601,7 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `ASFA` [Xia et al., IEEE TBE 2022] **Privacy-preserving domain adaptation for motor imagery-based brain-computer interfaces** [[PDF]](https://ieeexplore.ieee.org/abstract/document/9760113/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13402357178362327681&hl=en) [[CODE]](https://github.com/xkazm/ASFA)
 
-- `T-ISTGNN` [Qi et al., IEEE TITS 2022] **Privacy-preserving cross-area traffic forecasting in ITS: A transferable spatial-temporal graph neural network approach** [[PDF]](https://ieeexplore.ieee.org/abstract/document/9928430/) [[G-Scholar--]]()
+- `T-ISTGNN` [Qi et al., IEEE TITS 2022] **Privacy-preserving cross-area traffic forecasting in ITS: A transferable spatial-temporal graph neural network approach** [[PDF]](https://ieeexplore.ieee.org/abstract/document/9928430/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1841703851715000157&hl=en&as_sdt=2005&sciodt=0,5)
 
 - `DP-SFDA` [An et al., IEEE TITS 2022] **A privacy-preserving unsupervised domain adaptation framework for clinical text analysis** [[PDF]](https://arxiv.org/abs/2201.07317) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15348410852649744691&hl=en)
 
@@ -614,10 +614,10 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 - `MDAQA` [Yin et al., Arxiv 2022] **Source-free domain adaptation for question answering with masked self-training** [[PDF]](https://arxiv.org/abs/2212.09563) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6098149583071335403&hl=en)
 
 ### 2023
-- `HSSC-EMM` [Zhang et al., Mechanical Systems and Signal Processing 2023] **Universal source-free domain adaptation method for cross-domain fault diagnosis of machines** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0888327023000663) [[G-Scholar--]]()
+- `HSSC-EMM` [Zhang et al., Mechanical Systems and Signal Processing 2023] **Universal source-free domain adaptation method for cross-domain fault diagnosis of machines** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0888327023000663) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9778377080450704864&hl=en&as_sdt=0,5)
 
 - ~~[Boudiaf et al., Misc 2023] **NOTELA: A generalizable method for source free domain adaptation** [[PDF]](https://openreview.net/forum?id=aOBs18ycBr) [[G-Scholar--]]()~~
-- `NOTELA` [Boudiaf et al., Arxiv 2023] **In search for a generalizable method for source free domain adaptation** [[PDF]](https://arxiv.org/abs/2302.06658) [[G-Scholar--]]()
+- `NOTELA` [Boudiaf et al., Arxiv 2023] **In search for a generalizable method for source free domain adaptation** [[PDF]](https://arxiv.org/abs/2302.06658) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12424145282212014491&hl=en&as_sdt=0,5)
 
 ## Misc
 - [Yang et al., Proc. ACM-MM2007] **Cross-domain video concept detection using adaptive svms** [[PDF]](https://dl.acm.org/doi/abs/10.1145/1291233.1291276) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4589454669556425406&hl=en)
