@@ -104,7 +104,7 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `DI` [Nayak et al., IEEE TPAMI 2021] **Mining data impressions from deep models as substitute for the unavailable training data** [[PDF]](https://arxiv.org/abs/2101.06069) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3306528190507440062&hl=en)
 
-- `LA-VAE` [Yang et al., IEEE TIP 2021] **Model-induced generalization error bound for information-theoretic representation learning in source-data-free unsupervised domain adaptation** [[PDF] [[G-Scholar]](https://scholar.google.com/scholar?cluster=7383037725836827645&hl=en)]
+- `LA-VAE` [Yang et al., IEEE TIP 2021] **Model-induced generalization error bound for information-theoretic representation learning in source-data-free unsupervised domain adaptation** [[PDF]](https://ieeexplore.ieee.org/document/9640468) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7383037725836827645&hl=en)]
 
 - `OSHT-SC` [Feng et al., IEEE TIP 2021] **Open-set hypothesis transfer with semantic consistency** [[PDF]](https://ieeexplore.ieee.org/abstract/document/9474954/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11598574187674894813&hl=en)
 
