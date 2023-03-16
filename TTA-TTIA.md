@@ -99,6 +99,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `Adaptive-UNet` [Valanarasu et al., Arxiv 2022] **On-the-fly test-time adaptation for medical image segmentation** [[PDF]](https://arxiv.org/abs/2203.05574) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2402009671021470527&hl=en) [[CODE]](https://github.com/jeya-maria-jose/On-The-Fly-Adaptation)
 
+- `WOSA-AugSelf` [Huang et al., Arxiv 2023] **Test-time bi-directional adaptation between image and model for robust segmentation** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0169260723001438) [[G-Scholar--]]()
+
 ### Detection
 - `OSHOT` [D'Innocente et al., Proc. ECCV 2020] **One-shot unsupervised cross-domain detection** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-030-58517-4_43) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7600955351500947376&hl=en) [[CODE]](https://github.com/VeloDC/oshot_detection)
 
@@ -171,6 +173,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `DMP` [Hong and Kim, Proc. ICCV 2021] **Deep matching prior: Test-time optimization for dense correspondence** [[PDF]](https://openaccess.thecvf.com/content/ICCV2021/html/Hong_Deep_Matching_Prior_Test-Time_Optimization_for_Dense_Correspondence_ICCV_2021_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7012757512151073041&hl=en) [[CODE--]](https://github.com/SunghwanHong/Deep-Matching-Prior)
 
+- `...` [Min et al., Proc. WACV 2023] **Meta-learning for adaptation of deep optical flow networks** [[PDF]](https://openaccess.thecvf.com/content/WACV2023/html/Min_Meta-Learning_for_Adaptation_of_Deep_Optical_Flow_Networks_WACV_2023_paper.html) [[G-Scholar--]]()
+
 ### Generative modeling
 - `GIP` [Bau et al., ACM TOG 2019] **Semantic photo manipulation with a generative image prior** [[PDF]](https://arxiv.org/abs/2005.07727) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6750293979132878511&hl=en)
 
@@ -204,19 +208,23 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 ### Misc
 - `PAD` [Hansen et al., Proc. ICLR 2021] **Self-supervised policy adaptation during deployment** [[PDF]](https://openreview.net/forum?id=o_V-MjyyGV_) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10107448604973336784&hl=en) [[CODE]](https://github.com/nicklashansen/policy-adaptation-during-deployment)
 
-- `OST` [Chen et al., Proc. NeurIPS 2022] **OST: Improving generalization of DeepFake detection via one-shot test-time training** [[PDF]](https://openreview.net/forum?id=YPoRoad6gzY) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5928389911055380884&hl=en) [[CODE]](https://github.com/liangchen527/OST)
-
-- `VoP` [Kim et al., Proc. ICML 2022] **Variational on-the-fly personalization** [[PDF]](https://proceedings.mlr.press/v162/kim22e.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2963772835076607567&hl=en)
+- `RoMA` [Yu et al., Proc. NeurIPS 2021] **RoMA: Robust model adaptation for offline model-based optimization** [[PDF]](https://openreview.net/forum?id=VH0TRmnqUc) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1579009087385407860&hl=en) [[CODE]](https://github.com/sihyun-yu/RoMA)
 
 - `ZSDA-HTL` [Sakai, Proc. ECML-PKDD 2021] **Source hypothesis transfer for zero-shot domain adaptation** [[PDF]](https://2021.ecmlpkdd.org/wp-content/uploads/2021/07/sub_301.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17201510186080842888&hl=en)
 
-- `...` [Özer and Müller, Proc. ISMIR 2022] **Source separation of piano concertos with test-time adaptation** [[PDF]](https://www.audiolabs-erlangen.de/content/05-fau/professor/00-mueller/03-publications/2022_OezerM_PianoSepAdapt_ISMIR_ePrint.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10343177797016236066&hl=en)
-
-- `RoMA` [Yu et al., Proc. NeurIPS 2021] **RoMA: Robust model adaptation for offline model-based optimization** [[PDF]](https://openreview.net/forum?id=VH0TRmnqUc) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1579009087385407860&hl=en) [[CODE]](https://github.com/sihyun-yu/RoMA)
+- `VoP` [Kim et al., Proc. ICML 2022] **Variational on-the-fly personalization** [[PDF]](https://proceedings.mlr.press/v162/kim22e.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2963772835076607567&hl=en)
 
 - `TPT` [Shu et al., Proc. NeurIPS 2022] **Test-time prompt tuning for zero-shot generalization in vision-language models** [[PDF]](https://openreview.net/forum?id=e8PVEkSa4Fq) [[G-Scholar]](https://scholar.google.com/scholar?cluster=213109028691722316&hl=en) [[CODE]](https://github.com/azshue/TPT)
 
+- `OST` [Chen et al., Proc. NeurIPS 2022] **OST: Improving generalization of DeepFake detection via one-shot test-time training** [[PDF]](https://openreview.net/forum?id=YPoRoad6gzY) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5928389911055380884&hl=en) [[CODE]](https://github.com/liangchen527/OST)
+
+- `...` [Özer and Müller, Proc. ISMIR 2022] **Source separation of piano concertos with test-time adaptation** [[PDF]](https://www.audiolabs-erlangen.de/content/05-fau/professor/00-mueller/03-publications/2022_OezerM_PianoSepAdapt_ISMIR_ePrint.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10343177797016236066&hl=en)
+
+- `...` [Sang et al., International Journal of Radiation Oncology, Biology, Physics 2022] **Inference-time adaptation for improved transfer ability and generalization in deformable image registration deep learning** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0360301622016236) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10634714491331957313&hl=en)
+
 - `MATE` [Mirza et al., Arxiv 2022] **MATE: Masked autoencoders are online 3D test-time learners** [[PDF]](https://arxiv.org/abs/2211.11432) [[G-Scholar--]]()
+
+- `...` [Liu et al., Proc. WACV 2023] **Meta-auxiliary learning for future depth prediction in videos** [[PDF]](https://openaccess.thecvf.com/content/WACV2023/html/Min_Meta-Learning_for_Adaptation_of_Deep_Optical_Flow_Networks_WACV_2023_paper.html) [[G-Scholar--]]()
 
 - `...` [Wang et al., Misc 2023] **Test-time training on video streams** [[PDF]](https://openreview.net/forum?id=orbnZE-4UvD) [[G-Scholar--]]()
 
@@ -239,6 +247,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 - `TTTFlow` [Osowiechi et al., Proc. WACV 2023] **TTTFlow: Unsupervised test-time training with normalizing flow** [[PDF]](https://openaccess.thecvf.com/content/WACV2023/html/Osowiechi_TTTFlow_Unsupervised_Test-Time_Training_With_Normalizing_Flow_WACV_2023_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15158703704163101963&hl=en) [[CODE]](https://github.com/GustavoVargasHakim/TTTFlow)
 
 - `ShiftMatch` [Wang and Aitchison, Proc. ICLR 2023] **Robustness to corruption in pre-trained Bayesian neural networks** [[PDF]](https://openreview.net/forum?id=kUI41mY8bHl) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12854599053728566431&hl=en)
+
+- `CVP` [Tsai et al., Arxiv 2023] **Self-supervised convolutional visual prompts** [[PDF]](https://arxiv.org/abs/2303.00198) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10433190878679136798&hl=en)
 
 ### Video processing (multiple frames)
 - `PGO` [Brahmbhatt et al., Proc. CVPR 2018] **Geometry-aware learning of maps for camera localization** [[PDF]](http://openaccess.thecvf.com/content_cvpr_2018/html/Brahmbhatt_Geometry-Aware_Learning_of_CVPR_2018_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15361942550307476955&hl=en) [[CODE]](https://github.com/NVlabs/geomapnet)

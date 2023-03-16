@@ -124,6 +124,10 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `VPL` [Ambekar et al., Misc 2023] **Variational pseudo labels for meta test-time adaptation** [[PDF]](https://openreview.net/forum?id=iOag71mvHI) [[G-Scholar--]]()
 
+- `...` [Naik et al., Arxiv 2023] **Do machine learning models learn common sense?** [[PDF]](https://arxiv.org/abs/2303.01433) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11920731748225216277&hl=en)
+
+- `...` [Zhao et al., Proc. ICLR Workshops 2023] **On pitfalls of test-time adaptation** [[PDF]](https://arxiv.org/abs/2207.08210) [[G-Scholar--]]()
+
 ### OOD detection
 - `ETLT` [Fan et al., Arxiv 2022] **A simple test-time method for out-of-distribution detection** [[PDF]](https://arxiv.org/abs/2207.08210) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15935572095826047572&hl=en)
 
