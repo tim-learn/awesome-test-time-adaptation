@@ -20,7 +20,7 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `FEDTHE+` [Jiang and Lin, Proc. ICLR 2023] **Test-time robust personalization for federated learning** [[PDF]](https://openreview.net/forum?id=3aBuJEza5sq) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8267318836942039958&hl=en) [[CODE]](https://github.com/lins-lab/fedthe)
 
-- `...` [Wu et al., Proc. CVPR 2023] **Learning to adapt to online streams with distribution shifts** [[PDF]](https://arxiv.org/abs/2303.01630) [[G-Scholar]](https://scholar.google.com/scholar?cluster=70667390534186770138&hl=en)
+- `...` [Wu et al., Arxiv 2023] **Learning to adapt to online streams with distribution shifts** [[PDF]](https://arxiv.org/abs/2303.01630) [[G-Scholar]](https://scholar.google.com/scholar?cluster=70667390534186770138&hl=en)
 
 - `VDP` [Gan et al., Proc. AAAI 2023] **Decorate the newcomers: Visual domain prompt for continual test time adaptation** [[PDF]](https://arxiv.org/abs/2212.04145) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10934249662216784297&hl=en)
 
@@ -123,8 +123,6 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `ECL` [Han et al., Arxiv 2023] **Rethinking precision of pseudo label: Test-time adaptation via complementary learning** [[PDF]](https://arxiv.org/abs/2301.06013) [[G-Scholar--]]()
 
 - `VPL` [Ambekar et al., Misc 2023] **Variational pseudo labels for meta test-time adaptation** [[PDF]](https://openreview.net/forum?id=iOag71mvHI) [[G-Scholar--]]()
-
-- `...` [Naik et al., Arxiv 2023] **Do machine learning models learn common sense?** [[PDF]](https://arxiv.org/abs/2303.01433) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11920731748225216277&hl=en)
 
 - `...` [Zhao et al., Proc. ICLR Workshops 2023] **On pitfalls of test-time adaptation** [[PDF]](https://arxiv.org/abs/2207.08210) [[G-Scholar--]]()
 
