@@ -118,7 +118,7 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `...` [Yuan et al., Proc. CVPR 2023] **Robust test-time adaptation in dynamic scenarios** [[PDF--]]() [[G-Scholar--]]()
 
-- `TeSLA` [Tomar et al., Proc. CVPR 2023] **TeSLA: Test-time self-learning With automatic adversarial augmentation** [[PDF--]]() [[G-Scholar--]]()
+- `TeSLA` [Tomar et al., Proc. CVPR 2023] **TeSLA: Test-time self-learning With automatic adversarial augmentation** [[PDF]](https://arxiv.org/abs/2303.09870) [[G-Scholar--]]()
 
 - `ECL` [Han et al., Arxiv 2023] **Rethinking precision of pseudo label: Test-time adaptation via complementary learning** [[PDF]](https://arxiv.org/abs/2301.06013) [[G-Scholar--]]()
 

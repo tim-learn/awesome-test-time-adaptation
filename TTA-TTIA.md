@@ -182,6 +182,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `INR-st` [Kim et al., Arxiv 2022] **Controllable style transfer via test-time training of implicit neural representation** [[PDF]](https://arxiv.org/abs/2210.07762) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6128992105506775450&hl=en) [[CODE]](https://github.com/KU-CVLAB/INR-st)
 
+- `MODIFY` [Ding et al., Proc. ICASSP 2023] **MODIFY: Model-driven face stylization without style images** [[PDF]](https://arxiv.org/abs/2303.09831) [[G-Scholar--]]()
+
 ### Consistency
 - `SSL-MOCAP` [Tung et al., Proc. NeurIPS 2017] **Self-supervised learning of motion capture** [[PDF]](https://proceedings.neurips.cc/paper/7108-self-supervised-learning-of-motion-capture) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11316472994665815439&hl=en) [[CODE]](https://github.com/htung0101/3d_smpl)
 
