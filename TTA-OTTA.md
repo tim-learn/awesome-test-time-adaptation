@@ -37,6 +37,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `TransAdapt` [Das et al., Proc. ICASSP 2023] **TransAdapt: A transformative framework for online test time adaptive semantic segmentation** [[PDF]](https://arxiv.org/abs/2302.14611) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6945447611975756954&hl=en)
 
+- `SVDP` [Yang et al., Arxiv 2023] **Exploring sparse visual prompt for cross-domain semantic segmentation** [[PDF]](https://arxiv.org/abs/2303.09792) [[G-Scholar--]]()
+
 ### Misc
 - `ViTTA` [Lin et al., Arxiv 2022] **Video test-time adaptation for action recognition** [[PDF]](https://arxiv.org/abs/2211.15393) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14921741895103050225&hl=en) [[CODE--]](https://github.com/wlin-at/ViTTA)
 
@@ -160,6 +162,6 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `OAP` [Belli et al., Proc. ICIP 2022] **Online adaptive personalization for face anti-spoofing** [[PDF]](https://arxiv.org/abs/2207.12272) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16721384652546319953&hl=en)
 
-- `...` [Li et al., Proc. ICRA 2023] **Test-time domain adaptation for monocular depth estimation** [[PDF--]]() [[G-Scholar--]]()
+- `TTA-MDE` [Li et al., Proc. ICRA 2023] **Test-time domain adaptation for monocular depth estimation** [[PDF--]]() [[G-Scholar--]]()
 
 - `TTA-COPE` [Lee et al., Proc. CVPR 2023] **TTA-COPE: Test-time adaptation for category-level object pose estimation** [[PDF--]]() [[G-Scholar--]]()
