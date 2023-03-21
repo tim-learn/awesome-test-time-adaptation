@@ -313,7 +313,7 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `SepRep-Net` [Jin et al., Misc 2023] **SepRep-Net: Multi-source free domain adaptation via model separation and reparameterization** [[PDF]](https://openreview.net/forum?id=E67OghNSDMf) [[G-Scholar--]]()
 
-- `AdaptGuard` [Sheng et al., Misc 2023] **AdaptGuard: Defending against universal attacks for model adaptation** [[PDF--]]() [[G-Scholar--]]() 
+- `AdaptGuard` [Sheng et al., Misc 2023] **AdaptGuard: Defending against universal attacks for model adaptation** [[PDF]](https://arxiv.org/abs/2303.10594) [[G-Scholar--]]() 
 
 ## Semantic Segmentation
 ### 2021

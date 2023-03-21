@@ -271,6 +271,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `...` [Azimi et al., Proc. WACV 2022] **Self-supervised test-time adaptation on video data** [[PDF]](https://openaccess.thecvf.com/content/WACV2022/html/Azimi_Self-Supervised_Test-Time_Adaptation_on_Video_Data_WACV_2022_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11449570492704365767&hl=en)
 
+- `...` [Mutlu et al., Arxiv 2023] **TempT: Temporal consistency for test-time adaptation** [[PDF]](https://arxiv.org/abs/2303.10536) [[G-Scholar--]]()
+
 ### Misc
 - `TTP` [Li et al., Proc. NeurIPS 2021] **Test-time personalization with a transformer for human pose estimation** [[PDF]](https://openreview.net/forum?id=cwSkaedP-wz) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8881142280914530303&hl=en) [[CODE]](https://github.com/harry11162/TTP)
 
