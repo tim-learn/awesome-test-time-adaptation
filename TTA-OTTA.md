@@ -42,7 +42,7 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 ### Misc
 - `ViTTA` [Lin et al., Arxiv 2022] **Video test-time adaptation for action recognition** [[PDF]](https://arxiv.org/abs/2211.15393) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14921741895103050225&hl=en) [[CODE--]](https://github.com/wlin-at/ViTTA)
 
-- `AUTO` [Yang et al., Arxiv 2023] **AUTO: Adaptive outlier optimization for test-time OOD detection** [[PDF--]]() [[G-Scholar--]]()
+- `AUTO` [Yang et al., Arxiv 2023] **AUTO: Adaptive outlier optimization for test-time OOD detection** [[PDF]](https://arxiv.org/abs/2303.12267) [[G-Scholar--]]()
 
 - `BOA` [Guan et al., Proc. CVPR 2021] **Bilevel online adaptation for out-of-domain human mesh reconstruction** [[PDF]](https://openaccess.thecvf.com/content/CVPR2021/html/Guan_Bilevel_Online_Adaptation_for_Out-of-Domain_Human_Mesh_Reconstruction_CVPR_2021_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14857518758485826444&hl=en) [[CODE]](https://github.com/syguan96/BOA)
 
