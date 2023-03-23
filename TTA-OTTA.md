@@ -39,6 +39,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `SVDP` [Yang et al., Arxiv 2023] **Exploring sparse visual prompt for cross-domain semantic segmentation** [[PDF]](https://arxiv.org/abs/2303.09792) [[G-Scholar--]]()
 
+- `CoMAC` [Cao et al., Arxiv 2023] **Multi-modal continual test-time adaptation for 3D semantic segmentation** [[PDF]](https://arxiv.org/abs/2303.10457) [[G-Scholar--]]()
+
 ### Misc
 - `ViTTA` [Lin et al., Arxiv 2022] **Video test-time adaptation for action recognition** [[PDF]](https://arxiv.org/abs/2211.15393) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14921741895103050225&hl=en) [[CODE--]](https://github.com/wlin-at/ViTTA)
 
