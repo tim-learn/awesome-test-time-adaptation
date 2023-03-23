@@ -5,7 +5,7 @@ A curated list of awesome test-time (domain/batch/instance) adaptation resources
 ## Contents
 - [Test Time (Source-Free) Domain Adaptation (SFDA)](./TTA-SFDA.md)
 
-- [Test Time Batch Adaptation (TTBA)](./TTA-TTBA.md/#Batch-level))
+- [Test Time Batch Adaptation (TTBA)](./TTA-TTBA.md/#Batch-level)
 
 - [Test Time Instance Adaptation (TTIA)](./TTA-TTBA.md/#Instance-level)
 
