@@ -1,6 +1,6 @@
 # Awesome Test-Time Adaptation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome test-time (domain/batch/instance) adaptation resources. Your contributions are always welcome!
+A curated list of awesome test-time (**<u>domain/ batch/ instance/ online/ prior</u>**) adaptation resources. Your contributions are always welcome!
 
 ## Contents
 - [Test-Time (Source-Free) Domain Adaptation (SFDA)](./TTA-SFDA.md)
