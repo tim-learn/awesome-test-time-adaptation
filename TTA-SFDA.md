@@ -104,7 +104,7 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `DI` [Nayak et al., IEEE TPAMI 2021] **Mining data impressions from deep models as substitute for the unavailable training data** [[PDF]](https://arxiv.org/abs/2101.06069) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3306528190507440062&hl=en)
 
-- `LA-VAE` [Yang et al., IEEE TIP 2021] **Model-induced generalization error bound for information-theoretic representation learning in source-data-free unsupervised domain adaptation** [[PDF]](https://ieeexplore.ieee.org/document/9640468) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7383037725836827645&hl=en)]
+- `LA-VAE` [Yang et al., IEEE TIP 2021] **Model-induced generalization error bound for information-theoretic representation learning in source-data-free unsupervised domain adaptation** [[PDF]](https://ieeexplore.ieee.org/document/9640468) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7383037725836827645&hl=en)
 
 - `OSHT-SC` [Feng et al., IEEE TIP 2021] **Open-set hypothesis transfer with semantic consistency** [[PDF]](https://ieeexplore.ieee.org/abstract/document/9474954/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11598574187674894813&hl=en)
 
@@ -169,7 +169,7 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `StickerDA` [Kundu et al., Proc. ECCV 2022] **Concurrent subsidiary supervision for unsupervised source-free domain adaptation** [[PDF]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136900177.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16781913863489916282&hl=en) [[CODE]](https://github.com/val-iisc/StickerDA)
 
-- `D-MCD` [Chu et al., Proc. AAAI 2022] **Denoised maximum classifier discrepancy for source-free unsupervised domain adaptation** [[PDF]](https://www.aaai.org/AAAI22Papers/AAAI-758.ChuT.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5829988423711925015&hl=en) 
+- `D-MCD` [Chu et al., Proc. AAAI 2022] **Denoised maximum classifier discrepancy for source-free unsupervised domain adaptation** [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/19925) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5829988423711925015&hl=en) 
 
 - `ELPT` [Li et al., Proc. ACMMM 2022] **Source-free active domain adaptation via energy-based locality preserving transfer** [[PDF]](https://dl.acm.org/doi/abs/10.1145/3503161.3548152) [[G-Scholar--]]()
 
