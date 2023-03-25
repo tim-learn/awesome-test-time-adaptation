@@ -122,13 +122,13 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `...` [Yuan et al., Proc. CVPR 2023] **Robust test-time adaptation in dynamic scenarios** [[PDF--]]() [[G-Scholar--]]() [[CODE]](https://github.com/BIT-DA/RoTTA)
 
-- `TeSLA` [Tomar et al., Proc. CVPR 2023] **TeSLA: Test-time self-learning With automatic adversarial augmentation** [[PDF]](https://arxiv.org/abs/2303.09870) [[G-Scholar--]]()
+- `TeSLA` [Tomar et al., Proc. CVPR 2023] **TeSLA: Test-time self-learning with automatic adversarial augmentation** [[PDF]](https://arxiv.org/abs/2303.09870) [[G-Scholar--]]()
 
 - `MSLC-TSD` [Wang et al., Proc. CVPR 2023] **Feature alignment and uniformity for test-time adaptation** [[PDF]](https://arxiv.org/abs/2303.10902) [[G-Scholar--]]()
 
 - `ECL` [Han et al., Arxiv 2023] **Rethinking precision of pseudo label: Test-time adaptation via complementary learning** [[PDF]](https://arxiv.org/abs/2301.06013) [[G-Scholar--]]()
 
-- `TTAC++` [Su et al., Arxiv 2023] **Revisiting realistic rest-rime training: Sequential inference and adaptation by anchored clustering regularized self-training** [[PDF]](https://arxiv.org/abs/2303.10856) [[G-Scholar--]]()
+- `TTAC++` [Su et al., Arxiv 2023] **Revisiting realistic test-time training: Sequential inference and adaptation by anchored clustering regularized self-training** [[PDF]](https://arxiv.org/abs/2303.10856) [[G-Scholar--]]()
 
 - `VPL` [Ambekar et al., Misc 2023] **Variational pseudo labels for meta test-time adaptation** [[PDF]](https://openreview.net/forum?id=iOag71mvHI) [[G-Scholar--]]()
 
