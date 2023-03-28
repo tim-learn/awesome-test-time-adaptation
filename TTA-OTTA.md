@@ -44,7 +44,7 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 ### Misc
 - `ViTTA` [Lin et al., Arxiv 2022] **Video test-time adaptation for action recognition** [[PDF]](https://arxiv.org/abs/2211.15393) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14921741895103050225&hl=en) [[CODE--]](https://github.com/wlin-at/ViTTA)
 
-- `AUTO` [Yang et al., Arxiv 2023] **AUTO: Adaptive outlier optimization for test-time OOD detection** [[PDF]](https://arxiv.org/abs/2303.12267) [[G-Scholar--]]()
+- `AUTO` [Yang et al., Arxiv 2023] **AUTO: Adaptive outlier optimization for online test-time OOD detection** [[PDF]](https://arxiv.org/abs/2303.12267) [[G-Scholar--]]()
 
 - `BOA` [Guan et al., Proc. CVPR 2021] **Bilevel online adaptation for out-of-domain human mesh reconstruction** [[PDF]](https://openaccess.thecvf.com/content/CVPR2021/html/Guan_Bilevel_Online_Adaptation_for_Out-of-Domain_Human_Mesh_Reconstruction_CVPR_2021_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14857518758485826444&hl=en) [[CODE]](https://github.com/syguan96/BOA)
 
@@ -108,7 +108,7 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `...` [Wang and Wibisono, Proc. ICLR 2023] **Towards understanding GD with hard and conjugate pseudo-labels for test-time adaptation** [[PDF]](https://openreview.net/forum?id=FJXf1FXN8C) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1406109997056067681&hl=en)
 
-- `MECTA` [Hong et al., Proc. ICLR 2023] **MECTA: Memory-economic continual test-time model adaptation** [[PDF]](https://openreview.net/forum?id=N92hjSf5NNh) [[G-Scholar--]]()
+- `MECTA` [Hong et al., Proc. ICLR 2023] **MECTA: Memory-economic continual test-time model adaptation** [[PDF]](https://openreview.net/forum?id=N92hjSf5NNh) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4283353743074610447&hl=en)
 
 - `DELTA` [Zhao et al., Proc. ICLR 2023] **DELTA: Degradation-free fully test-time adaptation** [[PDF]](https://openreview.net/forum?id=eGm22rqG93) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11590549510022229335&hl=en)
 
@@ -120,7 +120,7 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `TIPI` [Nguyen et al., Proc. CVPR 2023] **TIPI: Test time adaptation with transformation invariance** [[PDF--]]() [[G-Scholar--]]()
 
-- `...` [Yuan et al., Proc. CVPR 2023] **Robust test-time adaptation in dynamic scenarios** [[PDF--]]() [[G-Scholar--]]() [[CODE]](https://github.com/BIT-DA/RoTTA)
+- `RoTTA` [Yuan et al., Proc. CVPR 2023] **Robust test-time adaptation in dynamic scenarios** [[PDF]](https://arxiv.org/abs/2303.13899) [[G-Scholar--]]() [[CODE]](https://github.com/BIT-DA/RoTTA)
 
 - `TeSLA` [Tomar et al., Proc. CVPR 2023] **TeSLA: Test-time self-learning with automatic adversarial augmentation** [[PDF]](https://arxiv.org/abs/2303.09870) [[G-Scholar--]]()
 
