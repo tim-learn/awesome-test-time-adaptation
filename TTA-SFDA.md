@@ -632,6 +632,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 - ~~[Boudiaf et al., Misc 2023] **NOTELA: A generalizable method for source free domain adaptation** [[PDF]](https://openreview.net/forum?id=aOBs18ycBr)~~
 - `NOTELA` [Boudiaf et al., Arxiv 2023] **In search for a generalizable method for source free domain adaptation** [[PDF]](https://arxiv.org/abs/2302.06658) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12424145282212014491&hl=en)
 
+- `AMFDA` [Salimnia., Master Thesis 2023] **Attention-based multi-source-free domain adaptation for EEG  emotion recognition** [[PDF]](https://ir.lib.uwo.ca/etd/9154/) [[G-Scholar--]]()
+
 ## Misc
 - [Yang et al., Proc. ACM-MM2007] **Cross-domain video concept detection using adaptive svms** [[PDF]](https://dl.acm.org/doi/abs/10.1145/1291233.1291276) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4589454669556425406&hl=en)
 - [Aytal and Zisserman, Proc. ICCV 2011] **Tabula rasa: Model transfer for object category detection** [[PDF]](https://ieeexplore.ieee.org/document/6126504/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13106480027062040527&hl=en)
