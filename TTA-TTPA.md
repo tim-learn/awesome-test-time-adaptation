@@ -32,7 +32,7 @@ A curated list of awesome test-time prior adaptation resources. Your contributio
 
 - `...` [Sulc et al., Proc. WACV 2020] **Fungi recognition: A practical use case** [[PDF]](https://openaccess.thecvf.com/content_WACV_2020/html/Sulc_Fungi_Recognition_A_Practical_Use_Case_WACV_2020_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3832232065045538195&hl=en) [[CODE]](https://github.com/sulc/fungi-recognition)
 
-- `...` [Šipka, Thesis 2021] **Adaptation of CNN classifiers to prior shift** [[PDF]](https://www.academia.edu/download/79399428/F3-DP-2021-Sipka-Tomas-Diploma_thesis.pdf) [[G-Scholar--]]()
+- `...` [Šipka, Thesis 2021] **Adaptation of CNN classifiers to prior shift** [[PDF]](https://www.academia.edu/download/79399428/F3-DP-2021-Sipka-Tomas-Diploma_thesis.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17951281919983908413&hl=en)
 
 - `OGD` [Wu et al., Proc. NeurIPS 2021] **Online adaptation to label distribution shift** [[PDF]](https://proceedings.neurips.cc/paper/2021/hash/5e6bd7a6970cd4325e587f02667f7f73-Abstract.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1753588004233914674&hl=en) [[CODE]](https://github.com/wrh14/online_adaption_to_label_distribution_shift)
 
