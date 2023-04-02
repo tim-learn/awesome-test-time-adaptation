@@ -583,6 +583,9 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 ### Anomaly detection
 - `CaSA` [Bozorgtabar et al., Proc. BMVC 2022] **Anomaly detection and localization using attention-guided synthetic anomaly and test-time adaptation** [[PDF]](https://bmvc2022.mpi-inf.mpg.de/0472.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=209397539357448856&hl=en)
 
+### Retrieval
+- `T3AR` [Zancato et al., Arxiv 2023] **Train/test-time adaptation with retrieval** [[PDF]](https://arxiv.org/abs/2303.14333) [[G-Scholar--]]()
+
 ## Beyond CV Applications
 ### 2020
 - `...` [Laparra et al., JAMIA open 2020] **Rethinking domain adaptation for machine learning over clinical language** [[PDF]](https://academic.oup.com/jamiaopen/article/3/2/146/5831556) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15011224356081547243&hl=en)
