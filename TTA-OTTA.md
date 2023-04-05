@@ -112,7 +112,7 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `DELTA` [Zhao et al., Proc. ICLR 2023] **DELTA: Degradation-free fully test-time adaptation** [[PDF]](https://openreview.net/forum?id=eGm22rqG93) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11590549510022229335&hl=en)
 
-- `PETAL` [Brahma and Rai, Proc. CVPR 2023] **A probabilistic framework for lifelong test-time adaptation** [[PDF]](https://arxiv.org/abs/2212.09713) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5384729474659868228&hl=en)
+- `PETAL` [Brahma and Rai, Proc. CVPR 2023] **A probabilistic framework for lifelong test-time adaptation** [[PDF]](https://arxiv.org/abs/2212.09713) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5384729474659868228&hl=en) [[CODE]](https://github.com/dhanajitb/petal)
 
 - `NHL` [Tang et al., Proc. CVPR 2023] **Neuro-modulated hebbian learning for fully test-time adaptation** [[PDF]](https://arxiv.org/abs/2303.00914) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14688570943620704197&hl=en)
 

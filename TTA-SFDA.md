@@ -313,6 +313,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `CoDAG` [Cho et al., Arxiv 2023] **Complementary domain adaptation and generalization for unsupervised continual domain shift learning** [[PDF]](https://arxiv.org/abs/2303.15833) [[G-Scholar--]]() 
 
+- `...` [Lee et al., Arxiv 2023] **Few-shot fine-tuning is all you need for source-free domain adaptation** [[PDF]](https://arxiv.org/abs/2304.00792) [[G-Scholar--]]() 
+
 - `E2` [Shen et al., Misc 2023]  **E2: Entropy discrimination and energy optimization for source-free universal domain adaptation** [[PDF]](https://openreview.net/forum?id=FMEXgK9-I8) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2517695593354531262&hl=en)
 
 - `SepRep-Net` [Jin et al., Misc 2023] **SepRep-Net: Multi-source free domain adaptation via model separation and reparameterization** [[PDF]](https://openreview.net/forum?id=E67OghNSDMf) [[G-Scholar--]]()
@@ -497,6 +499,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 - `RAF` [Yuan et al., The Visual Computer 2023] **Data privacy protection domain adaptation by roughing and finishing stage** [[PDF]](https://www.sciencedirect.com/science/article/pii/S1000936123000493) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8761702195802826554&hl=en)
 
 - `SFHarmony` [Dinsdale et al., Arxiv 2023] **SFHarmony: Source free domain adaptation for distributed neuroimaging analysis** [[PDF]](https://arxiv.org/abs/2303.15965) [[G-Scholar--]]() [[CODE]](https://github.com/nkdinsdale/SFHarmony)
+
+- `SUP` [Xu et al., Arxiv 2023] **Unsupervised cross-domain pulmonary nodule detecton without source datas** [[PDF]](https://arxiv.org/abs/2304.01085) [[G-Scholar--]]()
 
 ## Video Classification
 ### 2022
