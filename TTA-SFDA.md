@@ -317,6 +317,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `...` [Lee et al., Arxiv 2023] **Few-shot fine-tuning is all you need for source-free domain adaptation** [[PDF]](https://arxiv.org/abs/2304.00792) [[G-Scholar--]]() 
 
+- `...` [Rafiee et al., Arxiv 2023] **Source-free domain adaptation requires penalized diversity** [[PDF]](https://arxiv.org/abs/2304.02798) [[G-Scholar--]]() 
+
 - `E2` [Shen et al., Misc 2023]  **E2: Entropy discrimination and energy optimization for source-free universal domain adaptation** [[PDF]](https://openreview.net/forum?id=FMEXgK9-I8) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2517695593354531262&hl=en)
 
 - `SepRep-Net` [Jin et al., Misc 2023] **SepRep-Net: Multi-source free domain adaptation via model separation and reparameterization** [[PDF]](https://openreview.net/forum?id=E67OghNSDMf) [[G-Scholar--]]()
