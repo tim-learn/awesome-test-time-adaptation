@@ -100,8 +100,6 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `CAFe` [Adachi et al., Arxiv 2022] **Covariance-aware feature alignment with pre-computed source statistics for test-time adaptation** [[PDF]](https://arxiv.org/abs/2204.13263) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9027936211625033629&hl=en)
 
-- `RMT` [Döbler et al., Arxiv 2022] **Robust mean teacher for continual and gradual test-time adaptation** [[PDF]](https://arxiv.org/abs/2211.13081) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5205082821636588766&hl=en) [[CODE]](https://github.com/mariodoebler/test-time-adaptation)
-
 - `AdaODM` [Zhang and Chen, Arxiv 2022] **Adaptive domain generalization via online disagreement minimization** [[PDF]](https://arxiv.org/abs/2208.01996) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13579356745223060725&hl=en)
 
 - `TAST` [Jang and Chung, Proc. ICLR 2023] **Test-time adaptation via self-training with nearest neighbor information** [[PDF]](https://arxiv.org/abs/2207.10792) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13183441377692558295&hl=en)
@@ -111,6 +109,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `MECTA` [Hong et al., Proc. ICLR 2023] **MECTA: Memory-economic continual test-time model adaptation** [[PDF]](https://openreview.net/forum?id=N92hjSf5NNh) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4283353743074610447&hl=en)
 
 - `DELTA` [Zhao et al., Proc. ICLR 2023] **DELTA: Degradation-free fully test-time adaptation** [[PDF]](https://openreview.net/forum?id=eGm22rqG93) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11590549510022229335&hl=en)
+
+- `RMT` [Döbler et al., Proc. CVPR 2023] **Robust mean teacher for continual and gradual test-time adaptation** [[PDF]](https://arxiv.org/abs/2211.13081) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5205082821636588766&hl=en) [[CODE]](https://github.com/mariodoebler/test-time-adaptation)
 
 - `PETAL` [Brahma and Rai, Proc. CVPR 2023] **A probabilistic framework for lifelong test-time adaptation** [[PDF]](https://arxiv.org/abs/2212.09713) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5384729474659868228&hl=en) [[CODE]](https://github.com/dhanajitb/petal)
 

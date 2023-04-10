@@ -238,7 +238,10 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `...` [Liu et al., Proc. WACV 2023] **Meta-auxiliary learning for future depth prediction in videos** [[PDF]](https://openaccess.thecvf.com/content/WACV2023/html/Min_Meta-Learning_for_Adaptation_of_Deep_Optical_Flow_Networks_WACV_2023_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9083144572156364990&hl=en)
 
-- `ARSP` [Liu and Fang, Arxiv 2023] **Learning adaptable risk-sensitive policies to coordinate in multi-agent general-sum games** [[PDF]](https://arxiv.org/abs/2303.07850) [[G-Scholar]](https://scholar.google.com/scholar?cluster=146325397292652498&hl=en)
+- `SRR-MAML` [Huo et al., Arxiv 2023] **Learning adaptable risk-sensitive policies to coordinate in multi-agent general-sum games** [[PDF]](https://arxiv.org/abs/2304.02162) [[G-Scholar--]]()
+
+- `ARSP` [Liu and Fang, Arxiv 2023] **Learning to recover spectral reflectance from
+RGB images** [[PDF]](https://arxiv.org/abs/2303.07850) [[G-Scholar]](https://scholar.google.com/scholar?cluster=146325397292652498&hl=en)
 
 - `...` [Wang et al., Misc 2023] **Test-time training on video streams** [[PDF]](https://openreview.net/forum?id=orbnZE-4UvD) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6098567519147081981&hl=en)
 
