@@ -178,3 +178,7 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `TTA-COPE` [Lee et al., Proc. CVPR 2023] **TTA-COPE: Test-time adaptation for category-level object pose estimation** [[PDF]](https://arxiv.org/abs/2303.16730) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6190442163634665983&hl=en)
 
 - `MSA` [Lin et al., Proc. CVPR 2023] **System-status-aware adaptive network for online streaming video understanding** [[PDF]](https://arxiv.org/abs/2303.15742) [[G-Scholar--]]()
+
+
+## Related
+- `GTTA-ST` [Marsden et al., Arxiv 2022] **Introducing intermediate domains for effective self-training during test-time** [[PDF]](https://arxiv.org/abs/2208.07736) [[G-Scholar--]]()
