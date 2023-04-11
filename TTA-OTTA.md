@@ -78,8 +78,6 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `DUA` [Mirza et al., Proc. CVPR 2022] **The norm must go on: Dynamic unsupervised domain adaptation by normalization** [[PDF]](https://openaccess.thecvf.com/content/CVPR2022/html/Mirza_The_Norm_Must_Go_On_Dynamic_Unsupervised_Domain_Adaptation_by_CVPR_2022_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5716711288485693280&hl=en) [[CODE]](https://github.com/jmiemirza/DUA)
 
-- `LAME` [Boudiaf et al., Proc. CVPR 2022] **Parameter-free online test-time adaptation** [[PDF]](http://openaccess.thecvf.com/content/CVPR2022/html/Boudiaf_Parameter-Free_Online_Test-Time_Adaptation_CVPR_2022_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2855726690492926827&hl=en) [[CODE]](https://github.com/fiveai/LAME)
-
 - `SWR-NSP` [Choi et al., Proc. ECCV 2022] **Improving test-time adaptation via shift-agnostic weight regularization and nearest source prototypes** [[PDF]](https://arxiv.org/abs/2207.11707) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5520467512501872255&hl=en)
 
 - `CFA` [Kojima et al., Proc. IJCAI 2022] **Robustifying vision transformer without retraining from scratch by test-time class-conditional feature alignment** [[PDF]](https://arxiv.org/abs/2206.13951) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12809066946766084572&hl=en) [[CODE]](https://github.com/kojima-takeshi188/CFA)

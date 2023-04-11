@@ -257,6 +257,8 @@ RGB images** [[PDF]](https://arxiv.org/abs/2303.07850) [[G-Scholar]](https://sch
 
 - `Meta-DMoE` [Zhong et al., Proc. NeurIPS 2022] **Meta-DMoE: Adapting to domain shift by meta-distillation from mixture-of-experts** [[PDF]](https://openreview.net/forum?id=_ekGcr07Dsp) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18362067030660551332&hl=en) [[CODE]](https://github.com/n3il666/Meta-DMoE)
 
+- `LAME` [Boudiaf et al., Proc. CVPR 2022] **Parameter-free online test-time adaptation** [[PDF]](http://openaccess.thecvf.com/content/CVPR2022/html/Boudiaf_Parameter-Free_Online_Test-Time_Adaptation_CVPR_2022_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2855726690492926827&hl=en) [[CODE]](https://github.com/fiveai/LAME)
+
 - `TTAwPCA` [Cordier et al., Proc. ECML/PKDD Workshops 2022] **Test-time adaptation with principal component analysis** [[PDF]](https://arxiv.org/abs/2209.05779) [[G-Scholar]](https://scholar.google.com/scholar?cluster=684086728189075944&hl=en)
 
 - `L2GP` [Duboudin et al., Arxiv 2022] **Learning less generalizable patterns with an asymmetrically trained double classifier for better test-time adaptation** [[PDF]](https://arxiv.org/abs/2210.09834) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1844003267836965379&hl=en)
