@@ -20,6 +20,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `FEDTHE+` [Jiang and Lin, Proc. ICLR 2023] **Test-time robust personalization for federated learning** [[PDF]](https://openreview.net/forum?id=3aBuJEza5sq) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8267318836942039958&hl=en) [[CODE]](https://github.com/lins-lab/fedthe)
 
+- `ITTA` [Chen et al., Proc. CVPR 2023] **Improved test-time adaptation for domain generalization** [[PDF]](https://arxiv.org/abs/2304.04494) [[G-Scholar]](https://scholar.google.com/scholar?cluster=792593438764030374&hl=en)
+
 - `VDP` [Gan et al., Proc. AAAI 2023] **Decorate the newcomers: Visual domain prompt for continual test time adaptation** [[PDF]](https://arxiv.org/abs/2212.04145) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10934249662216784297&hl=en)
 
 - `...` [Wu et al., Arxiv 2023] **Learning to adapt to online streams with distribution shifts** [[PDF]](https://arxiv.org/abs/2303.01630) [[G-Scholar]](https://scholar.google.com/scholar?cluster=70667390534186770138&hl=en)
@@ -127,6 +129,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `ECL` [Han et al., Arxiv 2023] **Rethinking precision of pseudo label: Test-time adaptation via complementary learning** [[PDF]](https://arxiv.org/abs/2301.06013) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3929794078133562489&hl=en)
 
 - `TTAC++` [Su et al., Arxiv 2023] **Revisiting realistic test-time training: Sequential inference and adaptation by anchored clustering regularized self-training** [[PDF]](https://arxiv.org/abs/2303.10856) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13164314529398251378&hl=en)
+
+- `...` [ Alfarra et al., Arxiv 2023] **Revisiting test time adaptation under online evaluation** [[PDF]](https://arxiv.org/abs/2304.04795) [[G-Scholar--]]() [[CODE]](https://github.com/MotasemAlfarra/Online_Test_Time_Adaptation)
 
 - `VPL` [Ambekar et al., Misc 2023] **Variational pseudo labels for meta test-time adaptation** [[PDF]](https://openreview.net/forum?id=iOag71mvHI) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2267598876397998774&hl=en)
 

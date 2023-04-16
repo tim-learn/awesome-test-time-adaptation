@@ -387,6 +387,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `CMA` [Bruggemann et al., Arxiv 2023] **Contrastive model adaptation for cross-condition robustness in semantic segmentation** [[PDF]](https://arxiv.org/abs/2303.05194) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11262078686777334014&hl=en) [[CODE]](https://github.com/brdav/cma)
 
+- `CoSDA` [ Feng et al., Arxiv 2023] **CoSDA: Continual source-free domain adaptation** [[PDF]](https://arxiv.org/abs/2304.06627) [[G-Scholar--]]() [[CODE]](https://github.com/FengHZ/CoSDA)
+
 ## Object Detection
 ### before 2020
 - `DA-Re2` [Jamal et al., Proc. CVPR 2018] **Deep face detector adaptation without negative transfer or catastrophic forgetting** [[PDF]](https://openaccess.thecvf.com/content_cvpr_2018/html/Jamal_Deep_Face_Detector_CVPR_2018_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16142889079977911016&hl=en)
