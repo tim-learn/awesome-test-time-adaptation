@@ -59,6 +59,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
   ~~[Gao et al., Proc. Workshops 2023] **Back to the source: Diffusion-driven test-time adaptation** [[PDF]](https://arxiv.org/abs/2207.03442) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8145404192355562400&hl=en) [[CODE]](https://github.com/shiyegao/DDA)~~
 - `DDA` [Gao et al., Proc. CVPR 2023] **Back to the source: Diffusion-driven adaptation to test-time corruption** [[PDF]](https://arxiv.org/abs/2207.03442) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8145404192355562400&hl=en) [[CODE]](https://github.com/shiyegao/DDA)
 
+- `...` [Taesiri et al., Arxiv 2023] **Zoom is what you need: An empirical study of the power of zoom and spatial biases in image classification** [[PDF]](https://arxiv.org/abs/2304.05538) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15555449545168821035&hl=en)
+
 - `DRM` [Zhang et al., Misc 2023] **Domain-specific risk minimization for out-of-distribution generalization** [[PDF]](https://openreview.net/forum?id=vCVTZYFcmCm) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15694323213451390034&hl=en)
 
 ### Segmentation
@@ -121,13 +123,13 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `DRAM` [Tsai et al., Arxiv 2023] **Test-time defense against adversarial attacks: Detection and reconstruction of adversarial examples via masked autoencoder** [[PDF]](https://arxiv.org/abs/2303.12848) [[G-Scholar--]]() 
 
-- `TETRA` [Blau et al., Arxiv 2023] **Classifier robustness enhancement Via test-time transformation** [[PDF]](https://arxiv.org/abs/2303.15409) [[G-Scholar--]]()
+- `TETRA` [Blau et al., Arxiv 2023] **Classifier robustness enhancement Via test-time transformation** [[PDF]](https://arxiv.org/abs/2303.15409) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10076827701044004595&hl=en)
 
 - `MAT` [Huang et al., Misc 2023] **Test-time adaptation for better adversarial robustness** [[PDF]](https://openreview.net/forum?id=rUxKM6u8WER) [[G-Scholar--]]()
 
-- `ZIP` [Shi et al., Arxiv 2023] **Black-box backdoor defense via zero-shot image purification** [[PDF]](https://arxiv.org/abs/2303.12175) [[G-Scholar--]]()
+- `ZIP` [Shi et al., Arxiv 2023] **Black-box backdoor defense via zero-shot image purification** [[PDF]](https://arxiv.org/abs/2303.12175) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10966958864337456240&hl=en)
 
-- `BDMAE` [Sun et al., Arxiv 2023] **Mask and restore: Blind backdoor defense at test time with masked autoencoder** [[PDF]](https://arxiv.org/abs/2303.15564) [[G-Scholar--]]()
+- `BDMAE` [Sun et al., Arxiv 2023] **Mask and restore: Blind backdoor defense at test time with masked autoencoder** [[PDF]](https://arxiv.org/abs/2303.15564) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12419213242412958636&hl=en)
 
 - `Mask-Defense` [McDermott et al., Proc. ICLR Workshops 2023] **Robustifying language models with test-time adaptation** [[PDF]](https://openreview.net/forum?id=MOe6swbU2Ab) [[G-Scholar--]]()
 
@@ -238,7 +240,7 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `...` [Liu et al., Proc. WACV 2023] **Meta-auxiliary learning for future depth prediction in videos** [[PDF]](https://openaccess.thecvf.com/content/WACV2023/html/Min_Meta-Learning_for_Adaptation_of_Deep_Optical_Flow_Networks_WACV_2023_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9083144572156364990&hl=en)
 
-- `SRR-MAML` [Huo et al., Arxiv 2023] **Learning adaptable risk-sensitive policies to coordinate in multi-agent general-sum games** [[PDF]](https://arxiv.org/abs/2304.02162) [[G-Scholar--]]()
+- `SRR-MAML` [Huo et al., Arxiv 2023] **Learning adaptable risk-sensitive policies to coordinate in multi-agent general-sum games** [[PDF]](https://arxiv.org/abs/2304.02162) [[G-Scholar]](https://scholar.google.com/scholar?cluster=146325397292652498&hl=en)
 
 - `ARSP` [Liu and Fang, Arxiv 2023] **Learning to recover spectral reflectance from
 RGB images** [[PDF]](https://arxiv.org/abs/2303.07850) [[G-Scholar]](https://scholar.google.com/scholar?cluster=146325397292652498&hl=en)
@@ -296,6 +298,8 @@ RGB images** [[PDF]](https://arxiv.org/abs/2303.07850) [[G-Scholar]](https://sch
 - `TTAS` [Bateson et al., Proc. MICCAI 2022] **Test-time adaptation with shape moments for image segmentation** [[PDF]](https://arxiv.org/abs/2205.07983) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18007426859983116683&hl=en) [[CODE]](https://github.com/mathilde-b/TTA)
 
 - `SUTA` [Lin et al., Proc. Interspeech 2022] **Listen, adapt, better WER: Source-free single-utterance test-time adaptation for automatic speech recognition** [[PDF]](https://arxiv.org/abs/2203.14222) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7797707155623619852&hl=en) [[CODE]](https://github.com/DanielLin94144/Test-time-adaptation-ASR-SUTA)
+
+- `...` [Cui et al., Proc. AAAI2023] **Meta-auxiliary learning for adaptive human pose prediction** [[PDF]](https://arxiv.org/abs/2304.06411) [[G-Scholar--]]()
 
 - `MyStyle` [Nitzan et al., ACM TOG 2022] **MyStyle: A personalized generative prior** [[PDF]](https://arxiv.org/abs/2203.17272) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5043776863260191811&hl=en) [[CODE]](https://github.com/google/mystyle)
 
