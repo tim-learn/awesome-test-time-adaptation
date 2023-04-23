@@ -292,6 +292,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `FCDA` [Lee and Lee, Proc. SPIE International Workshop on Advanced Imaging Technology 2023] **A source-free unsupervised domain adaptation method based on feature consistency** [[PDF]](https://www.spiedigitallibrary.org/proceedings/Download?urlId=10.1117%2F12.2666906) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4306888360461661923&hl=en)
 
+- `PaCDA` [Prasanna B et al., Proc. CVPR Workshops 2023] **Continual domain adaptation through pruning-aided domain-specific weight modulation** [[PDF]](https://arxiv.org/abs/2304.07560) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4639321340065295039&hl=en) [[CODE]](https://github.com/PrasannaB29/PACDA)
+
   ---------------------------------
 
 - ~~[Xu et al., Proc. IGARSS 2022] **Universal domain adaptation without source data for remote sensing image scene classification** [[PDF]](https://ieeexplore.ieee.org/abstract/document/9884889/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15682142231027232982&hl=en)~~
@@ -514,6 +516,10 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 - `SFHarmony` [Dinsdale et al., Arxiv 2023] **SFHarmony: Source free domain adaptation for distributed neuroimaging analysis** [[PDF]](https://arxiv.org/abs/2303.15965) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10161228220420913117&hl=en) [[CODE]](https://github.com/nkdinsdale/SFHarmony)
 
 - `SUP` [Xu et al., Arxiv 2023] **Unsupervised cross-domain pulmonary nodule detection without source data** [[PDF]](https://arxiv.org/abs/2304.01085) [[G-Scholar]](https://scholar.google.com/scholar?cluster=682584010073333489&hl=en)
+
+- `MAME` [Dong et al., Arxiv 2023] **Tailored multi-organ segmentation with model adaptation and ensemble** [[PDF]](https://arxiv.org/abs/2304.07123) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14131204124314101901&hl=en) 
+
+- `PD` [Rafiee et al., Misc 2023] **Diversified source-free domain adaptation** [[PDF]](https://openreview.net/forum?id=Ot0KorOlyl) [[G-Scholar--]]()
 
 ## Video Classification
 ### 2022

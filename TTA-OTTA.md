@@ -126,15 +126,17 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `MSLC-TSD` [Wang et al., Proc. CVPR 2023] **Feature alignment and uniformity for test-time adaptation** [[PDF]](https://arxiv.org/abs/2303.10902) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6669282507614032957&hl=en)
 
+- `...` [Zhao et al., Proc. ICLR Workshops 2023] **On pitfalls of test-time adaptation** [[PDF]](https://arxiv.org/abs/2207.08210) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12791076797773873726&hl=en)
+
 - `ECL` [Han et al., Arxiv 2023] **Rethinking precision of pseudo label: Test-time adaptation via complementary learning** [[PDF]](https://arxiv.org/abs/2301.06013) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3929794078133562489&hl=en)
 
 - `TTAC++` [Su et al., Arxiv 2023] **Revisiting realistic test-time training: Sequential inference and adaptation by anchored clustering regularized self-training** [[PDF]](https://arxiv.org/abs/2303.10856) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13164314529398251378&hl=en)
 
 - `...` [ Alfarra et al., Arxiv 2023] **Revisiting test time adaptation under online evaluation** [[PDF]](https://arxiv.org/abs/2304.04795) [[G-Scholar--]]() [[CODE]](https://github.com/MotasemAlfarra/Online_Test_Time_Adaptation)
 
-- `VPL` [Ambekar et al., Misc 2023] **Variational pseudo labels for meta test-time adaptation** [[PDF]](https://openreview.net/forum?id=iOag71mvHI) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2267598876397998774&hl=en)
+- `SATA` [Chakrabarty et al., Arxiv 2023] **SATA: Source anchoring and target alignment network for continual test time adaptation** [[PDF]](https://arxiv.org/abs/2304.10113) [[G-Scholar--]]() 
 
-- `...` [Zhao et al., Proc. ICLR Workshops 2023] **On pitfalls of test-time adaptation** [[PDF]](https://arxiv.org/abs/2207.08210) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12791076797773873726&hl=en)
+- `VPL` [Ambekar et al., Misc 2023] **Variational pseudo labels for meta test-time adaptation** [[PDF]](https://openreview.net/forum?id=iOag71mvHI) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2267598876397998774&hl=en)
 
 ### Segmentation
 - `RNCR` [Hu et al., Proc. MICCAI 2021] **Fully test-time adaptation for image segmentation** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-030-87199-4_24) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18183176392541200399&hl=en)
