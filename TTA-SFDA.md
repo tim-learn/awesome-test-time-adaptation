@@ -231,9 +231,6 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `ProxyMix` [Ding et al., Arxiv 2022] **ProxyMix: Proxy-based mixup training with label refinery for source-free domain adaptation** [[PDF]](https://arxiv.org/abs/2205.14566) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8949644873839998049&hl=en) [[CODE]](https://github.com/YuheD/ProxyMix)
 
-- ~~[Thopalli et al., Proc. ECCV Workshops 2022] **Geometric alignment improves fully test time adaptation** [[PDF]](https://www.osti.gov/servlets/purl/1874540) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13916311599404592721&hl=en)~~
-- `CATTAn` [Thopalli et al., Arxiv 2022] **Domain alignment meets fully test-time adaptation** [[PDF]](https://arxiv.org/abs/2207.04185) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10216954534487118514&hl=en) [[CODE]](https://github.com/kowshikthopalli/CATTAn)
-
 - `JN` [Li et al., Arxiv 2022] **Jacobian norm for unsupervised source-free domain adaptation** [[PDF]](https://arxiv.org/abs/2204.03467) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5396999793069796054&hl=en)
 
 - `DAMC` [Zong et al., Arxiv 2022] **Domain gap estimation for source free unsupervised domain adaptation with many classifiers** [[PDF]](https://arxiv.org/abs/2207.05785) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6654662849120853418&hl=en) [[CODE]](https://github.com/hejunzz/damc)
@@ -281,6 +278,9 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `APA` [Sun et al., Proc. AAAI 2023] **Domain adaptation with adversarial training on penultimate activations** [[PDF]](https://arxiv.org/abs/2208.12853) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13152361105316809189&hl=en) [[CODE]](https://github.com/tsun/APA)
 
+- ~~[Thopalli et al., Proc. ECCV Workshops 2022] **Geometric alignment improves fully test time adaptation** [[PDF]](https://www.osti.gov/servlets/purl/1874540) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13916311599404592721&hl=en)~~
+- `CATTAn` [Thopalli et al., Proc. ACCV 2023] **Domain alignment meets fully test-time adaptation** [[PDF]](https://proceedings.mlr.press/v189/thopalli23a.html [[G-Scholar]](https://scholar.google.com/scholar?cluster=10216954534487118514&hl=en) [[CODE]](https://github.com/kowshikthopalli/CATTAn)
+
 - `CoNMix` [Kumar et al., Proc. WACV 2023] **Conmix for source-free single and multi-target domain adaptation** [[PDF]](https://arxiv.org/abs/2211.03876) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1532883985875939147&hl=en) [[CODE]](https://github.com/vcl-iisc/CoNMix)
 
 - `GAP` [Chhabra et al., Proc. WACV 2023] **Generative alignment of posterior probabilities for source-free domain adaptation** [[PDF]](https://openaccess.thecvf.com/content/WACV2023/html/Chhabra_Generative_Alignment_of_Posterior_Probabilities_for_Source-Free_Domain_Adaptation_WACV_2023_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10619837387605602184&hl=en)
@@ -327,6 +327,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 - `E2` [Shen et al., Misc 2023] **E2: Entropy discrimination and energy optimization for source-free universal domain adaptation** [[PDF]](https://openreview.net/forum?id=FMEXgK9-I8) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2517695593354531262&hl=en)
 
 - `SepRep-Net` [Jin et al., Misc 2023] **SepRep-Net: Multi-source free domain adaptation via model separation and reparameterization** [[PDF]](https://openreview.net/forum?id=E67OghNSDMf) [[G-Scholar--]]()
+
+- `...` [Wong., Master Thesis 2023] **Reducing negative transfer of random data in source-free unsupervised domain adaptation** [[PDF]](https://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=11907&context=etd) [[G-Scholar--]]() 
 
 ## Semantic Segmentation
 ### 2021
