@@ -521,6 +521,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `MAME` [Dong et al., Arxiv 2023] **Tailored multi-organ segmentation with model adaptation and ensemble** [[PDF]](https://arxiv.org/abs/2304.07123) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14131204124314101901&hl=en) 
 
+- `FVP` [Wang et al., Arxiv 2023] **FVP: Fourier visual prompting for source-free unsupervised domain adaptation of medical image segmentation** [[PDF]](https://arxiv.org/abs/2304.13672) [[G-Scholar--]]() 
+
 - `PD` [Rafiee et al., Misc 2023] **Diversified source-free domain adaptation** [[PDF]](https://openreview.net/forum?id=Ot0KorOlyl) [[G-Scholar--]]()
 
 ## Video Classification
