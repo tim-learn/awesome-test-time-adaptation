@@ -521,9 +521,11 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `MAME` [Dong et al., Arxiv 2023] **Tailored multi-organ segmentation with model adaptation and ensemble** [[PDF]](https://arxiv.org/abs/2304.07123) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14131204124314101901&hl=en) 
 
-- `FVP` [Wang et al., Arxiv 2023] **FVP: Fourier visual prompting for source-free unsupervised domain adaptation of medical image segmentation** [[PDF]](https://arxiv.org/abs/2304.13672) [[G-Scholar--]]() 
+- `FVP` [Wang et al., Arxiv 2023] **FVP: Fourier visual prompting for source-free unsupervised domain adaptation of medical image segmentation** [[PDF]](https://arxiv.org/abs/2304.13672) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6237066515904238911&hl=en) 
 
 - `PD` [Rafiee et al., Misc 2023] **Diversified source-free domain adaptation** [[PDF]](https://openreview.net/forum?id=Ot0KorOlyl) [[G-Scholar--]]()
+
+- `...` [Pourreza., Master Thesis 2023] **Open-set source-free domain adaptation in fundus images analysis** [[PDF]](https://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=11898&context=etd) [[G-Scholar--]]()
 
 ## Video Classification
 ### 2022
@@ -536,6 +538,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 - `RNA++` [Plananamente et al., Proc. ICIAP 2022] **Test-time adaptation for egocentric action recognition** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-06433-3_18) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2806024882988284863&hl=en) [[CODE]](https://github.com/EgocentricVision/RNA-TTA)
 
 - `CleanAdapt` [Dasgupta et al., Proc. ICVGIP 2022] **Overcoming label noise for source-free unsupervised video domain adaptation** [[PDF]](https://hal.science/hal-03929619/document) [[G-Scholar]](https://scholar.google.com/scholar?cluster=623684659834620344&hl=en)
+
+- `...` [Neubert., Master Thesis 2023] **Source-free domain adaptation for video action recognition** [[PDF]](https://webthesis.biblio.polito.it/secure/26775/1/tesi.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9953124906512607690&hl=en)
 
 ## 3D Point Cloud Perception
 ### 3D Object Detection

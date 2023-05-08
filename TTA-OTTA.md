@@ -130,6 +130,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `...` [Zhao et al., Proc. ICLR Workshops 2023] **On pitfalls of test-time adaptation** [[PDF]](https://arxiv.org/abs/2207.08210) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12791076797773873726&hl=en)
 
+- `...` [Narayanan et al., Proc. ICLR Workshops 2023] **A simple test-time adaptation method for source-free domain generalization** [[PDF]](https://openreview.net/forum?id=Ran2xUWG2n) [[G-Scholar--]]()
+
 - `ECL` [Han et al., Arxiv 2023] **Rethinking precision of pseudo label: Test-time adaptation via complementary learning** [[PDF]](https://arxiv.org/abs/2301.06013) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3929794078133562489&hl=en)
 
 - `TTAC++` [Su et al., Arxiv 2023] **Revisiting realistic test-time training: Sequential inference and adaptation by anchored clustering regularized self-training** [[PDF]](https://arxiv.org/abs/2303.10856) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13164314529398251378&hl=en)
@@ -167,6 +169,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `TeCo` [Yi et al., Proc. ICLR 2023] **Temporal coherent test-time optimization for robust video classification** [[PDF]](https://openreview.net/forum?id=-t4D61w4zvQ) [[G-Scholar]](https://scholar.google.com/scholar?cluster=712239658202817336&hl=en)
 
+- `...` [Ayyoubzadeh., PhD Thesis 2023] **Prior-guided deep neural networks for image restoration tasks** [[PDF]](https://macsphere.mcmaster.ca/bitstream/11375/28467/2/Ayyoubzadeh_Seyed%20Mehdi_2023April_PhD.pdf) [[G-Scholar--]]()
+
 ### Graph
 - `GAPGC` [Chen et al., Proc. ICML Workshops 2022] **GraphTTA: Test time adaptation on graph neural networks** [[PDF]](https://arxiv.org/abs/2208.09126) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3397674391742244376&hl=en)
 
@@ -188,6 +192,7 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `MSA` [Lin et al., Proc. CVPR 2023] **System-status-aware adaptive network for online streaming video understanding** [[PDF]](https://arxiv.org/abs/2303.15742) [[G-Scholar--]]()
 
+- `...` [Almansoori et al., Proc. Scandinavian Conference on Image Analysis 2023] **Anchor-ReID: A test time adaptation for person re-identification** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-31438-4_39) [[G-Scholar--]]()
 
 ## Related
 - `GTTA-ST` [Marsden et al., Arxiv 2022] **Introducing intermediate domains for effective self-training during test-time** [[PDF]](https://arxiv.org/abs/2208.07736) [[G-Scholar--]]()
