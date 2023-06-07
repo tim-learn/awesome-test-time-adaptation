@@ -251,8 +251,6 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `MHPL` [Wang et al., Arxiv 2022] **Active source free domain adaptation** [[PDF]](https://arxiv.org/abs/2205.10711) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13385267099164282245&hl=en)
 
-- `FMML` [Peng et al., Arxiv 2022] **Toward better target representation for source-free and black-box domain adaptation** [[PDF]](https://arxiv.org/abs/2208.10531) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3991269860438698249&hl=en)
-
 - `EXTERN` [Xu et al., Arxiv 2022] **EXTERN: Leveraging endo-temporal regularization for black-box video domain adaptation** [[PDF]](https://arxiv.org/abs/2208.05187) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15714245550833050789&hl=en)
 
 - `...` [Al-Maliki et al., Arxiv 2022] **Continual conscious active fine-tuning to robustify online machine learning models against data distribution shifts** [[PDF]](https://arxiv.org/abs/2211.01315) [[G-Scholar]](https://scholar.google.com/scholar?cluster=908547004835103765&hl=en)
@@ -277,6 +275,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 - `C-SFDA` [Karim et al., Proc. CVPR 2023] **C-SFDA: A curriculum learning aided self-training framework for efficient source free domain adaptation** [[PDF]](https://niluthpol.github.io/Niluthpol_Mithun_Files/CSFDA_CVPR_2023.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3707187333776820224&hl=en) 
 
 - `APA` [Sun et al., Proc. AAAI 2023] **Domain adaptation with adversarial training on penultimate activations** [[PDF]](https://arxiv.org/abs/2208.12853) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13152361105316809189&hl=en) [[CODE]](https://github.com/tsun/APA)
+
+- `FMML` [Peng et al., Proc. IJCAI 2023] **Toward better target representation for source-free and black-box domain adaptation** [[PDF]](https://arxiv.org/abs/2208.10531) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3991269860438698249&hl=en)
 
 - ~~[Thopalli et al., Proc. ECCV Workshops 2022] **Geometric alignment improves fully test time adaptation** [[PDF]](https://www.osti.gov/servlets/purl/1874540) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13916311599404592721&hl=en)~~
 - `CATTAn` [Thopalli et al., Proc. ACCV 2023] **Domain alignment meets fully test-time adaptation** [[PDF]](https://proceedings.mlr.press/v189/thopalli23a.html [[G-Scholar]](https://scholar.google.com/scholar?cluster=10216954534487118514&hl=en) [[CODE]](https://github.com/kowshikthopalli/CATTAn)
@@ -592,6 +592,7 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 ### Facial Expression Recognition
 - `CluP` [Conti et al., Proc. BMVC 2022] **Cluster-level pseudo-labelling for source-free cross-domain facial expression recognition** [[PDF]](https://bmvc2022.mpi-inf.mpg.de/0486.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6739844971812107667&hl=en) [[CODE]](https://github.com/altndrr/clup)
 
+- `LTVAL` [Guo et al., Multimedia Tools and Applications 2023] **LTVAL: Label transfer virtual adversarial learning framework for source-free facial expression recognition** [[PDF]](https://link.springer.com/article/10.1007/s11042-023-15297-x) [[G-Scholar--]]()
 
 ## Other CV Applications
 ### Person ReID
@@ -659,6 +660,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 ### 2022
 - `...` [Su et al., Proc. ACL 2022] **A comparison of strategies for source-free domain adaptation** [[PDF]](https://aclanthology.org/2022.acl-long.572/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4321860393076444396&hl=en) [[CODE]](https://github.com/xinsu626/SourceFreeDomainAdaptation)
 
+- `IDANI` [Antverg et al., Proc. ACL Workshops 2022] **IDANI: Inference-time domain adaptation via neuron-level interventions** [[PDF]](https://aclanthology.org/2022.deeplo-1.3/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10046849600588003301&hl=en) [[CODE]](https://github.com/technion-cs-nlp/idani)
+
 - `MDMAML` [Li et al., IEEE CIM 2022] **Meta-learning for fast and privacy-preserving source knowledge transfer of EEG-based BCIs** [[PDF]](https://ieeexplore.ieee.org/abstract/document/9942685) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9383691095506932596&hl=en)
 
 - `MSDT` [Zhang et al., IEEE TNSRE 2022] **Multi-source decentralized transfer for privacy-preserving BCIs** [[PDF]](https://ieeexplore.ieee.org/abstract/document/9894428/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2150739430618555059&hl=en)
@@ -675,11 +678,9 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `scEMAIL` [Wan et al., Genomics, Proteomics and Bioinformatics 2022] **scEMAIL: Universal and source-free annotation method for scRNA-seq data with novel cell-type perception** [[PDF]](https://www.sciencedirect.com/science/article/pii/S1672022922001747) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1698595785369986836&hl=en) [[CODE]](https://github.com/aster-ww/scEMAIL)
 
-- `...` [Wang et al., Chinese Journal of Aeronautics 2022] **Source free unsupervised domain adaptation for electro-mechanical actuator fault diagnosis** [[PDF]](https://www.sciencedirect.com/science/article/pii/S1000936123000493) [[G-Scholar--]]()
+- `...` [Wang et al., Chinese Journal of Aeronautics 2022] **Source free unsupervised domain adaptation for electro-mechanical actuator fault diagnosis** [[PDF]](https://www.sciencedirect.com/science/article/pii/S1000936123000493) [[G-Scholar]](https://scholar.google.com/scholar?cites=2405206262999061108&hl=en)
 
 - `...` [Zhang et al., Proc. China Automation Congress 2022] **Source-free domain adaptation for rotating machinery cross-domain fault diagnosis with neighborhood reciprocity clustering** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10055182) [[G-Scholar--]]()
-
-- `IDANI` [Antverg et al., Arxiv 2022] **IDANI: Inference-time domain adaptation via neuron-level interventions** [[PDF]](https://aclanthology.org/2022.deeplo-1.3/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10046849600588003301&hl=en) [[CODE]](https://github.com/technion-cs-nlp/idani)
 
 - `MDAQA` [Yin et al., Arxiv 2022] **Source-free domain adaptation for question answering with masked self-training** [[PDF]](https://arxiv.org/abs/2212.09563) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6098149583071335403&hl=en)
 
@@ -696,30 +697,49 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `HSSC-EMM` [Zhang et al., Mechanical Systems and Signal Processing 2023] **Universal source-free domain adaptation method for cross-domain fault diagnosis of machines** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0888327023000663) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9778377080450704864&hl=en)
 
+- `...` [Li et al., Journal of Manufacturing Systems 2023] **Federated transfer learning in fault diagnosis under data privacy with target self-adaptation** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0278612523000808) [[G-Scholar--]]()
+
 - ~~[Boudiaf et al., Misc 2023] **NOTELA: A generalizable method for source free domain adaptation** [[PDF]](https://openreview.net/forum?id=aOBs18ycBr)~~
 - `NOTELA` [Boudiaf et al., Arxiv 2023] **In search for a generalizable method for source free domain adaptation** [[PDF]](https://arxiv.org/abs/2302.06658) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12424145282212014491&hl=en)
 
-- `AMFDA` [Salimnia., Master Thesis 2023] **Attention-based multi-source-free domain adaptation for EEG emotion recognition** [[PDF]](https://ir.lib.uwo.ca/etd/9154/) [[G-Scholar--]]()
+- `...` [Guney et al., Arxiv 2023] **Source free domain adaptation of a DNN for SSVEP-based brain-computer interfaces** [[PDF]](https://arxiv.org/abs/2305.17403) [[G-Scholar--]]() [[CODE--]](https://github.com/osmanberke/SFDA-SSVEP-BCI)
+
+- `AMFDA` [Salimnia., Master Thesis 2023] **Attention-based multi-source-free domain adaptation for EEG emotion recognition** [[PDF]](https://ir.lib.uwo.ca/etd/9154) [[G-Scholar--]]()
 
 - `...` [Niknam., Master Thesis 2023] **Source-free domain adaptation for sleep stage classification** [[PDF]](https://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=11881&context=etd) [[G-Scholar--]]()
 
 ## Misc
 - [Yang et al., Proc. ACM-MM2007] **Cross-domain video concept detection using adaptive svms** [[PDF]](https://dl.acm.org/doi/abs/10.1145/1291233.1291276) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4589454669556425406&hl=en)
+
 - [Aytal and Zisserman, Proc. ICCV 2011] **Tabula rasa: Model transfer for object category detection** [[PDF]](https://ieeexplore.ieee.org/document/6126504/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13106480027062040527&hl=en)
+
 - [Kuzborskij et al., Proc. ICML 2013] **Stability and hypothesis transfer learning** [[PDF]](https://proceedings.mlr.press/v28/kuzborskij13.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5642234637780837688&hl=en)
+
 - [Tommasi et al., IEEE TPAMI 2013] **Learning categories from few examples with multi model knowledge transfer** [[PDF]](https://ieeexplore.ieee.org/abstract/document/6620871/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10892813110202908253&hl=en)
+
 - `AdaBN` [Li et al., Proc. ICLR 2017] **Revisiting batch normalization for practical domain adaptation** [[PDF]](https://openreview.net/forum?id=Hk6dkJQFx) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11679251260326951806&hl=en)
+
 - `...` [Burns and Steinhardt, Proc. CVPR 2021] **Limitations of post-hoc feature alignment for robustness** [[PDF]](https://openaccess.thecvf.com/content/CVPR2021/html/Burns_Limitations_of_Post-Hoc_Feature_Alignment_for_Robustness_CVPR_2021_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10007615184186415315&hl=en) [[CODE]](https://github.com/collin-burns/feature-alignment)
+
 - `DARE` [Rosenfeld et al., Proc. NeurIPS Workshops 2022] **Domain-adjusted regression or: ERM may already learn features sufficient for out-of-distribution generalization** [[PDF]](https://arxiv.org/abs/2202.06856) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18354400836987334001&hl=en)
+
 - `GDSDA` [Ao et al., Proc. AAAI 2017] **Fast generalized distillation for semi-supervised domain adaptation** [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/10848) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11001527589625859954&hl=en)
+
 - `MapNet+` [Brahmbhatt et al., Proc. CVPR 2018] **Geometry-aware learning of maps for camera localization** [[PDF]](https://openaccess.thecvf.com/content_cvpr_2018/html/Brahmbhatt_Geometry-Aware_Learning_of_CVPR_2018_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15361942550307476955&hl=en)
+
 - `dkdHTL` [Yu et al., Arxiv 2020] **Dynamic knowledge distillation for black-box hypothesis transfer learning** [[PDF]](https://arxiv.org/abs/2007.12355) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4102832996867063478&hl=en)
+
 - `TOHAN` [Chi et al., Proc. NeurIPS 2021] **TOHAN: A one-step approach towards few-shot hypothesis adaptation** [[PDF]](https://openreview.net/forum?id=vrkQ07gp0kq) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3362363617253826009&hl=en) [[CODE]](https://github.com/Haoang97/TOHAN)
+
 - `LCCS` [Zhang et al., Proc. IJCAI 2022] **Few-shot adaptation of pre-trained networks for domain shift** [[PDF]](https://arxiv.org/abs/2205.15234) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17927210508667621786&hl=en) [[CODE]](https://github.com/zwenyu/lccs)
+
 - `CIDA` [Kundu et al., Proc. ECCV 2020] **Class-incremental domain adaptation** [[PDF]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580052.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15757977957260800975&hl=en)
+
 - `RMT` [Döbler et al., Proc. CVPR 2023] **Class-incremental domain adaptation** [[PDF]](https://arxiv.org/abs/2211.13081) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5205082821636588766&hl=en) [[CODE]](https://github.com/mariodoebler/test-time-adaptation)
+
 - `TIDo` [Ambastha and Yun, Arxiv 2023] **TIDo: Source-free task incremental learning in non-stationary environments** [[PDF]](https://arxiv.org/abs/2301.12055) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17872927398350991456&hl=en)
+
 - `ALeN` [Ambastha and Yun, Arxiv 2023] **Adversarial learning networks: Source-free unsupervised domain incremental learning** [[PDF]](https://arxiv.org/abs/2301.12055) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3178251369340369001&hl=en)
 
-
+- `...` [Singh and Diggavi, Arxiv 2023] **Representation transfer learning via multiple pre-trained models for linear regression** [[PDF]](https://arxiv.org/abs/2305.16440) [[G-Scholar--]]()
 
