@@ -266,6 +266,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `Twofer` [Liu et al., Proc. ICLR 2023] **Twofer: Tackling continual domain shift with simultaneous domain generalization and adaptation** [[PDF]](https://openreview.net/forum?id=L8iZdgeKmI6) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10874563540507053460&hl=en)
 
+- `SQRL` [Naik et al., Proc. ICML 2023] **Do machine learning models learn statistical rules inferred from data?** [[PDF]](https://www.cis.upenn.edu/~mhnaik/papers/icml23.pdf) [[G-Scholar--]]() [[CODE--]](https://github.com/DebugML/sqrl)
+
 - `PLUE` [Liu et al., Proc. CVPR 2023] **Guiding pseudo-labels with uncertainty estimation for test-time adaptation** [[PDF]](https://arxiv.org/abs/2303.03770) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1366266911611158897&hl=en) [[CODE]](https://github.com/MattiaLitrico/Guiding-Pseudo-labels-with-Uncertainty-Estimation-for-Test-Time-Adaptation)
 
 - `GLC` [Qu et al., Proc. CVPR 2023] **Upcycling models under domain and category shift** [[PDF]](https://arxiv.org/abs/2303.07110) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4154930328281454966&hl=en) [[CODE]](https://github.com/ispc-lab/GLC)
@@ -407,6 +409,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `CoSDA` [Feng et al., Arxiv 2023] **CoSDA: Continual source-free domain adaptation** [[PDF]](https://arxiv.org/abs/2304.06627) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9482207153777900850&hl=en) [[CODE]](https://github.com/FengHZ/CoSDA)
 
+- `IAPC` [Cao et al., Arxiv 2023] **Towards source-free domain adaptive semantic segmentation via importance-aware and prototype-contrast learning** [[PDF]](https://arxiv.org/abs/2306.01598) [[G-Scholar--]]() [[CODE]](https://github.com/yihong-97/Source-free_IAPC)
+
 - `...` [Sashikanth., Master Thesis 2023] **Active learning guided source-free domain adaptive semantic segmentation and applications in the environmental space** [[PDF]](https://escholarship.org/uc/item/1j56m62f) [[G-Scholar--]]()
 
 ## Object Detection
@@ -459,6 +463,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 - `A2SFOD` [Chu et al., Arxiv 2023] **Adversarial alignment for source free object detection** [[PDF]](https://arxiv.org/abs/2301.04265) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3777004265512378062&hl=en)
 
 - `...` [Naik et al., Arxiv 2023] **Do machine learning models learn common sense?** [[PDF]](https://arxiv.org/abs/2303.01433) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11920731748225216277&hl=en)
+
+- `...` [Sun et al., Arxiv 2023] **SF-FSDA: Source-free few-shot domain adaptive object detection with efficient labeled data factory** [[PDF]](https://arxiv.org/abs/2306.04385) [[G-Scholar--]]()
 
 ## Medical Image Analysis
 ### 2020

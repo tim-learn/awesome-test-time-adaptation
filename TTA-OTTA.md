@@ -26,9 +26,13 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `VDP` [Gan et al., Proc. AAAI 2023] **Decorate the newcomers: Visual domain prompt for continual test time adaptation** [[PDF]](https://arxiv.org/abs/2212.04145) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10934249662216784297&hl=en)
 
+- `FTTA` [Huang et al., Proc. MICCAI 2023] **Fourier test-time adaptation with multi-level consistency for robust classification** [[PDF]](https://arxiv.org/abs/2306.02544) [[G-Scholar--]]()
+
 - `...` [Wu et al., Arxiv 2023] **Learning to adapt to online streams with distribution shifts** [[PDF]](https://arxiv.org/abs/2303.01630) [[G-Scholar]](https://scholar.google.com/scholar?cluster=70667390534186770138&hl=en)
 
 - `...` [Marsden et al., Arxiv 2023] **Universal test-time adaptation through weight ensembling, diversity weighting, and prior correction** [[PDF]](https://arxiv.org/abs/2306.00650) [[G-Scholar--]]()
+
+- `HKA` [Liu et al., Arxiv 2023] **ViDA: Homeostatic visual domain adapter for continual test time adaptation** [[PDF]](https://arxiv.org/abs/2306.04344) [[G-Scholar--]]()
 
 ### Segmentation
 - `OnAVOS` [Voigtlaender and Leibe., Proc. BMVC 2017] **Online adaptation of convolutional neural networks for video object segmentation** [[PDF]](https://arxiv.org/abs/1706.09364) [[G-Scholar]](https://scholar.google.com.tw/scholar?cluster=7737687280948943248&hl=en)

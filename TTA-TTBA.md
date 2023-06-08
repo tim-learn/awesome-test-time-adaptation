@@ -318,8 +318,10 @@ RGB images** [[PDF]](https://arxiv.org/abs/2303.07850) [[G-Scholar]](https://sch
 
 - `LSTM` [Benmalek et al., Misc 2022] **Learning to adapt to semantic shift** [[PDF]](https://openreview.net/forum?id=ZFWwI5ahxud) [[G-Scholar--]]()
 
+- `DIA` [Wu et al., Proc. ICML 2023] **Uncovering adversarial risks of test-time adaptation** [[PDF]](https://arxiv.org/abs/2301.12576) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13284981397235504725&hl=en)
+
 - `...` [Cui et al., Proc. AAAI 2023] **Meta-auxiliary learning for adaptive human pose prediction** [[PDF]](https://arxiv.org/abs/2304.06411) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14630011385813471433&hl=en)
 
 - `LD-BN-ADAPT` [Bhardwaj et al., Proc. DATE 2023] **Real-time fully unsupervised domain adaptation for lane detection in autonomous driving** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10136937/) [[G-Scholar--]]()
 
-- `DIA` [Wu et al., Proc. ICML 2023] **Uncovering adversarial risks of test-time adaptation** [[PDF]](https://arxiv.org/abs/2301.12576) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13284981397235504725&hl=en)
+- `SGEM` [Kim et al., Proc. Interspeech 2023] **SGEM: Test-time adaptation for automatic speech recognition via sequential-level generalized entropy minimization** [[PDF]](https://arxiv.org/abs/2306.01981) [[G-Scholar--]]() [[CODE]](https://github.com/drumpt/SGEM)
