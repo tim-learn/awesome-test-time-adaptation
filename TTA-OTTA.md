@@ -147,6 +147,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `SATA` [Chakrabarty et al., Arxiv 2023] **SATA: Source anchoring and target alignment network for continual test time adaptation** [[PDF]](https://arxiv.org/abs/2304.10113) [[G-Scholar--]]() 
 
+- `RDumb` [Press et al., Arxiv 2023] **RDumb: A simple approach that questions our progress in continual test-time adaptation** [[PDF]](https://arxiv.org/abs/2306.05401) [[G-Scholar--]]() [[CODE]](https://github.com/oripress/CCC)
+
 - `VPL` [Ambekar et al., Misc 2023] **Variational pseudo labels for meta test-time adaptation** [[PDF]](https://openreview.net/forum?id=iOag71mvHI) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2267598876397998774&hl=en)
 
 ### Segmentation

@@ -526,6 +526,14 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 - `...` [Li et al., Misc 2022] **Source-free unsupervised adaptive segmentation for knee joint MRI** [[PDF]](https://www.techrxiv.org/articles/preprint/Source-free_Unsupervised_Adaptive_Segmentation_for_Knee_Joint_MRI/21749414) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13776259422469947288&hl=en)
 
 ### 2023
+- `SUMT` [Wen et al., Proc. IPMI 2023] **Source-free domain adaptation for medical image segmentation via selectively updated mean teacher** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-34048-2_18) [[G-Scholar--]]()
+
+- `UPL-TTA` [Wu et al., Proc. IPMI 2023] **UPL-TTA: Uncertainty-aware pseudo label guided fully test time adaptation for fetal brain segmentation** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-34048-2_19) [[G-Scholar--]]()
+
+- `RPANet` [Wang and Chen., Proc. IPMI 2023] **Unsupervised adaptation of polyp segmentation models via coarse-to-fine self-supervision** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-34048-2_20) [[G-Scholar--]]()
+
+  ----------------------------
+
 - `...` [Li et al., IEEE TMI 2023] **Towards source-free cross tissues histopathological cell segmentation via target-specific finetuning** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10087318) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5356003107098200108&hl=en) [[CODE]](https://github.com/NeuronXJTU/SFDA-CellSeg)
 
 - `DUT` [Liu et al., IEEE TNNLS 2023] **Decoupled unbiased teacher for source-free
