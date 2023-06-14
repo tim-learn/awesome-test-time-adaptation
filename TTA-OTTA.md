@@ -203,5 +203,7 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `...` [Almansoori et al., Proc. Scandinavian Conference on Image Analysis 2023] **Anchor-ReID: A test time adaptation for person re-identification** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-31438-4_39) [[G-Scholar--]]()
 
+- `...` [He., Journal of Intelligent Medicine and Healthcare 2023] **ECG heartbeat classification under dataset shift** [[PDF]](https://cdn.techscience.cn/files/jimh/TSP_JIMH-1-2/TSP_JIMH_36624/TSP_JIMH_36624.pdf) [[G-Scholar--]]()
+
 ## Related
 - `GTTA-ST` [Marsden et al., Arxiv 2022] **Introducing intermediate domains for effective self-training during test-time** [[PDF]](https://arxiv.org/abs/2208.07736) [[G-Scholar--]]()

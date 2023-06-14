@@ -455,11 +455,11 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
   
 - `PLA-DAP` [Xiong et al., Pattern Recognition 2022] **Source data-free domain adaptation for a faster R-CNN** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320321006129) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2911507652442359206&hl=en) [[CODE]](https://github.com/xiong233/Source-Data-free-Domain-Adaptation-for-a-Faster-R-CNN)
 
-- `IRG` [VS et al., Arxiv 2022] **Instance relation graph guided source-free domain adaptive object detection** [[PDF]](https://arxiv.org/abs/2203.15793) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14769368441924132436&hl=en) [[CODE]](https://github.com/Vibashan/irg-sfda)
-
 - `G&A` [Zhao et al., Arxiv 2022] **1st place solution for ECCV 2022 OOD-CV challenge object detection track** [[PDF]](https://arxiv.org/abs/2301.04796) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14155562576343532471&hl=en)
 
 ### 2023
+- `IRG` [VS et al., Proc. CVPR 2023] **Instance relation graph guided source-free domain adaptive object detection** [[PDF]](https://arxiv.org/abs/2203.15793) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14769368441924132436&hl=en) [[CODE]](https://github.com/Vibashan/irg-sfda)
+
 - `TeST` [Sinha et al., Proc. WACV 2023] **TeST: Test-time self-training under distribution shift** [[PDF]](https://arxiv.org/abs/2209.11459) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5034697452433918735&hl=en)
 
 - `MemCLR` [VS et al., Proc. WACV 2023] **Towards online domain adaptive object detection** [[PDF]](https://openaccess.thecvf.com/content/WACV2023/html/VS_Towards_Online_Domain_Adaptive_Object_Detection_WACV_2023_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8996531248585805791&hl=en)

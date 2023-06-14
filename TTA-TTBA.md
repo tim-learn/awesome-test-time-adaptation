@@ -286,9 +286,11 @@ RGB images** [[PDF]](https://arxiv.org/abs/2303.07850) [[G-Scholar]](https://sch
 
 - `ShiftMatch` [Wang and Aitchison, Proc. ICLR 2023] **Robustness to corruption in pre-trained Bayesian neural networks** [[PDF]](https://openreview.net/forum?id=kUI41mY8bHl) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12854599053728566431&hl=en)
 
+- `DILAM` [Leitner et al., Proc. IEEE Intelligent Vehciles Symposium 2023] **Sit back and relax: Learning to drive incrementally in all weather conditions** [[PDF]](https://arxiv.org/abs/2305.18953) [[G-Scholar--]]() [[CODE]](https://github.com/jmiemirza/DILAM)
+
 - `CVP` [Tsai et al., Arxiv 2023] **Self-supervised convolutional visual prompts** [[PDF]](https://arxiv.org/abs/2303.00198) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10433190878679136798&hl=en)
 
-- `DILAM` [Leitner et al., Proc. IEEE Intelligent Vehciles Symposium 2023] **Sit back and relax: Learning to drive incrementally in all weather conditions** [[PDF]](https://arxiv.org/abs/2305.18953) [[G-Scholar--]]() [[CODE]](https://github.com/jmiemirza/DILAM)
+- `ContextViT` [Bao and Karaletsos, Arxiv 2023] **Contextual vision transformers for robust representation learning** [[PDF]](https://arxiv.org/abs/2305.19402) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12070186471925200805&hl=en)
 
 ### Video processing (multiple frames)
 - `PGO` [Brahmbhatt et al., Proc. CVPR 2018] **Geometry-aware learning of maps for camera localization** [[PDF]](http://openaccess.thecvf.com/content_cvpr_2018/html/Brahmbhatt_Geometry-Aware_Learning_of_CVPR_2018_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15361942550307476955&hl=en) [[CODE]](https://github.com/NVlabs/geomapnet)
@@ -306,6 +308,8 @@ RGB images** [[PDF]](https://arxiv.org/abs/2303.07850) [[G-Scholar]](https://sch
 - `GCVD` [Lee et al., Arxiv 2022] **Globally consistent video depth and pose estimation with efficient test-time training** [[PDF]](https://arxiv.org/abs/2208.02709) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7306691990551013000&hl=en) [[CODE]](https://github.com/yaochih/GCVD-release)
 
 - `...` [Azimi et al., Proc. WACV 2022] **Self-supervised test-time adaptation on video data** [[PDF]](https://openaccess.thecvf.com/content/WACV2022/html/Azimi_Self-Supervised_Test-Time_Adaptation_on_Video_Data_WACV_2022_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11449570492704365767&hl=en)
+
+- `...` [Yeh et al., Proc. CVPR 2023] **Meta-personalizing vision-language models to find named instances in video** [[PDF]](http://openaccess.thecvf.com/content/CVPR2023/html/Yeh_Meta-Personalizing_Vision-Language_Models_To_Find_Named_Instances_in_Video_CVPR_2023_paper.html) [[G-Scholar--]]()
 
 - `...` [Mutlu et al., Arxiv 2023] **TempT: Temporal consistency for test-time adaptation** [[PDF]](https://arxiv.org/abs/2303.10536) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13961877707627428919&hl=en)
 
@@ -327,6 +331,8 @@ RGB images** [[PDF]](https://arxiv.org/abs/2303.07850) [[G-Scholar]](https://sch
 - `LSTM` [Benmalek et al., Misc 2022] **Learning to adapt to semantic shift** [[PDF]](https://openreview.net/forum?id=ZFWwI5ahxud) [[G-Scholar--]]()
 
 - `DIA` [Wu et al., Proc. ICML 2023] **Uncovering adversarial risks of test-time adaptation** [[PDF]](https://arxiv.org/abs/2301.12576) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13284981397235504725&hl=en)
+
+- `SCIA` [Kan et al., Proc. CVPR 2023] **Self-correctable and adaptable inference for generalizable human pose estimation** [[PDF]](https://openaccess.thecvf.com/content/CVPR2023/html/Kan_Self-Correctable_and_Adaptable_Inference_for_Generalizable_Human_Pose_Estimation_CVPR_2023_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13052005330920059778&hl=en)
 
 - `...` [Cui et al., Proc. AAAI 2023] **Meta-auxiliary learning for adaptive human pose prediction** [[PDF]](https://arxiv.org/abs/2304.06411) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14630011385813471433&hl=en)
 
