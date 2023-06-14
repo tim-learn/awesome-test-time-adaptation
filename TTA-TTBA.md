@@ -103,6 +103,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
   ~~`Slot-TTA` [Prabhudesai et al., Proc. NeurIPS Workshops 2022] **Test-time adaptation with slot-centric models** [[PDF]](https://openreview.net/forum?id=b8F8xz6_DuX) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14308566097544119245&hl=en)~~
 - `Slot-TTA` [Prabhudesai et al., Proc. ICML 2023] **Test-time adaptation with slot-centric models** [[PDF]](https://openreview.net/forum?id=b8F8xz6_DuX) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14308566097544119245&hl=en)
 
+- `DIGA` [Wang et al., Proc. CVPR 2023] **Dynamically instance-guided adaptation: A backward-free approach for test-time domain adaptive semantic segmentation** [[PDF]](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Dynamically_Instance-Guided_Adaptation_A_Backward-Free_Approach_for_Test-Time_Domain_Adaptive_CVPR_2023_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5310249894401773826&hl=en) [[CODE]](https://github.com/Waybaba/DIGA)
+
 - `Adaptive-UNet` [Valanarasu et al., Proc. MIDL 2023] **On-the-fly test-time adaptation for medical image segmentation** [[PDF]](https://arxiv.org/abs/2203.05574) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2402009671021470527&hl=en) [[CODE]](https://github.com/jeya-maria-jose/On-The-Fly-Adaptation)
 
 - `WOSA-AugSelf` [Huang et al., Computer Methods and Programs in Biomedicine 2023] **Test-time bi-directional adaptation between image and model for robust segmentation** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0169260723001438) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14768083414195901454&hl=en)
@@ -142,6 +144,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 - `ISO` [Zhang et al., Proc. NeurIPS 2020] **Inference stage optimization for cross-scenario 3d human pose estimation** [[PDF]](https://proceedings.neurips.cc/paper/2020/hash/1943102704f8f8f3302c2b730728e023-Abstract.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1453780569346725768&hl=en)
 
 - `SCIO` [Kan et al., Proc. ECCV 2022] **Self-constrained inference optimization on structural groups for human pose estimation** [[PDF]](https://arxiv.org/abs/2207.02425) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15020898979543983018&hl=en)
+
+- `ZPT` [Wang et al., Proc. ECCV 2022] **Zero-shot pose transfer for unrigged stylized 3D characters** [[PDF]](http://openaccess.thecvf.com/content/CVPR2023/html/Wang_Zero-Shot_Pose_Transfer_for_Unrigged_Stylized_3D_Characters_CVPR_2023_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8806852905737296920&hl=en)
 
 - `...` [Azarian et al., Proc. WACV Workshops 2023] **Test-time adaptation vs. training-time generalization: A case study in human instance segmentation using keypoints estimation** [[PDF]](https://openaccess.thecvf.com/content/WACV2023W/DNOW/html/Azarian_Test-Time_Adaptation_vs._Training-Time_Generalization_A_Case_Study_in_Human_WACVW_2023_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7504295780791163610&hl=en)
 
@@ -246,6 +250,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 - `...` [Sang et al., International Journal of Radiation Oncology, Biology, Physics 2022] **Inference-time adaptation for improved transfer ability and generalization in deformable image registration deep learning** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0360301622016236) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10634714491331957313&hl=en)
 
 - `MATE` [Mirza et al., Arxiv 2022] **MATE: Masked autoencoders are online 3D test-time learners** [[PDF]](https://arxiv.org/abs/2211.11432) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17319713522651218187&hl=en)
+
+- `PAFF` [Ge et al., Proc. CVPR 2023] **Policy adaptation from foundation model feedback** [[PDF]](https://openaccess.thecvf.com/content/WACV2023/html/Min_Meta-Learning_for_Adaptation_of_Deep_Optical_Flow_Networks_WACV_2023_paper.html) [[G-Scholar--]]()
 
 - `...` [Liu et al., Proc. WACV 2023] **Meta-auxiliary learning for future depth prediction in videos** [[PDF]](https://openaccess.thecvf.com/content/WACV2023/html/Min_Meta-Learning_for_Adaptation_of_Deep_Optical_Flow_Networks_WACV_2023_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9083144572156364990&hl=en)
 

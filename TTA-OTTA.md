@@ -22,7 +22,7 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `AdaNPC` [Zhang et al., Proc. ICML 2023] **AdaNPC: Exploring non-parametric classifier for test-time adaptation** [[PDF]](https://arxiv.org/abs/2304.12566) [[G-Scholar--]]()
 
-- `ITTA` [Chen et al., Proc. CVPR 2023] **Improved test-time adaptation for domain generalization** [[PDF]](https://arxiv.org/abs/2304.04494) [[G-Scholar]](https://scholar.google.com/scholar?cluster=792593438764030374&hl=en)
+- `ITTA` [Chen et al., Proc. CVPR 2023] **Improved test-time adaptation for domain generalization** [[PDF]](https://arxiv.org/abs/2304.04494) [[G-Scholar]](https://scholar.google.com/scholar?cluster=792593438764030374&hl=en) [[CODE]](https://github.com/liangchen527/ITTA)
 
 - `VDP` [Gan et al., Proc. AAAI 2023] **Decorate the newcomers: Visual domain prompt for continual test time adaptation** [[PDF]](https://arxiv.org/abs/2212.04145) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10934249662216784297&hl=en)
 
@@ -52,13 +52,13 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `CoMAC` [Cao et al., Arxiv 2023] **Multi-modal continual test-time adaptation for 3D semantic segmentation** [[PDF]](https://arxiv.org/abs/2303.10457) [[G-Scholar--]]()
 
 ### Misc
-- `ViTTA` [Lin et al., Arxiv 2022] **Video test-time adaptation for action recognition** [[PDF]](https://arxiv.org/abs/2211.15393) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14921741895103050225&hl=en) [[CODE--]](https://github.com/wlin-at/ViTTA)
-
-- `AUTO` [Yang et al., Arxiv 2023] **AUTO: Adaptive outlier optimization for online test-time OOD detection** [[PDF]](https://arxiv.org/abs/2303.12267) [[G-Scholar--]]()
-
 - `BOA` [Guan et al., Proc. CVPR 2021] **Bilevel online adaptation for out-of-domain human mesh reconstruction** [[PDF]](https://openaccess.thecvf.com/content/CVPR2021/html/Guan_Bilevel_Online_Adaptation_for_Out-of-Domain_Human_Mesh_Reconstruction_CVPR_2021_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14857518758485826444&hl=en) [[CODE]](https://github.com/syguan96/BOA)
 
 - `...` [Kundu et al., Proc. CVPR 2022] **Uncertainty-aware adaptation for self-supervised 3D human pose estimation** [[PDF]](https://openaccess.thecvf.com/content/CVPR2022/html/Kundu_Uncertainty-Aware_Adaptation_for_Self-Supervised_3D_Human_Pose_Estimation_CVPR_2022_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18340324852098009553&hl=en)
+
+- `ViTTA` [Lin et al., Proc. CVPR 2023] **Video test-time adaptation for action recognition** [[PDF]](https://arxiv.org/abs/2211.15393) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14921741895103050225&hl=en) [[CODE--]](https://github.com/wlin-at/ViTTA)
+
+- `AUTO` [Yang et al., Arxiv 2023] **AUTO: Adaptive outlier optimization for online test-time OOD detection** [[PDF]](https://arxiv.org/abs/2303.12267) [[G-Scholar--]]()
 
 ## Online Batch-level
 ### Image Classification
@@ -100,8 +100,6 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `...` [Kerssies et al., Arxiv 2022] **Evaluating continual test-time adaptation for contextual and semantic domain shifts** [[PDF]](https://arxiv.org/abs/2208.08767) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8359153083419991388&hl=en)
 
-- `ActMAD` [Mirza et al., Arxiv 2022] **ActMAD: Activation matching to align distributions for test-time-training** [[PDF]](https://arxiv.org/abs/2211.12870) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4556204882779586735&hl=en)
-
 - `GpreBN` [Yang et al., Arxiv 2022] **Test-time batch normalization** [[PDF]](https://arxiv.org/abs/2205.10210) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6871491778357281302&hl=en)
 
 - `CAFA` [Jung et al., Arxiv 2022] **CAFA: Class-aware feature alignment for test-time adaptation** [[PDF]](https://arxiv.org/abs/2206.00205) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4234869190098771055&hl=en)
@@ -117,6 +115,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `MECTA` [Hong et al., Proc. ICLR 2023] **MECTA: Memory-economic continual test-time model adaptation** [[PDF]](https://openreview.net/forum?id=N92hjSf5NNh) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4283353743074610447&hl=en)
 
 - `DELTA` [Zhao et al., Proc. ICLR 2023] **DELTA: Degradation-free fully test-time adaptation** [[PDF]](https://openreview.net/forum?id=eGm22rqG93) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11590549510022229335&hl=en)
+
+- `ActMAD` [Mirza et al., Proc. CVPR 2023] **ActMAD: Activation matching to align distributions for test-time-training** [[PDF]](https://arxiv.org/abs/2211.12870) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4556204882779586735&hl=en) [[CODE]](https://github.com/jmiemirza/actmad)
 
 - `RMT` [Döbler et al., Proc. CVPR 2023] **Robust mean teacher for continual and gradual test-time adaptation** [[PDF]](https://arxiv.org/abs/2211.13081) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5205082821636588766&hl=en) [[CODE]](https://github.com/mariodoebler/test-time-adaptation)
 
