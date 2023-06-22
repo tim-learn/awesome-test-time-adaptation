@@ -267,7 +267,7 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 - `SQRL` [Naik et al., Proc. ICML 2023] **Do machine learning models learn statistical rules inferred from data?** [[PDF]](https://www.cis.upenn.edu/~mhnaik/papers/icml23.pdf) [[G-Scholar--]]() [[CODE--]](https://github.com/DebugML/sqrl)
 
   ~~`MSFDA-SPL` [Shen et al., Arxiv 2022] **On the benefits of selectivity in pseudo-labeling for unsupervised multi-source-free domain adaptation** [[PDF]](https://arxiv.org/abs/2202.00796) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2134048083339350660&hl=en)~~
-- `...` [Shen et al., Proc. ICML 2023] **On Balancing Bias and Variance in Unsupervised Multi-Source-Free Domain Adaptation** [[PDF--]](https://arxiv.org/abs/2202.00796) [[G-Scholar--]]()
+- `...` [Shen et al., Proc. ICML 2023] **On balancing bias and variance in unsupervised multi-source-free domain adaptation** [[PDF]](https://openreview.net/forum?id=jWFRFz7yIc) [[G-Scholar--]]()
 
   ~~`MHPL` [Wang et al., Arxiv 2022] **Active source free domain adaptation** [[PDF]](https://arxiv.org/abs/2205.10711) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13385267099164282245&hl=en)~~
 - `MHPL` [Wang et al., Proc. CVPR 2023] **MHPL: Minimum happy points Learning for active source free domain adaptation** [[PDF]](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_MHPL_Minimum_Happy_Points_Learning_for_Active_Source_Free_Domain_CVPR_2023_paper.pdf) [[G-Scholar--]]()
@@ -316,6 +316,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 - `SF-FDN` [Li et al., IEEE TFS 2023] **Source-free multi-domain adaptation with fuzzy rule-based deep neural networks** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10128698) [[G-Scholar--]]()
 
 - `BPDA` [Shi et al., PR 2023] **Source-free and black-box domain adaptation via distributionally adversarial training** [[PDF]](https://www.sciencedirect.com/science/article/pii/S003132032300448X) [[G-Scholar--]]() [[CODE]](https://github.com/shiyuchengTJU/BPDA)
+
+- `UC-SFDA` [Chen et al., Knowledge-Based Systems 2023] **UC-SFDA: Source-free domain adaptation via uncertainty prediction and evidence-based contrastive learning** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0950705123004781) [[G-Scholar--]]() [[CODE]](https://www.github.com/oolown/UC-SFDA)
 
 - `RS2L` [Tian et al., Signal, Image and Video Processing 2023] **Robust self-supervised learning for source-free domain adaptation** [[PDF]](https://link.springer.com/article/10.1007/s11760-022-02457-z) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18298807507396100788&hl=en)
 
@@ -406,6 +408,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 - `STPL` [Lo et al., Proc. CVPR 2023] **Spatio-temporal pixel-level contrastive learning-based source-free domain adaptation for video semantic segmentation** [[PDF]](https://arxiv.org/abs/2303.14361) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12402659548166581777&hl=en)
 
 - `DT-ST` [Zhao et al., Proc. CVPR 2023] **Towards better stability and adaptability: Improve online self-training for model adaptation in semantic segmentation** [[PDF]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_Towards_Better_Stability_and_Adaptability_Improve_Online_Self-Training_for_Model_CVPR_2023_paper.pdf) [[G-Scholar--]]()
+
+- `...` [Lo et al., Proc. CVPR 2023] **Unsupervised continual semantic adaptation through neural rendering** [[PDF]](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_Unsupervised_Continual_Semantic_Adaptation_Through_Neural_Rendering_CVPR_2023_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1555361275637880312&hl=en&as_sdt=0,5)
 
 - `MATS` [Chen et al., Proc. MIDL 2023] **Model adaptive tooth segmentation** [[PDF]](https://openreview.net/forum?id=O2DerS5oQ1) [[G-Scholar--]]()
 

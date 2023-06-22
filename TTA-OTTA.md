@@ -116,6 +116,10 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `DELTA` [Zhao et al., Proc. ICLR 2023] **DELTA: Degradation-free fully test-time adaptation** [[PDF]](https://openreview.net/forum?id=eGm22rqG93) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11590549510022229335&hl=en)
 
+- `...` [Kang et al., Proc. ICML 2023] **Leveraging proxy of training data for test-time adaptation** [[PDF]](https://openreview.net/forum?id=VVGNInOAm9) [[G-Scholar--]]()
+
+- `ODS` [Zhou et al., Proc. ICML 2023] **ODS: Test-time adaptation in the presence of open-world data shift** [[PDF]](https://openreview.net/forum?id=Phjti0QbkZ) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16719191560487765295&hl=en)
+
 - `ActMAD` [Mirza et al., Proc. CVPR 2023] **ActMAD: Activation matching to align distributions for test-time-training** [[PDF]](https://arxiv.org/abs/2211.12870) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4556204882779586735&hl=en) [[CODE]](https://github.com/jmiemirza/actmad)
 
 - `RMT` [Döbler et al., Proc. CVPR 2023] **Robust mean teacher for continual and gradual test-time adaptation** [[PDF]](https://arxiv.org/abs/2211.13081) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5205082821636588766&hl=en) [[CODE]](https://github.com/mariodoebler/test-time-adaptation)
@@ -200,6 +204,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `TTA-COPE` [Lee et al., Proc. CVPR 2023] **TTA-COPE: Test-time adaptation for category-level object pose estimation** [[PDF]](https://arxiv.org/abs/2303.16730) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6190442163634665983&hl=en)
 
 - `MSA` [Lin et al., Proc. CVPR 2023] **System-status-aware adaptive network for online streaming video understanding** [[PDF]](https://arxiv.org/abs/2303.15742) [[G-Scholar--]]()
+
+- `...` [Pan et al., Proc. CVPR 2023] **Cloud-device collaborative adaptation to continual changing environments in the real-world** [[PDF]](https://openaccess.thecvf.com/content/CVPR2023/html/Pan_Cloud-Device_Collaborative_Adaptation_to_Continual_Changing_Environments_in_the_Real-World_CVPR_2023_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7290595177343952631&hl=en)
 
 - `...` [Almansoori et al., Proc. Scandinavian Conference on Image Analysis 2023] **Anchor-ReID: A test time adaptation for person re-identification** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-31438-4_39) [[G-Scholar--]]()
 
