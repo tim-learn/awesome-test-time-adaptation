@@ -143,6 +143,10 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `...` [Narayanan et al., Proc. ICLR Workshops 2023] **A simple test-time adaptation method for source-free domain generalization** [[PDF]](https://openreview.net/forum?id=Ran2xUWG2n) [[G-Scholar--]]()
 
+- `DSS` [Chakrabarty et al., Proc. ICLR Workshops 2023] **Domain shift signal for low resource continuous test-time adaptation** [[PDF]](https://pml4dc.github.io/iclr2023/pdf/PML4DC_ICLR2023_46.pdf) [[G-Scholar--]]()
+
+- `JumpStyle` [Singh et al., Proc. ICLR Workshops 2023] **JumpStyle: A framework for data-efficient online adaptation** [[PDF]](https://pml4dc.github.io/iclr2023/pdf/PML4DC_ICLR2023_47.pdf) [[G-Scholar--]]()
+
 - `ECL` [Han et al., Arxiv 2023] **Rethinking precision of pseudo label: Test-time adaptation via complementary learning** [[PDF]](https://arxiv.org/abs/2301.06013) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3929794078133562489&hl=en)
 
 - `TTAC++` [Su et al., Arxiv 2023] **Revisiting realistic test-time training: Sequential inference and adaptation by anchored clustering regularized self-training** [[PDF]](https://arxiv.org/abs/2303.10856) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13164314529398251378&hl=en)
@@ -213,3 +217,13 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 ## Related
 - `GTTA-ST` [Marsden et al., Arxiv 2022] **Introducing intermediate domains for effective self-training during test-time** [[PDF]](https://arxiv.org/abs/2208.07736) [[G-Scholar--]]()
+
+- `Co-UCB` [Ye et al., Proc. ACL 2023] **Multi-source test-time adaptation as dueling bandits for extractive question answering** [[PDF]](https://arxiv.org/abs/2306.06779) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4703214228724350379&hl=en)
+
+
+
+
+
+
+
+- `DSS` [Chakrabarty et al., Proc. ICLR Workshops 2023] **Domain shift signal for low resource continuous test-time adaptation** [[PDF]](https://pml4dc.github.io/iclr2023/pdf/PML4DC_ICLR2023_46.pdf) [[G-Scholar--]]()

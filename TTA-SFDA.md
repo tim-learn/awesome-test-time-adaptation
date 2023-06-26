@@ -594,13 +594,14 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 ### 3D Object Detection
 - `SF-UDA3D` [Saltori et al., Proc. 3DV 2020] **SF-UDA3D: Source-free unsupervised domain adaptation for lidar-based 3d object detection** [[PDF]](https://arxiv.org/abs/2010.08243) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12668139134909180101&hl=en) [[CODE]](https://github.com/saltoricristiano/SF-UDA-3DV)
 
-- `UAMT` [Hegde et al., Arxiv 2021] **Uncertainty-aware mean teacher for source-free unsupervised domain adaptive 3d object detection** [[PDF]](https://arxiv.org/abs/2109.14651) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15247976641359211271&hl=en) [[CODE]](https://github.com/deeptibhegde/UncertaintyAwareMeanTeacher)
-
 - `AP-SFDA` [Hegde et al., Arxiv 2021] **Attentive prototypes for source-free unsupervised domain adaptive 3d object detection** [[PDF]](https://arxiv.org/abs/2111.15656) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4281673598628254257&hl=en) [[CODE]](https://github.com/deeptibhegde/AttentivePrototypeSFUDA)
 
 - `ST3D` [Yang et al., Proc. CVPR 2021] **ST3D: Self-training for unsupervised domain adaptation on 3d object detection** [[PDF]](https://openaccess.thecvf.com/content/CVPR2021/html/Yang_ST3D_Self-Training_for_Unsupervised_Domain_Adaptation_on_3D_Object_Detection_CVPR_2021_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12232176416755323092&hl=en) [[CODE]](https://github.com/CVMI-Lab/ST3D)
 
 - `Dreaming` [You et al., Proc. ICRA 2022] **Exploiting playbacks in unsupervised domain adaptation for 3d object detection** [[PDF]](https://ieeexplore.ieee.org/abstract/document/9811722/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2067943135953406159&hl=en)
+
+  ~~`UAMT` [Hegde et al., Arxiv 2021] **Uncertainty-aware mean teacher for source-free unsupervised domain adaptive 3d object detection** [[PDF]](https://arxiv.org/abs/2109.14651) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15247976641359211271&hl=en) [[CODE]](https://github.com/deeptibhegde/UncertaintyAwareMeanTeacher)~~
+- `UAMT` [Hegde et al., Proc. ICRA 2023] **Uncertainty-aware mean teacher for source-free unsupervised domain adaptive 3d object detection** [[PDF]](https://arxiv.org/abs/2109.14651) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15247976641359211271&hl=en) [[CODE]](https://github.com/deeptibhegde/UncertaintyAwareMeanTeacher)
 
 ### 3D Pose Estimation
 - `Anat-SFDA` [Bigalke et al., Arxiv 2022] **Anatomy-guided domain adaptation for 3D in-bed human pose estimation** [[PDF]](https://arxiv.org/abs/2211.12193) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5720884605736008576&hl=en) [[CODE]](https://github.com/multimodallearning/da-3dhpe-anatomy)
@@ -770,6 +771,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `CIDA` [Kundu et al., Proc. ECCV 2020] **Class-incremental domain adaptation** [[PDF]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580052.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15757977957260800975&hl=en)
 
+- `DEG-Net` [Dong et al., Proc. ICML 2023] **Diversity-enhancing generative network for few-shot hypothesis adaptation** [[PDF]](https://openreview.net/forum?id=PJzjHAnoVp)[[G-Scholar--]]()
+
 - `RMT` [Döbler et al., Proc. CVPR 2023] **Class-incremental domain adaptation** [[PDF]](https://arxiv.org/abs/2211.13081) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5205082821636588766&hl=en) [[CODE]](https://github.com/mariodoebler/test-time-adaptation)
 
 - `TIDo` [Ambastha and Yun, Arxiv 2023] **TIDo: Source-free task incremental learning in non-stationary environments** [[PDF]](https://arxiv.org/abs/2301.12055) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17872927398350991456&hl=en)
@@ -777,4 +780,3 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 - `ALeN` [Ambastha and Yun, Arxiv 2023] **Adversarial learning networks: Source-free unsupervised domain incremental learning** [[PDF]](https://arxiv.org/abs/2301.12055) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3178251369340369001&hl=en)
 
 - `...` [Singh and Diggavi, Arxiv 2023] **Representation transfer learning via multiple pre-trained models for linear regression** [[PDF]](https://arxiv.org/abs/2305.16440) [[G-Scholar--]]()
-
