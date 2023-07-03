@@ -216,11 +216,13 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 ### Consistency
 - `SSL-MOCAP` [Tung et al., Proc. NeurIPS 2017] **Self-supervised learning of motion capture** [[PDF]](https://proceedings.neurips.cc/paper/7108-self-supervised-learning-of-motion-capture) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11316472994665815439&hl=en) [[CODE]](https://github.com/htung0101/3d_smpl)
 
-- `REFINE` [Leung et al., Proc. CVPR Workshops 2022] **Black-box test-time shape REFINEment for single view 3D reconstruction** [[PDF]](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/html/Leung_Black-Box_Test-Time_Shape_REFINEment_for_Single_View_3D_Reconstruction_CVPRW_2022_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14768608972107159837&hl=en) [[CODE]](https://github.com/b7leung/REFINE)
-
 - `MetaVFI` [Choi et al., Proc. CVPR 2020] **Scene-adaptive video frame interpolation via meta-learning** [[PDF]](http://openaccess.thecvf.com/content_CVPR_2020/html/Choi_Scene-Adaptive_Video_Frame_Interpolation_via_Meta-Learning_CVPR_2020_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2749309242157904592&hl=en)
 
+- `REFINE` [Leung et al., Proc. CVPR Workshops 2022] **Black-box test-time shape REFINEment for single view 3D reconstruction** [[PDF]](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/html/Leung_Black-Box_Test-Time_Shape_REFINEment_for_Single_View_3D_Reconstruction_CVPRW_2022_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14768608972107159837&hl=en) [[CODE]](https://github.com/b7leung/REFINE)
+
 - `MetaVFI` [Choi et al., IEEE TPAMI 2021] **Test-time adaptation for video frame interpolation via meta-learning** [[PDF]](https://ieeexplore.ieee.org/abstract/document/9625774) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4253219786252969489&hl=en)
+
+- `VFI_Adapter` [Wu et al., Arxiv 2023] **Boost video frame interpolation via motion adaptation** [[PDF]](https://arxiv.org/abs/2306.13933) [[G-Scholar--]]() [[CODE]](https://github.com/haoningwu3639/VFI_Adapter)
 
 ### NLP 
 - `TTL-EQA` [Banerjee et al., Proc. NAACL 2021] **Self-supervised test-time learning for reading comprehension** [[PDF]](https://aclanthology.org/2021.naacl-main.95/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7170102090609189822&hl=en)
