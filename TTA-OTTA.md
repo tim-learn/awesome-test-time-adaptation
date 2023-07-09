@@ -201,7 +201,7 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `OAP` [Belli et al., Proc. ICIP 2022] **Online adaptive personalization for face anti-spoofing** [[PDF]](https://arxiv.org/abs/2207.12272) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16721384652546319953&hl=en)
 
-- `TTA-MDE` [Li et al., Proc. ICRA 2023] **Test-time domain adaptation for monocular depth estimation** [[PDF--]]() [[G-Scholar--]]()
+- `TTA-MDE` [Li et al., Proc. ICRA 2023] **Test-time domain adaptation for monocular depth estimation** [[PDF]](https://ieeexplore.ieee.org/document/10161304/) [[G-Scholar--]]()
 
 - `SETA` [Chen et al., Proc. CVPR 2023] **Open-world pose transfer via sequential test-time adaption** [[PDF]](https://arxiv.org/abs/2303.10945) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10128906985931479564&hl=en)
 

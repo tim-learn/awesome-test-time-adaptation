@@ -319,11 +319,13 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `SF-FDN` [Li et al., IEEE TFS 2023] **Source-free multi-domain adaptation with fuzzy rule-based deep neural networks** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10128698) [[G-Scholar--]]()
 
-- `BPDA` [Shi et al., PR 2023] **Source-free and black-box domain adaptation via distributionally adversarial training** [[PDF]](https://www.sciencedirect.com/science/article/pii/S003132032300448X) [[G-Scholar--]]() [[CODE]](https://github.com/shiyuchengTJU/BPDA)
+- `BPDA` [Shi et al., Pattern Recognition 2023] **Source-free and black-box domain adaptation via distributionally adversarial training** [[PDF]](https://www.sciencedirect.com/science/article/pii/S003132032300448X) [[G-Scholar--]]() [[CODE]](https://github.com/shiyuchengTJU/BPDA)
 
 - `UC-SFDA` [Chen et al., Knowledge-Based Systems 2023] **UC-SFDA: Source-free domain adaptation via uncertainty prediction and evidence-based contrastive learning** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0950705123004781) [[G-Scholar--]]() [[CODE]](https://www.github.com/oolown/UC-SFDA)
 
 - `RS2L` [Tian et al., Signal, Image and Video Processing 2023] **Robust self-supervised learning for source-free domain adaptation** [[PDF]](https://link.springer.com/article/10.1007/s11760-022-02457-z) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18298807507396100788&hl=en)
+
+- `...` [Zhao and Wang, Applied Intelligence 2023] **Universal model adaptation by style augmented open-set consistency** [[PDF]](https://link.springer.com/article/10.1007/s10489-023-04731-0) [[G-Scholar--]]() 
 
 - `MViT-PCD` [Dai et al., IEEE Geoscience and Remote Sensing Letters 2023] **MViT-PCD: A lightweight ViT-based network for martian surface topographic change detection** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10007802/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18353796834673985495&hl=en) [[CODE]](https://github.com/lynn1023-max/MViTPCD)
 
@@ -430,6 +432,10 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 - `CoSDA` [Feng et al., Arxiv 2023] **CoSDA: Continual source-free domain adaptation** [[PDF]](https://arxiv.org/abs/2304.06627) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9482207153777900850&hl=en) [[CODE]](https://github.com/FengHZ/CoSDA)
 
 - `IAPC` [Cao et al., Arxiv 2023] **Towards source-free domain adaptive semantic segmentation via importance-aware and prototype-contrast learning** [[PDF]](https://arxiv.org/abs/2306.01598) [[G-Scholar--]]() [[CODE]](https://github.com/yihong-97/Source-free_IAPC)
+
+- `PTDiffSeg` [Gong et al., Arxiv 2023] **Prompting diffusion representations for cross-domain semantic segmentation** [[PDF]](https://arxiv.org/abs/2307.02138) [[G-Scholar--]]() [[CODE--]](https://github.com/ETHRuiGong/PTDiffSeg)
+
+- `ReGEN` [Tjio et al., Arxiv 2023] **Generating reliable pixel-level labels for source free domain adaptation** [[PDF]](https://arxiv.org/abs/2307.00893) [[G-Scholar--]]()
 
 - `...` [Sashikanth., Master Thesis 2023] **Active learning guided source-free domain adaptive semantic segmentation and applications in the environmental space** [[PDF]](https://escholarship.org/uc/item/1j56m62f) [[G-Scholar--]]()
 
@@ -606,8 +612,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `Dreaming` [You et al., Proc. ICRA 2022] **Exploiting playbacks in unsupervised domain adaptation for 3d object detection** [[PDF]](https://ieeexplore.ieee.org/abstract/document/9811722/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2067943135953406159&hl=en)
 
-  ~~`UAMT` [Hegde et al., Arxiv 2021] **Uncertainty-aware mean teacher for source-free unsupervised domain adaptive 3d object detection** [[PDF]](https://arxiv.org/abs/2109.14651) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15247976641359211271&hl=en) [[CODE]](https://github.com/deeptibhegde/UncertaintyAwareMeanTeacher)~~
-- `UAMT` [Hegde et al., Proc. ICRA 2023] **Uncertainty-aware mean teacher for source-free unsupervised domain adaptive 3d object detection** [[PDF]](https://arxiv.org/abs/2109.14651) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15247976641359211271&hl=en) [[CODE]](https://github.com/deeptibhegde/UncertaintyAwareMeanTeacher)
+  ~~ [Hegde et al., Arxiv 2021] **Uncertainty-aware mean teacher for source-free unsupervised domain adaptive 3d object detection** [[PDF]](https://arxiv.org/abs/2109.14651) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15247976641359211271&hl=en) [[CODE]](https://github.com/deeptibhegde/UncertaintyAwareMeanTeacher)~~
+- `UAMT` [Hegde et al., Proc. ICRA 2023] **Source-free unsupervised domain adaptation for 3D object detection in adverse weather** [[PDF]](https://ieeexplore.ieee.org/document/10161341/) [[G-Scholar--]]() [[CODE]](https://github.com/deeptibhegde/UncertaintyAwareMeanTeacher)
 
 ### 3D Pose Estimation
 - `Anat-SFDA` [Bigalke et al., Arxiv 2022] **Anatomy-guided domain adaptation for 3D in-bed human pose estimation** [[PDF]](https://arxiv.org/abs/2211.12193) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5720884605736008576&hl=en) [[CODE]](https://github.com/multimodallearning/da-3dhpe-anatomy)
@@ -790,3 +796,6 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 - `ALeN` [Ambastha and Yun, Arxiv 2023] **Adversarial learning networks: Source-free unsupervised domain incremental learning** [[PDF]](https://arxiv.org/abs/2301.12055) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3178251369340369001&hl=en)
 
 - `...` [Singh and Diggavi, Arxiv 2023] **Representation transfer learning via multiple pre-trained models for linear regression** [[PDF]](https://arxiv.org/abs/2305.16440) [[G-Scholar--]]()
+
+---------------------------------------------
+- `...` [Huang et al., Arxiv 2023] **Prompt ensemble self-training for open-vocabulary domain adaptation** [[PDF]](https://arxiv.org/abs/2306.16658) [[G-Scholar--]]()

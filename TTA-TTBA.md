@@ -100,8 +100,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `SR-TTT` [Lyu et al., IEEE TMI 2022] **Learning from synthetic CT images via test-time training for liver tumor segmentation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/9754550/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13052647575651297623&hl=en) [[CODE]](https://github.com/FeiLyu/SR-TTT)
 
-  ~~`Slot-TTA` [Prabhudesai et al., Proc. NeurIPS Workshops 2022] **Test-time adaptation with slot-centric models** [[PDF]](https://openreview.net/forum?id=b8F8xz6_DuX) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14308566097544119245&hl=en)~~
-- `Slot-TTA` [Prabhudesai et al., Proc. ICML 2023] **Test-time adaptation with slot-centric models** [[PDF]](https://openreview.net/forum?id=b8F8xz6_DuX) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14308566097544119245&hl=en)
+  ~~[Prabhudesai et al., Proc. NeurIPS Workshops 2022] **Test-time adaptation with slot-centric models** [[PDF]](https://openreview.net/forum?id=b8F8xz6_DuX) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14308566097544119245&hl=en)~~
+- `Slot-TTA` [Prabhudesai et al., Proc. ICML 2023] **Test-time adaptation with slot-centric models** [[PDF]](https://openreview.net/forum?id=b8F8xz6_DuX) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14308566097544119245&hl=en) [[CODE]](https://github.com/mihirp1998/Slot-TTA)
 
 - `DIGA` [Wang et al., Proc. CVPR 2023] **Dynamically instance-guided adaptation: A backward-free approach for test-time domain adaptive semantic segmentation** [[PDF]](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Dynamically_Instance-Guided_Adaptation_A_Backward-Free_Approach_for_Test-Time_Domain_Adaptive_CVPR_2023_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5310249894401773826&hl=en) [[CODE]](https://github.com/Waybaba/DIGA)
 
