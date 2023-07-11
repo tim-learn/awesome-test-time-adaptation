@@ -351,6 +351,10 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `T-CPGA` [Lin et al., Arxiv 2023] **Imbalance-agnostic source-free domain adaptation via avatar prototype alignment** [[PDF]](https://arxiv.org/abs/2305.12649)) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5357797129800546100&hl=en)
 
+- `Proto-SF-OSDA` [Vray et al., Arxiv 2023] **Source-free open-set domain adaptation for histopathological images via distilling self-supervised vision transformer** [[PDF]](https://arxiv.org/abs/2307.04596) [[G-Scholar--]]() [[CODE--]](https://github.com/LTS5/Proto-SF-OSDA)
+
+- `FREEDOM` [Yang et al., Arxiv 2023] **FREEDOM: Target label & source data & domain information-free multi-source domain adaptation for unsupervised personalization** [[PDF]](https://arxiv.org/abs/2307.02493) [[G-Scholar--]]()
+
 - `E2` [Shen et al., Misc 2023] **E2: Entropy discrimination and energy optimization for source-free universal domain adaptation** [[PDF]](https://openreview.net/forum?id=FMEXgK9-I8) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2517695593354531262&hl=en)
 
 - `SepRep-Net` [Jin et al., Misc 2023] **SepRep-Net: Multi-source free domain adaptation via model separation and reparameterization** [[PDF]](https://openreview.net/forum?id=E67OghNSDMf) [[G-Scholar--]]()
@@ -740,6 +744,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 - `BKD-SFUDA` [Tian et al., Proc. International Conference on Computer Supported Cooperative Work in Design 2023] **Knowledge distillation with source-free unsupervised domain adaptation for BERT model compression** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10152760/) [[G-Scholar--]]()
 
 - `SFTTN` [Shen et al., IEEE TPEL 2023] **Source-free cross-domain state of charge estimation of lithium-ion batteries at different ambient temperatures** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10058040/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14503249759236941200&hl=en)
+
+- `...` [Yue et al., IEEE TIM 2023] **Multiple source-free domain adaptation network based on knowledge distillation for machinery fault diagnosis** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10174649) [[G-Scholar--]]()
 
 - `SS-TrBoosting` [Zhao et al., IEEE TNSRE 2023] **Source-free domain adaptation (SFDA) for privacy-preserving seizure subtype classification** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10122236) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13671255325572013222&hl=en)
 

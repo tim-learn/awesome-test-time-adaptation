@@ -157,6 +157,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `RDumb` [Press et al., Arxiv 2023] **RDumb: A simple approach that questions our progress in continual test-time adaptation** [[PDF]](https://arxiv.org/abs/2306.05401) [[G-Scholar--]]() [[CODE]](https://github.com/oripress/CCC)
 
+- `...` [Yu et al., Arxiv 2023] **Benchmarking test-time adaptation against distribution shifts in image classification** [[PDF]](https://arxiv.org/abs/2307.03133) [[G-Scholar--]]() [[CODE]](https://github.com/yuyongcan/benchmark-tta)
+
 - `VPL` [Ambekar et al., Misc 2023] **Variational pseudo labels for meta test-time adaptation** [[PDF]](https://openreview.net/forum?id=iOag71mvHI) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2267598876397998774&hl=en)
 
 ### Segmentation
@@ -167,6 +169,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `MM-TTA` [Shin et al., Proc. CVPR 2022] **MM-TTA: Multi-Modal test-time adaptation for 3D semantic segmentation** [[PDF]](https://openaccess.thecvf.com/content/CVPR2022/html/Shin_MM-TTA_Multi-Modal_Test-Time_Adaptation_for_3D_Semantic_Segmentation_CVPR_2022_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9888905009796840437&hl=en) [[CODE--]](https://www.nec-labs.com/~mas/MM-TTA)
 
 - `CD-TTA` [Song et al., Arxiv 2022] **CD-TTA: Compound domain test-time adaptation for semantic segmentation** [[PDF]](https://arxiv.org/abs/2212.08356) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16005649886301679271&hl=en)
+
+- `Night-TTA` [Liu et al., Arxiv 2023] **Test-time adaptation for nighttime color-thermal semantic segmentation** [[PDF]](https://arxiv.org/abs/2307.04470) [[G-Scholar--]]()
 
 ### NLP
 - `OIL` [Ye et al., Proc. EMNLP Findings 2022] **Robust question answering against distribution shifts with test-time adaptation: An empirical study** [[PDF]](https://arxiv.org/abs/2302.04618) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14000848114209529359&hl=en) [[CODE]](https://github.com/oceanypt/coldqa-tta)
@@ -219,11 +223,5 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `GTTA-ST` [Marsden et al., Arxiv 2022] **Introducing intermediate domains for effective self-training during test-time** [[PDF]](https://arxiv.org/abs/2208.07736) [[G-Scholar--]]()
 
 - `Co-UCB` [Ye et al., Proc. ACL 2023] **Multi-source test-time adaptation as dueling bandits for extractive question answering** [[PDF]](https://arxiv.org/abs/2306.06779) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4703214228724350379&hl=en)
-
-
-
-
-
-
 
 - `DSS` [Chakrabarty et al., Proc. ICLR Workshops 2023] **Domain shift signal for low resource continuous test-time adaptation** [[PDF]](https://pml4dc.github.io/iclr2023/pdf/PML4DC_ICLR2023_46.pdf) [[G-Scholar--]]()

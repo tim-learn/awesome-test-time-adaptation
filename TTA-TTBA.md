@@ -109,6 +109,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `WOSA-AugSelf` [Huang et al., Computer Methods and Programs in Biomedicine 2023] **Test-time bi-directional adaptation between image and model for robust segmentation** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0169260723001438) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14768083414195901454&hl=en)
 
+- `AdaAtlas` [Guo et al., Arxiv 2023] **Pay attention to the atlas: Atlas-guided test-time adaptation method for robust 3D medical image segmentation** [[PDF]](https://arxiv.org/abs/2307.00676) [[G-Scholar--]]()
+
 - `TTA-SEG` [Janouskova., Master Thesis 2023] **Test-time adaptation for segmentation** [[PDF]]() [[G-Scholar--]]() [[CODE]](https://github.com/klarajanouskova/TTA-SEG)
 
 ### Detection
@@ -263,6 +265,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `...` [Liu et al., Proc. WACV 2023] **Meta-auxiliary learning for future depth prediction in videos** [[PDF]](https://openaccess.thecvf.com/content/WACV2023/html/Min_Meta-Learning_for_Adaptation_of_Deep_Optical_Flow_Networks_WACV_2023_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9083144572156364990&hl=en)
 
+- `TDS` [Wen et al., IEEE TMM 2023] **Test-time model adaptation for visual question answering with debiased self-supervisions** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10173554/) [[G-Scholar--]]()
+
 - `SRR-MAML` [Huo et al., Arxiv 2023] **Learning adaptable risk-sensitive policies to coordinate in multi-agent general-sum games** [[PDF]](https://arxiv.org/abs/2304.02162) [[G-Scholar]](https://scholar.google.com/scholar?cluster=146325397292652498&hl=en)
 
 - `ARSP` [Liu and Fang, Arxiv 2023] **Learning to recover spectral reflectance from
@@ -271,6 +275,8 @@ RGB images** [[PDF]](https://arxiv.org/abs/2303.07850) [[G-Scholar]](https://sch
 - `RLCF` [Zhao et al., Arxiv 2023] **Test-time adaptation with CLIP reward for zero-shot generalization in vision-language models** [[PDF]](https://arxiv.org/abs/2305.18010) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13354273242354297247&hl=en) [[CODE--]]()
 
 - `DROP` [Liu et al., Arxiv 2023] **Design from policies: Conservative test-time adaptation for offline policy optimization** [[PDF]](https://arxiv.org/abs/2306.14479) [[G-Scholar--]]()
+
+- `MoVie` [Yang et al., Arxiv 2023] **MoVie: Visual Model-Based Policy Adaptation for View Generalization** [[PDF]](https://arxiv.org/abs/2307.00972) [[G-Scholar--]]() [[CODE]](https://github.com/yangsizhe/MoVie)
 
 - `...` [Wang et al., Misc 2023] **Test-time training on video streams** [[PDF]](https://openreview.net/forum?id=orbnZE-4UvD) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6098567519147081981&hl=en)
 
@@ -319,9 +325,11 @@ RGB images** [[PDF]](https://arxiv.org/abs/2303.07850) [[G-Scholar]](https://sch
 
 - `...` [Azimi et al., Proc. WACV 2022] **Self-supervised test-time adaptation on video data** [[PDF]](https://openaccess.thecvf.com/content/WACV2022/html/Azimi_Self-Supervised_Test-Time_Adaptation_on_Video_Data_WACV_2022_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11449570492704365767&hl=en)
 
-- `...` [Yeh et al., Proc. CVPR 2023] **Meta-personalizing vision-language models to find named instances in video** [[PDF]](http://openaccess.thecvf.com/content/CVPR2023/html/Yeh_Meta-Personalizing_Vision-Language_Models_To_Find_Named_Instances_in_Video_CVPR_2023_paper.html) [[G-Scholar--]]()
+- `...` [Yeh et al., Proc. CVPR 2023] **Meta-personalizing vision-language models to find named instances in video** [[PDF]](http://openaccess.thecvf.com/content/CVPR2023/html/Yeh_Meta-Personalizing_Vision-Language_Models_To_Find_Named_Instances_in_Video_CVPR_2023_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5736801019110688089&hl=en)
 
 - `...` [Mutlu et al., Arxiv 2023] **TempT: Temporal consistency for test-time adaptation** [[PDF]](https://arxiv.org/abs/2303.10536) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13961877707627428919&hl=en)
+
+- `Meta-VPL` [Ambekar et al., Arxiv 2023] **Learning variational neighbor labels for test-time domain generalization** [[PDF]](https://arxiv.org/abs/2307.04033) [[G-Scholar--]]()
 
 ### Misc
 - `TTP` [Li et al., Proc. NeurIPS 2021] **Test-time personalization with a transformer for human pose estimation** [[PDF]](https://openreview.net/forum?id=cwSkaedP-wz) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8881142280914530303&hl=en) [[CODE]](https://github.com/harry11162/TTP)
@@ -345,6 +353,8 @@ RGB images** [[PDF]](https://arxiv.org/abs/2303.07850) [[G-Scholar]](https://sch
 - `SCIA` [Kan et al., Proc. CVPR 2023] **Self-correctable and adaptable inference for generalizable human pose estimation** [[PDF]](https://openaccess.thecvf.com/content/CVPR2023/html/Kan_Self-Correctable_and_Adaptable_Inference_for_Generalizable_Human_Pose_Estimation_CVPR_2023_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13052005330920059778&hl=en)
 
 - `...` [Cui et al., Proc. AAAI 2023] **Meta-auxiliary learning for adaptive human pose prediction** [[PDF]](https://arxiv.org/abs/2304.06411) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14630011385813471433&hl=en)
+
+- `...` [Yi and Kim, Proc. ICRA 2023] **Test-time synthetic-to-real adaptive depth estimation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10160773/) [[G-Scholar--]]()
 
 - `LD-BN-ADAPT` [Bhardwaj et al., Proc. DATE 2023] **Real-time fully unsupervised domain adaptation for lane detection in autonomous driving** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10136937/) [[G-Scholar--]]()
 
