@@ -556,20 +556,22 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 - `...` [Li et al., Misc 2022] **Source-free unsupervised adaptive segmentation for knee joint MRI** [[PDF]](https://www.techrxiv.org/articles/preprint/Source-free_Unsupervised_Adaptive_Segmentation_for_Knee_Joint_MRI/21749414) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13776259422469947288&hl=en)
 
 ### 2023
-- `SUMT` [Wen et al., Proc. IPMI 2023] **Source-free domain adaptation for medical image segmentation via selectively updated mean teacher** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-34048-2_18) [[G-Scholar--]]()
+- `SUMT` [Wen et al., Proc. IPMI 2023] **Source-free domain adaptation for medical image segmentation via selectively updated mean teacher** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-34048-2_18) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8075738409234807110&hl=en)
 
-- `UPL-TTA` [Wu et al., Proc. IPMI 2023] **UPL-TTA: Uncertainty-aware pseudo label guided fully test time adaptation for fetal brain segmentation** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-34048-2_19) [[G-Scholar--]]()
+- `UPL-TTA` [Wu et al., Proc. IPMI 2023] **UPL-TTA: Uncertainty-aware pseudo label guided fully test time adaptation for fetal brain segmentation** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-34048-2_19) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16754295285142401028&hl=en)
 
-- `RPANet` [Wang and Chen., Proc. IPMI 2023] **Unsupervised adaptation of polyp segmentation models via coarse-to-fine self-supervision** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-34048-2_20) [[G-Scholar--]]()
+- `RPANet` [Wang and Chen, Proc. IPMI 2023] **Unsupervised adaptation of polyp segmentation models via coarse-to-fine self-supervision** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-34048-2_20) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1578571642037964508&hl=en)
+
+- `...` [Yu et al., Proc. MICCAI 2023] **Source-free domain adaptation for medical image segmentation via prototype-anchored feature alignment and contrastive learning** [[PDF--]]() [[G-Scholar--]]() [[CODE--]](https://github.com/CSCYQJ/MICCAI23-ProtoContra-SFDA)
 
   ----------------------------
 
 - `...` [Li et al., IEEE TMI 2023] **Towards source-free cross tissues histopathological cell segmentation via target-specific finetuning** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10087318) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5356003107098200108&hl=en) [[CODE]](https://github.com/NeuronXJTU/SFDA-CellSeg)
 
 - `DUT` [Liu et al., IEEE TNNLS 2023] **Decoupled unbiased teacher for source-free
-domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10128698) [[G-Scholar--]]() [[CODE]](https://github.com/CUHK-AIM-Group/Decoupled-Unbiased-Teacher)
+domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10128698) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5394961859696758606&hl=en) [[CODE]](https://github.com/CUHK-AIM-Group/Decoupled-Unbiased-Teacher)
 
-- `SCD` [Zhou et al., Computers in Biology and Medicine 2023] **Superpixel-guided class-level denoising for unsupervised domain adaptive fundus image segmentation without source data** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0010482523005267) [[G-Scholar--]]()
+- `SCD` [Zhou et al., Computers in Biology and Medicine 2023] **Superpixel-guided class-level denoising for unsupervised domain adaptive fundus image segmentation without source data** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0010482523005267) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14733171849301790547&hl=en)
 
 - `CP3Net` [Feng et al., Knowledge-Based Systems 2023] **Cross-platform privacy-preserving CT image COVID-19 diagnosis based on source-free domain adaptation** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0950705123000746) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13133706915130616700&hl=en)
 
@@ -681,7 +683,7 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 - `DocTTA` [Ebrahimi et al., Arxiv 2022] **Test-time adaptation for visual document understanding** [[PDF]](https://arxiv.org/abs/2206.07240) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4974275319186080260&hl=en) [[DATA]](https://sites.google.com/berkeley.edu/doctta/)
 
 ### 2D Keypoint detection (Pose estimation)
-- `MAPS` [Ding et al., Arxiv 2023] **MAPS: A noise-robust progressive learning approach for source-free domain adaptive keypoint detection** [[PDF]](https://arxiv.org/abs/2302.04589) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13949106311988540827&hl=en)
+- `MAPS` [Ding et al., IEEE TCSVT 2023] **MAPS: A noise-robust progressive learning approach for source-free domain adaptive keypoint detection** [[PDF]](https://arxiv.org/abs/2302.04589) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13949106311988540827&hl=en) [[CODE]](https://github.com/YuheD/MAPS)
 
 ### Anomaly detection
 - `CaSA` [Bozorgtabar et al., Proc. BMVC 2022] **Anomaly detection and localization using attention-guided synthetic anomaly and test-time adaptation** [[PDF]](https://bmvc2022.mpi-inf.mpg.de/0472.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=209397539357448856&hl=en)
