@@ -49,7 +49,9 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `SVDP` [Yang et al., Arxiv 2023] **Exploring sparse visual prompt for cross-domain semantic segmentation** [[PDF]](https://arxiv.org/abs/2303.09792) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2685189818181436154&hl=en)
 
-- `CoMAC` [Cao et al., Arxiv 2023] **Multi-modal continual test-time adaptation for 3D semantic segmentation** [[PDF]](https://arxiv.org/abs/2303.10457) [[G-Scholar--]]()
+- `CoMAC` [Cao et al., Arxiv 2023] **Multi-modal continual test-time adaptation for 3D semantic segmentation** [[PDF]](https://arxiv.org/abs/2303.10457) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7973620080751058068&hl=en)
+
+- `...` [Wang et al., Arxiv 2023] **Test-time training on video streams** [[PDF]](https://arxiv.org/abs/2307.05014) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6098567519147081981&hl=en)
 
 ### Misc
 - `BOA` [Guan et al., Proc. CVPR 2021] **Bilevel online adaptation for out-of-domain human mesh reconstruction** [[PDF]](https://openaccess.thecvf.com/content/CVPR2021/html/Guan_Bilevel_Online_Adaptation_for_Out-of-Domain_Human_Mesh_Reconstruction_CVPR_2021_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14857518758485826444&hl=en) [[CODE]](https://github.com/syguan96/BOA)

@@ -305,6 +305,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `CIN` [Tang et al., Proc. ICIP 2023] **Cross-inferential networks for source-free unsupervised domain adaptation** [[PDF]](https://arxiv.org/abs/2306.16957) [[G-Scholar--]]() 
 
+- `RAT` [Xiao et al., Proc. ICME 2023] **Adversarially robust source-free domain adaptation with relaxed adversarial training** [[PDF--]]() [[G-Scholar--]]() [[CODE]](https://github.com/Coxy7/RAT)
+
 - `FCDA` [Lee and Lee, Proc. SPIE International Workshop on Advanced Imaging Technology 2023] **A source-free unsupervised domain adaptation method based on feature consistency** [[PDF]](https://www.spiedigitallibrary.org/proceedings/Download?urlId=10.1117%2F12.2666906) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4306888360461661923&hl=en)
 
 - `PaCDA` [Prasanna B et al., Proc. CVPR Workshops 2023] **Continual domain adaptation through pruning-aided domain-specific weight modulation** [[PDF]](https://arxiv.org/abs/2304.07560) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4639321340065295039&hl=en) [[CODE]](https://github.com/PrasannaB29/PACDA)
@@ -354,6 +356,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 - `Proto-SF-OSDA` [Vray et al., Arxiv 2023] **Source-free open-set domain adaptation for histopathological images via distilling self-supervised vision transformer** [[PDF]](https://arxiv.org/abs/2307.04596) [[G-Scholar--]]() [[CODE--]](https://github.com/LTS5/Proto-SF-OSDA)
 
 - `FREEDOM` [Yang et al., Arxiv 2023] **FREEDOM: Target label & source data & domain information-free multi-source domain adaptation for unsupervised personalization** [[PDF]](https://arxiv.org/abs/2307.02493) [[G-Scholar--]]()
+
+- `CCT` [Yan et al., Arxiv 2023] **Universal semi-supervised model adaptation via collaborative consistency training** [[PDF]](https://arxiv.org/abs/2307.03449) [[G-Scholar--]]()
 
 - `E2` [Shen et al., Misc 2023] **E2: Entropy discrimination and energy optimization for source-free universal domain adaptation** [[PDF]](https://openreview.net/forum?id=FMEXgK9-I8) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2517695593354531262&hl=en)
 

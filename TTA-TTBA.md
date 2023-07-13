@@ -278,8 +278,6 @@ RGB images** [[PDF]](https://arxiv.org/abs/2303.07850) [[G-Scholar]](https://sch
 
 - `MoVie` [Yang et al., Arxiv 2023] **MoVie: Visual Model-Based Policy Adaptation for View Generalization** [[PDF]](https://arxiv.org/abs/2307.00972) [[G-Scholar--]]() [[CODE]](https://github.com/yangsizhe/MoVie)
 
-- `...` [Wang et al., Arxiv 2023] **Test-time training on video streams** [[PDF]](https://arxiv.org/abs/2307.05014) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6098567519147081981&hl=en)
-
 ## Batch-level
 ### Classification
 - `ARM` [Zhang et al., Proc. NeurIPS 2021] **Adaptive risk minimization: Learning to adapt to domain shift** [[PDF]](https://openreview.net/forum?id=-zgb2v8vV_w) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6509702681777063562&hl=en) [[CODE]](https://github.com/henrikmarklund/arm)
