@@ -261,6 +261,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `MATE` [Mirza et al., Arxiv 2022] **MATE: Masked autoencoders are online 3D test-time learners** [[PDF]](https://arxiv.org/abs/2211.11432) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17319713522651218187&hl=en)
 
+- `DFA` [Mirza et al., Proc. ICML 2023] **Diagnosis, feedback, adaptation: A human-in-the-loop framework for test-time policy adaptation** [[PDF]](https://arxiv.org/abs/2307.06333) [[G-Scholar--]]()
+
 - `PAFF` [Ge et al., Proc. CVPR 2023] **Policy adaptation from foundation model feedback** [[PDF]](https://openaccess.thecvf.com/content/WACV2023/html/Min_Meta-Learning_for_Adaptation_of_Deep_Optical_Flow_Networks_WACV_2023_paper.html) [[G-Scholar--]]()
 
 - `...` [Liu et al., Proc. WACV 2023] **Meta-auxiliary learning for future depth prediction in videos** [[PDF]](https://openaccess.thecvf.com/content/WACV2023/html/Min_Meta-Learning_for_Adaptation_of_Deep_Optical_Flow_Networks_WACV_2023_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9083144572156364990&hl=en)
