@@ -568,6 +568,11 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `...` [Yu et al., Proc. MICCAI 2023] **Source-free domain adaptation for medical image segmentation via prototype-anchored feature alignment and contrastive learning** [[PDF--]]() [[G-Scholar--]]() [[CODE--]](https://github.com/CSCYQJ/MICCAI23-ProtoContra-SFDA)
 
+- `CBMT` [Tang et al., Proc. MICCAI 2023] **Source-free domain adaptive fundus image
+segmentation with class-balanced mean teacher** [[PDF]](https://arxiv.org/abs/2307.09973) [[G-Scholar--]]() [[CODE]](https://github.com/lloongx/SFDA-CBMT)
+
+- `ProtoContra` [Yu et al., Proc. MICCAI 2023] **Source-free domain adaptation for medical image segmentation via prototype-anchored feature alignment and contrastive learning** [[PDF]](https://arxiv.org/abs/2307.09769) [[G-Scholar--]]() [[CODE]](https://github.com/CSCYQJ/MICCAI23-ProtoContra-SFDA)
+
   ----------------------------
 
 - `...` [Li et al., IEEE TMI 2023] **Towards source-free cross tissues histopathological cell segmentation via target-specific finetuning** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10087318) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5356003107098200108&hl=en) [[CODE]](https://github.com/NeuronXJTU/SFDA-CellSeg)
@@ -819,3 +824,5 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 ---------------------------------------------
 - `...` [Huang et al., Arxiv 2023] **Prompt ensemble self-training for open-vocabulary domain adaptation** [[PDF]](https://arxiv.org/abs/2306.16658) [[G-Scholar--]]()
+
+- `SF-DAP` [Lee et al., Proc. ICCV 2023] **Unsupervised accuracy estimation of deep visual models using domain-adaptive adversarial perturbation without source samples** [[PDF]](https://arxiv.org/abs/2307.10062) [[G-Scholar--]]()
