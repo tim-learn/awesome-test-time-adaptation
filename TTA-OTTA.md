@@ -140,8 +140,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `MSLC-TSD` [Wang et al., Proc. CVPR 2023] **Feature alignment and uniformity for test-time adaptation** [[PDF]](https://arxiv.org/abs/2303.10902) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6669282507614032957&hl=en)
 
-  ~~`...` [Zhao et al., Proc. ICLR Workshops 2023] **On pitfalls of test-time adaptation** [[PDF]](https://arxiv.org/abs/2207.08210) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12791076797773873726&hl=en)~~
 - `...` [Zhao et al., Proc. ICML 2023] **On pitfalls of test-time adaptation** [[PDF]](https://arxiv.org/abs/2207.08210) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12791076797773873726&hl=en)
+  ~~`...` [Zhao et al., Proc. ICLR Workshops 2023] **On pitfalls of test-time adaptation** [[PDF]](https://arxiv.org/abs/2207.08210) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12791076797773873726&hl=en)~~
 
 - `...` [Narayanan et al., Proc. ICLR Workshops 2023] **A simple test-time adaptation method for source-free domain generalization** [[PDF]](https://openreview.net/forum?id=Ran2xUWG2n) [[G-Scholar--]]()
 
