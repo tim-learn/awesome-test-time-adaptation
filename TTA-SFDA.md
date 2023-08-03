@@ -359,6 +359,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `CCT` [Yan et al., Arxiv 2023] **Universal semi-supervised model adaptation via collaborative consistency training** [[PDF]](https://arxiv.org/abs/2307.03449) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5434401477089283458&hl=en)
 
+- `...` [Yu et al., Arxiv 2023] **Open-set domain adaptation with visual-language foundation models** [[PDF]](https://arxiv.org/abs/2307.16204) [[G-Scholar--]]()
+
 - `E2` [Shen et al., Misc 2023] **E2: Entropy discrimination and energy optimization for source-free universal domain adaptation** [[PDF]](https://openreview.net/forum?id=FMEXgK9-I8) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2517695593354531262&hl=en)
 
 - `SepRep-Net` [Jin et al., Misc 2023] **SepRep-Net: Multi-source free domain adaptation via model separation and reparameterization** [[PDF]](https://openreview.net/forum?id=E67OghNSDMf) [[G-Scholar--]]()
@@ -577,6 +579,10 @@ segmentation with class-balanced mean teacher** [[PDF]](https://arxiv.org/abs/23
 
 - `ProtoContra` [Yu et al., Proc. MICCAI 2023] **Source-free domain adaptation for medical image segmentation via prototype-anchored feature alignment and contrastive learning** [[PDF]](https://arxiv.org/abs/2307.09769) [[G-Scholar--]]() [[CODE]](https://github.com/CSCYQJ/MICCAI23-ProtoContra-SFDA)
 
+- `SaTTCA` [Li et al., Proc. MICCAI 2023] **Scale-aware test-time click adaptation for pulmonary nodule and mass segmentation** [[PDF]](https://arxiv.org/abs/2307.15645) [[G-Scholar--]]() [[CODE]](https://github.com/SplinterLi/SaTTCA)
+
+- `...` [Yuan et al., Proc. EMBC 2023] **Entropy-driven adversarial training For source-free medical image segmentation** [[PDF]](https://arinex.com.au/EMBC/pdf/full-paper_228.pdf) [[G-Scholar--]]()
+
   ----------------------------
 
 - `...` [Li et al., IEEE TMI 2023] **Towards source-free cross tissues histopathological cell segmentation via target-specific finetuning** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10087318) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5356003107098200108&hl=en) [[CODE]](https://github.com/NeuronXJTU/SFDA-CellSeg)
@@ -774,6 +780,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `SS-TrBoosting` [Zhao et al., IEEE TNSRE 2023] **Source-free domain adaptation (SFDA) for privacy-preserving seizure subtype classification** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10122236) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13671255325572013222&hl=en)
 
+- `...` [Wang et al., IEEE Internet of Things Journal 2023] **Wireless IoT monitoring system in Hong Kong–Zhuhai–Macao bridge and edge computing for anomaly detection** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10197602) [[G-Scholar--]]()
+
 - `...` [Dridi et al., Building and Environment 2023] **Unsupervised domain adaptation with and without access to source data for estimating occupancy and recognizing activities in smart buildings** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0360132323006789) [[G-Scholar--]]()
 
 - `SFDAF` [Li et al., Reliability Engineering and System Safety 2023] **Source-free domain adaptation framework for fault diagnosis of rotation machinery under data privacy** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0951832023003824) [[G-Scholar--]]()
@@ -831,8 +839,9 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 - `...` [Singh and Diggavi, Arxiv 2023] **Representation transfer learning via multiple pre-trained models for linear regression** [[PDF]](https://arxiv.org/abs/2305.16440) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13038876698699615849&hl=en)
 
 ---------------------------------------------
+
 - `...` [Huang et al., Arxiv 2023] **Prompt ensemble self-training for open-vocabulary domain adaptation** [[PDF]](https://arxiv.org/abs/2306.16658) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2994211628111857111&hl=en)
 
-- `SF-DAP` [Lee et al., Proc. ICCV 2023] **Unsupervised accuracy estimation of deep visual models using domain-adaptive adversarial perturbation without source samples** [[PDF]](https://arxiv.org/abs/2307.10062) [[G-Scholar--]]()
-
 - `PseudoCal` [Hu et al., Arxiv 2023] **PseudoCal: A source-free approach to unsupervised uncertainty calibration in domain adaptation** [[PDF]](https://arxiv.org/abs/2307.07489) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7757812403763949632&hl=en)
+
+- `SF-DAP` [Lee et al., Proc. ICCV 2023] **Unsupervised accuracy estimation of deep visual models using domain-adaptive adversarial perturbation without source samples** [[PDF]](https://arxiv.org/abs/2307.10062) [[G-Scholar--]]()

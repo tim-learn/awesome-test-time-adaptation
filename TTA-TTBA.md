@@ -54,9 +54,6 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `ESA` [Xiao et al., Proc. ICLR 2023] **Energy-based test sample adaptation for domain generalization** [[PDF]](https://openreview.net/forum?id=3dnrKbeVatv) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3027943185987486652&hl=en)
 
-- `SiSTA` [Subramanyam et al., Proc. ICML 2023] **Target-aware generative augmentations for single-shot adaptation** [[PDF]](https://openreview.net/forum?id=K26zQKvXiR) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15168577856501871450&hl=en) [[CODE]](https://github.com/Rakshith-2905/SiSTA)
-  ~~[Subramanyam et al., Arxiv 2022] **Single-shot domain adaptation via target-aware generative augmentation** [[PDF]](https://arxiv.org/abs/2210.16692) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14023566347726420541&hl=en)~~
-
 - `DDA` [Gao et al., Proc. CVPR 2023] **Back to the source: Diffusion-driven adaptation to test-time corruption** [[PDF]](https://arxiv.org/abs/2207.03442) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8145404192355562400&hl=en) [[CODE]](https://github.com/shiyegao/DDA)
   ~~[Gao et al., Proc. Workshops 2023] **Back to the source: Diffusion-driven test-time adaptation** [[PDF]](https://arxiv.org/abs/2207.03442) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8145404192355562400&hl=en) [[CODE]](https://github.com/shiyegao/DDA)~~
 
@@ -215,6 +212,9 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 - `GIP` [Bau et al., ACM TOG 2019] **Semantic photo manipulation with a generative image prior** [[PDF]](https://arxiv.org/abs/2005.07727) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6750293979132878511&hl=en)
 
 - `INR-st` [Kim et al., Arxiv 2022] **Controllable style transfer via test-time training of implicit neural representation** [[PDF]](https://arxiv.org/abs/2210.07762) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6128992105506775450&hl=en) [[CODE]](https://github.com/KU-CVLAB/INR-st)
+
+- `SiSTA` [Subramanyam et al., Proc. ICML 2023] **Target-aware generative augmentations for single-shot adaptation** [[PDF]](https://openreview.net/forum?id=K26zQKvXiR) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15168577856501871450&hl=en) [[CODE]](https://github.com/Rakshith-2905/SiSTA)
+  ~~[Subramanyam et al., Arxiv 2022] **Single-shot domain adaptation via target-aware generative augmentation** [[PDF]](https://arxiv.org/abs/2210.16692) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14023566347726420541&hl=en)~~
 
 - `MODIFY` [Ding et al., Proc. ICASSP 2023] **MODIFY: Model-driven face stylization without style images** [[PDF]](https://arxiv.org/abs/2303.09831) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2582576045423085678&hl=en)
 
