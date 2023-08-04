@@ -361,6 +361,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `...` [Yu et al., Arxiv 2023] **Open-set domain adaptation with visual-language foundation models** [[PDF]](https://arxiv.org/abs/2307.16204) [[G-Scholar--]]()
 
+- `...` [Tang et al., Arxiv 2023] **Consistency regularization for generalizable source-free domain adaptation** [[PDF]](https://arxiv.org/abs/2308.01587) [[G-Scholar--]]()
+
 - `E2` [Shen et al., Misc 2023] **E2: Entropy discrimination and energy optimization for source-free universal domain adaptation** [[PDF]](https://openreview.net/forum?id=FMEXgK9-I8) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2517695593354531262&hl=en)
 
 - `SepRep-Net` [Jin et al., Misc 2023] **SepRep-Net: Multi-source free domain adaptation via model separation and reparameterization** [[PDF]](https://openreview.net/forum?id=E67OghNSDMf) [[G-Scholar--]]()
