@@ -281,7 +281,9 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `CRCo` [Huang et al., Proc. CVPR 2023] **Class relationship embedded learning for source-free unsupervised domain adaptation** [[PDF]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Class_Relationship_Embedded_Learning_for_Source-Free_Unsupervised_Domain_Adaptation_CVPR_2023_paper.pdff) [[G-Scholar--]]() [[CODE]](https://github.com/zhyx12/CRCo)
 
-- `AdaptGuard` [Sheng et al., Proc. ICCV 2023] **AdaptGuard: Defending against universal attacks for model adaptation** [[PDF]](https://arxiv.org/abs/2303.10594) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5822749974898079720&hl=en) 
+- `AdaptGuard` [Sheng et al., Proc. ICCV 2023] **AdaptGuard: Defending against universal attacks for model adaptation** [[PDF]](https://arxiv.org/abs/2303.10594) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5822749974898079720&hl=en)
+
+- `PromptStyler` [Cho et al., Proc. ICCV 2023] **PromptStyler: Prompt-driven Style Generation for Source-free Domain Generalization** [[PDF]](https://arxiv.org/abs/2307.15199) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16858908258517096129&hl=en) 
 
 - `APA` [Sun et al., Proc. AAAI 2023] **Domain adaptation with adversarial training on penultimate activations** [[PDF]](https://arxiv.org/abs/2208.12853) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13152361105316809189&hl=en) [[CODE]](https://github.com/tsun/APA)
 
