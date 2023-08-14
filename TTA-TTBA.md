@@ -268,6 +268,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `MATE` [Mirza et al., Proc. ICCV 2023] **MATE: Masked autoencoders are online 3D test-time learners** [[PDF]](https://arxiv.org/abs/2211.11432) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17319713522651218187&hl=en) [[CODE]](https://github.com/jmiemirza/MATE)
 
+- `DiffTPT` [Feng et al., Proc. ICCV 2023] **Test-time prompt tuning for zero-shot generalization in vision-language models** [[PDF]](https://arxiv.org/abs/2308.06038) [[G-Scholar--]]() [[CODE--]](https://github.com/chunmeifeng/DiffTPT)
+
 - `...` [Liu et al., Proc. WACV 2023] **Meta-auxiliary learning for future depth prediction in videos** [[PDF]](https://openaccess.thecvf.com/content/WACV2023/html/Min_Meta-Learning_for_Adaptation_of_Deep_Optical_Flow_Networks_WACV_2023_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9083144572156364990&hl=en)
 
 - `TDS` [Wen et al., IEEE TMM 2023] **Test-time model adaptation for visual question answering with debiased self-supervisions** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10173554/) [[G-Scholar--]]()
