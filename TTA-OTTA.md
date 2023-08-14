@@ -149,6 +149,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `JumpStyle` [Singh et al., Proc. ICLR Workshops 2023] **JumpStyle: A framework for data-efficient online adaptation** [[PDF]](https://pml4dc.github.io/iclr2023/pdf/PML4DC_ICLR2023_47.pdf) [[G-Scholar--]]()
 
+- `T-TIME` [Li et al., IEEE TMBE 2023] **T-TIME: Test-time information maximization ensemble for plug-and-play BCIs** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10210666) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13455766305882536637&hl=en) [[CODE]](https://github.com/sylyoung/DeepTransferEEG)
+
 - `ECL` [Han et al., Arxiv 2023] **Rethinking precision of pseudo label: Test-time adaptation via complementary learning** [[PDF]](https://arxiv.org/abs/2301.06013) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3929794078133562489&hl=en)
 
 - `TTAC++` [Su et al., Arxiv 2023] **Revisiting realistic test-time training: Sequential inference and adaptation by anchored clustering regularized self-training** [[PDF]](https://arxiv.org/abs/2303.10856) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13164314529398251378&hl=en)
