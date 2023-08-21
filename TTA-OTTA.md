@@ -143,6 +143,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `...` [Zhao et al., Proc. ICML 2023] **On pitfalls of test-time adaptation** [[PDF]](https://arxiv.org/abs/2207.08210) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12791076797773873726&hl=en)
   ~~`...` [Zhao et al., Proc. ICLR Workshops 2023] **On pitfalls of test-time adaptation** [[PDF]](https://arxiv.org/abs/2207.08210) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12791076797773873726&hl=en)~~
 
+- `...` [Yang et al., Proc. IJCAI 2023] **Exploring safety supervision for continual test-time domain adaptation** [[PDF]](https://www.ijcai.org/proceedings/2023/0183.pdf) [[G-Scholar--]]()
+
 - `...` [Narayanan et al., Proc. ICLR Workshops 2023] **A simple test-time adaptation method for source-free domain generalization** [[PDF]](https://openreview.net/forum?id=Ran2xUWG2n) [[G-Scholar--]]()
 
 - `DSS` [Chakrabarty et al., Proc. ICLR Workshops 2023] **Domain shift signal for low resource continuous test-time adaptation** [[PDF]](https://pml4dc.github.io/iclr2023/pdf/PML4DC_ICLR2023_46.pdf) [[G-Scholar--]]()

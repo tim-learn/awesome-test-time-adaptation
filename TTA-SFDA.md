@@ -287,7 +287,7 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `DATE` [Han et al., Proc. AAAI 2023] **Discriminability and transferability estimation: A bayesian source importance estimation approach for multi-source-free domain adaptation** [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/25946) [[G-Scholar--]]()
 
-- `FMML` [Peng et al., Proc. IJCAI 2023] **Toward better target representation for source-free and black-box domain adaptation** [[PDF]](https://arxiv.org/abs/2208.10531) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3991269860438698249&hl=en)
+- `RAIN` [Peng et al., IJCAI 2023] **RAIN: Regularization on input and network for black-box domain adaptation** [[PDF]](https://www.ijcai.org/proceedings/2023/0458.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3991269860438698249&hl=en&as_sdt=0,5) 
 
 - `CATTAn` [Thopalli et al., Proc. ACCV 2023] **Domain alignment meets fully test-time adaptation** [[PDF]](https://proceedings.mlr.press/v189/thopalli23a.html [[G-Scholar]](https://scholar.google.com/scholar?cluster=10216954534487118514&hl=en) [[CODE]](https://github.com/kowshikthopalli/CATTAn)
   ~~[Thopalli et al., Proc. ECCV Workshops 2022] **Geometric alignment improves fully test time adaptation** [[PDF]](https://www.osti.gov/servlets/purl/1874540) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13916311599404592721&hl=en)~~
@@ -603,6 +603,8 @@ segmentation with class-balanced mean teacher** [[PDF]](https://arxiv.org/abs/23
 
 - `DUT` [Liu et al., IEEE TNNLS 2023] **Decoupled unbiased teacher for source-free
 domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10128698) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5394961859696758606&hl=en) [[CODE]](https://github.com/CUHK-AIM-Group/Decoupled-Unbiased-Teacher)
+
+- `DCGP-KD` [Cheng et al., IEEE TAI 2023] **Domain-centroid-guided progressive teacher-based knowledge distillation for source-free domain adaptation of histopathological images** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10218991) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15777124283638781368&hl=en)
 
 - `SCD` [Zhou et al., Computers in Biology and Medicine 2023] **Superpixel-guided class-level denoising for unsupervised domain adaptive fundus image segmentation without source data** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0010482523005267) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14733171849301790547&hl=en)
 
