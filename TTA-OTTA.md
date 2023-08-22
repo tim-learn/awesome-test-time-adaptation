@@ -157,17 +157,19 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `TTAC++` [Su et al., Arxiv 2023] **Revisiting realistic test-time training: Sequential inference and adaptation by anchored clustering regularized self-training** [[PDF]](https://arxiv.org/abs/2303.10856) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13164314529398251378&hl=en)
 
-- `...` [ Alfarra et al., Arxiv 2023] **Revisiting test time adaptation under online evaluation** [[PDF]](https://arxiv.org/abs/2304.04795) [[G-Scholar--]]() [[CODE]](https://github.com/MotasemAlfarra/Online_Test_Time_Adaptation)
+- `...` [ Alfarra et al., Arxiv 2023] **Revisiting test time adaptation under online evaluation** [[PDF]](https://arxiv.org/abs/2304.04795) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12717507143707854308&hl=en) [[CODE]](https://github.com/MotasemAlfarra/Online_Test_Time_Adaptation)
 
-- `SATA` [Chakrabarty et al., Arxiv 2023] **SATA: Source anchoring and target alignment network for continual test time adaptation** [[PDF]](https://arxiv.org/abs/2304.10113) [[G-Scholar--]]() 
+- `SATA` [Chakrabarty et al., Arxiv 2023] **SATA: Source anchoring and target alignment network for continual test time adaptation** [[PDF]](https://arxiv.org/abs/2304.10113) [[G-Scholar]](https://scholar.google.com/scholar?cluster=406667574849068188&hl=en) 
 
 - `RDumb` [Press et al., Arxiv 2023] **RDumb: A simple approach that questions our progress in continual test-time adaptation** [[PDF]](https://arxiv.org/abs/2306.05401) [[G-Scholar--]]() [[CODE]](https://github.com/oripress/CCC)
 
-- `...` [Yu et al., Arxiv 2023] **Benchmarking test-time adaptation against distribution shifts in image classification** [[PDF]](https://arxiv.org/abs/2307.03133) [[G-Scholar--]]() [[CODE]](https://github.com/yuyongcan/benchmark-tta)
+- `...` [Yu et al., Arxiv 2023] **Benchmarking test-time adaptation against distribution shifts in image classification** [[PDF]](https://arxiv.org/abs/2307.03133) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15489648442199966100&hl=en) [[CODE]](https://github.com/yuyongcan/benchmark-tta)
 
 - `...` [ Jahan and Savakis, Arxiv 2023] **Continual domain adaptation on aerial images under gradually degrading weather** [[PDF]](https://arxiv.org/abs/2308.00924) [[G-Scholar--]]()
 
 - `VPL` [Ambekar et al., Misc 2023] **Variational pseudo labels for meta test-time adaptation** [[PDF]](https://openreview.net/forum?id=iOag71mvHI) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2267598876397998774&hl=en)
+
+- `TePA` [Cong et al., Proc. S&P 2024] **Test-time poisoning attacks against test-time adaptation models** [[PDF]](https://arxiv.org/abs/2308.08505) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13810860861574844121&hl=en) [[CODE--]](https://github.com/tianshuocong/TePA)
 
 ### Segmentation
 - `RNCR` [Hu et al., Proc. MICCAI 2021] **Fully test-time adaptation for image segmentation** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-030-87199-4_24) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18183176392541200399&hl=en)

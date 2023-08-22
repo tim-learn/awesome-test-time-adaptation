@@ -43,3 +43,5 @@ A curated list of awesome test-time prior adaptation resources. Your contributio
 - `SADE` [Zhang et al., Proc. NeurIPS 2022] **Self-supervised aggregation of diverse experts for test-agnostic long-tailed recognition** [[PDF]](https://openreview.net/forum?id=m7CmxlpHTiu) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16295847624184830192&hl=en) [[CODE]](https://github.com/vanint/sade-agnosticlt)
 
 - `TTADC` [Ma et al., Proc. MICCAI 2022] **Test-time adaptation with calibration of medical image classification nets for label distribution shift** [[PDF]](https://arxiv.org/abs/2207.00769) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7982883573733677737&hl=en) [[CODE]](https://github.com/med-air/TTADC)
+
+- `...` [Park et al., Proc. ICCV 2023] **Label shift adapter for test-time adaptation under covariate and label shifts** [[PDF]](https://arxiv.org/abs/2308.08810) [[G-Scholar--]]()
