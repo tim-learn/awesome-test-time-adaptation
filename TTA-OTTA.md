@@ -120,6 +120,9 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `...` [Kang et al., Proc. ICML 2023] **Leveraging proxy of training data for test-time adaptation** [[PDF]](https://openreview.net/forum?id=VVGNInOAm9) [[G-Scholar--]]()
 
+- `...` [Zhao et al., Proc. ICML 2023] **On pitfalls of test-time adaptation** [[PDF]](https://arxiv.org/abs/2207.08210) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12791076797773873726&hl=en)
+  ~~`...` [Zhao et al., Proc. ICLR Workshops 2023] **On pitfalls of test-time adaptation** [[PDF]](https://arxiv.org/abs/2207.08210) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12791076797773873726&hl=en)~~
+
 - `ODS` [Zhou et al., Proc. ICML 2023] **ODS: Test-time adaptation in the presence of open-world data shift** [[PDF]](https://openreview.net/forum?id=Phjti0QbkZ) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16719191560487765295&hl=en)
 
 - `ActMAD` [Mirza et al., Proc. CVPR 2023] **ActMAD: Activation matching to align distributions for test-time-training** [[PDF]](https://arxiv.org/abs/2211.12870) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4556204882779586735&hl=en) [[CODE]](https://github.com/jmiemirza/actmad)
@@ -140,8 +143,7 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `MSLC-TSD` [Wang et al., Proc. CVPR 2023] **Feature alignment and uniformity for test-time adaptation** [[PDF]](https://arxiv.org/abs/2303.10902) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6669282507614032957&hl=en)
 
-- `...` [Zhao et al., Proc. ICML 2023] **On pitfalls of test-time adaptation** [[PDF]](https://arxiv.org/abs/2207.08210) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12791076797773873726&hl=en)
-  ~~`...` [Zhao et al., Proc. ICLR Workshops 2023] **On pitfalls of test-time adaptation** [[PDF]](https://arxiv.org/abs/2207.08210) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12791076797773873726&hl=en)~~
+- `OWTTT` [Li et al., Proc. ICCV 2023] **On the robustness of open-world test-time training: Self-training with dynamic prototype expansion** [[PDF]](https://arxiv.org/abs/2308.09942) [[G-Scholar--]]() [[CODE--]](https://github.com/Yushu-Li/OWTTT)
 
 - `...` [Yang et al., Proc. IJCAI 2023] **Exploring safety supervision for continual test-time domain adaptation** [[PDF]](https://www.ijcai.org/proceedings/2023/0183.pdf) [[G-Scholar--]]()
 
