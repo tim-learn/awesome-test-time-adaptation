@@ -184,6 +184,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `...` [Lee et al., Proc. ICCV 2023] **Towards open-set test-time adaptation utilizing the wisdom of crowds in entropy minimization** [[PDF]](https://arxiv.org/abs/2308.06879) [[G-Scholar--]]()
 
+- `...` [Song et al., IEEE Robotics and Automation Letters 2023] **Test-time adaptation in the dynamic world with compound domain knowledge management** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10227541) [[G-Scholar--]]()
+
 - `Night-TTA` [Liu et al., Arxiv 2023] **Test-time adaptation for nighttime color-thermal semantic segmentation** [[PDF]](https://arxiv.org/abs/2307.04470) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12563067344427427591&hl=en)
 
 ### NLP

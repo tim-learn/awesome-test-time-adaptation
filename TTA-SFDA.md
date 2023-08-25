@@ -630,6 +630,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `SL` [Chen and Wang, Arxiv 2023] **SL: Stable learning in source-free domain adaption for medical image segmentation** [[PDF]](https://arxiv.org/abs/2307.12580) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6336157499980091582&hl=en&as_sdt=0,5) 
 
+- `SCDA` [Fang et al., Arxiv 2023] **Source-free collaborative domain adaptation via multi-perspective feature enrichment for functional MRI analysis** [[PDF]](https://arxiv.org/abs/2308.12495) [[G-Scholar--]]()
+
 - `PD` [Rafiee et al., Misc 2023] **Diversified source-free domain adaptation** [[PDF]](https://openreview.net/forum?id=Ot0KorOlyl) [[G-Scholar--]]()
 
 - `...` [Pourreza., Master Thesis 2023] **Open-set source-free domain adaptation in fundus images analysis** [[PDF]](https://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=11898&context=etd) [[G-Scholar--]]()
@@ -795,6 +797,9 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 - `MDAQA` [Yin et al., Arxiv 2022] **Source-free domain adaptation for question answering with masked self-training** [[PDF]](https://arxiv.org/abs/2212.09563) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6098149583071335403&hl=en)
 
 ### 2023
+- `NOTELA` [Boudiaf et al., Proc. ICML 2023] **In search for a generalizable method for source free domain adaptation** [[PDF]](https://arxiv.org/abs/2302.06658) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12424145282212014491&hl=en)
+  ~~[Boudiaf et al., Misc 2023] **NOTELA: A generalizable method for source free domain adaptation** [[PDF]](https://openreview.net/forum?id=aOBs18ycBr)~~
+
 - `TaU` [Zhan et al., Proc. ACL 2023] **Test-time adaptation for machine translation evaluation by uncertainty minimization** [[PDF]](https://aclanthology.org/2023.acl-long.47/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5961333184577110024&hl=en) [[CODE--]](https://github.com/NLP2CT/TaU)
 
 - `FLOOD` [Liu et al., Proc. KDD 2023] **FLOOD: A flexible invariant learning framework for out-of-distribution generalization on graphs** [[PDF]](https://ponderly.github.io/pub/FLOOD_KDD2023.pdf) [[G-Scholar--]]()
@@ -807,11 +812,15 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `BKD-SFUDA` [Tian et al., Proc. International Conference on Computer Supported Cooperative Work in Design 2023] **Knowledge distillation with source-free unsupervised domain adaptation for BERT model compression** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10152760/) [[G-Scholar--]]()
 
+- `...` [Wang et al., Proc. IEEE International Conference on Mechatronics and Automation 2023] **Source-free domain adaptation network for rolling bearing fault diagnosis** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10216194) [[G-Scholar--]]()
+
 - `SFTTN` [Shen et al., IEEE TPEL 2023] **Source-free cross-domain state of charge estimation of lithium-ion batteries at different ambient temperatures** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10058040/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14503249759236941200&hl=en)
 
 - `...` [Yue et al., IEEE TIM 2023] **Multiple source-free domain adaptation network based on knowledge distillation for machinery fault diagnosis** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10174649) [[G-Scholar--]]()
 
 - `...` [Zhao et al., IEEE TII 2023] **Source-free domain adaptation for privacy-preserving seizure prediction** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10199136) [[G-Scholar--]]()
+
+- `B2TSDA` [Ren et al., IEEE TCYB 2023] **Single/multi-source black-box domain adaption for sensor time series data** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10226509) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12501956151412606425&hl=en)
 
 - `SS-TrBoosting` [Zhao et al., IEEE TNSRE 2023] **Source-free domain adaptation (SFDA) for privacy-preserving seizure subtype classification** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10122236) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13671255325572013222&hl=en)
 
@@ -828,9 +837,6 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 - `...` [Li et al., Journal of Manufacturing Systems 2023] **Federated transfer learning in fault diagnosis under data privacy with target self-adaptation** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0278612523000808) [[G-Scholar--]]()
 
 - `TAPDA` [Yuan and Siyal, Biomedical Signal Processing and Control 2023] **Target-oriented augmentation privacy-protection domain adaptation for imbalanced ECG beat classification** [[PDF]](https://www.sciencedirect.com/science/article/pii/S1746809423007413) [[G-Scholar--]]()
-
-- `NOTELA` [Boudiaf et al., Arxiv 2023] **In search for a generalizable method for source free domain adaptation** [[PDF]](https://arxiv.org/abs/2302.06658) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12424145282212014491&hl=en)
-  ~~[Boudiaf et al., Misc 2023] **NOTELA: A generalizable method for source free domain adaptation** [[PDF]](https://openreview.net/forum?id=aOBs18ycBr)~~
 
 - `...` [Guney et al., Arxiv 2023] **Source free domain adaptation of a DNN for SSVEP-based brain-computer interfaces** [[PDF]](https://arxiv.org/abs/2305.17403) [[G-Scholar--]]() [[CODE--]](https://github.com/osmanberke/SFDA-SSVEP-BCI)
 
@@ -873,6 +879,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 - `PromptStyler` [Cho et al., Proc. ICCV 2023] **PromptStyler: Prompt-driven style generation for source-free domain generalization** [[PDF]](https://arxiv.org/abs/2307.15199) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16858908258517096129&hl=en) [[CODE]](https://github.com/PromptStyler/PromptStyler.github.io)
 
 - `SF-DAP` [Lee et al., Proc. ICCV 2023] **Unsupervised accuracy estimation of deep visual models using domain-adaptive adversarial perturbation without source samples** [[PDF]](https://arxiv.org/abs/2307.10062) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9360881807300326411&hl=en)
+
+- `...` [Ericsson et al., Proc. AutoML 2023] **Better practices for domain adaptation** [[PDF]](https://openreview.net/forum?id=tQz8u2KU3zy) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10962178703413848128&hl=en)
 
 ---------------------------------------------
 
