@@ -216,7 +216,7 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `RPL` [Rusak et al., TMLR 2022] **If your data distribution shifts, use self-learning** [[PDF]](https://openreview.net/forum?id=vqRzLv6POg) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5941215717305244351&hl=en) [[CODE]](https://github.com/bethgelab/robustness)
 
-- `SAB` [Liu et al., IEEE SPL 2022] **Self-Alignment for Black-Box Domain Adaptation of Image Classification** [[PDF]](https://ieeexplore.ieee.org/abstract/document/9842332/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7062030827885381470&hl=en)
+- `SAB` [Liu et al., IEEE SPL 2022] **Self-alignment for black-box domain adaptation of image classification** [[PDF]](https://ieeexplore.ieee.org/abstract/document/9842332/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7062030827885381470&hl=en)
 
 - `CdKD-TSML` [Li et al., Knowledge-Based Systems 2022] **Teacher-student mutual learning for efficient source-free unsupervised domain adaptation** [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0950705122013004) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7125161896974350387&hl=en)
 
@@ -282,6 +282,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 - `CRCo` [Huang et al., Proc. CVPR 2023] **Class relationship embedded learning for source-free unsupervised domain adaptation** [[PDF]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Class_Relationship_Embedded_Learning_for_Source-Free_Unsupervised_Domain_Adaptation_CVPR_2023_paper.pdff) [[G-Scholar--]]() [[CODE]](https://github.com/zhyx12/CRCo)
 
 - `AdaptGuard` [Sheng et al., Proc. ICCV 2023] **AdaptGuard: Defending against universal attacks for model adaptation** [[PDF]](https://arxiv.org/abs/2303.10594) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5822749974898079720&hl=en) 
+
+- `BiMem` [Zhang et al., Proc. ICCV 2023] **Black-box unsupervised domain adaptation with bi-directional atkinson-shiffrin memory** [[PDF]](https://arxiv.org/abs/2308.13236) [[G-Scholar--]]() [[CODE]](https://github.com/jingyi0000/BiMem)
 
 - `APA` [Sun et al., Proc. AAAI 2023] **Domain adaptation with adversarial training on penultimate activations** [[PDF]](https://arxiv.org/abs/2208.12853) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13152361105316809189&hl=en) [[CODE]](https://github.com/tsun/APA)
 
@@ -380,6 +382,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 - `SepRep-Net` [Jin et al., Misc 2023] **SepRep-Net: Multi-source free domain adaptation via model separation and reparameterization** [[PDF]](https://openreview.net/forum?id=E67OghNSDMf) [[G-Scholar--]]()
 
 - `...` [Wang et al., Misc 2023] **Graph-guided unsupervised clustering for source-free domain adaptation** [[PDF]](https://lrjconan.github.io/UBC-EECE571F-DL-Structures/assets/sample_reports_2022_W1/report_06.pdf) [[G-Scholar--]]()
+
+- `...` [Xiao et al., Misc 2023] **Unified multi-level neighbor clustering for source-free unsupervised domain adaptation** [[PDF]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4545323) [[G-Scholar--]]()
 
 - `...` [Wong., Master Thesis 2023] **Reducing negative transfer of random data in source-free unsupervised domain adaptation** [[PDF]](https://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=11907&context=etd) [[G-Scholar--]]() 
 
