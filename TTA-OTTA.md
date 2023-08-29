@@ -28,6 +28,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `FTTA` [Huang et al., Proc. MICCAI 2023] **Fourier test-time adaptation with multi-level consistency for robust classification** [[PDF]](https://arxiv.org/abs/2306.02544) [[G-Scholar--]]()
 
+- `TSOTTA` [Mao et al., IEEE Sensors Journal 2023] **Online test-time adaptation for patient-independent seizure prediction** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10231118/) [[G-Scholar--]]()
+
 - `...` [Wu et al., Arxiv 2023] **Learning to adapt to online streams with distribution shifts** [[PDF]](https://arxiv.org/abs/2303.01630) [[G-Scholar]](https://scholar.google.com/scholar?cluster=70667390534186770138&hl=en)
 
 - `...` [Marsden et al., Arxiv 2023] **Universal test-time adaptation through weight ensembling, diversity weighting, and prior correction** [[PDF]](https://arxiv.org/abs/2306.00650) [[G-Scholar--]]()
