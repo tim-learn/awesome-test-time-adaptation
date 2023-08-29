@@ -339,7 +339,9 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `MViT-PCD` [Dai et al., IEEE Geoscience and Remote Sensing Letters 2023] **MViT-PCD: A lightweight ViT-based network for martian surface topographic change detection** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10007802/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18353796834673985495&hl=en) [[CODE]](https://github.com/lynn1023-max/MViTPCD)
 
-- `OKRA` [Zhao et al., IEEE Geoscience and Remote Sensing Letters 2023] **Open-set black-box domain adaptation for remote sensing image scene classification** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10210386/) [[G-Scholar--]]()
+- `OKRA` [Zhao et al., Computers and Electrical Engineering 2023] **Open-set black-box domain adaptation for remote sensing image scene classification** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10210386/) [[G-Scholar--]]()
+
+- `BCSW` [Tian and Zhao, IEEE Geoscience and Remote Sensing Letters 2023] **Source-free unsupervised domain adaptation via bi-classifier confidence score weighting** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0045790623003518) [[G-Scholar--]]()
 
 - `CLCR` [Tang et al., CAAI Transactions on Intelligence Technology 2023] **Model adaptation via credible local context representation** [[PDF]](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cit2.12228) [[G-Scholar--]]()
 
