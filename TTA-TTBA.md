@@ -379,3 +379,5 @@ for 3D human mesh reconstruction** [[PDF]](https://arxiv.org/abs/2308.06554) [[G
 - `TTS` [Bissoto et al., Proc. MICCAI Workshops 2023] **Test-time selection for robust skin lesion analysis** [[PDF]](https://arxiv.org/abs/2308.05595) [[G-Scholar--]]()
 
 - `...` [Mehra et al., Arxiv 2023] **On the fly neural style smoothing for risk-averse domain generalization** [[PDF]](https://arxiv.org/abs/2307.08551) [[G-Scholar--]]()
+
+- `...` [Tula et al., Arxiv 2023] **Is it an i or an l: Test-time adaptation of text line recognition models** [[PDF]](https://arxiv.org/abs/2308.15037) [[G-Scholar--]]()
