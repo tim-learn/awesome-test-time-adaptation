@@ -285,6 +285,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `BiMem` [Zhang et al., Proc. ICCV 2023] **Black-box unsupervised domain adaptation with bi-directional atkinson-shiffrin memory** [[PDF]](https://arxiv.org/abs/2308.13236) [[G-Scholar--]]() [[CODE]](https://github.com/jingyi0000/BiMem)
 
+- `DSiT` [Sanyal et al., Proc. ICCV 2023] **Domain-specificity inducing transformers for source-free domain adaptation** [[PDF]](https://arxiv.org/abs/2308.14023) [[G-Scholar--]]() [[CODE--]](http://val.cds.iisc.ac.in/DSiT-SFDA/)
+
 - `APA` [Sun et al., Proc. AAAI 2023] **Domain adaptation with adversarial training on penultimate activations** [[PDF]](https://arxiv.org/abs/2208.12853) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13152361105316809189&hl=en) [[CODE]](https://github.com/tsun/APA)
 
 - `DATE` [Han et al., Proc. AAAI 2023] **Discriminability and transferability estimation: A bayesian source importance estimation approach for multi-source-free domain adaptation** [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/25946) [[G-Scholar--]]()

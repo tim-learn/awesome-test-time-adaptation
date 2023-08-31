@@ -233,6 +233,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `...` [Pan et al., Proc. CVPR 2023] **Cloud-device collaborative adaptation to continual changing environments in the real-world** [[PDF]](https://openaccess.thecvf.com/content/CVPR2023/html/Pan_Cloud-Device_Collaborative_Adaptation_to_Continual_Changing_Environments_in_the_Real-World_CVPR_2023_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7290595177343952631&hl=en)
 
+- `...` [Kim et al., Proc. ICCV 2023] **Calibrating panoramic depth estimation for practical localization and mapping** [[PDF]](https://arxiv.org/abs/2308.14005) [[G-Scholar--]]()
+
 - `...` [Almansoori et al., Proc. Scandinavian Conference on Image Analysis 2023] **Anchor-ReID: A test time adaptation for person re-identification** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-31438-4_39) [[G-Scholar--]]()
 
 - `...` [He., Journal of Intelligent Medicine and Healthcare 2023] **ECG heartbeat classification under dataset shift** [[PDF]](https://cdn.techscience.cn/files/jimh/TSP_JIMH-1-2/TSP_JIMH_36624/TSP_JIMH_36624.pdf) [[G-Scholar--]]()
