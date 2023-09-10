@@ -171,6 +171,10 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `...` [ Jahan and Savakis, Arxiv 2023] **Continual domain adaptation on aerial images under gradually degrading weather** [[PDF]](https://arxiv.org/abs/2308.00924) [[G-Scholar--]]()
 
+- `pSTarC` [Sreenivas et al., Arxiv 2023] **pSTarC: Pseudo source guided target clustering for fully test-time adaptation** [[PDF]](https://arxiv.org/abs/2309.00846) [[G-Scholar--]]()
+
+- `...` [Du et al., Arxiv 2023] **Domain adaptation for satellite-borne hyperspectral cloud detection** [[PDF]](https://arxiv.org/abs/2309.02150) [[G-Scholar--]]()
+
 - `VPL` [Ambekar et al., Misc 2023] **Variational pseudo labels for meta test-time adaptation** [[PDF]](https://openreview.net/forum?id=iOag71mvHI) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2267598876397998774&hl=en)
 
 - `TePA` [Cong et al., Proc. S&P 2024] **Test-time poisoning attacks against test-time adaptation models** [[PDF]](https://arxiv.org/abs/2308.08505) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13810860861574844121&hl=en) [[CODE--]](https://github.com/tianshuocong/TePA)
