@@ -317,11 +317,17 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `SSG-SFDA` [An et al., Proc. IJCNN 2023] **Semi-supervised generalized source-free domain adaptation (SSG-SFDA)** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10191761) [[G-Scholar--]]()
 
+- `...` [Zhong et al., Proc. ICIP 2023] **Unknown class feature transformation for open set domain adaptation without source data** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10222226) [[G-Scholar--]]()
+
+- `...` [Li et al., Proc. ICIP 2023] **Target-discriminability-induced multi-source-free domain adaptation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10222016) [[G-Scholar--]]()
+
 - `FCDA` [Lee and Lee, Proc. SPIE International Workshop on Advanced Imaging Technology 2023] **A source-free unsupervised domain adaptation method based on feature consistency** [[PDF]](https://www.spiedigitallibrary.org/proceedings/Download?urlId=10.1117%2F12.2666906) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4306888360461661923&hl=en)
 
 - `PaCDA` [Prasanna B et al., Proc. CVPR Workshops 2023] **Continual domain adaptation through pruning-aided domain-specific weight modulation** [[PDF]](https://arxiv.org/abs/2304.07560) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4639321340065295039&hl=en) [[CODE]](https://github.com/PrasannaB29/PACDA)
 
   ---------------------------------
+
+- `NRC++` [Yang et al., IEEE TPAMI 2023] **Trust your good friends: Source-free domain adaptation by reciprocal neighborhood clustering** [[PDF]](https://arxiv.org/abs/2309.00528) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13832483681532519069&hl=en)
 
 - `SDG-MA` [Xu et al., IEEE TGRS 2023] **Universal domain adaptation for remote sensing image scene classification** [[PDF]](https://arxiv.org/abs/2301.11387) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7802316111188678098&hl=en)[[CODE]](https://github.com/zhu-xlab/UniDA)
   ~~[Xu et al., Proc. IGARSS 2022] **Universal domain adaptation without source data for remote sensing image scene classification** [[PDF]](https://ieeexplore.ieee.org/abstract/document/9884889/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15682142231027232982&hl=en)~~
@@ -382,6 +388,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 - `TriDA` [Xu et al., Arxiv 2023] **Incorporating pre-training data matters in unsupervised domain adaptation** [[PDF]](https://arxiv.org/abs/2308.03097) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1813889893434993601&hl=en)
 
 - `COCA` [Liu et al., Arxiv 2023] **COCA: Classifier-oriented calibration for source-free universal domain adaptation via textual prototype** [[PDF]](https://arxiv.org/abs/2308.10450) [[G-Scholar--]]()
+
+- `DAD++` [Nayak et al., Arxiv 2023] **DAD++: Improved data-free test time adversarial defense** [[PDF]](https://arxiv.org/abs/2309.05132) [[G-Scholar--]]()
 
 - `E2` [Shen et al., Misc 2023] **E2: Entropy discrimination and energy optimization for source-free universal domain adaptation** [[PDF]](https://openreview.net/forum?id=FMEXgK9-I8) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2517695593354531262&hl=en)
 
@@ -760,6 +768,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 ### Anomaly detection
 - `CaSA` [Bozorgtabar et al., Proc. BMVC 2022] **Anomaly detection and localization using attention-guided synthetic anomaly and test-time adaptation** [[PDF]](https://bmvc2022.mpi-inf.mpg.de/0472.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=209397539357448856&hl=en)
 
+- `AnoVL` [Deng et al., Arxiv 2023] **AnoVL: Adapting vision-language models for unified zero-shot anomaly localization** [[PDF]](https://arxiv.org/abs/2308.15939) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7060182260008690857&hl=en)
+
 ### Retrieval
 - `T3AR` [Zancato et al., Proc. CVPR 2023] **Train/test-time adaptation with retrieval** [[PDF]](https://arxiv.org/abs/2303.14333) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3099149445593841717&hl=en)
 
@@ -788,6 +798,10 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `IDANI` [Antverg et al., Proc. ACL Workshops 2022] **IDANI: Inference-time domain adaptation via neuron-level interventions** [[PDF]](https://aclanthology.org/2022.deeplo-1.3/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10046849600588003301&hl=en) [[CODE]](https://github.com/technion-cs-nlp/idani)
 
+- `...` [Zhang et al., Proc. China Automation Congress 2022] **Source-free domain adaptation for rotating machinery cross-domain fault diagnosis with neighborhood reciprocity clustering** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10055182) [[G-Scholar--]]()
+
+- `...` [Zhu et al., Proc. ICSMD 2022] **Source-free unsupervised domain adaptation for privacy-preserving intelligent fault diagnosis** [[PDF]](https://ieeexplore.ieee.org/document/10058437) [[G-Scholar--]]()
+
 - `MDMAML` [Li et al., IEEE CIM 2022] **Meta-learning for fast and privacy-preserving source knowledge transfer of EEG-based BCIs** [[PDF]](https://ieeexplore.ieee.org/abstract/document/9942685) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9383691095506932596&hl=en)
 
 - `MSDT` [Zhang et al., IEEE TNSRE 2022] **Multi-source decentralized transfer for privacy-preserving BCIs** [[PDF]](https://ieeexplore.ieee.org/abstract/document/9894428/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2150739430618555059&hl=en)
@@ -805,8 +819,6 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 - `scEMAIL` [Wan et al., Genomics, Proteomics and Bioinformatics 2022] **scEMAIL: Universal and source-free annotation method for scRNA-seq data with novel cell-type perception** [[PDF]](https://www.sciencedirect.com/science/article/pii/S1672022922001747) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1698595785369986836&hl=en) [[CODE]](https://github.com/aster-ww/scEMAIL)
 
 - `...` [Wang et al., Chinese Journal of Aeronautics 2022] **Source free unsupervised domain adaptation for electro-mechanical actuator fault diagnosis** [[PDF]](https://www.sciencedirect.com/science/article/pii/S1000936123000493) [[G-Scholar]](https://scholar.google.com/scholar?cites=2405206262999061108&hl=en)
-
-- `...` [Zhang et al., Proc. China Automation Congress 2022] **Source-free domain adaptation for rotating machinery cross-domain fault diagnosis with neighborhood reciprocity clustering** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10055182) [[G-Scholar--]]()
 
 - `MDAQA` [Yin et al., Arxiv 2022] **Source-free domain adaptation for question answering with masked self-training** [[PDF]](https://arxiv.org/abs/2212.09563) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6098149583071335403&hl=en)
 
@@ -833,6 +845,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 - `...` [Yue et al., IEEE TIM 2023] **Multiple source-free domain adaptation network based on knowledge distillation for machinery fault diagnosis** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10174649) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10702745574636542183&hl=en)
 
 - `...` [Wu et al., IEEE TIM 2023] **Privacy-preserving adaptive remaining useful life prediction via source free domain adaption** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10239252) [[G-Scholar--]]()
+
+- `SF-CA` [Zhu et al., IEEE TIM 2023] **Source-free cluster adaptation for privacy-preserving machinery fault diagnosis** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10243035) [[G-Scholar--]]()
 
 - `...` [Zhao et al., IEEE TII 2023] **Source-free domain adaptation for privacy-preserving seizure prediction** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10199136) [[G-Scholar--]]()
 

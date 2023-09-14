@@ -206,6 +206,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `DMP` [Hong and Kim, Proc. ICCV 2021] **Deep matching prior: Test-time optimization for dense correspondence** [[PDF]](https://openaccess.thecvf.com/content/ICCV2021/html/Hong_Deep_Matching_Prior_Test-Time_Optimization_for_Dense_Correspondence_ICCV_2021_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7012757512151073041&hl=en) [[CODE--]](https://github.com/SunghwanHong/Deep-Matching-Prior)
 
+- `...` [Hatem et al., Proc. ICCV 2023] **Point-TTA: Test-Time Adaptation for Point Cloud Registration Using Multitask Meta-Auxiliary Learning** [[PDF]](https://arxiv.org/abs/2308.16481) [[G-Scholar--]]()
+
 - `...` [Min et al., Proc. WACV 2023] **Meta-learning for adaptation of deep optical flow networks** [[PDF]](https://openaccess.thecvf.com/content/WACV2023/html/Min_Meta-Learning_for_Adaptation_of_Deep_Optical_Flow_Networks_WACV_2023_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18408757945365502559&hl=en)
 
 - `...` [Sang et al., Medical Physics 2023] **Target‐oriented deep learning‐based image registration with individualized test‐time adaptation** [[PDF]](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.16477) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1343161448571720939&hl=en)
@@ -271,6 +273,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 - `MATE` [Mirza et al., Proc. ICCV 2023] **MATE: Masked autoencoders are online 3D test-time learners** [[PDF]](https://arxiv.org/abs/2211.11432) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17319713522651218187&hl=en) [[CODE]](https://github.com/jmiemirza/MATE)
 
 - `DiffTPT` [Feng et al., Proc. ICCV 2023] **Test-time prompt tuning for zero-shot generalization in vision-language models** [[PDF]](https://arxiv.org/abs/2308.06038) [[G-Scholar--]]() [[CODE--]](https://github.com/chunmeifeng/DiffTPT)
+
+- `...` [Hatem et al., Proc. IROS 2023] **Test-Time Adaptation for Point Cloud Upsampling Using Meta-Learning** [[PDF]](https://arxiv.org/abs/2308.16484) [[G-Scholar--]]()
 
 - `...` [Liu et al., Proc. WACV 2023] **Meta-auxiliary learning for future depth prediction in videos** [[PDF]](https://openaccess.thecvf.com/content/WACV2023/html/Min_Meta-Learning_for_Adaptation_of_Deep_Optical_Flow_Networks_WACV_2023_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9083144572156364990&hl=en)
 

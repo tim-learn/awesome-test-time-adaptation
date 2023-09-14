@@ -55,14 +55,22 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `...` [Wang et al., Arxiv 2023] **Test-time training on video streams** [[PDF]](https://arxiv.org/abs/2307.05014) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6098567519147081981&hl=en)
 
+- `AuxAdapt` [Zhang et al., Proc. WACV2022] **AuxAdapt: Stable and efficient test-time adaptation for temporally consistent video semantic segmentation** [[PDF]](https://openaccess.thecvf.com/content/WACV2022/papers/Zhang_AuxAdapt_Stable_and_Efficient_Test-Time_Adaptation_for_Temporally_Consistent_Video_WACV_2022_paper.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14457673197786991325&hl=en)
+
 ### Misc
 - `BOA` [Guan et al., Proc. CVPR 2021] **Bilevel online adaptation for out-of-domain human mesh reconstruction** [[PDF]](https://openaccess.thecvf.com/content/CVPR2021/html/Guan_Bilevel_Online_Adaptation_for_Out-of-Domain_Human_Mesh_Reconstruction_CVPR_2021_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14857518758485826444&hl=en) [[CODE]](https://github.com/syguan96/BOA)
 
 - `...` [Kundu et al., Proc. CVPR 2022] **Uncertainty-aware adaptation for self-supervised 3D human pose estimation** [[PDF]](https://openaccess.thecvf.com/content/CVPR2022/html/Kundu_Uncertainty-Aware_Adaptation_for_Self-Supervised_3D_Human_Pose_Estimation_CVPR_2022_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18340324852098009553&hl=en)
 
+- `...` [Ayyoubzadeh et al., IEEE TIP 2023] **Test-time adaptation for optical flow estimation using motion vectors** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10236979) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6897314730324571516&hl=en)
+
 - `ViTTA` [Lin et al., Proc. CVPR 2023] **Video test-time adaptation for action recognition** [[PDF]](https://arxiv.org/abs/2211.15393) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14921741895103050225&hl=en) [[CODE--]](https://github.com/wlin-at/ViTTA)
 
-- `AUTO` [Yang et al., Arxiv 2023] **AUTO: Adaptive outlier optimization for online test-time OOD detection** [[PDF]](https://arxiv.org/abs/2303.12267) [[G-Scholar--]]()
+- `OnDA-DETR` [Suzuki et al., Proc. ICIP 2023] **OnDA-DETR: Online domain adaptation for detection transformers with self-training framework** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10222353) [[G-Scholar--]]()
+
+- `AUTO` [Yang et al., Arxiv 2023] **AUTO: Adaptive outlier optimization for online test-time OOD detection** [[PDF]](https://arxiv.org/abs/2303.12267) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14394937181474626375&hl=en)
+
+- `ATTA` [Gao et al., Arxiv 2023] **ATTA: Anomaly-aware test-time adaptation for out-of-distribution detection in segmentation** [[PDF]](https://arxiv.org/abs/2309.05994) [[G-Scholar--]]() [[CODE--]](https://github.com/gaozhitong/ATTA)
 
 ## Online Batch-level
 ### Image Classification
@@ -107,8 +115,6 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `GpreBN` [Yang et al., Arxiv 2022] **Test-time batch normalization** [[PDF]](https://arxiv.org/abs/2205.10210) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6871491778357281302&hl=en)
 
 - `CAFA` [Jung et al., Arxiv 2022] **CAFA: Class-aware feature alignment for test-time adaptation** [[PDF]](https://arxiv.org/abs/2206.00205) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4234869190098771055&hl=en)
-
-- `CAFe` [Adachi et al., Arxiv 2022] **Covariance-aware feature alignment with pre-computed source statistics for test-time adaptation** [[PDF]](https://arxiv.org/abs/2204.13263) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9027936211625033629&hl=en)
 
 - `AdaODM` [Zhang and Chen, Arxiv 2022] **Adaptive domain generalization via online disagreement minimization** [[PDF]](https://arxiv.org/abs/2208.01996) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13579356745223060725&hl=en)
 
@@ -155,6 +161,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `JumpStyle` [Singh et al., Proc. ICLR Workshops 2023] **JumpStyle: A framework for data-efficient online adaptation** [[PDF]](https://pml4dc.github.io/iclr2023/pdf/PML4DC_ICLR2023_47.pdf) [[G-Scholar--]]()
 
+- `CAFe` [Adachi et al., Proc. ICIP 2023] **Covariance-aware feature alignment with pre-computed source statistics for test-time adaptation to multiple image corruptions** [[PDF]](https://arxiv.org/abs/2204.13263) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9027936211625033629&hl=en)
+
 - `T-TIME` [Li et al., IEEE TMBE 2023] **T-TIME: Test-time information maximization ensemble for plug-and-play BCIs** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10210666) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13455766305882536637&hl=en) [[CODE]](https://github.com/sylyoung/DeepTransferEEG)
 
 - `ECL` [Han et al., Arxiv 2023] **Rethinking precision of pseudo label: Test-time adaptation via complementary learning** [[PDF]](https://arxiv.org/abs/2301.06013) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3929794078133562489&hl=en)
@@ -178,6 +186,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `VPL` [Ambekar et al., Misc 2023] **Variational pseudo labels for meta test-time adaptation** [[PDF]](https://openreview.net/forum?id=iOag71mvHI) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2267598876397998774&hl=en)
 
 - `TePA` [Cong et al., Proc. S&P 2024] **Test-time poisoning attacks against test-time adaptation models** [[PDF]](https://arxiv.org/abs/2308.08505) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13810860861574844121&hl=en) [[CODE--]](https://github.com/tianshuocong/TePA)
+
+- `REALM` [Seto et al., Proc. WACV 2024] **REALM: Robust entropy adaptive loss minimization for improved single-sample test-time adaptation** [[PDF]](https://arxiv.org/abs/2309.03964) [[G-Scholar--]]()
 
 ### Segmentation
 - `RNCR` [Hu et al., Proc. MICCAI 2021] **Fully test-time adaptation for image segmentation** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-030-87199-4_24) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18183176392541200399&hl=en)
