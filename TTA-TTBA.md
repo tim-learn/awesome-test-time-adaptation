@@ -187,6 +187,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `MetaTL` [Gunawan et al., Arxiv 2022] **Test-time adaptation for real image denoising via meta-transfer learning** [[PDF]](https://arxiv.org/abs/2207.02066) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12620165808171507902&hl=en) [[CODE]](https://github.com/agusgun/TTAID)
 
+- `...` [Hatem et al., Proc. IROS 2023] **Test-time adaptation for point cloud upsampling using meta-learning** [[PDF]](https://arxiv.org/abs/2308.16484) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18088448039758938963&hl=en)
+
 ### Inverse problem
 - `R&R+` [Gilton et al., IEEE TCI 2021] **Model adaptation for inverse problems in imaging** [[PDF]](https://ieeexplore.ieee.org/abstract/document/9477112/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1317665702275783452&hl=en)
 
@@ -206,7 +208,7 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `DMP` [Hong and Kim, Proc. ICCV 2021] **Deep matching prior: Test-time optimization for dense correspondence** [[PDF]](https://openaccess.thecvf.com/content/ICCV2021/html/Hong_Deep_Matching_Prior_Test-Time_Optimization_for_Dense_Correspondence_ICCV_2021_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7012757512151073041&hl=en) [[CODE--]](https://github.com/SunghwanHong/Deep-Matching-Prior)
 
-- `...` [Hatem et al., Proc. ICCV 2023] **Point-TTA: Test-Time Adaptation for Point Cloud Registration Using Multitask Meta-Auxiliary Learning** [[PDF]](https://arxiv.org/abs/2308.16481) [[G-Scholar--]]()
+- `...` [Hatem et al., Proc. ICCV 2023] **Point-TTA: Test-time adaptation for point cloud registration using multitask meta-auxiliary learning** [[PDF]](https://arxiv.org/abs/2308.16481) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3287028425275958276&hl=en)
 
 - `...` [Min et al., Proc. WACV 2023] **Meta-learning for adaptation of deep optical flow networks** [[PDF]](https://openaccess.thecvf.com/content/WACV2023/html/Min_Meta-Learning_for_Adaptation_of_Deep_Optical_Flow_Networks_WACV_2023_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18408757945365502559&hl=en)
 
@@ -273,8 +275,6 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 - `MATE` [Mirza et al., Proc. ICCV 2023] **MATE: Masked autoencoders are online 3D test-time learners** [[PDF]](https://arxiv.org/abs/2211.11432) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17319713522651218187&hl=en) [[CODE]](https://github.com/jmiemirza/MATE)
 
 - `DiffTPT` [Feng et al., Proc. ICCV 2023] **Test-time prompt tuning for zero-shot generalization in vision-language models** [[PDF]](https://arxiv.org/abs/2308.06038) [[G-Scholar--]]() [[CODE--]](https://github.com/chunmeifeng/DiffTPT)
-
-- `...` [Hatem et al., Proc. IROS 2023] **Test-Time Adaptation for Point Cloud Upsampling Using Meta-Learning** [[PDF]](https://arxiv.org/abs/2308.16484) [[G-Scholar--]]()
 
 - `...` [Liu et al., Proc. WACV 2023] **Meta-auxiliary learning for future depth prediction in videos** [[PDF]](https://openaccess.thecvf.com/content/WACV2023/html/Min_Meta-Learning_for_Adaptation_of_Deep_Optical_Flow_Networks_WACV_2023_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9083144572156364990&hl=en)
 

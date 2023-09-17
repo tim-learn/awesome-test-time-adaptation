@@ -870,6 +870,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `...` [Zhao et al., Measurement Science and Technology 2023] **Single-source UDA for privacy-preserving intelligent fault diagnosis based on domain augmentation** [[PDF]](https://iopscience.iop.org/article/10.1088/1361-6501/acf3ff/meta) [[G-Scholar--]]()
 
+- `MWSDTN` [Gao et al., Expert Systems With Applications 2023] **Multi-source weighted source-free domain transfer method for rotating machinery fault diagnosis** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0957417423020870) [[G-Scholar--]]()
+
 - `...` [Guney et al., Arxiv 2023] **Source free domain adaptation of a DNN for SSVEP-based brain-computer interfaces** [[PDF]](https://arxiv.org/abs/2305.17403) [[G-Scholar--]]() [[CODE--]](https://github.com/osmanberke/SFDA-SSVEP-BCI)
 
 - `AMFDA` [Salimnia., Master Thesis 2023] **Attention-based multi-source-free domain adaptation for EEG emotion recognition** [[PDF]](https://ir.lib.uwo.ca/etd/9154) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17471628973502560469&hl=en)
