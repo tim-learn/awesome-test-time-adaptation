@@ -341,6 +341,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `BPDA` [Shi et al., Pattern Recognition 2023] **Source-free and black-box domain adaptation via distributionally adversarial training** [[PDF]](https://www.sciencedirect.com/science/article/pii/S003132032300448X) [[G-Scholar--]]() [[CODE]](https://github.com/shiyuchengTJU/BPDA)
 
+- `CPD` [Zhou et al., Pattern Recognition 2023] **Source-free domain adaptation with class prototype discovery** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320323006726) [[G-Scholar--]]()
+
 - `UC-SFDA` [Chen et al., Knowledge-Based Systems 2023] **UC-SFDA: Source-free domain adaptation via uncertainty prediction and evidence-based contrastive learning** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0950705123004781) [[G-Scholar--]]() [[CODE]](https://www.github.com/oolown/UC-SFDA)
 
 - `RS2L` [Tian et al., Signal, Image and Video Processing 2023] **Robust self-supervised learning for source-free domain adaptation** [[PDF]](https://link.springer.com/article/10.1007/s11760-022-02457-z) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18298807507396100788&hl=en)
@@ -472,6 +474,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 - `CROTS` [Luo et al., IJCV 2023] **Crots: Cross-domain teacher–student learning for source-free domain adaptive semantic segmentation** [[PDF]](https://link.springer.com/article/10.1007/s11263-023-01863-1) [[G-Scholar--]]() [[CODE--]](https://github.com/luoxin13/CROTS)
 
 - `...` [Lu et al., IEEE TIP 2023] **Uncertainty-aware source-free domain adaptive semantic segmentation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10189399) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8610085403644983243&hl=en)
+
+- `UPL-SFDA` [Wu et al., IEEE TMI 2023] **UPL-SFDA: Uncertainty-aware pseudo label guided source-free domain adaptation for medical image segmentation** [[PDF]](https://arxiv.org/abs/2309.10244) [[G-Scholar--]]()
 
 - `STAL` [Guan and Yuan, Arxiv 2023] **Iterative loop learning combining self-training and active learning for domain adaptive semantic segmentation** [[PDF]](https://arxiv.org/abs/2301.13361) [[G-Scholar]](https://scholar.google.com/scholar?cluster=580721324325082611&hl=en) [[CODE]](https://github.com/licongguan/STAL)
 
@@ -653,6 +657,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 - `SCDA` [Fang et al., Arxiv 2023] **Source-free collaborative domain adaptation via multi-perspective feature enrichment for functional MRI analysis** [[PDF]](https://arxiv.org/abs/2308.12495) [[G-Scholar--]]()
 
 - `LGDA` [Ye et al., Arxiv 2023] **Local-global pseudo-label correction for source-free domain adaptive medical image segmentation** [[PDF]](https://arxiv.org/abs/2308.14312) [[G-Scholar--]]()
+
+- `SFADA` [Ran et al., Arxiv 2023] **Source-free active domain adaptation for diabetic retinopathy grading based on ultra-wide-field fundus Image** [[PDF]](https://arxiv.org/abs/2309.10619) [[G-Scholar--]]()
 
 - `PD` [Rafiee et al., Misc 2023] **Diversified source-free domain adaptation** [[PDF]](https://openreview.net/forum?id=Ot0KorOlyl) [[G-Scholar--]]()
 

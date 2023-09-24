@@ -183,6 +183,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `...` [Du et al., Arxiv 2023] **Domain adaptation for satellite-borne hyperspectral cloud detection** [[PDF]](https://arxiv.org/abs/2309.02150) [[G-Scholar--]]()
 
+- `AR-TTA` [Sójka et al., Arxiv 2023] **AR-TTA: A simple method for real-world continual test-time adaptation** [[PDF]](https://arxiv.org/abs/2309.10109) [[G-Scholar--]]()
+
 - `VPL` [Ambekar et al., Misc 2023] **Variational pseudo labels for meta test-time adaptation** [[PDF]](https://openreview.net/forum?id=iOag71mvHI) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2267598876397998774&hl=en)
 
 - `TePA` [Cong et al., Proc. S&P 2024] **Test-time poisoning attacks against test-time adaptation models** [[PDF]](https://arxiv.org/abs/2308.08505) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13810860861574844121&hl=en) [[CODE--]](https://github.com/tianshuocong/TePA)
@@ -252,6 +254,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `...` [Almansoori et al., Proc. Scandinavian Conference on Image Analysis 2023] **Anchor-ReID: A test time adaptation for person re-identification** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-31438-4_39) [[G-Scholar--]]()
 
 - `...` [He., Journal of Intelligent Medicine and Healthcare 2023] **ECG heartbeat classification under dataset shift** [[PDF]](https://cdn.techscience.cn/files/jimh/TSP_JIMH-1-2/TSP_JIMH_36624/TSP_JIMH_36624.pdf) [[G-Scholar--]]()
+
+- `UTT` [Huang et al., Proc. ACPR 2023] **Uncertainty-guided test-time training for face forgery detectione** [[PDF]](https://aihuazheng.github.io/publications/pdf/2023/2023-Uncertainty-guided_Test-time_Training_for_Face_Forgery_Detection.pdf) [[G-Scholar--]]()
 
 ## Related
 - `GTTA-ST` [Marsden et al., Arxiv 2022] **Introducing intermediate domains for effective self-training during test-time** [[PDF]](https://arxiv.org/abs/2208.07736) [[G-Scholar--]]()
