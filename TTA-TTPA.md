@@ -44,4 +44,6 @@ A curated list of awesome test-time prior adaptation resources. Your contributio
 
 - `TTADC` [Ma et al., Proc. MICCAI 2022] **Test-time adaptation with calibration of medical image classification nets for label distribution shift** [[PDF]](https://arxiv.org/abs/2207.00769) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7982883573733677737&hl=en) [[CODE]](https://github.com/med-air/TTADC)
 
+- `DROPS` [Wei et al., Proc. ICLR 2023] **Distributionally robust post-hoc classifiers under prior shifts** [[PDF]](https://arxiv.org/abs/2309.08825) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10995720941474911018&hl=en) [[CODE]](https://github.com/weijiaheng/Drops)
+
 - `...` [Park et al., Proc. ICCV 2023] **Label shift adapter for test-time adaptation under covariate and label shifts** [[PDF]](https://arxiv.org/abs/2308.08810) [[G-Scholar--]]()
