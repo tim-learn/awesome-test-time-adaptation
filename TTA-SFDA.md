@@ -329,6 +329,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `NRC++` [Yang et al., IEEE TPAMI 2023] **Trust your good friends: Source-free domain adaptation by reciprocal neighborhood clustering** [[PDF]](https://arxiv.org/abs/2309.00528) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13832483681532519069&hl=en)
 
+- `TPDS` [Tang et al., IJCV 2023] **Source-free domain adaptation via target prediction distribution searching** [[PDF]](https://surrey-uplab.github.io/assets/pdf/TangEtAl_IJCV2023.pdf) [[G-Scholar--]]() [[CODE]](https://github.com/tntek/TPDS)
+
 - `SDG-MA` [Xu et al., IEEE TGRS 2023] **Universal domain adaptation for remote sensing image scene classification** [[PDF]](https://arxiv.org/abs/2301.11387) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7802316111188678098&hl=en)[[CODE]](https://github.com/zhu-xlab/UniDA)
   ~~[Xu et al., Proc. IGARSS 2022] **Universal domain adaptation without source data for remote sensing image scene classification** [[PDF]](https://ieeexplore.ieee.org/abstract/document/9884889/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15682142231027232982&hl=en)~~
 

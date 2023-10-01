@@ -60,6 +60,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 - `TSB` [Park et al., Proc. ICML 2023] **Test-time style shifting: Handling arbitrary styles in domain generalization** [[PDF]](https://arxiv.org/abs/2306.04911) [[G-Scholar--]]()
   ~~[Park et al., Proc. ICML Workshops 2022] **Style balancing and test-time style shifting for domain generalization** [[PDF]](https://openreview.net/forum?id=7_3oRsaogr) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17482138953832830259&hl=en)~~
 
+- `...` [Samadh et al., Proc. NeurIPS 2023] **Align your prompts: Test-time prompting with distribution alignment for zero-shot generalization** [[PDF]](https://openreview.net/forum?id=CusNOTRkQw) [[G-Scholar--]]()
+
 - `...` [Feng et al., Proc. ICASSP 2023] **Test-time training-free domain adaptation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10096430/) [[G-Scholar--]]()
 
 - `TT-NSS` [Mehra et al., Proc. ICML Workshops 2023] **Risk-averse predictions on unseen domains via neural style smoothing** [[PDF]](https://openreview.net/forum?id=YVwW5yBISo) [[G-Scholar--]]()

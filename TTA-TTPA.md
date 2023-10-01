@@ -38,12 +38,12 @@ A curated list of awesome test-time prior adaptation resources. Your contributio
 
 - `...` [Šipka et al., Proc. WACV 2022] **The hitchhiker's guide to prior-shift adaptation** [[PDF]](http://openaccess.thecvf.com/content/WACV2022/html/Sipka_The_Hitchhikers_Guide_to_Prior-Shift_Adaptation_WACV_2022_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17936670814133771054&hl=en) 
 
-- `TTLSA` [Sun et al., Arxiv 2022] **Beyond invariance: Test-time label-shift adaptation for distributions with" spurious" correlations** [[PDF]](https://arxiv.org/abs/2211.15646) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8297779371205142813&hl=en) [[CODE]](https://github.com/nalzok/test-time-label-shift)
-
 - `SADE` [Zhang et al., Proc. NeurIPS 2022] **Self-supervised aggregation of diverse experts for test-agnostic long-tailed recognition** [[PDF]](https://openreview.net/forum?id=m7CmxlpHTiu) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16295847624184830192&hl=en) [[CODE]](https://github.com/vanint/sade-agnosticlt)
 
 - `TTADC` [Ma et al., Proc. MICCAI 2022] **Test-time adaptation with calibration of medical image classification nets for label distribution shift** [[PDF]](https://arxiv.org/abs/2207.00769) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7982883573733677737&hl=en) [[CODE]](https://github.com/med-air/TTADC)
 
 - `DROPS` [Wei et al., Proc. ICLR 2023] **Distributionally robust post-hoc classifiers under prior shifts** [[PDF]](https://arxiv.org/abs/2309.08825) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10995720941474911018&hl=en) [[CODE]](https://github.com/weijiaheng/Drops)
+
+- `TTLSA` [Sun et al., Proc. NeurIPS 2023] **Beyond invariance: Test-time label-shift adaptation for distributions with" spurious" correlations** [[PDF]](https://arxiv.org/abs/2211.15646) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8297779371205142813&hl=en) [[CODE]](https://github.com/nalzok/test-time-label-shift)
 
 - `...` [Park et al., Proc. ICCV 2023] **Label shift adapter for test-time adaptation under covariate and label shifts** [[PDF]](https://arxiv.org/abs/2308.08810) [[G-Scholar--]]()

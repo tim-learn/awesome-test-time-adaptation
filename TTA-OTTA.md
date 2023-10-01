@@ -70,7 +70,7 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `AUTO` [Yang et al., Arxiv 2023] **AUTO: Adaptive outlier optimization for online test-time OOD detection** [[PDF]](https://arxiv.org/abs/2303.12267) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14394937181474626375&hl=en)
 
-- `ATTA` [Gao et al., Arxiv 2023] **ATTA: Anomaly-aware test-time adaptation for out-of-distribution detection in segmentation** [[PDF]](https://arxiv.org/abs/2309.05994) [[G-Scholar--]]() [[CODE--]](https://github.com/gaozhitong/ATTA)
+- `ATTA` [Gao et al., Proc. NeurIPS 2023] **ATTA: Anomaly-aware test-time adaptation for out-of-distribution detection in segmentation** [[PDF]](https://arxiv.org/abs/2309.05994) [[G-Scholar--]]() [[CODE--]](https://github.com/gaozhitong/ATTA)
 
 ## Online Batch-level
 ### Image Classification
@@ -133,6 +133,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `ODS` [Zhou et al., Proc. ICML 2023] **ODS: Test-time adaptation in the presence of open-world data shift** [[PDF]](https://openreview.net/forum?id=Phjti0QbkZ) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16719191560487765295&hl=en)
 
+- `CCC` [Press et al., Proc. NeurIPS 2023] **RDumb: A simple approach that questions our progress in continual test-time adaptation** [[PDF]](https://arxiv.org/abs/2306.05401) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7407854005249056205&hl=en) [[CODE]](https://github.com/oripress/CCC)
+
 - `ActMAD` [Mirza et al., Proc. CVPR 2023] **ActMAD: Activation matching to align distributions for test-time-training** [[PDF]](https://arxiv.org/abs/2211.12870) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4556204882779586735&hl=en) [[CODE]](https://github.com/jmiemirza/actmad)
 
 - `RMT` [Döbler et al., Proc. CVPR 2023] **Robust mean teacher for continual and gradual test-time adaptation** [[PDF]](https://arxiv.org/abs/2211.13081) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5205082821636588766&hl=en) [[CODE]](https://github.com/mariodoebler/test-time-adaptation)
@@ -172,8 +174,6 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `...` [ Alfarra et al., Arxiv 2023] **Revisiting test time adaptation under online evaluation** [[PDF]](https://arxiv.org/abs/2304.04795) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12717507143707854308&hl=en) [[CODE]](https://github.com/MotasemAlfarra/Online_Test_Time_Adaptation)
 
 - `SATA` [Chakrabarty et al., Arxiv 2023] **SATA: Source anchoring and target alignment network for continual test time adaptation** [[PDF]](https://arxiv.org/abs/2304.10113) [[G-Scholar]](https://scholar.google.com/scholar?cluster=406667574849068188&hl=en) 
-
-- `RDumb` [Press et al., Arxiv 2023] **RDumb: A simple approach that questions our progress in continual test-time adaptation** [[PDF]](https://arxiv.org/abs/2306.05401) [[G-Scholar--]]() [[CODE]](https://github.com/oripress/CCC)
 
 - `...` [Yu et al., Arxiv 2023] **Benchmarking test-time adaptation against distribution shifts in image classification** [[PDF]](https://arxiv.org/abs/2307.03133) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15489648442199966100&hl=en) [[CODE]](https://github.com/yuyongcan/benchmark-tta)
 
