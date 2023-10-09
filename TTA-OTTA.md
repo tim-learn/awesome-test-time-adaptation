@@ -45,6 +45,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `OASIS` [Volpi et al., Proc. CVPR 2022] **On the road to online adaptation for semantic image segmentation** [[PDF]](https://openaccess.thecvf.com/content/CVPR2022/html/Volpi_On_the_Road_to_Online_Adaptation_for_Semantic_Image_Segmentation_CVPR_2022_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9925554197632369771&hl=en) [[CODE]](https://github.com/naver/oasis)
 
+- `AuxAdapt` [Zhang et al., Proc. WACV2022] **AuxAdapt: Stable and efficient test-time adaptation for temporally consistent video semantic segmentation** [[PDF]](https://openaccess.thecvf.com/content/WACV2022/papers/Zhang_AuxAdapt_Stable_and_Efficient_Test-Time_Adaptation_for_Temporally_Consistent_Video_WACV_2022_paper.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14457673197786991325&hl=en)
+
 - `FTEA` [Zhang et al., Arxiv 2022] **Unseen object instance segmentation with fully test-time RGB-D embeddings adaptation** [[PDF]](https://arxiv.org/abs/2204.09847) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5715333917067730978&hl=en)
 
 - `TransAdapt` [Das et al., Proc. ICASSP 2023] **TransAdapt: A transformative framework for online test time adaptive semantic segmentation** [[PDF]](https://arxiv.org/abs/2302.14611) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6945447611975756954&hl=en)
@@ -55,7 +57,7 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `...` [Wang et al., Arxiv 2023] **Test-time training on video streams** [[PDF]](https://arxiv.org/abs/2307.05014) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6098567519147081981&hl=en)
 
-- `AuxAdapt` [Zhang et al., Proc. WACV2022] **AuxAdapt: Stable and efficient test-time adaptation for temporally consistent video semantic segmentation** [[PDF]](https://openaccess.thecvf.com/content/WACV2022/papers/Zhang_AuxAdapt_Stable_and_Efficient_Test-Time_Adaptation_for_Temporally_Consistent_Video_WACV_2022_paper.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14457673197786991325&hl=en)
+- `DAT` [Ni et al., Arxiv 2023] **Distribution-aware continual test time adaptation for semantic segmentation** [[PDF]](https://arxiv.org/abs/2309.13604) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16456646600205229787&hl=en)
 
 ### Misc
 - `BOA` [Guan et al., Proc. CVPR 2021] **Bilevel online adaptation for out-of-domain human mesh reconstruction** [[PDF]](https://openaccess.thecvf.com/content/CVPR2021/html/Guan_Bilevel_Online_Adaptation_for_Out-of-Domain_Human_Mesh_Reconstruction_CVPR_2021_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14857518758485826444&hl=en) [[CODE]](https://github.com/syguan96/BOA)
@@ -163,6 +165,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `JumpStyle` [Singh et al., Proc. ICLR Workshops 2023] **JumpStyle: A framework for data-efficient online adaptation** [[PDF]](https://pml4dc.github.io/iclr2023/pdf/PML4DC_ICLR2023_47.pdf) [[G-Scholar--]]()
 
+- `...` [Chakrabarty et al., Proc. ICCV Workshops 2023] **A simple signal for domain shift** [[PDF]](https://openaccess.thecvf.com/content/ICCV2023W/VCL/html/Chakrabarty_A_Simple_Signal_for_Domain_Shift_ICCVW_2023_paper.html) [[G-Scholar--]]()
+
 - `CAFe` [Adachi et al., Proc. ICIP 2023] **Covariance-aware feature alignment with pre-computed source statistics for test-time adaptation to multiple image corruptions** [[PDF]](https://arxiv.org/abs/2204.13263) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9027936211625033629&hl=en)
 
 - `T-TIME` [Li et al., IEEE TMBE 2023] **T-TIME: Test-time information maximization ensemble for plug-and-play BCIs** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10210666) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13455766305882536637&hl=en) [[CODE]](https://github.com/sylyoung/DeepTransferEEG)
@@ -201,6 +205,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `CD-TTA` [Song et al., Arxiv 2022] **CD-TTA: Compound domain test-time adaptation for semantic segmentation** [[PDF]](https://arxiv.org/abs/2212.08356) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16005649886301679271&hl=en)
 
 - `...` [Lee et al., Proc. ICCV 2023] **Towards open-set test-time adaptation utilizing the wisdom of crowds in entropy minimization** [[PDF]](https://arxiv.org/abs/2308.06879) [[G-Scholar--]]()
+
+- `OAST` [Su et al., Proc. ICCV 2023] **Unsupervised video object segmentation with online adversarial self-tuning** [[PDF]](https://openaccess.thecvf.com/content/ICCV2023/html/Su_Unsupervised_Video_Object_Segmentation_with_Online_Adversarial_Self-Tuning_ICCV_2023_paper.html) [[G-Scholar--]]()
 
 - `...` [Song et al., IEEE Robotics and Automation Letters 2023] **Test-time adaptation in the dynamic world with compound domain knowledge management** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10227541) [[G-Scholar--]]()
 
@@ -263,3 +269,6 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `Co-UCB` [Ye et al., Proc. ACL 2023] **Multi-source test-time adaptation as dueling bandits for extractive question answering** [[PDF]](https://arxiv.org/abs/2306.06779) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4703214228724350379&hl=en)
 
 - `DSS` [Chakrabarty et al., Proc. ICLR Workshops 2023] **Domain shift signal for low resource continuous test-time adaptation** [[PDF]](https://pml4dc.github.io/iclr2023/pdf/PML4DC_ICLR2023_46.pdf) [[G-Scholar--]]()
+
+
+
