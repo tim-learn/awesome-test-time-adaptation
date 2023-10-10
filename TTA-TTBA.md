@@ -109,11 +109,15 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `DIGA` [Wang et al., Proc. CVPR 2023] **Dynamically instance-guided adaptation: A backward-free approach for test-time domain adaptive semantic segmentation** [[PDF]](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Dynamically_Instance-Guided_Adaptation_A_Backward-Free_Approach_for_Test-Time_Domain_Adaptive_CVPR_2023_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5310249894401773826&hl=en) [[CODE]](https://github.com/Waybaba/DIGA)
 
+- `RNA` [Dumpala et al., Proc. ICCV 2023] **Rapid network adaptation: Learning to adapt neural networks using test-time feedback** [[PDF]](https://openaccess.thecvf.com/content/ICCV2023/html/Yeo_Rapid_Network_Adaptation_Learning_to_Adapt_Neural_Networks_Using_Test-Time_ICCV_2023_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3949626307376398237&hl=en)
+
 - `Adaptive-UNet` [Valanarasu et al., Proc. MIDL 2023] **On-the-fly test-time adaptation for medical image segmentation** [[PDF]](https://arxiv.org/abs/2203.05574) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2402009671021470527&hl=en) [[CODE]](https://github.com/jeya-maria-jose/On-The-Fly-Adaptation)
 
 - `WOSA-AugSelf` [Huang et al., Computer Methods and Programs in Biomedicine 2023] **Test-time bi-directional adaptation between image and model for robust segmentation** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0169260723001438) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14768083414195901454&hl=en)
 
 - `AdaAtlas` [Guo et al., Arxiv 2023] **Pay attention to the atlas: Atlas-guided test-time adaptation method for robust 3D medical image segmentation** [[PDF]](https://arxiv.org/abs/2307.00676) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3681859989801585957&hl=en)
+
+- `...` [Janouskova et al., Arxiv 2023] **Single image test-time adaptation for segmentation** [[PDF]](https://arxiv.org/abs/2309.14052) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14549212563557895797&hl=en) [[CODE--]](https://github.com/klarajanouskova/SITTA-Segmentation)
 
 - `TTA-SEG` [Janouskova., Master Thesis 2023] **Test-time adaptation for segmentation** [[PDF]]() [[G-Scholar--]]() [[CODE]](https://github.com/klarajanouskova/TTA-SEG)
 
