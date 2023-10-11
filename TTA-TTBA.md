@@ -62,6 +62,10 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `...` [Samadh et al., Proc. NeurIPS 2023] **Align your prompts: Test-time prompting with distribution alignment for zero-shot generalization** [[PDF]](https://openreview.net/forum?id=CusNOTRkQw) [[G-Scholar--]]()
 
+- `IAI` [Jeon et al., Proc. ICCV 2023] **A unified framework for robustness on diverse sampling errors** [[PDF]](https://openaccess.thecvf.com/content/ICCV2023/html/Jeon_A_Unified_Framework_for_Robustness_on_Diverse_Sampling_Errors_ICCV_2023_paper.html) [[G-Scholar--]]()
+
+- `CMA` [Bruggemann et al., Proc. ICCV 2023] **Contrastive model adaptation for cross-condition robustness in semantic segmentation** [[PDF]](http://openaccess.thecvf.com/content/ICCV2023/html/Bruggemann_Contrastive_Model_Adaptation_for_Cross-Condition_Robustness_in_Semantic_Segmentation_ICCV_2023_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11262078686777334014&hl=en) [[CODE]](https://github.com/brdav/cma)
+
 - `...` [Feng et al., Proc. ICASSP 2023] **Test-time training-free domain adaptation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10096430/) [[G-Scholar--]]()
 
 - `TT-NSS` [Mehra et al., Proc. ICML Workshops 2023] **Risk-averse predictions on unseen domains via neural style smoothing** [[PDF]](https://openreview.net/forum?id=YVwW5yBISo) [[G-Scholar--]]()
@@ -195,6 +199,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `...` [Hatem et al., Proc. IROS 2023] **Test-time adaptation for point cloud upsampling using meta-learning** [[PDF]](https://arxiv.org/abs/2308.16484) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18088448039758938963&hl=en)
 
+- `PTTD` [Chen et al., Arxiv 2023] **Prompt-based test-time real image dehazing: A novel pipelinee** [[PDF]](https://arxiv.org/abs/2309.17389) [[G-Scholar--]]() [[CODE]](https://github.com/cecret3350/PTTD-Dehazing)
+
 ### Inverse problem
 - `R&R+` [Gilton et al., IEEE TCI 2021] **Model adaptation for inverse problems in imaging** [[PDF]](https://ieeexplore.ieee.org/abstract/document/9477112/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1317665702275783452&hl=en)
 
@@ -321,7 +327,9 @@ RGB images** [[PDF]](https://arxiv.org/abs/2303.07850) [[G-Scholar]](https://sch
 
 - `ShiftMatch` [Wang and Aitchison, Proc. ICLR 2023] **Robustness to corruption in pre-trained Bayesian neural networks** [[PDF]](https://openreview.net/forum?id=kUI41mY8bHl) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12854599053728566431&hl=en)
 
-- `DomainAdaptor` [Zhang et al., Proc. ICCV 2023] **DomainAdaptor: A novel approach to test-time adaptation** [[PDF]](https://arxiv.org/abs/2308.10297) [[G-Scholar--]]() [[CODE--]](https://github.com/koncle/DomainAdaptor)
+- `DomainAdaptor` [Zhang et al., Proc. ICCV 2023] **DomainAdaptor: A novel approach to test-time adaptation** [[PDF]](https://arxiv.org/abs/2308.10297) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9175808446688030557&hl=en) [[CODE]](https://github.com/koncle/DomainAdaptor)
+
+- `ClusT3` [Hakim et al., Proc. ICCV 2023] **ClusT3: Information invariant test-time training** [[PDF]](https://openaccess.thecvf.com/content/ICCV2023/html/Hakim_ClusT3_Information_Invariant_Test-Time_Training_ICCV_2023_paper.html) [[G-Scholar--]]() [[CODE--]](https://github.com/dosowiechi/ClusT3)
 
 - `DILAM` [Leitner et al., Proc. IEEE Intelligent Vehciles Symposium 2023] **Sit back and relax: Learning to drive incrementally in all weather conditions** [[PDF]](https://arxiv.org/abs/2305.18953) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8435946811898296972&hl=en) [[CODE]](https://github.com/jmiemirza/DILAM)
 

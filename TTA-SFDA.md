@@ -368,6 +368,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `CLCR` [Tang et al., CAAI Transactions on Intelligence Technology 2023] **Model adaptation via credible local context representation** [[PDF]](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cit2.12228) [[G-Scholar--]]()
 
+- `LCAL` [Fan et al., Journal of Software 2023] **Local consistent active learning for source free open-set domian adaptation** [[PDF]](https://www.jos.org.cn/josen/article/abstract/7010) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8643052782738055932&hl=en)
+
 - `ALT` [Wu et al., Arxiv 2023] **When source-free domain adaptation meets label propagation** [[PDF]](https://arxiv.org/abs/2301.08413) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16104249125202927341&hl=en)
 
 - `CaC` [Chen et al., Arxiv 2023] **Contrast and clustering: Learning neighborhood pair representation for source-free domain adaptation** [[PDF]](https://arxiv.org/abs/2301.13428) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3921052647478939852&hl=en) [[CODE]](https://github.com/yukilulu/CaC)
@@ -478,7 +480,9 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `...` [Lo et al., Proc. CVPR 2023] **Unsupervised continual semantic adaptation through neural rendering** [[PDF]](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_Unsupervised_Continual_Semantic_Adaptation_Through_Neural_Rendering_CVPR_2023_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1555361275637880312&hl=en&as_sdt=0,5)
 
-- `Cal-SFDA` [Wang et al., Proc. ACMMM 2023] **Cal-SFDA: Source-free domain-adaptive semantic segmentation with differentiable expected calibration error** [[PDF]](https://arxiv.org/abs/2308.03003) [[G-Scholar--]]() [[CODE]](https://github.com/Jo-wang/Cal-SFDA)
+- `...` [Yin et al., Proc. ICCV 2023] **CrossMatch: Source-free domain adaptive semantic segmentation via cross-modal consistency training** [[PDF]](https://openaccess.thecvf.com/content/ICCV2023/html/Yin_CrossMatch_Source-Free_Domain_Adaptive_Semantic_Segmentation_via_Cross-Modal_Consistency_Training_ICCV_2023_paper.html) [[G-Scholar--]]()
+
+- `Cal-SFDA` [Wang et al., Proc. ACMMM 2023] **Cal-SFDA: Source-free domain-adaptive semantic segmentation with differentiable expected calibration error** [[PDF]](https://arxiv.org/abs/2308.03003) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11580522770647117655&hl=en) [[CODE]](https://github.com/Jo-wang/Cal-SFDA)
 
 - `...` [Bohdal et al., Proc. ICLR Workshops 2023] **Label calibration for semantic segmentation under domain shift** [[PDF]](https://openreview.net/forum?id=DhKMA-nXrUY) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13852832181788146846&hl=en)
 
@@ -667,6 +671,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `RAF` [Yuan et al., The Visual Computer 2023] **Data privacy protection domain adaptation by roughing and finishing stage** [[PDF]](https://www.sciencedirect.com/science/article/pii/S1000936123000493) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8761702195802826554&hl=en)
 
+- `...` [Wang et al., Health Information Science and Systems 2023] **M-MSSEU: Source-free domain adaptation for multi-modal stroke lesion segmentation using shadowed sets and evidential uncertainty** [[PDF]](https://link.springer.com/article/10.1007/s13755-023-00247-6) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3841179597098584563&hl=en)
+
 - `SFHarmony` [Dinsdale et al., Arxiv 2023] **SFHarmony: Source free domain adaptation for distributed neuroimaging analysis** [[PDF]](https://arxiv.org/abs/2303.15965) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10161228220420913117&hl=en) [[CODE]](https://github.com/nkdinsdale/SFHarmony)
 
 - `SUP` [Xu et al., Arxiv 2023] **Unsupervised cross-domain pulmonary nodule detection without source data** [[PDF]](https://arxiv.org/abs/2304.01085) [[G-Scholar]](https://scholar.google.com/scholar?cluster=682584010073333489&hl=en)
@@ -684,6 +690,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 - `LGDA` [Ye et al., Arxiv 2023] **Local-global pseudo-label correction for source-free domain adaptive medical image segmentation** [[PDF]](https://arxiv.org/abs/2308.14312) [[G-Scholar--]]()
 
 - `SFADA` [Ran et al., Arxiv 2023] **Source-free active domain adaptation for diabetic retinopathy grading based on ultra-wide-field fundus Image** [[PDF]](https://arxiv.org/abs/2309.10619) [[G-Scholar--]]()
+
+- `...` [Wang et al., Arxiv 2023] **Dual-reference source-free active domain adaptation for nasopharyngeal carcinoma tumor segmentation across multiple hospitals** [[PDF]](https://arxiv.org/abs/2309.13401) [[G-Scholar--]]() [[CODE--]](https://github.com/whq-xxh/Active-GTV-Seg)
 
 - `PD` [Rafiee et al., Misc 2023] **Diversified source-free domain adaptation** [[PDF]](https://openreview.net/forum?id=Ot0KorOlyl) [[G-Scholar--]]()
 
@@ -705,6 +713,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 - `STHC` [Li et al., Proc. CVPR 2023] **Source-free video domain adaptation with spatial-temporal-historical consistency learning** [[PDF]](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Source-Free_Video_Domain_Adaptation_With_Spatial-Temporal-Historical_Consistency_Learning_CVPR_2023_paper.pdf) [[G-Scholar--]]() 
 
 - `DALL-V` [Zara et al., Proc. ICCV 2023] **The unreasonable effectiveness of large language-vision models for source-free video domain adaptation** [[PDF]](https://arxiv.org/abs/2308.09139) [[G-Scholar--]]() [[CODE--]](https://github.com/giaczara/dallv)
+
+- `LCMV` [Neubert et al., Proc. ICIAP 2023] **LCMV: Lightweight classification module for video domain adaptation** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-43153-1_23) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11153014118790552510&hl=en)
 
 - `...` [Neubert., Master Thesis 2023] **Source-free domain adaptation for video action recognition** [[PDF]](https://webthesis.biblio.polito.it/secure/26775/1/tesi.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9953124906512607690&hl=en)
 
@@ -754,6 +764,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `MSFDA-PT` [Ding et al., The Visual Computer 2021] **Source-free unsupervised multi-source domain adaptation via proxy task for person re-identification** [[PDF]](https://link.springer.com/article/10.1007/s00371-021-02246-8) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17612309789629474685&hl=en)
 
+- `...` [Song et al., Applied Sciences 2023] **Unsupervised vehicle re-identification method based on source-free knowledge transfer** [[PDF]](https://www.mdpi.com/2076-3417/13/19/11013) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3692002900286986347&hl=en)
+
 ### Multi-modality
 - `SOCKET` [Ahmed et al., Proc. ECCV 2022] **Cross-modal knowledge transfer without task-relevant source data** [[PDF]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136940108.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8131184106801888753&hl=en) [[CODE]](https://github.com/merlresearch/SOCKET)
 
@@ -795,6 +807,9 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 - `...` [Peng et al., Proc. ICCV 2023] **Source-free domain adaptive human pose estimation** [[PDF]](https://arxiv.org/abs/2308.03202) [[G-Scholar--]]()
 
 - `...` [Raychaudhuri et al., Proc. ICCV 2023] **Prior-guided source-free domain adaptation for human pose estimation** [[PDF]](https://arxiv.org/abs/2308.13954) [[G-Scholar--]]()
+
+### Tracking
+- `DARTH` [Segu et al., Proc. ICCV 2023] **DARTH: Holistic test-time adaptation for multiple object tracking** [[PDF]](https://openaccess.thecvf.com/content/ICCV2023/html/Segu_DARTH_Holistic_Test-time_Adaptation_for_Multiple_Object_Tracking_ICCV_2023_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9104639642522487809&hl=en)
 
 ### Anomaly detection
 - `CaSA` [Bozorgtabar et al., Proc. BMVC 2022] **Anomaly detection and localization using attention-guided synthetic anomaly and test-time adaptation** [[PDF]](https://bmvc2022.mpi-inf.mpg.de/0472.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=209397539357448856&hl=en)
