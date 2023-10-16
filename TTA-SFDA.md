@@ -27,9 +27,13 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 ## Surveys
 - `...` [Liu et al., Arxiv 2021] **Data-free knowledge transfer: A survey** [[PDF]](https://arxiv.org/abs/2112.15278) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5352982607916438632&hl=en)
 
+- `...` [Liang et al., Arxiv 2023] **A comprehensive survey on test-time adaptation under distribution shifts** [[PDF]](https://arxiv.org/abs/2303.15361) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12225914975330867516&hl=en)
+
 - `...` [Fang et al., Arxiv 2023] **Source-free unsupervised domain adaptation: A survey** [[PDF]](https://arxiv.org/abs/2301.00265) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6946137905131972989&hl=en)
 
 - `...` [Yu et al., Arxiv 2023] **A comprehensive survey on source-free domain adaptation** [[PDF]](https://arxiv.org/abs/2302.11803) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1321308630726521384&hl=en)
+
+- `...` [Zhang et al., Arxiv 2023] **Source-free unsupervised domain adaptation: Current research and future directions** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0925231223010445) [[G-Scholar--]]()
 
 ## Image Classification
 ### 2020
@@ -656,6 +660,8 @@ segmentation with class-balanced mean teacher** [[PDF]](https://arxiv.org/abs/23
 
 - `MATS` [Chen et al., Proc. MIDL 2023] **Model adaptive tooth segmentation** [[PDF]](https://openreview.net/forum?id=O2DerS5oQ1) [[G-Scholar--]]()
 
+- `...` [Wang et al., Proc. CMMCA 2023] **Advancing delineation of gross tumor volume based on magnetic resonance imaging by performing source-free domain adaptation in nasopharyngeal carcinoma** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-45087-7_8) [[G-Scholar--]]()
+
   ----------------------------
 
 - `...` [Li et al., IEEE TMI 2023] **Towards source-free cross tissues histopathological cell segmentation via target-specific finetuning** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10087318) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5356003107098200108&hl=en) [[CODE]](https://github.com/NeuronXJTU/SFDA-CellSeg)
@@ -736,6 +742,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 ### 3D Lidar Segmentation
 - `GIPSO` [Saltori et al., Proc. ECCV 2022] **GIPSO: Geometrically informed propagation for online adaptation in 3d lidar segmentation** [[PDF]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136930557.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13813760731976228346&hl=en) [[CODE]](https://github.com/saltoricristiano/gipso-sfouda)
+
+- `LiDAR-UDA` [Shaban et al., Proc. ICCV 2023] **LiDAR-UDA: Self-ensembling through time for unsupervised LiDAR domain adaptation** [[PDF]](https://arxiv.org/abs/2309.13523) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3023674887678953347&hl=en) [[CODE]](https://github.com/JHLee0513/LiDARUDA)
 
 ### 3D Lidar Recognition
 - `GeoAdapt` [Knights et al., Arxiv 2023] **GeoAdapt: Self-supervised test-time adaption in LiDAR place recognition using geometric priors** [[PDF]](https://arxiv.org/abs/2308.04638) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16846487955556908782&hl=en) [[CODE--]](https://github.com/csiro-robotics/GeoAdapt)

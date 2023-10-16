@@ -61,7 +61,9 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `...` [Wang et al., Arxiv 2023] **Test-time training on video streams** [[PDF]](https://arxiv.org/abs/2307.05014) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6098567519147081981&hl=en)
 
-- `DAT` [Ni et al., Arxiv 2023] **Distribution-aware continual test time adaptation for semantic segmentation** [[PDF]](https://arxiv.org/abs/2309.13604) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16456646600205229787&hl=en)
+- `DAT` [Ni et al., Arxiv 2023] **Distribution-aware continual test time adaptation for semantic segmentation** [[PDF]](https://arxiv.org/abs/2309.13604) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16456646600205229787&hl=en) [[CODE]](https://github.com/RochelleNi/DAT)
+
+- `...` [Yi et al., Arxiv 2023] **A critical look at classic test-time adaptation methods in semantic segmentation** [[PDF]](https://arxiv.org/abs/2310.05341) [[G-Scholar--]]()
 
 ### Misc
 - `BOA` [Guan et al., Proc. CVPR 2021] **Bilevel online adaptation for out-of-domain human mesh reconstruction** [[PDF]](https://openaccess.thecvf.com/content/CVPR2021/html/Guan_Bilevel_Online_Adaptation_for_Out-of-Domain_Human_Mesh_Reconstruction_CVPR_2021_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14857518758485826444&hl=en) [[CODE]](https://github.com/syguan96/BOA)
@@ -206,6 +208,10 @@ self-training with balanced normalization** [[PDF]](https://arxiv.org/abs/2309.1
 
 - `...` [Mounsaveng et al., Arxiv 2023] **Bag of tricks for fully test-time adaptation** [[PDF]](https://arxiv.org/abs/2310.02416) [[G-Scholar--]]()
 
+- `GRoTTA` [Li et al., Arxiv 2023] **Generalized robust test-time adaptation in continuous dynamic scenarios** [[PDF]](https://arxiv.org/abs/2310.04714) [[G-Scholar--]]()
+
+- `...` [Kim et al., Arxiv 2023] **Reliable test-time adaptation via agreement-on-the-line** [[PDF]](https://arxiv.org/abs/2310.04941) [[G-Scholar--]]()
+
 - `VPL` [Ambekar et al., Misc 2023] **Variational pseudo labels for meta test-time adaptation** [[PDF]](https://openreview.net/forum?id=iOag71mvHI) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2267598876397998774&hl=en)
 
 - `TePA` [Cong et al., Proc. S&P 2024] **Test-time poisoning attacks against test-time adaptation models** [[PDF]](https://arxiv.org/abs/2308.08505) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13810860861574844121&hl=en) [[CODE--]](https://github.com/tianshuocong/TePA)
@@ -276,11 +282,13 @@ self-training with balanced normalization** [[PDF]](https://arxiv.org/abs/2309.1
 
 - `...` [Kim et al., Proc. ICCV 2023] **Calibrating panoramic depth estimation for practical localization and mapping** [[PDF]](https://arxiv.org/abs/2308.14005) [[G-Scholar]](https://scholar.google.com/scholar?cluster=635859421443450672&hl=en)
 
+- `UTT` [Huang et al., Proc. ACPR 2023] **Uncertainty-guided test-time training for face forgery detectione** [[PDF]](https://aihuazheng.github.io/publications/pdf/2023/2023-Uncertainty-guided_Test-time_Training_for_Face_Forgery_Detection.pdf) [[G-Scholar--]]()
+
 - `...` [Almansoori et al., Proc. Scandinavian Conference on Image Analysis 2023] **Anchor-ReID: A test time adaptation for person re-identification** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-31438-4_39) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1515526462186910481&hl=en)
 
 - `...` [He., Journal of Intelligent Medicine and Healthcare 2023] **ECG heartbeat classification under dataset shift** [[PDF]](https://cdn.techscience.cn/files/jimh/TSP_JIMH-1-2/TSP_JIMH_36624/TSP_JIMH_36624.pdf) [[G-Scholar--]]()
 
-- `UTT` [Huang et al., Proc. ACPR 2023] **Uncertainty-guided test-time training for face forgery detectione** [[PDF]](https://aihuazheng.github.io/publications/pdf/2023/2023-Uncertainty-guided_Test-time_Training_for_Face_Forgery_Detection.pdf) [[G-Scholar--]]()
+- `...` [Park and D'Amico, Arxiv 2023] **Online supervised training of spaceborne vision during proximity operations using adaptive kalman filtering** [[PDF]](https://arxiv.org/abs/2309.11645) [[G-Scholar--]]()
 
 ## Related
 - `GTTA-ST` [Marsden et al., Arxiv 2022] **Introducing intermediate domains for effective self-training during test-time** [[PDF]](https://arxiv.org/abs/2208.07736) [[G-Scholar--]]()
