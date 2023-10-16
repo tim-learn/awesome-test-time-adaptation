@@ -388,7 +388,7 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `...` [Lee et al., Arxiv 2023] **Few-shot fine-tuning is all you need for source-free domain adaptation** [[PDF]](https://arxiv.org/abs/2304.00792) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5386152009769376343&hl=en) 
 
-- `...` [Rafiee et al., Arxiv 2023] **Source-free domain adaptation requires penalized diversity** [[PDF]](https://arxiv.org/abs/2304.02798) [[G-Scholar--]]() 
+- `...` [Rafiee et al., Arxiv 2023] **Source-free domain adaptation requires penalized diversity** [[PDF]](https://arxiv.org/abs/2304.02798) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11766176006415279159&hl=en) 
 
 - `T-CPGA` [Lin et al., Arxiv 2023] **Imbalance-agnostic source-free domain adaptation via avatar prototype alignment** [[PDF]](https://arxiv.org/abs/2305.12649)) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5357797129800546100&hl=en)
 
@@ -402,15 +402,17 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `...` [Tang et al., Arxiv 2023] **Consistency regularization for generalizable source-free domain adaptation** [[PDF]](https://arxiv.org/abs/2308.01587) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6492042532740964914&hl=en)
 
-- `CABB` [Peng et al., Arxiv 2023] **Curriculum guided domain adaptation in the dark** [[PDF]](https://arxiv.org/abs/2308.00956) [[G-Scholar--]]()
+- `CABB` [Jahan and Savakis, Arxiv 2023] **Curriculum guided domain adaptation in the dark** [[PDF]](https://arxiv.org/abs/2308.00956) [[G-Scholar--]]()
 
 - `TriDA` [Xu et al., Arxiv 2023] **Incorporating pre-training data matters in unsupervised domain adaptation** [[PDF]](https://arxiv.org/abs/2308.03097) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1813889893434993601&hl=en)
 
-- `COCA` [Liu et al., Arxiv 2023] **COCA: Classifier-oriented calibration for source-free universal domain adaptation via textual prototype** [[PDF]](https://arxiv.org/abs/2308.10450) [[G-Scholar--]]()
+- `COCA` [Liu et al., Arxiv 2023] **COCA: Classifier-oriented calibration for source-free universal domain adaptation via textual prototype** [[PDF]](https://arxiv.org/abs/2308.10450) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1207414167001222333&hl=en)
 
 - `DAD++` [Nayak et al., Arxiv 2023] **DAD++: Improved data-free test time adversarial defense** [[PDF]](https://arxiv.org/abs/2309.05132) [[G-Scholar--]]()
 
-- `FM-SFDA` [Chopra et al., Arxiv 2023] **Transcending domains through text-to-image diffusion: A source-free approach to domain adaptation** [[PDF]](https://www.researchgate.net/publication/374419118_Transcending_Domains_through_Text-to-Image_Diffusion_A_Source-Free_Approach_to_Domain_Adaptation) [[G-Scholar--]]()
+- `FM-SFDA` [Chopra et al., Arxiv 2023] **Transcending domains through text-to-image diffusion: A source-free approach to domain adaptation** [[PDF]](https://www.researchgate.net/publication/374419118_Transcending_Domains_through_Text-to-Image_Diffusion_A_Source-Free_Approach_to_Domain_Adaptation) [[G-Scholar]](https://scholar.google.com/scholar?cluster=719025059086880604&hl=en)
+
+- `SIDE` [Liu et al., Arxiv 2023] **SIDE: Self-supervised intermediate domain exploration for source-free domain adaptation** [[PDF]](https://arxiv.org/abs/2310.08928) [[G-Scholar--]]() [[CODE]](https://github.com/se111/SIDE)
 
 - `E2` [Shen et al., Misc 2023] **E2: Entropy discrimination and energy optimization for source-free universal domain adaptation** [[PDF]](https://openreview.net/forum?id=FMEXgK9-I8) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2517695593354531262&hl=en)
 
