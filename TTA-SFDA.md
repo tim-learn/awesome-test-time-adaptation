@@ -296,6 +296,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 - `Co-learn` [Zhang et al., Proc. ICCV 2023] **Rethinking the role of pre-trained networks in source-free domain adaptation** [[PDF]](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_Rethinking_the_Role_of_Pre-Trained_Networks_in_Source-Free_Domain_Adaptation_ICCV_2023_paper.html) [[G-Scholar--]]()
   ~~[Zhang et al., Arxiv 2022] **Co-learning with pre-trained networks improves source-free domain adaptation** [[PDF]](https://arxiv.org/abs/2212.07585) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3923590156178913294&hl=en)~~
 
+- `CoDAG` [Cho et al., Proc. ICCV 2023] **Complementary domain adaptation and generalization for unsupervised continual domain shift learning** [[PDF]](https://arxiv.org/abs/2303.15833) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8317548949198829712&hl=en) 
+
 - `APA` [Sun et al., Proc. AAAI 2023] **Domain adaptation with adversarial training on penultimate activations** [[PDF]](https://arxiv.org/abs/2208.12853) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13152361105316809189&hl=en) [[CODE]](https://github.com/tsun/APA)
 
 - `DATE` [Han et al., Proc. AAAI 2023] **Discriminability and transferability estimation: A bayesian source importance estimation approach for multi-source-free domain adaptation** [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/25946) [[G-Scholar--]]()
@@ -368,11 +370,17 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `OKRA` [Zhao et al., Computers and Electrical Engineering 2023] **Open-set black-box domain adaptation for remote sensing image scene classification** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10210386/) [[G-Scholar--]]()
 
+- `FMAS` [Tian and Zhang, Computers and Electrical Engineering 2023] **Feature mixing and self-training for source-free active domain adaptation** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0045790623003907) [[G-Scholar--]]()
+
 - `BCSW` [Tian and Zhao, IEEE Geoscience and Remote Sensing Letters 2023] **Source-free unsupervised domain adaptation via bi-classifier confidence score weighting** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0045790623003518) [[G-Scholar--]]()
 
 - `CLCR` [Tang et al., CAAI Transactions on Intelligence Technology 2023] **Model adaptation via credible local context representation** [[PDF]](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cit2.12228) [[G-Scholar--]]()
 
 - `LCAL` [Fan et al., Journal of Software 2023] **Local consistent active learning for source free open-set domian adaptation** [[PDF]](https://www.jos.org.cn/josen/article/abstract/7010) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8643052782738055932&hl=en)
+
+- `...` [Sahay et al., Sensors 2023] **On the importance of attention and augmentations for hypothesis transfer in domain adaptation and generalization** [[PDF]](https://www.mdpi.com/1424-8220/23/20/8409) [[G-Scholar--]]()
+
+- `SIE` [Chen et al., Machine Vision and Applications 2023] **Two-stage structural information enhancement for source-free domain adaptation** [[PDF]](https://link.springer.com/article/10.1007/s00138-023-01472-5) [[G-Scholar--]]()
 
 - `ALT` [Wu et al., Arxiv 2023] **When source-free domain adaptation meets label propagation** [[PDF]](https://arxiv.org/abs/2301.08413) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16104249125202927341&hl=en)
 
@@ -383,8 +391,6 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 - `PCD` [Tanwisuth et al., Arxiv 2023] **A prototype-oriented clustering for domain shift with source privacy** [[PDF]](https://arxiv.org/abs/2302.03807) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16345579331135419218&hl=en) 
 
 - `SCA` [Maracani et al., Arxiv 2023] **Key design choices for double-transfer in source-free unsupervised domain adaptation** [[PDF]](https://openreview.net/forum?id=-PL1Gk4jt7) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17679519261820742493&hl=en)
-
-- `CoDAG` [Cho et al., Arxiv 2023] **Complementary domain adaptation and generalization for unsupervised continual domain shift learning** [[PDF]](https://arxiv.org/abs/2303.15833) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8317548949198829712&hl=en) 
 
 - `...` [Lee et al., Arxiv 2023] **Few-shot fine-tuning is all you need for source-free domain adaptation** [[PDF]](https://arxiv.org/abs/2304.00792) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5386152009769376343&hl=en) 
 
@@ -493,6 +499,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 - `...` [Bohdal et al., Proc. ICLR Workshops 2023] **Label calibration for semantic segmentation under domain shift** [[PDF]](https://openreview.net/forum?id=DhKMA-nXrUY) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13852832181788146846&hl=en)
 
 - `CoRTe` [Cuttano et al., Proc. ICCV Workshops 2023] **Cross-domain transfer learning with CoRTe: Consistent and reliable transfer from black-box to lightweight segmentation model** [[PDF]](https://openaccess.thecvf.com/content/ICCV2023W/RCV/html/Cuttano_Cross-Domain_Transfer_Learning_with_CoRTe_Consistent_and_Reliable_Transfer_from_ICCVW_2023_paper.html) [[G-Scholar--]]()
+
+- `...` [Kondo, Proc. MICCAI Workshops 2023] **Black-box unsupervised domain adaptation for medical image segmentationt** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-45857-6_3) [[G-Scholar--]]()
 
 ---------------------------------
 
