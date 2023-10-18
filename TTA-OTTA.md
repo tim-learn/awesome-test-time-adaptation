@@ -150,6 +150,8 @@ Bi-level adaptation method for test-time adaptive object detection** [[PDF]](htt
 
 - `CCC` [Press et al., Proc. NeurIPS 2023] **RDumb: A simple approach that questions our progress in continual test-time adaptation** [[PDF]](https://arxiv.org/abs/2306.05401) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7407854005249056205&hl=en) [[CODE]](https://github.com/oripress/CCC)
 
+- `SoTTA` [Gong et al., Proc. NeurIPS 2023] **SoTTA: Robust test-time adaptation on noisy data streams** [[PDF]](https://arxiv.org/abs/2310.10074) [[G-Scholar--]]() [[CODE]](https://github.com/taeckyung/SoTTA)
+
 - `ActMAD` [Mirza et al., Proc. CVPR 2023] **ActMAD: Activation matching to align distributions for test-time-training** [[PDF]](https://arxiv.org/abs/2211.12870) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4556204882779586735&hl=en) [[CODE]](https://github.com/jmiemirza/actmad)
 
 - `RMT` [Döbler et al., Proc. CVPR 2023] **Robust mean teacher for continual and gradual test-time adaptation** [[PDF]](https://arxiv.org/abs/2211.13081) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5205082821636588766&hl=en) [[CODE]](https://github.com/mariodoebler/test-time-adaptation)
@@ -246,6 +248,9 @@ self-training with balanced normalization** [[PDF]](https://arxiv.org/abs/2309.1
 - `MEMO-CL` [Singh and Ortega, Proc. AAAI Workshops 2023] **Addressing distribution shift at test time in pre-trained language models** [[PDF]](https://arxiv.org/abs/2212.02384) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14992365786610118665&hl=en)
 
 - `PCL` [Su et al., Arxiv 2023] **Test-time adaptation with perturbation consistency learning** [[PDF]](https://arxiv.org/abs/2304.12764) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14643133049836398835&hl=en)
+
+### Speech
+- `CEA` [Liu et al., Arxiv 2023] **Advancing test-time adaptation for acoustic foundation models in open-world shifts** [[PDF]](https://arxiv.org/abs/2310.09505) [[G-Scholar--]]()
 
 ### Object Detection
 - `STFAR` [Chen et al., Arxiv 2023] **STFAR: Improving object detection robustness at test-time by self-training with feature alignment regularization** [[PDF]](https://arxiv.org/abs/2303.17937) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16697474129572235092&hl=en)
