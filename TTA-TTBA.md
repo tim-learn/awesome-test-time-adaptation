@@ -331,6 +331,8 @@ RGB images** [[PDF]](https://arxiv.org/abs/2303.07850) [[G-Scholar]](https://sch
 
 - `ShiftMatch` [Wang and Aitchison, Proc. ICLR 2023] **Robustness to corruption in pre-trained Bayesian neural networks** [[PDF]](https://openreview.net/forum?id=kUI41mY8bHl) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12854599053728566431&hl=en)
 
+- `DN` [Zhou et al., Proc. NeuIPS 2023] **Test-time distribution normalization for contrastively learned vision-language models** [[PDF]](https://arxiv.org/abs/2302.11084) [[G-Scholar]](https://scholar.google.com/scholar?cluster=687525890133562566&hl=en) [[CODE]](https://github.com/fengyuli-dev/distribution-normalization)
+
 - `DomainAdaptor` [Zhang et al., Proc. ICCV 2023] **DomainAdaptor: A novel approach to test-time adaptation** [[PDF]](https://arxiv.org/abs/2308.10297) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9175808446688030557&hl=en) [[CODE]](https://github.com/koncle/DomainAdaptor)
 
 - `ClusT3` [Hakim et al., Proc. ICCV 2023] **ClusT3: Information invariant test-time training** [[PDF]](https://openaccess.thecvf.com/content/ICCV2023/html/Hakim_ClusT3_Information_Invariant_Test-Time_Training_ICCV_2023_paper.html) [[G-Scholar--]]() [[CODE--]](https://github.com/dosowiechi/ClusT3)

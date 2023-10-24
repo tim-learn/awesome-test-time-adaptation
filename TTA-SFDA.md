@@ -567,6 +567,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `PETS` [Liu et al., Proc. ICCV 2023] **Periodically exchange teacher-student for source-free object detection** [[PDF]](https://openaccess.thecvf.com/content/ICCV2023/html/Liu_Periodically_Exchange_Teacher-Student_for_Source-Free_Object_Detection_ICCV_2023_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13076252047124330234&hl=en)
 
+- `...` [Chen et al., Proc. ACMMM 2023] **Exploiting low-confidence pseudo-labels for source-free object detection** [[PDF]](https://arxiv.org/abs/2310.12705) [[G-Scholar--]]()
+
 - `TeST` [Sinha et al., Proc. WACV 2023] **TeST: Test-time self-training under distribution shift** [[PDF]](https://arxiv.org/abs/2209.11459) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5034697452433918735&hl=en)
 
 - `MemCLR` [VS et al., Proc. WACV 2023] **Towards online domain adaptive object detection** [[PDF]](https://openaccess.thecvf.com/content/WACV2023/html/VS_Towards_Online_Domain_Adaptive_Object_Detection_WACV_2023_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8996531248585805791&hl=en)
