@@ -217,6 +217,10 @@ self-training with balanced normalization** [[PDF]](https://arxiv.org/abs/2309.1
 
 - `...` [Kim et al., Arxiv 2023] **Reliable test-time adaptation via agreement-on-the-line** [[PDF]](https://arxiv.org/abs/2310.04941) [[G-Scholar--]]()
 
+- `UniDG` [Zhang et al., Arxiv 2023] **Towards unified and effective domain generalization** [[PDF]](https://arxiv.org/abs/2310.10008) [[G-Scholar--]]() [[CODE]](https://github.com/invictus717/UniDG)
+
+- `DSS` [Wang et al., Arxiv 2023] **Continual test-time domain adaptation via dynamic sample selection** [[PDF]](https://arxiv.org/abs/2310.03335) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9737501438235354426&hl=en)
+
 - `VPL` [Ambekar et al., Misc 2023] **Variational pseudo labels for meta test-time adaptation** [[PDF]](https://openreview.net/forum?id=iOag71mvHI) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2267598876397998774&hl=en)
 
 - `TePA` [Cong et al., Proc. S&P 2024] **Test-time poisoning attacks against test-time adaptation models** [[PDF]](https://arxiv.org/abs/2308.08505) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13810860861574844121&hl=en) [[CODE--]](https://github.com/tianshuocong/TePA)
@@ -241,6 +245,8 @@ self-training with balanced normalization** [[PDF]](https://arxiv.org/abs/2309.1
 - `...` [Song et al., IEEE Robotics and Automation Letters 2023] **Test-time adaptation in the dynamic world with compound domain knowledge management** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10227541) [[G-Scholar--]]()
 
 - `Night-TTA` [Liu et al., Arxiv 2023] **Test-time adaptation for nighttime color-thermal semantic segmentation** [[PDF]](https://arxiv.org/abs/2307.04470) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12563067344427427591&hl=en)
+
+- `MCDA` [Ye et al., Arxiv 2023] **Multi task consistency guided source-free test-time domain adaptation medical image segmentation** [[PDF]](https://arxiv.org/abs/2310.11766) [[G-Scholar--]]()
 
 ### NLP
 - `OIL` [Ye et al., Proc. EMNLP Findings 2022] **Robust question answering against distribution shifts with test-time adaptation: An empirical study** [[PDF]](https://arxiv.org/abs/2302.04618) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14000848114209529359&hl=en) [[CODE]](https://github.com/oceanypt/coldqa-tta)

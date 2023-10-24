@@ -66,11 +66,15 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `CMA` [Bruggemann et al., Proc. ICCV 2023] **Contrastive model adaptation for cross-condition robustness in semantic segmentation** [[PDF]](http://openaccess.thecvf.com/content/ICCV2023/html/Bruggemann_Contrastive_Model_Adaptation_for_Cross-Condition_Robustness_in_Semantic_Segmentation_ICCV_2023_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11262078686777334014&hl=en) [[CODE]](https://github.com/brdav/cma)
 
+- `VPA` [Sun et al., Proc. ACMMM 2023] **VPA: Fully test-time visual prompt adaptation** [[PDF]](https://arxiv.org/abs/2309.15251)) [[G-Scholar--]]()
+
 - `...` [Feng et al., Proc. ICASSP 2023] **Test-time training-free domain adaptation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10096430/) [[G-Scholar--]]()
 
 - `TT-NSS` [Mehra et al., Proc. ICML Workshops 2023] **Risk-averse predictions on unseen domains via neural style smoothing** [[PDF]](https://openreview.net/forum?id=YVwW5yBISo) [[G-Scholar--]]()
 
 - `...` [Taesiri et al., Arxiv 2023] **Zoom is what you need: An empirical study of the power of zoom and spatial biases in image classification** [[PDF]](https://arxiv.org/abs/2304.05538) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15555449545168821035&hl=en)
+
+- `TTACIL` [Marouf et al., Arxiv 2023] **Rethinking class-incremental learning in the era of large pre-trained models via test-time adaptation** [[PDF]](https://arxiv.org/abs/2310.11482) [[G-Scholar--]]() [[CODE]](https://github.com/IemProg/TTACIL)
 
 - `DRM` [Zhang et al., Misc 2023] **Domain-specific risk minimization for out-of-distribution generalization** [[PDF]](https://openreview.net/forum?id=vCVTZYFcmCm) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15694323213451390034&hl=en)
 
