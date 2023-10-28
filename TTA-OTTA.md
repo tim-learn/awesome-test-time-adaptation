@@ -65,6 +65,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `...` [Yi et al., Arxiv 2023] **A critical look at classic test-time adaptation methods in semantic segmentation** [[PDF]](https://arxiv.org/abs/2310.05341) [[G-Scholar--]]()
 
+- `...` [Sojka et al., Arxiv 2023] **Technical report for ICCV 2023 visual continual learning challenge: Continuous test-time adaptation for semantic segmentation** [[PDF]](https://arxiv.org/abs/2310.13533) [[G-Scholar--]]()
+
 ### Misc
 - `BOA` [Guan et al., Proc. CVPR 2021] **Bilevel online adaptation for out-of-domain human mesh reconstruction** [[PDF]](https://openaccess.thecvf.com/content/CVPR2021/html/Guan_Bilevel_Online_Adaptation_for_Out-of-Domain_Human_Mesh_Reconstruction_CVPR_2021_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14857518758485826444&hl=en) [[CODE]](https://github.com/syguan96/BOA)
 

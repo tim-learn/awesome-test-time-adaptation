@@ -260,6 +260,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `Hyper-PADA` [Volk et al., Arxiv 2022] **Example-based hypernetworks for out-of-distribution generalization** [[PDF]](https://arxiv.org/abs/2203.14276) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14176770453923615063&hl=en) [[CODE]](https://github.com/TomerVolk/Hyper-PADA)
 
+- `T-SAS` [Jeong et al., Proc. EMNLP-Findings 2023] **Test-time self-adaptive small languagem models for question answering** [[PDF]](https://arxiv.org/abs/2310.13307) [[G-Scholar--]]() [[CODE--]](https://github.com/starsuzi/T-SAS)
+
 - `TTT-NN` [Hardt and Sun, Arxiv 2023] **Test-time training on nearest neighbors for large language models** [[PDF]](https://arxiv.org/abs/2305.18466) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13923028688883164038&hl=en) [[CODE]](https://github.com/socialfoundations/tttlm)
 
 ### Graph
