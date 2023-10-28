@@ -38,6 +38,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `HKA` [Liu et al., Arxiv 2023] **ViDA: Homeostatic visual domain adapter for continual test time adaptation** [[PDF]](https://arxiv.org/abs/2306.04344) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9284065084499873574&hl=en)
 
+- `MTTT` [Sun et al., Arxiv 2023] **Learning to (learn at test time)** [[PDF]](https://arxiv.org/abs/2310.13807) [[G-Scholar--]]() [[CODE]](https://github.com/test-time-training/mttt)
+
 ### Segmentation
 - `OnAVOS` [Voigtlaender and Leibe., Proc. BMVC 2017] **Online adaptation of convolutional neural networks for video object segmentation** [[PDF]](https://arxiv.org/abs/1706.09364) [[G-Scholar]](https://scholar.google.com.tw/scholar?cluster=7737687280948943248&hl=en)
 

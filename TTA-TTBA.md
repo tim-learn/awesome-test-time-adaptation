@@ -408,4 +408,6 @@ for 3D human mesh reconstruction** [[PDF]](https://arxiv.org/abs/2308.06554) [[G
 
 - `...` [Mehra et al., Arxiv 2023] **On the fly neural style smoothing for risk-averse domain generalization** [[PDF]](https://arxiv.org/abs/2307.08551) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13314865066099160761&hl=en)
 
-- `...` [Tula et al., Arxiv 2023] **Is it an i or an l: Test-time adaptation of text line recognition models** [[PDF]](https://arxiv.org/abs/2308.15037) [[G-Scholar--]]()
+- `...` [Tula et al., Arxiv 2023] **Is it an i or an l: Test-time adaptation of text line recognition models** [[PDF]](https://arxiv.org/abs/2308.15037) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12686690276500800090&hl=en)
+
+- `PAOA+` [Li and Gong, Proc. WACV 2024] **Mitigate domain shift by primary-auxiliary objectives association for generalizing person ReID** [[PDF]](https://arxiv.org/abs/2310.15913) [[G-Scholar--]]()

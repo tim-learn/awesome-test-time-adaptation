@@ -510,8 +510,6 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `...` [Lu et al., IEEE TIP 2023] **Uncertainty-aware source-free domain adaptive semantic segmentation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10189399) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8610085403644983243&hl=en)
 
-- `UPL-SFDA` [Wu et al., IEEE TMI 2023] **UPL-SFDA: Uncertainty-aware pseudo label guided source-free domain adaptation for medical image segmentation** [[PDF]](https://arxiv.org/abs/2309.10244) [[G-Scholar--]]()
-
 - `STAL` [Guan and Yuan, Arxiv 2023] **Iterative loop learning combining self-training and active learning for domain adaptive semantic segmentation** [[PDF]](https://arxiv.org/abs/2301.13361) [[G-Scholar]](https://scholar.google.com/scholar?cluster=580721324325082611&hl=en) [[CODE]](https://github.com/licongguan/STAL)
 
 - `BTOL` [Wang et al., Arxiv 2023] **Bootstrap the original latent: Freeze-and-thaw adapter for back-propagated black-box adaptation** [[PDF]](https://arxiv.org/abs/2303.03709) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15783455669601732347&hl=en)
@@ -680,6 +678,8 @@ segmentation with class-balanced mean teacher** [[PDF]](https://arxiv.org/abs/23
 
 - `...` [Li et al., IEEE TMI 2023] **Towards source-free cross tissues histopathological cell segmentation via target-specific finetuning** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10087318) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5356003107098200108&hl=en) [[CODE]](https://github.com/NeuronXJTU/SFDA-CellSeg)
 
+- `UPL-SFDA` [Wu et al., IEEE TMI 2023] **UPL-SFDA: Uncertainty-aware pseudo label guided source-free domain adaptation for medical image segmentation** [[PDF]](https://arxiv.org/abs/2309.10244) [[G-Scholar--]]()
+
 - `DUT` [Liu et al., IEEE TNNLS 2023] **Decoupled unbiased teacher for source-free
 domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10128698) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5394961859696758606&hl=en) [[CODE]](https://github.com/CUHK-AIM-Group/Decoupled-Unbiased-Teacher)
 
@@ -705,9 +705,9 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `SL` [Chen and Wang, Arxiv 2023] **SL: Stable learning in source-free domain adaption for medical image segmentation** [[PDF]](https://arxiv.org/abs/2307.12580) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6336157499980091582&hl=en&as_sdt=0,5) 
 
-- `SCDA` [Fang et al., Arxiv 2023] **Source-free collaborative domain adaptation via multi-perspective feature enrichment for functional MRI analysis** [[PDF]](https://arxiv.org/abs/2308.12495) [[G-Scholar--]]()
+- `SCDA` [Fang et al., Arxiv 2023] **Source-free collaborative domain adaptation via multi-perspective feature enrichment for functional MRI analysis** [[PDF]](https://arxiv.org/abs/2308.12495) [[G-Scholar]](https://scholar.google.com/scholar?cluster=348365801739482490&hl=en)
 
-- `LGDA` [Ye et al., Arxiv 2023] **Local-global pseudo-label correction for source-free domain adaptive medical image segmentation** [[PDF]](https://arxiv.org/abs/2308.14312) [[G-Scholar--]]()
+- `LGDA` [Ye et al., Arxiv 2023] **Local-global pseudo-label correction for source-free domain adaptive medical image segmentation** [[PDF]](https://arxiv.org/abs/2308.14312) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14525675125862110265&hl=en)
 
 - `SFADA` [Ran et al., Arxiv 2023] **Source-free active domain adaptation for diabetic retinopathy grading based on ultra-wide-field fundus Image** [[PDF]](https://arxiv.org/abs/2309.10619) [[G-Scholar--]]()
 
@@ -716,6 +716,9 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 - `PD` [Rafiee et al., Misc 2023] **Diversified source-free domain adaptation** [[PDF]](https://openreview.net/forum?id=Ot0KorOlyl) [[G-Scholar--]]()
 
 - `...` [Pourreza., Master Thesis 2023] **Open-set source-free domain adaptation in fundus images analysis** [[PDF]](https://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=11898&context=etd) [[G-Scholar--]]()
+
+### 2024
+- `PLPB` [Li et al., Proc. WACV 2024] **Robust source-free domain adaptation for fundus image segmentation** [[PDF]](https://arxiv.org/abs/2310.16665) [[G-Scholar--]]() [[CODE--]](https://github.com/LinGrayy/PLPB)
 
 ## Video Classification
 ### 2022
