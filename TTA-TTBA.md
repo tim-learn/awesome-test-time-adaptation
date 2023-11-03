@@ -66,7 +66,9 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `CMA` [Bruggemann et al., Proc. ICCV 2023] **Contrastive model adaptation for cross-condition robustness in semantic segmentation** [[PDF]](http://openaccess.thecvf.com/content/ICCV2023/html/Bruggemann_Contrastive_Model_Adaptation_for_Cross-Condition_Robustness_in_Semantic_Segmentation_ICCV_2023_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11262078686777334014&hl=en) [[CODE]](https://github.com/brdav/cma)
 
-- `VPA` [Sun et al., Proc. ACMMM 2023] **VPA: Fully test-time visual prompt adaptation** [[PDF]](https://arxiv.org/abs/2309.15251)) [[G-Scholar--]]()
+- `VPA` [Sun et al., Proc. ACMMM 2023] **VPA: Fully test-time visual prompt adaptation** [[PDF]](https://arxiv.org/abs/2309.15251)) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12897238022086137101&hl=en)
+
+- `PE` [Lin et al., Proc. ACMMM 2023] **Parameter exchange for robust dynamic domain generalization** [[PDF]](https://dl.acm.org/doi/abs/10.1145/3581783.3612318)) [[G-Scholar--]]() [[CODE]](https://github.com/MetaVisionLab/PE)
 
 - `...` [Feng et al., Proc. ICASSP 2023] **Test-time training-free domain adaptation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10096430/) [[G-Scholar--]]()
 
@@ -300,8 +302,7 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `SRR-MAML` [Huo et al., Arxiv 2023] **Learning adaptable risk-sensitive policies to coordinate in multi-agent general-sum games** [[PDF]](https://arxiv.org/abs/2304.02162) [[G-Scholar]](https://scholar.google.com/scholar?cluster=146325397292652498&hl=en)
 
-- `ARSP` [Liu and Fang, Arxiv 2023] **Learning to recover spectral reflectance from
-RGB images** [[PDF]](https://arxiv.org/abs/2303.07850) [[G-Scholar]](https://scholar.google.com/scholar?cluster=146325397292652498&hl=en)
+- `ARSP` [Liu and Fang, Arxiv 2023] **Learning to recover spectral reflectance from RGB images** [[PDF]](https://arxiv.org/abs/2303.07850) [[G-Scholar]](https://scholar.google.com/scholar?cluster=146325397292652498&hl=en)
 
 - `RLCF` [Zhao et al., Arxiv 2023] **Test-time adaptation with CLIP reward for zero-shot generalization in vision-language models** [[PDF]](https://arxiv.org/abs/2305.18010) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13354273242354297247&hl=en) [[CODE--]]()
 
@@ -344,6 +345,8 @@ RGB images** [[PDF]](https://arxiv.org/abs/2303.07850) [[G-Scholar]](https://sch
 - `CVP` [Tsai et al., Arxiv 2023] **Self-supervised convolutional visual prompts** [[PDF]](https://arxiv.org/abs/2303.00198) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10433190878679136798&hl=en)
 
 - `ContextViT` [Bao and Karaletsos, Arxiv 2023] **Contextual vision transformers for robust representation learning** [[PDF]](https://arxiv.org/abs/2305.19402) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12070186471925200805&hl=en)
+
+- `...` [Rezaei and Norouzzadeh, Arxiv 2023] **Dynamic batch norm statistics update for natural robustness** [[PDF]](https://arxiv.org/abs/2310.20649) [[G-Scholar--]]()
 
 ### Video processing (multiple frames)
 - `PGO` [Brahmbhatt et al., Proc. CVPR 2018] **Geometry-aware learning of maps for camera localization** [[PDF]](http://openaccess.thecvf.com/content_cvpr_2018/html/Brahmbhatt_Geometry-Aware_Learning_of_CVPR_2018_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15361942550307476955&hl=en) [[CODE]](https://github.com/NVlabs/geomapnet)

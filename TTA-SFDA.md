@@ -300,9 +300,13 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `APA` [Sun et al., Proc. AAAI 2023] **Domain adaptation with adversarial training on penultimate activations** [[PDF]](https://arxiv.org/abs/2208.12853) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13152361105316809189&hl=en) [[CODE]](https://github.com/tsun/APA)
 
-- `DATE` [Han et al., Proc. AAAI 2023] **Discriminability and transferability estimation: A bayesian source importance estimation approach for multi-source-free domain adaptation** [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/25946) [[G-Scholar--]]()
+- `DATE` [Han et al., Proc. AAAI 2023] **Discriminability and transferability estimation: A bayesian source importance estimation approach for multi-source-free domain adaptation** [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/25946) [[G-Scholar]](https://scholar.google.com/scholar?cluster=87311266190400031&hl=en)
 
 - `RAIN` [Peng et al., IJCAI 2023] **RAIN: Regularization on input and network for black-box domain adaptation** [[PDF]](https://www.ijcai.org/proceedings/2023/0458.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3991269860438698249&hl=en&as_sdt=0,5) 
+
+- `CtO` [Wu et al., Proc. ACMMM 2023] **Chaos to order: A label propagation perspective on source-free domain adaptation** [[PDF]](https://dl.acm.org/doi/abs/10.1145/3581783.3613821) [[G-Scholar--]]()
+
+- `CoDE` [Shen et al., Proc. ACMMM 2023] **Collaborative learning of diverse experts for source-free universal domain adaptation** [[PDF]](https://dl.acm.org/doi/abs/10.1145/3581783.3612211) [[G-Scholar--]]()
 
 - `CATTAn` [Thopalli et al., Proc. ACCV 2023] **Domain alignment meets fully test-time adaptation** [[PDF]](https://proceedings.mlr.press/v189/thopalli23a.html [[G-Scholar]](https://scholar.google.com/scholar?cluster=10216954534487118514&hl=en) [[CODE]](https://github.com/kowshikthopalli/CATTAn)
   ~~[Thopalli et al., Proc. ECCV Workshops 2022] **Geometric alignment improves fully test time adaptation** [[PDF]](https://www.osti.gov/servlets/purl/1874540) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13916311599404592721&hl=en)~~
@@ -497,6 +501,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 - `...` [Yin et al., Proc. ICCV 2023] **CrossMatch: Source-free domain adaptive semantic segmentation via cross-modal consistency training** [[PDF]](https://openaccess.thecvf.com/content/ICCV2023/html/Yin_CrossMatch_Source-Free_Domain_Adaptive_Semantic_Segmentation_via_Cross-Modal_Consistency_Training_ICCV_2023_paper.html) [[G-Scholar--]]()
 
 - `Cal-SFDA` [Wang et al., Proc. ACMMM 2023] **Cal-SFDA: Source-free domain-adaptive semantic segmentation with differentiable expected calibration error** [[PDF]](https://arxiv.org/abs/2308.03003) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11580522770647117655&hl=en) [[CODE]](https://github.com/Jo-wang/Cal-SFDA)
+
+- `...` [Li et al., Proc. ACMMM 2023] **When masked image modeling meets source-free unsupervised domain adaptation: Dual-level masked network for semantic segmentation** [[PDF]](https://dl.acm.org/doi/abs/10.1145/3581783.3612521) [[G-Scholar--]]()
 
 - `...` [Bohdal et al., Proc. ICLR Workshops 2023] **Label calibration for semantic segmentation under domain shift** [[PDF]](https://openreview.net/forum?id=DhKMA-nXrUY) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13852832181788146846&hl=en)
 
@@ -850,6 +856,9 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 ### Gaze estimation
 - `UnReGA` [Cai et al., Proc. CVPR 2023] **Source-free adaptive gaze estimation by uncertainty reduction** [[PDF]](https://openaccess.thecvf.com/content/CVPR2023/papers/Cai_Source-Free_Adaptive_Gaze_Estimation_by_Uncertainty_Reduction_CVPR_2023_paper.pdf) [[G-Scholar--]]() [[CODE--]](https://github.com/caixin1998/UnReGA)
+
+### Hand-Object Interaction
+- `POV` [Xu et al., Proc. ACMMM 2023] **POV: Prompt-oriented view-agnostic learning for egocentric hand-object interaction in the multi-view World** [[PDF]](https://dl.acm.org/doi/abs/10.1145/3581783.3612484) [[G-Scholar--]]()
 
 ## Beyond CV Applications
 ### 2020

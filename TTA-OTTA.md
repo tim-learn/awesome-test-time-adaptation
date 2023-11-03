@@ -82,6 +82,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `H/P-TTP` [Cui et al., Proc. ICCV 2023] **Test-time personalizable forecasting of 3D human poses** [[PDF]](https://openaccess.thecvf.com/content/ICCV2023/html/Cui_Test-time_Personalizable_Forecasting_of_3D_Human_Poses_ICCV_2023_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13314865066099160761&hl=en)
 
+- `...` [Zeng et al., Proc. ACMMM 2023] **Exploring motion cues for video test-time adaptation** [[PDF]](https://dl.acm.org/doi/10.1145/3581783.3612153) [[G-Scholar--]]()
+
 - `OnDA-DETR` [Suzuki et al., Proc. ICIP 2023] **OnDA-DETR: Online domain adaptation for detection transformers with self-training framework** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10222353) [[G-Scholar--]]()
 
 - `AUTO` [Yang et al., Arxiv 2023] **AUTO: Adaptive outlier optimization for online test-time OOD detection** [[PDF]](https://arxiv.org/abs/2303.12267) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14394937181474626375&hl=en)
@@ -180,6 +182,8 @@ Bi-level adaptation method for test-time adaptive object detection** [[PDF]](htt
 
 - `...` [Yang et al., Proc. IJCAI 2023] **Exploring safety supervision for continual test-time domain adaptation** [[PDF]](https://www.ijcai.org/proceedings/2023/0183.pdf) [[G-Scholar--]]()
 
+- `...` [Yu et al., Proc. ACMMM 2023] **Noise-robust continual test-time domain adaptation** [[PDF]](https://dl.acm.org/doi/abs/10.1145/3581783.3612071) [[G-Scholar--]]()
+
 - `...` [Narayanan et al., Proc. ICLR Workshops 2023] **A simple test-time adaptation method for source-free domain generalization** [[PDF]](https://openreview.net/forum?id=Ran2xUWG2n) [[G-Scholar--]]()
 
 - `DSS` [Chakrabarty et al., Proc. ICLR Workshops 2023] **Domain shift signal for low resource continuous test-time adaptation** [[PDF]](https://pml4dc.github.io/iclr2023/pdf/PML4DC_ICLR2023_46.pdf) [[G-Scholar--]]()
@@ -245,6 +249,8 @@ self-training with balanced normalization** [[PDF]](https://arxiv.org/abs/2309.1
 - `OAST` [Su et al., Proc. ICCV 2023] **Unsupervised video object segmentation with online adversarial self-tuning** [[PDF]](https://openaccess.thecvf.com/content/ICCV2023/html/Su_Unsupervised_Video_Object_Segmentation_with_Online_Adversarial_Self-Tuning_ICCV_2023_paper.html) [[G-Scholar--]]()
 
 - `...` [Zhu et al., Proc. MICCAI 2023] **Uncertainty and shape-aware continual test-time adaptation for cross-domain segmentation of medical images** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_63) [[G-Scholar--]]() [[CODE--]](https://github.com/ThisGame42/CTTA)
+
+- `...` [Zhao et al., Proc. ICIG 2023] **Revisiting TENT for test-time adaption semantic segmentation and classification head adjustment** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-46311-2_6) [[G-Scholar--]]()
 
 - `...` [Song et al., IEEE Robotics and Automation Letters 2023] **Test-time adaptation in the dynamic world with compound domain knowledge management** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10227541) [[G-Scholar--]]()
 
