@@ -676,17 +676,19 @@ segmentation with class-balanced mean teacher** [[PDF]](https://arxiv.org/abs/23
 
 - `...` [Lee et al., Proc. MICCAI 2023] **Self-supervised domain adaptive segmentation of breast cancer via test-time fine-tuning** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_52) [[G-Scholar--]]() 
 
-- `...` [Yuan et al., Proc. EMBC 2023] **Entropy-driven adversarial training For source-free medical image segmentation** [[PDF]](https://arinex.com.au/EMBC/pdf/full-paper_228.pdf) [[G-Scholar--]]()
+- `...` [Yuan et al., Proc. EMBC 2023] **Entropy-driven adversarial training for source-free medical image segmentation** [[PDF]](https://arinex.com.au/EMBC/pdf/full-paper_228.pdf) [[G-Scholar--]]()
 
 - `MATS` [Chen et al., Proc. MIDL 2023] **Model adaptive tooth segmentation** [[PDF]](https://openreview.net/forum?id=O2DerS5oQ1) [[G-Scholar--]]()
 
-- `...` [Wang et al., Proc. CMMCA 2023] **Advancing delineation of gross tumor volume based on magnetic resonance imaging by performing source-free domain adaptation in nasopharyngeal carcinoma** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-45087-7_8) [[G-Scholar--]]()
+- `...` [Wang et al., Proc. CMMCA 2023] **Advancing delineation of gross tumor volume based on magnetic resonance imaging by performing source-free domain adaptation in nasopharyngeal carcinoma** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-45087-7_8) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15174580942678325244&hl=en)
+
+- `...` [Zhang et al., Proc. ICCECE 2023] **Source-free domain adaptation via multicentric prototype for alzheimer's disease detection** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10135388/) [[G-Scholar--]]()
 
   ----------------------------
 
 - `...` [Li et al., IEEE TMI 2023] **Towards source-free cross tissues histopathological cell segmentation via target-specific finetuning** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10087318) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5356003107098200108&hl=en) [[CODE]](https://github.com/NeuronXJTU/SFDA-CellSeg)
 
-- `UPL-SFDA` [Wu et al., IEEE TMI 2023] **UPL-SFDA: Uncertainty-aware pseudo label guided source-free domain adaptation for medical image segmentation** [[PDF]](https://arxiv.org/abs/2309.10244) [[G-Scholar--]]()
+- `UPL-SFDA` [Wu et al., IEEE TMI 2023] **UPL-SFDA: Uncertainty-aware pseudo label guided source-free domain adaptation for medical image segmentation** [[PDF]](https://arxiv.org/abs/2309.10244) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7117635234828682903&hl=en)
 
 - `DUT` [Liu et al., IEEE TNNLS 2023] **Decoupled unbiased teacher for source-free
 domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10128698) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5394961859696758606&hl=en) [[CODE]](https://github.com/CUHK-AIM-Group/Decoupled-Unbiased-Teacher)
@@ -1016,4 +1018,4 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `...` [Huang et al., Arxiv 2023] **Prompt ensemble self-training for open-vocabulary domain adaptation** [[PDF]](https://arxiv.org/abs/2306.16658) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2994211628111857111&hl=en)
 
-- `PseudoCal` [Hu et al., Arxiv 2023] **PseudoCal: A source-free approach to unsupervised uncertainty calibration in domain adaptation** [[PDF]](https://arxiv.org/abs/2307.07489) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7757812403763949632&hl=en)
+- `PseudoCal` [Hu et al., Arxiv 2023] **PseudoCal: A source-free approach to unsupervised uncertainty calibration in domain adaptation** [[PDF]](https://arxiv.org/abs/2307.07489) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7757812403763949632&hl=en)https://ieeexplore.ieee.org/document/10135388

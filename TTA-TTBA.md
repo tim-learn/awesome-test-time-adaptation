@@ -377,6 +377,8 @@ for 3D human mesh reconstruction** [[PDF]](https://arxiv.org/abs/2308.06554) [[G
 
 - `Meta-VPL` [Ambekar et al., Arxiv 2023] **Learning variational neighbor labels for test-time domain generalization** [[PDF]](https://arxiv.org/abs/2307.04033) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17881603264637544125&hl=en)
 
+- `...` [Liu et al., Arxiv 2023] **Advancing test-time adaptation for acoustic foundation models in open-world shifts** [[PDF]](https://arxiv.org/abs/2310.09505) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17833880766013368425&hl=en)
+
 ### Misc
 - `TTP` [Li et al., Proc. NeurIPS 2021] **Test-time personalization with a transformer for human pose estimation** [[PDF]](https://openreview.net/forum?id=cwSkaedP-wz) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8881142280914530303&hl=en) [[CODE]](https://github.com/harry11162/TTP)
 
