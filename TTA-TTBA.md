@@ -336,9 +336,12 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `DN` [Zhou et al., Proc. NeuIPS 2023] **Test-time distribution normalization for contrastively learned vision-language models** [[PDF]](https://arxiv.org/abs/2302.11084) [[G-Scholar]](https://scholar.google.com/scholar?cluster=687525890133562566&hl=en) [[CODE]](https://github.com/fengyuli-dev/distribution-normalization)
 
+- `ATP` [Bao et al., Proc. NeuIPS 2023] **Adaptive test-time personalization for
+federated learning** [[PDF]](https://arxiv.org/abs/2310.18816) [[G-Scholar--]]() [[CODE--]](https://github.com/baowenxuan/ATP)
+
 - `DomainAdaptor` [Zhang et al., Proc. ICCV 2023] **DomainAdaptor: A novel approach to test-time adaptation** [[PDF]](https://arxiv.org/abs/2308.10297) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9175808446688030557&hl=en) [[CODE]](https://github.com/koncle/DomainAdaptor)
 
-- `ClusT3` [Hakim et al., Proc. ICCV 2023] **ClusT3: Information invariant test-time training** [[PDF]](https://openaccess.thecvf.com/content/ICCV2023/html/Hakim_ClusT3_Information_Invariant_Test-Time_Training_ICCV_2023_paper.html) [[G-Scholar--]]() [[CODE--]](https://github.com/dosowiechi/ClusT3)
+- `ClusT3` [Hakim et al., Proc. ICCV 2023] **ClusT3: Information invariant test-time training** [[PDF]](https://openaccess.thecvf.com/content/ICCV2023/html/Hakim_ClusT3_Information_Invariant_Test-Time_Training_ICCV_2023_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3413390947246646353&hl=en) [[CODE--]](https://github.com/dosowiechi/ClusT3)
 
 - `DILAM` [Leitner et al., Proc. IEEE Intelligent Vehciles Symposium 2023] **Sit back and relax: Learning to drive incrementally in all weather conditions** [[PDF]](https://arxiv.org/abs/2305.18953) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8435946811898296972&hl=en) [[CODE]](https://github.com/jmiemirza/DILAM)
 

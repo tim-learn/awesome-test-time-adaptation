@@ -229,8 +229,13 @@ self-training with balanced normalization** [[PDF]](https://arxiv.org/abs/2309.1
 
 - `DSS` [Wang et al., Arxiv 2023] **Continual test-time domain adaptation via dynamic sample selection** [[PDF]](https://arxiv.org/abs/2310.03335) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9737501438235354426&hl=en)
 
+- `TTC` [Lin et al., Arxiv 2023] **Improving entropy-based test-time adaptation from a clustering view** [[PDF]](https://arxiv.org/abs/2310.20327) [[G-Scholar--]]()
+
+- `...` [Wang et al., Arxiv 2023] **In search of lost online test-time adaptation: A survey** [[PDF]](https://arxiv.org/abs/2310.20199) [[G-Scholar--]]()
+
 - `VPL` [Ambekar et al., Misc 2023] **Variational pseudo labels for meta test-time adaptation** [[PDF]](https://openreview.net/forum?id=iOag71mvHI) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2267598876397998774&hl=en)
 
+### 2024
 - `TePA` [Cong et al., Proc. S&P 2024] **Test-time poisoning attacks against test-time adaptation models** [[PDF]](https://arxiv.org/abs/2308.08505) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13810860861574844121&hl=en) [[CODE--]](https://github.com/tianshuocong/TePA)
 
 - `REALM` [Seto et al., Proc. WACV 2024] **REALM: Robust entropy adaptive loss minimization for improved single-sample test-time adaptation** [[PDF]](https://arxiv.org/abs/2309.03964) [[G-Scholar--]]()
@@ -314,7 +319,9 @@ self-training with balanced normalization** [[PDF]](https://arxiv.org/abs/2309.1
 
 - `...` [He., Journal of Intelligent Medicine and Healthcare 2023] **ECG heartbeat classification under dataset shift** [[PDF]](https://cdn.techscience.cn/files/jimh/TSP_JIMH-1-2/TSP_JIMH_36624/TSP_JIMH_36624.pdf) [[G-Scholar--]]()
 
-- `...` [Park and D'Amico, Arxiv 2023] **Online supervised training of spaceborne vision during proximity operations using adaptive kalman filtering** [[PDF]](https://arxiv.org/abs/2309.11645) [[G-Scholar--]]()
+- `...` [Park and D'Amico, Arxiv 2023] **Online supervised training of spaceborne vision during proximity operations using adaptive kalman filtering** [[PDF]](https://arxiv.org/abs/2309.11645) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3846847306296985177&hl=en)
+
+- `OFTTA` [Wang et al., Proc. IMWUT/ UbiComp 2024] **Optimization-free test-time adaptation for cross-person activity recognition** [[PDF]](https://arxiv.org/abs/2310.18562) [[G-Scholar--]]() [[CODE]](https://github.com/Claydon-Wang/OFTTA)
 
 ## Related
 - `GTTA-ST` [Marsden et al., Arxiv 2022] **Introducing intermediate domains for effective self-training during test-time** [[PDF]](https://arxiv.org/abs/2208.07736) [[G-Scholar--]]()

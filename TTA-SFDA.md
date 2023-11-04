@@ -593,6 +593,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `...` [Sun et al., Arxiv 2023] **SF-FSDA: Source-free few-shot domain adaptive object detection with efficient labeled data factory** [[PDF]](https://arxiv.org/abs/2306.04385) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8231756060316661911&hl=en)
 
+- `...` [Shi et al., Arxiv 2023] **Improving online source-free domain adaptation for object detection by unsupervised data acquisition** [[PDF]](https://arxiv.org/abs/2310.19258) [[G-Scholar--]]()
+
 ## Medical Image Analysis
 ### 2020
 - `AdaEnt` [Bateson et al., Proc. MICCAI 2020] **Source-relaxed domain adaptation for image segmentation** [[PDF]](https://arxiv.org/abs/2005.03697) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10960624360275715336&hl=en) [[CODE]](https://github.com/mathilde-b/SFDA)
