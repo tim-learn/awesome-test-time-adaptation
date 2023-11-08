@@ -158,6 +158,8 @@ Bi-level adaptation method for test-time adaptive object detection** [[PDF]](htt
 
 - `SoTTA` [Gong et al., Proc. NeurIPS 2023] **SoTTA: Robust test-time adaptation on noisy data streams** [[PDF]](https://arxiv.org/abs/2310.10074) [[G-Scholar--]]() [[CODE]](https://github.com/taeckyung/SoTTA)
 
+- `FedICON` [Tan et al., Proc. NeurIPS 2023] **Is heterogeneity notorious? Taming heterogeneity to handle test-time shift in federated learning** [[PDF]](https://openreview.net/forum?id=qJJmu4qsLO) [[G-Scholar--]]()
+
 - `ActMAD` [Mirza et al., Proc. CVPR 2023] **ActMAD: Activation matching to align distributions for test-time-training** [[PDF]](https://arxiv.org/abs/2211.12870) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4556204882779586735&hl=en) [[CODE]](https://github.com/jmiemirza/actmad)
 
 - `RMT` [Döbler et al., Proc. CVPR 2023] **Robust mean teacher for continual and gradual test-time adaptation** [[PDF]](https://arxiv.org/abs/2211.13081) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5205082821636588766&hl=en) [[CODE]](https://github.com/mariodoebler/test-time-adaptation)

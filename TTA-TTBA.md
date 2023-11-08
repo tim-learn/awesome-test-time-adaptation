@@ -203,6 +203,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `MetaTL` [Gunawan et al., Arxiv 2022] **Test-time adaptation for real image denoising via meta-transfer learning** [[PDF]](https://arxiv.org/abs/2207.02066) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12620165808171507902&hl=en) [[CODE]](https://github.com/agusgun/TTAID)
 
+- `SRTTA` [Deng et al., Proc. NeurIPS 2023] **Efficient test-time adaptation for super-resolution with second-order degradation and reconstruction** [[PDF]](https://arxiv.org/abs/2310.19011) [[G-Scholar--]]() [[CODE--]](https://github.com/DengZeshuai/SRTTA)
+
 - `...` [Hatem et al., Proc. IROS 2023] **Test-time adaptation for point cloud upsampling using meta-learning** [[PDF]](https://arxiv.org/abs/2308.16484) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18088448039758938963&hl=en)
 
 - `PTTD` [Chen et al., Arxiv 2023] **Prompt-based test-time real image dehazing: A novel pipelinee** [[PDF]](https://arxiv.org/abs/2309.17389) [[G-Scholar--]]() [[CODE]](https://github.com/cecret3350/PTTD-Dehazing)
