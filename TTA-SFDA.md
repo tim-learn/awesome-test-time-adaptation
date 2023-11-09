@@ -805,6 +805,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `...` [Song et al., Applied Sciences 2023] **Unsupervised vehicle re-identification method based on source-free knowledge transfer** [[PDF]](https://www.mdpi.com/2076-3417/13/19/11013) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3692002900286986347&hl=en)
 
+- `S2ADAP` [Qu et al., Knowledge-Based Systems 2023] **Source-free style-diversity adversarial domain adaptation with privacy-preservation for person re-identification** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0950705123009000) [[G-Scholar--]]()
+
 ### Multi-modality
 - `SOCKET` [Ahmed et al., Proc. ECCV 2022] **Cross-modal knowledge transfer without task-relevant source data** [[PDF]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136940108.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8131184106801888753&hl=en) [[CODE]](https://github.com/merlresearch/SOCKET)
 

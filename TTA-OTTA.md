@@ -288,6 +288,8 @@ self-training with balanced normalization** [[PDF]](https://arxiv.org/abs/2309.1
 
 - `TeCo` [Yi et al., Proc. ICLR 2023] **Temporal coherent test-time optimization for robust video classification** [[PDF]](https://openreview.net/forum?id=-t4D61w4zvQ) [[G-Scholar]](https://scholar.google.com/scholar?cluster=712239658202817336&hl=en)
 
+- `tt-MCC` [Bertrand et al., Proc. NeurIPS 2023] **Test-time training for matching-based video object segmentation** [[PDF]](https://openreview.net/forum?id=-9QsdPQlWiE) [[G-Scholar--]]()
+
 - `...` [Ayyoubzadeh., PhD Thesis 2023] **Prior-guided deep neural networks for image restoration tasks** [[PDF]](https://macsphere.mcmaster.ca/bitstream/11375/28467/2/Ayyoubzadeh_Seyed%20Mehdi_2023April_PhD.pdf) [[G-Scholar--]]()
 
 ### Graph
