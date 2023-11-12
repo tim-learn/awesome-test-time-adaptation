@@ -492,6 +492,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 - `CONDA` [Truong et al., Arxiv 2022] **CONDA: Continual unsupervised domain adaptation learning in visual perception for self-driving cars** [[PDF]](https://arxiv.org/abs/2212.00621) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13009693848444756082&hl=en)
 
 ### 2023
+- `Uni-UVPT` [Ma et al., Proc. NeurIPS 2023] **When visual prompt tuning meets source-free domain adaptive semantic segmentation** [[PDF]](https://openreview.net/forum?id=ChGGbmTNgE) [[G-Scholar--]]()
+
 - `STPL` [Lo et al., Proc. CVPR 2023] **Spatio-temporal pixel-level contrastive learning-based source-free domain adaptation for video semantic segmentation** [[PDF]](https://arxiv.org/abs/2303.14361) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12402659548166581777&hl=en)
 
 - `DT-ST` [Zhao et al., Proc. CVPR 2023] **Towards better stability and adaptability: Improve online self-training for model adaptation in semantic segmentation** [[PDF]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_Towards_Better_Stability_and_Adaptability_Improve_Online_Self-Training_for_Model_CVPR_2023_paper.pdf) [[G-Scholar--]]()

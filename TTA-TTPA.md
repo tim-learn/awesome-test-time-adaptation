@@ -46,4 +46,6 @@ A curated list of awesome test-time prior adaptation resources. Your contributio
 
 - `TTLSA` [Sun et al., Proc. NeurIPS 2023] **Beyond invariance: Test-time label-shift adaptation for distributions with" spurious" correlations** [[PDF]](https://arxiv.org/abs/2211.15646) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8297779371205142813&hl=en) [[CODE]](https://github.com/nalzok/test-time-label-shift)
 
-- `...` [Park et al., Proc. ICCV 2023] **Label shift adapter for test-time adaptation under covariate and label shifts** [[PDF]](https://arxiv.org/abs/2308.08810) [[G-Scholar--]]()
+- `...` [Park et al., Proc. ICCV 2023] **Label shift adapter for test-time adaptation under covariate and label shifts** [[PDF]](https://arxiv.org/abs/2308.08810) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6476921383522013928&hl=en)
+
+- `HANOL` [Qian et al., Proc. ICDM 2023] **Handling new class in online label shift** [[PDF]](https://www.lamda.nju.edu.cn/qianyy/paper/ICDM23_NOLS.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17197916004384917829&hl=en)

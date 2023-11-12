@@ -90,8 +90,7 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `...` [Lumentut and Lee, Arxiv 2023] **3DHR-Co: A collaborative test-time refinement framework for in-the-wild 3D human-body reconstruction task** [[PDF]](https://arxiv.org/abs/2310.01291) [[G-Scholar--]]()
 
-- `...` [Lin et al., Arxiv 2023] **VCL challenges 2023 at ICCV 2023 technical report:
-Bi-level adaptation method for test-time adaptive object detection** [[PDF]](https://arxiv.org/abs/2310.08986) [[G-Scholar--]]()
+- `...` [Lin et al., Arxiv 2023] **VCL challenges 2023 at ICCV 2023 technical report: Bi-level adaptation method for test-time adaptive object detection** [[PDF]](https://arxiv.org/abs/2310.08986) [[G-Scholar--]]()
 
 ## Online Batch-level
 ### Image Classification
@@ -109,8 +108,7 @@ Bi-level adaptation method for test-time adaptive object detection** [[PDF]](htt
 
 - `MixNorm` [Hu et al., Arxiv 2021] **MixNorm: Test-time adaptation through online normalization estimation** [[PDF]](https://arxiv.org/abs/2110.11478) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9257046667591931734&hl=en)
 
-- `DLTTA` [Yang et al., IEEE TMI 2022] **DLTTA: Dynamic learning rate for test-time adaptation on cross-domain medical images** [[PDF]](https://ieeexplore.ieee.org/abstract/document/9830762/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3058464748306151677&hl=en) [[CODE]](https://github.com/med-air/DLTTA)
-
+#### 2022
 - `EATA` [Niu et al., Proc. ICML 2022] **Efficient test-time model adaptation without forgetting** [[PDF]](https://proceedings.mlr.press/v162/niu22a.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17499416478096807711&hl=en) [[CODE]](https://github.com/mr-eggplant/EATA)
 
 - `VMP` [Jing et al., Proc. NeurIPS 2022] **Variational model perturbation for source-free domain adaptation** [[PDF]](https://arxiv.org/abs/2210.10378) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11797225835673378824&hl=en) [[CODE]](https://openreview.net/forum?id=yTJze_xm-u6)
@@ -131,14 +129,15 @@ Bi-level adaptation method for test-time adaptive object detection** [[PDF]](htt
 
 - `...` [Bhardwaj et al., Proc. DATE 2022] **Unsupervised test-time adaptation of deep neural networks at the edge: a case study** [[PDF]](https://ieeexplore.ieee.org/abstract/document/9774580/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10101346370201141265&hl=en)
 
-- `...` [Kerssies et al., Arxiv 2022] **Evaluating continual test-time adaptation for contextual and semantic domain shifts** [[PDF]](https://arxiv.org/abs/2208.08767) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8359153083419991388&hl=en)
+- `DLTTA` [Yang et al., IEEE TMI 2022] **DLTTA: Dynamic learning rate for test-time adaptation on cross-domain medical images** [[PDF]](https://ieeexplore.ieee.org/abstract/document/9830762/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3058464748306151677&hl=en) [[CODE]](https://github.com/med-air/DLTTA)
 
-- `GpreBN` [Yang et al., Arxiv 2022] **Test-time batch normalization** [[PDF]](https://arxiv.org/abs/2205.10210) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6871491778357281302&hl=en)
+- `...` [Kerssies et al., Arxiv 2022] **Evaluating continual test-time adaptation for contextual and semantic domain shifts** [[PDF]](https://arxiv.org/abs/2208.08767) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8359153083419991388&hl=en)
 
 - `CAFA` [Jung et al., Arxiv 2022] **CAFA: Class-aware feature alignment for test-time adaptation** [[PDF]](https://arxiv.org/abs/2206.00205) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4234869190098771055&hl=en)
 
 - `AdaODM` [Zhang and Chen, Arxiv 2022] **Adaptive domain generalization via online disagreement minimization** [[PDF]](https://arxiv.org/abs/2208.01996) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13579356745223060725&hl=en)
 
+#### 2023
 - `TAST` [Jang and Chung, Proc. ICLR 2023] **Test-time adaptation via self-training with nearest neighbor information** [[PDF]](https://arxiv.org/abs/2207.10792) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13183441377692558295&hl=en)
 
 - `...` [Wang and Wibisono, Proc. ICLR 2023] **Towards understanding GD with hard and conjugate pseudo-labels for test-time adaptation** [[PDF]](https://openreview.net/forum?id=FJXf1FXN8C) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1406109997056067681&hl=en)
@@ -200,6 +199,11 @@ Bi-level adaptation method for test-time adaptive object detection** [[PDF]](htt
 
 - `OTA` [Zhou et al., Journal of Software 2023] **Towards robust test-time adaptation for open-set recognition** [[PDF]](https://www.jos.org.cn/josen/article/abstract/7009) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9351729633869937567&hl=en)
 
+- `CSTTA` [Yang et al., Knowledge-Based Systems 2023] **Confidence-based and sample-reweighted test-time adaptation** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0950705123009140) [[G-Scholar--]]()
+
+- `GpreBN` [Yang et al., Arxiv 2023] **Gradient preserving batch normalization for test-time adaptation** [[PDF]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4627328) [[G-Scholar--]]() 
+  ~~- [Yang et al., Arxiv 2022] **Test-time batch normalization** [[PDF]](https://arxiv.org/abs/2205.10210) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6871491778357281302&hl=en)~~
+
 - `ECL` [Han et al., Arxiv 2023] **Rethinking precision of pseudo label: Test-time adaptation via complementary learning** [[PDF]](https://arxiv.org/abs/2301.06013) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3929794078133562489&hl=en)
 
 - `TTAC++` [Su et al., Arxiv 2023] **Revisiting realistic test-time training: Sequential inference and adaptation by anchored clustering regularized self-training** [[PDF]](https://arxiv.org/abs/2303.10856) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13164314529398251378&hl=en)
@@ -218,8 +222,7 @@ Bi-level adaptation method for test-time adaptive object detection** [[PDF]](htt
 
 - `AR-TTA` [Sójka et al., Arxiv 2023] **AR-TTA: A simple method for real-world continual test-time adaptation** [[PDF]](https://arxiv.org/abs/2309.10109) [[G-Scholar--]]()
 
-- `TRIBE` [Su et al., Arxiv 2023] **Towards real-world test-time adaptation: Tri-Net
-self-training with balanced normalization** [[PDF]](https://arxiv.org/abs/2309.14949) [[G-Scholar--]]() [[CODE]](https://github.com/Gorilla-Lab-SCUT/TRIBE)
+- `TRIBE` [Su et al., Arxiv 2023] **Towards real-world test-time adaptation: Tri-Net self-training with balanced normalization** [[PDF]](https://arxiv.org/abs/2309.14949) [[G-Scholar--]]() [[CODE]](https://github.com/Gorilla-Lab-SCUT/TRIBE)
 
 - `...` [Mounsaveng et al., Arxiv 2023] **Bag of tricks for fully test-time adaptation** [[PDF]](https://arxiv.org/abs/2310.02416) [[G-Scholar--]]()
 
@@ -237,10 +240,12 @@ self-training with balanced normalization** [[PDF]](https://arxiv.org/abs/2309.1
 
 - `VPL` [Ambekar et al., Misc 2023] **Variational pseudo labels for meta test-time adaptation** [[PDF]](https://openreview.net/forum?id=iOag71mvHI) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2267598876397998774&hl=en)
 
-### 2024
+#### 2024
 - `TePA` [Cong et al., Proc. S&P 2024] **Test-time poisoning attacks against test-time adaptation models** [[PDF]](https://arxiv.org/abs/2308.08505) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13810860861574844121&hl=en) [[CODE--]](https://github.com/tianshuocong/TePA)
 
 - `REALM` [Seto et al., Proc. WACV 2024] **REALM: Robust entropy adaptive loss minimization for improved single-sample test-time adaptation** [[PDF]](https://arxiv.org/abs/2309.03964) [[G-Scholar--]]()
+
+- `...` [Niloy et al., Proc. WACV 2024] **Effective restoration of source knowledge in continual test time adaptation** [[PDF]](https://arxiv.org/abs/2311.04991) [[G-Scholar--]]()
 
 ### Segmentation
 - `RNCR` [Hu et al., Proc. MICCAI 2021] **Fully test-time adaptation for image segmentation** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-030-87199-4_24) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18183176392541200399&hl=en)
