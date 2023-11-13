@@ -247,6 +247,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `...` [Niloy et al., Proc. WACV 2024] **Effective restoration of source knowledge in continual test time adaptation** [[PDF]](https://arxiv.org/abs/2311.04991) [[G-Scholar--]]()
 
+- `LayerwiseTTA` [Park et al., Proc. WACV 2024] **Layer-wise auto-weighting for non-stationary test-time adaptation** [[PDF]](https://arxiv.org/abs/2311.05858) [[G-Scholar--]]() [[CODE]](https://github.com/junia3/LayerwiseTTA)
+
 ### Segmentation
 - `RNCR` [Hu et al., Proc. MICCAI 2021] **Fully test-time adaptation for image segmentation** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-030-87199-4_24) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18183176392541200399&hl=en)
 
