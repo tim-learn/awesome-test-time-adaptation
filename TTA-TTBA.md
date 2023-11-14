@@ -61,6 +61,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `Diffusion-TTA` [Prabhudesai et al., Proc. NeurIPS 2023] **Test-time adaptation of discriminative models via diffusion generative feedback** [[PDF]](https://openreview.net/forum?id=gUTVpByfVX) [[G-Scholar--]]() [[CODE]](https://github.com/mihirp1998/Diffusion-TTA)
 
+- `SwapPrompt` [Ma et al., Proc. NeurIPS 2023] **SwapPrompt: Test-time prompt adaptation for vision-language models** [[PDF]](https://openreview.net/forum?id=EhdNQiOWgQ) [[G-Scholar--]]()
+
 - `DDA` [Gao et al., Proc. CVPR 2023] **Back to the source: Diffusion-driven adaptation to test-time corruption** [[PDF]](https://arxiv.org/abs/2207.03442) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8145404192355562400&hl=en) [[CODE]](https://github.com/shiyegao/DDA)
   ~~[Gao et al., Proc. Workshops 2023] **Back to the source: Diffusion-driven test-time adaptation** [[PDF]](https://arxiv.org/abs/2207.03442) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8145404192355562400&hl=en) [[CODE]](https://github.com/shiyegao/DDA)~~
 
@@ -152,6 +154,9 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 - `Anti-Adv` [Alfarra et al., Proc. AAAI 2022] **Combating adversaries with anti-adversaries** [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/20545) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15633095022559915646&hl=en) [[CODE]](https://github.com/MotasemAlfarra/Combating-Adversaries-with-Anti-Adversaries)
 
 - `Equ-Defense` [Mao et al., Arxiv 2022] **Robust perception through equivariance** [[PDF]](https://arxiv.org/abs/2212.06079) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6052114939161464594&hl=en)
+
+- `CVP` [Tsai et al., Proc. NeurIPS 2023] **Convolutional visual prompt
+for robust visual perception** [[PDF]](https://openreview.net/forum?id=qgmrC8jhCo) [[G-Scholar--]]()
 
 - `Mask-Defense` [McDermott et al., Proc. ICLR Workshops 2023] **Robustifying language models with test-time adaptation** [[PDF]](https://openreview.net/forum?id=MOe6swbU2Ab) [[G-Scholar--]]()
 

@@ -338,11 +338,13 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `...` [Li et al., Proc. ICIP 2023] **Target-discriminability-induced multi-source-free domain adaptation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10222016) [[G-Scholar--]]()
 
-- `FCDA` [Lee and Lee, Proc. SPIE International Workshop on Advanced Imaging Technology 2023] **A source-free unsupervised domain adaptation method based on feature consistency** [[PDF]](https://www.spiedigitallibrary.org/proceedings/Download?urlId=10.1117%2F12.2666906) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4306888360461661923&hl=en)
-
 - `PaCDA` [Prasanna B et al., Proc. CVPR Workshops 2023] **Continual domain adaptation through pruning-aided domain-specific weight modulation** [[PDF]](https://arxiv.org/abs/2304.07560) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4639321340065295039&hl=en) [[CODE]](https://github.com/PrasannaB29/PACDA)
 
 - `...` [Yeh et al., Proc. ICCV Workshops 2023] **Misalignment-free relation aggregation for multi-source-free domain adaptation** [[PDF]](https://openaccess.thecvf.com/content/ICCV2023W/OODCV/html/Yeh_Misalignment-Free_Relation_Aggregation_for_Multi-Source-Free_Domain_Adaptation_ICCVW_2023_paper.html) [[G-Scholar--]]()
+
+- `FCDA` [Lee and Lee, Proc. SPIE International Workshop on Advanced Imaging Technology 2023] **A source-free unsupervised domain adaptation method based on feature consistency** [[PDF]](https://www.spiedigitallibrary.org/proceedings/Download?urlId=10.1117%2F12.2666906) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4306888360461661923&hl=en)
+
+- `...` [Zhang et al., Proc. International Conference on Data Science and Advanced Analytics 2023] **Tackling model mismatch with mixup regulated test-time training** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10302565) [[G-Scholar--]]()
 
   ---------------------------------
 
@@ -925,6 +927,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 - `FLOOD` [Liu et al., Proc. KDD 2023] **FLOOD: A flexible invariant learning framework for out-of-distribution generalization on graphs** [[PDF]](https://ponderly.github.io/pub/FLOOD_KDD2023.pdf) [[G-Scholar--]]()
 
 - `MAPU` [Ragab et al., Proc. KDD 2023] **Source-free domain adaptation with temporal imputation for time series data** [[PDF]](https://arxiv.org/pdf/2307.07542.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18173378344700689071&hl=en) [[CODE]](https://github.com/mohamedr002/MAPU_SFDA_TS)
+
+- `TALC` [Wei et al., Proc. EMNLP Findings 2023] **Leveraging multiple teachers for test-time adaptation of language-guided classifiers** [[PDF]](https://arxiv.org/abs/2311.07538) [[G-Scholar--]]() [[CODE--]](https://github.com/WeiKangda/TALC)
 
 - `...` [Lee et al., Proc. BCI 2023] **Source-free cross-domain state of charge estimation of lithium-ion batteries at different ambient temperatures** [[PDF]](https://arxiv.org/abs/2301.08448) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4013259541683787047&hl=en) [[CODE]](https://github.com/DeepBCI/Deep-BCI)
 
