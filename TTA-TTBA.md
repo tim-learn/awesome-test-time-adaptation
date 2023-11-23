@@ -362,6 +362,8 @@ federated learning** [[PDF]](https://arxiv.org/abs/2310.18816) [[G-Scholar--]]()
 
 - `TTACIL` [Marouf et al., Arxiv 2023] **Rethinking class-incremental learning in the era of large pre-trained models via test-time adaptation** [[PDF]](https://arxiv.org/abs/2310.11482) [[G-Scholar--]]() [[CODE]](https://github.com/IemProg/TTACIL)
 
+- `...` [Haslum et al, Proc. WACV 2024] **Bridging generalization gaps in high content imaging through online self-supervised domain adaptation** [[PDF]](https://arxiv.org/abs/2311.12623) [[G-Scholar--]]()
+
 ### Video processing (multiple frames)
 - `PGO` [Brahmbhatt et al., Proc. CVPR 2018] **Geometry-aware learning of maps for camera localization** [[PDF]](http://openaccess.thecvf.com/content_cvpr_2018/html/Brahmbhatt_Geometry-Aware_Learning_of_CVPR_2018_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15361942550307476955&hl=en) [[CODE]](https://github.com/NVlabs/geomapnet)
 
