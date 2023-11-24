@@ -92,6 +92,10 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `...` [Lin et al., Arxiv 2023] **VCL challenges 2023 at ICCV 2023 technical report: Bi-level adaptation method for test-time adaptive object detection** [[PDF]](https://arxiv.org/abs/2310.08986) [[G-Scholar--]]()
 
+- `...` [Li et al., Arxiv 2023] **Domain generalization of 3D object detection by density-resampling** [[PDF]](https://arxiv.org/abs/2311.10845) [[G-Scholar--]]()
+
+- `FSTTA` [Gao et al., Arxiv 2023] **Test-time adaptive vision-and-language navigation** [[PDF]](https://arxiv.org/abs/2311.13209) [[G-Scholar--]]()
+
 ## Online Batch-level
 ### Image Classification
 - `ONDA` [Mancini et al., Proc. IROS 2018] **Kitting in the wild through online domain adaptation** [[PDF]](https://arxiv.org/abs/1807.01028) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14352340917335464086&hl=en)
