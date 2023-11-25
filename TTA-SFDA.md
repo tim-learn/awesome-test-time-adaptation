@@ -370,6 +370,12 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `UC-SFDA` [Chen et al., Knowledge-Based Systems 2023] **UC-SFDA: Source-free domain adaptation via uncertainty prediction and evidence-based contrastive learning** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0950705123004781) [[G-Scholar--]]() [[CODE]](https://www.github.com/oolown/UC-SFDA)
 
+- `BIAS` [Wang et al., Knowledge-Based Systems 2023] **BIAS: Bridging inactive and active samples for active source free domain adaptation** [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0950705123009012) [[G-Scholar--]]()
+
+- `CRMA` [Lü et al., Expert Systems With Applications 2023] **Consistency regularization-based mutual alignment for source-free domain adaptation** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0957417423030798) [[G-Scholar--]]()
+
+- `MSF-SSDA-SPM` [Liang et al., Cognitive Neurodynamics  2023] **Privacy-preserving multi-source semi-supervised domain adaptation for seizure prediction** [[PDF]](https://link.springer.com/article/10.1007/s11571-023-10026-4) [[G-Scholar--]]()
+
 - `RS2L` [Tian et al., Signal, Image and Video Processing 2023] **Robust self-supervised learning for source-free domain adaptation** [[PDF]](https://link.springer.com/article/10.1007/s11760-022-02457-z) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18298807507396100788&hl=en)
 
 - `...` [Zhao and Wang, Applied Intelligence 2023] **Universal model adaptation by style augmented open-set consistency** [[PDF]](https://link.springer.com/article/10.1007/s10489-023-04731-0) [[G-Scholar--]]() 
@@ -939,6 +945,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 - `BKD-SFUDA` [Tian et al., Proc. International Conference on Computer Supported Cooperative Work in Design 2023] **Knowledge distillation with source-free unsupervised domain adaptation for BERT model compression** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10152760/) [[G-Scholar--]]()
 
 - `...` [Wang et al., Proc. IEEE International Conference on Mechatronics and Automation 2023] **Source-free domain adaptation network for rolling bearing fault diagnosis** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10216194) [[G-Scholar--]]()
+
+- `DSP` [Liu et al., Proc. AIMLR 2023] **Adaptive speech recognition via dual-level sequential pseudo labels** [[PDF]](https://dl.acm.org/doi/abs/10.1145/3625343.3625366) [[G-Scholar--]]()
 
 - `SFTTN` [Shen et al., IEEE TPEL 2023] **Source-free cross-domain state of charge estimation of lithium-ion batteries at different ambient temperatures** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10058040/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14503249759236941200&hl=en)
 

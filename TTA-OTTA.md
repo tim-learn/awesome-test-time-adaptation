@@ -59,6 +59,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `SATTA` [Zhang et al., Proc. MICCAI 2023] **SATTA: Semantic-aware test-time adaptation for cross-domain medical image segmentation** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_14) [[G-Scholar--]]() 
 
+- `PITTA` [Li et al., Proc. ML4H 2023] **Gradient-map-guided adaptive domain generalization for cross modality MRI segmentation** [[PDF]](https://arxiv.org/abs/2311.09737) [[G-Scholar--]]()
+
 - `SVDP` [Yang et al., Arxiv 2023] **Exploring sparse visual prompt for cross-domain semantic segmentation** [[PDF]](https://arxiv.org/abs/2303.09792) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2685189818181436154&hl=en)
 
 - `...` [Wang et al., Arxiv 2023] **Test-time training on video streams** [[PDF]](https://arxiv.org/abs/2307.05014) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6098567519147081981&hl=en)
