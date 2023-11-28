@@ -264,19 +264,23 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `CD-TTA` [Song et al., Arxiv 2022] **CD-TTA: Compound domain test-time adaptation for semantic segmentation** [[PDF]](https://arxiv.org/abs/2212.08356) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16005649886301679271&hl=en)
 
-- `...` [Lee et al., Proc. ICCV 2023] **Towards open-set test-time adaptation utilizing the wisdom of crowds in entropy minimization** [[PDF]](https://arxiv.org/abs/2308.06879) [[G-Scholar--]]()
+- `...` [Lee et al., Proc. ICCV 2023] **Towards open-set test-time adaptation utilizing the wisdom of crowds in entropy minimization** [[PDF]](https://arxiv.org/abs/2308.06879) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9274526450280903261&hl=en)
 
 - `OAST` [Su et al., Proc. ICCV 2023] **Unsupervised video object segmentation with online adversarial self-tuning** [[PDF]](https://openaccess.thecvf.com/content/ICCV2023/html/Su_Unsupervised_Video_Object_Segmentation_with_Online_Adversarial_Self-Tuning_ICCV_2023_paper.html) [[G-Scholar--]]()
 
-- `...` [Zhu et al., Proc. MICCAI 2023] **Uncertainty and shape-aware continual test-time adaptation for cross-domain segmentation of medical images** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_63) [[G-Scholar--]]() [[CODE--]](https://github.com/ThisGame42/CTTA)
+- `3A-TTA` [Huang et al., Proc. BMVC 2023] **Test-time adaptation for robust face anti-spoofing** [[PDF]](https://papers.bmvc2023.org/0379.pdf) [[G-Scholar--]]()
 
-- `...` [Zhao et al., Proc. ICIG 2023] **Revisiting TENT for test-time adaption semantic segmentation and classification head adjustment** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-46311-2_6) [[G-Scholar--]]()
+- `...` [Zhu et al., Proc. MICCAI 2023] **Uncertainty and shape-aware continual test-time adaptation for cross-domain segmentation of medical images** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_63) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15122565899426168206&hl=en) [[CODE--]](https://github.com/ThisGame42/CTTA)
 
-- `...` [Song et al., IEEE Robotics and Automation Letters 2023] **Test-time adaptation in the dynamic world with compound domain knowledge management** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10227541) [[G-Scholar--]]()
+- `...` [Zhao et al., Proc. ICIG 2023] **Revisiting TENT for test-time adaption semantic segmentation and classification head adjustment** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-46311-2_6) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10413314604158588291&hl=en)
+
+- `...` [Song et al., IEEE Robotics and Automation Letters 2023] **Test-time adaptation in the dynamic world with compound domain knowledge management** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10227541) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18164231543712426474&hl=en)
 
 - `Night-TTA` [Liu et al., Arxiv 2023] **Test-time adaptation for nighttime color-thermal semantic segmentation** [[PDF]](https://arxiv.org/abs/2307.04470) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12563067344427427591&hl=en)
 
 - `MCDA` [Ye et al., Arxiv 2023] **Multi task consistency guided source-free test-time domain adaptation medical image segmentation** [[PDF]](https://arxiv.org/abs/2310.11766) [[G-Scholar--]]()
+
+- `OCL` [Zhang et al., Arxiv 2023] **Test-time training for semantic segmentation with output contrastive loss** [[PDF]](https://arxiv.org/abs/2311.07877) [[G-Scholar--]]() [[CODE]](https://github.com/dazhangyu123/OCL)
 
 ### NLP
 - `OIL` [Ye et al., Proc. EMNLP Findings 2022] **Robust question answering against distribution shifts with test-time adaptation: An empirical study** [[PDF]](https://arxiv.org/abs/2302.04618) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14000848114209529359&hl=en) [[CODE]](https://github.com/oceanypt/coldqa-tta)

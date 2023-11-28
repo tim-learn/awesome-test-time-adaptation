@@ -82,6 +82,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `TTACIL` [Marouf et al., Arxiv 2023] **Rethinking class-incremental learning in the era of large pre-trained models via test-time adaptation** [[PDF]](https://arxiv.org/abs/2310.11482) [[G-Scholar--]]() [[CODE]](https://github.com/IemProg/TTACIL)
 
+- `TEA` [Yuan et al., Arxiv 2023] **TEA: Test-time energy adaptation** [[PDF]](https://arxiv.org/abs/2311.14402) [[G-Scholar--]]()
+
 - `DRM` [Zhang et al., Misc 2023] **Domain-specific risk minimization for out-of-distribution generalization** [[PDF]](https://openreview.net/forum?id=vCVTZYFcmCm) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15694323213451390034&hl=en)
 
 ### Segmentation
