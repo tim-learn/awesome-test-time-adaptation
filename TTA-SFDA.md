@@ -448,6 +448,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `Cross DRI` [Sawhney et al., Arxiv 2023] **Improving source-free target adaptation with vision transformers leveraging domain representation images** [[PDF]](https://arxiv.org/abs/2311.12589) [[G-Scholar--]]()
 
+- `HCLD` [Liu et al., Arxiv 2023] **UFDA: Universal federated domain adaptation with practical assumptions** [[PDF]](https://arxiv.org/abs/2311.15570) [[G-Scholar--]]()
+
 - `...` [Sheng et al., Arxiv 2023] **Self-training solutions for the ICCV 2023 GeoNet challenge** [[PDF]](https://arxiv.org/abs/2311.16843) [[G-Scholar--]]()
 
 - `E2` [Shen et al., Misc 2023] **E2: Entropy discrimination and energy optimization for source-free universal domain adaptation** [[PDF]](https://openreview.net/forum?id=FMEXgK9-I8) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2517695593354531262&hl=en)
@@ -461,6 +463,9 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 - `...` [Wong., Master Thesis 2023] **Reducing negative transfer of random data in source-free unsupervised domain adaptation** [[PDF]](https://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=11907&context=etd) [[G-Scholar--]]() 
 
 - `...` [Thomas., Master Thesis 2023] **Continual domain adaptation through knowledge distillation** [[PDF]](https://scholarworks.rit.edu/theses/11545/) [[G-Scholar--]]() 
+
+### 2024
+- `C-SFTrans` [Sanyal et al., Proc. WACV 2024] **Aligning non-causal factors for transformer-based source-free domain adaptation** [[PDF]](https://arxiv.org/abs/2311.16294/) [[G-Scholar--]]() [[CODE]](https://github.com/val-iisc/DSiT-SFDA)
 
 ## Semantic Segmentation
 ### 2021
@@ -699,11 +704,11 @@ segmentation with class-balanced mean teacher** [[PDF]](https://arxiv.org/abs/23
 
 - `CPR` [Huai et al., Proc. MICCAI 2023] **Context-aware pseudo-label refinement for source-free domain adaptive fundus image segmentation** [[PDF]](https://arxiv.org/abs/2308.07731) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2879793886454783206&hl=en) [[CODE]](https://github.com/xmed-lab/CPR)
 
-- `...` [Wang et al., Proc. MICCAI 2023] **Black-box domain adaptative cell segmentation via multi-source distillation** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_71) [[G-Scholar--]]() [[CODE]](https://github.com/NeuronXJTU/MBDA-CellSeg)
+- `...` [Wang et al., Proc. MICCAI 2023] **Black-box domain adaptative cell segmentation via multi-source distillation** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_71) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13606280343267908782&hl=en) [[CODE]](https://github.com/NeuronXJTU/MBDA-CellSeg)
 
-- `TGMA` [Yang et al., Proc. MICCAI 2023] **Transferability-guided multi-source model adaptation for medical image segmentation** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_66) [[G-Scholar--]]() 
+- `TGMA` [Yang et al., Proc. MICCAI 2023] **Transferability-guided multi-source model adaptation for medical image segmentation** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_66) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7729218250887421054&hl=en) 
 
-- `...` [Lee et al., Proc. MICCAI 2023] **Self-supervised domain adaptive segmentation of breast cancer via test-time fine-tuning** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_52) [[G-Scholar--]]() 
+- `...` [Lee et al., Proc. MICCAI 2023] **Self-supervised domain adaptive segmentation of breast cancer via test-time fine-tuning** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_52) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16580935026141696741&hl=en) 
 
 - `...` [Yuan et al., Proc. EMBC 2023] **Entropy-driven adversarial training for source-free medical image segmentation** [[PDF]](https://arinex.com.au/EMBC/pdf/full-paper_228.pdf) [[G-Scholar--]]()
 
@@ -713,11 +718,15 @@ segmentation with class-balanced mean teacher** [[PDF]](https://arxiv.org/abs/23
 
 - `...` [Zhang et al., Proc. ICCECE 2023] **Source-free domain adaptation via multicentric prototype for alzheimer's disease detection** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10135388/) [[G-Scholar--]]()
 
+- `...` [Xu et al., Proc. AI 2023] **Cross domain pulmonary nodule detection without source data** [[PDF]](https://link.springer.com/chapter/10.1007/978-981-99-8388-9_13) [[G-Scholar--]]()
+
   ----------------------------
 
 - `...` [Li et al., IEEE TMI 2023] **Towards source-free cross tissues histopathological cell segmentation via target-specific finetuning** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10087318) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5356003107098200108&hl=en) [[CODE]](https://github.com/NeuronXJTU/SFDA-CellSeg)
 
 - `UPL-SFDA` [Wu et al., IEEE TMI 2023] **UPL-SFDA: Uncertainty-aware pseudo label guided source-free domain adaptation for medical image segmentation** [[PDF]](https://arxiv.org/abs/2309.10244) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7117635234828682903&hl=en)
+
+- `SAME` [Li et al., IEEE TMI 2023] **Enhancing and adapting in the clinic: Source-free unsupervised domain adaptation for medical image enhancement** [[PDF]](https://ieeexplore.ieee.org/document/10330609) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4229949942064215100&hl=en) [[CODE]](https://github.com/liamheng/Annotation-free-Medical-Image-Enhancement)
 
 - `DUT` [Liu et al., IEEE TNNLS 2023] **Decoupled unbiased teacher for source-free
 domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10128698) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5394961859696758606&hl=en) [[CODE]](https://github.com/CUHK-AIM-Group/Decoupled-Unbiased-Teacher)
@@ -847,6 +856,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 - `SUMMIT` [Simons et al., Proc. ICCV 2023] **SUMMIT: Source-free adaptation of uni-modal models to multi-modal targets** [[PDF]](https://arxiv.org/abs/2308.11880) [[G-Scholar--]]() [[CODE]](https://github.com/csimo005/SUMMIT)
 
 - `ReCLIP` [Hu et al., Arxiv 2023] **ReCLIP: Refine contrastive language image pre-training with source free domain adaptation** [[PDF]](https://arxiv.org/abs/2308.03793) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18135944623162059089&hl=en)
+
+- `DIFO` [Tang et al., Proc. WACV 2024] **Source-free domain adaptation with frozen multimodal foundation model** [[PDF]](https://arxiv.org/abs/2311.16510) [[G-Scholar--]]() 
 
 - `TGKT` [? et al., Misc 2023] **Source-free cross-modal knowledge transfer by unleashing the potential of task-irrelevant data** [[PDF]](https://openreview.net/forum?id=zSN6mXz6VF) [[G-Scholar--]]()
 
