@@ -77,6 +77,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `VPTTA` [Chen et al., Arxiv 2023] **Each test image deserves a specific prompt: Continual test-time adaptation for 2D medical Image segmentation** [[PDF]](https://arxiv.org/abs/2311.18363) [[G-Scholar--]]() [[CODE--]](https://github.com/Chen-Ziyang/VPTTA)
 
+- `...` [Yuan et al., Arxiv 2023] **Few clicks suffice: Active test-time adaptation for semantic segmentation** [[PDF]](https://arxiv.org/abs/2312.01835) [[G-Scholar--]]()
+
 ### Misc
 - `BOA` [Guan et al., Proc. CVPR 2021] **Bilevel online adaptation for out-of-domain human mesh reconstruction** [[PDF]](https://openaccess.thecvf.com/content/CVPR2021/html/Guan_Bilevel_Online_Adaptation_for_Out-of-Domain_Human_Mesh_Reconstruction_CVPR_2021_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14857518758485826444&hl=en) [[CODE]](https://github.com/syguan96/BOA)
 
@@ -260,6 +262,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `PeTTA` [Hoang et al., Arxiv 2023] **Persistent test-time adaptation in episodic testing scenarios** [[PDF]](https://arxiv.org/abs/2311.18193) [[G-Scholar--]]()
 
+- `...` [Csaba et al., Arxiv 2023] **Label delay in continual learning** [[PDF]](https://arxiv.org/abs/2312.00923) [[G-Scholar--]]()
+
 - `VPL` [Ambekar et al., Misc 2023] **Variational pseudo labels for meta test-time adaptation** [[PDF]](https://openreview.net/forum?id=iOag71mvHI) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2267598876397998774&hl=en)
 
 #### 2024
@@ -323,6 +327,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `tt-MCC` [Bertrand et al., Proc. NeurIPS 2023] **Test-time training for matching-based video object segmentation** [[PDF]](https://openreview.net/forum?id=-9QsdPQlWiE) [[G-Scholar--]]()
 
+- `ConVRT` [Cai et al., Arxiv 2023] **ConVRT: Consistent video restoration through turbulence with test-time optimization of neural video representations** [[PDF]](https://arxiv.org/abs/2312.04679) [[G-Scholar--]]()
+
 - `...` [Ayyoubzadeh., PhD Thesis 2023] **Prior-guided deep neural networks for image restoration tasks** [[PDF]](https://macsphere.mcmaster.ca/bitstream/11375/28467/2/Ayyoubzadeh_Seyed%20Mehdi_2023April_PhD.pdf) [[G-Scholar--]]()
 
 ### Graph
@@ -357,6 +363,10 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `...` [He., Journal of Intelligent Medicine and Healthcare 2023] **ECG heartbeat classification under dataset shift** [[PDF]](https://cdn.techscience.cn/files/jimh/TSP_JIMH-1-2/TSP_JIMH_36624/TSP_JIMH_36624.pdf) [[G-Scholar--]]()
 
 - `...` [Park and D'Amico, Arxiv 2023] **Online supervised training of spaceborne vision during proximity operations using adaptive kalman filtering** [[PDF]](https://arxiv.org/abs/2309.11645) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3846847306296985177&hl=en)
+
+- `...` [Wimpff et al., Arxiv 2023] **Calibration-free online test-time adaptation for electroencephalography motor imagery decoding** [[PDF]](https://arxiv.org/abs/2311.18520) [[G-Scholar--]]() [[CODE]](https://github.com/martinwimpff/eeg-otta)
+
+- `...` [Yu et al., Proc. ESEC/FSE 2023] **Log parsing with generalization ability under new log types** [[PDF]](https://dl.acm.org/doi/abs/10.1145/3611643.3616355) [[G-Scholar--]]()
 
 - `OFTTA` [Wang et al., Proc. IMWUT/ UbiComp 2024] **Optimization-free test-time adaptation for cross-person activity recognition** [[PDF]](https://arxiv.org/abs/2310.18562) [[G-Scholar--]]() [[CODE]](https://github.com/Claydon-Wang/OFTTA)
 

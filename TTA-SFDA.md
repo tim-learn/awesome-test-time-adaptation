@@ -992,21 +992,23 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `SS-TrBoosting` [Zhao et al., IEEE TNSRE 2023] **Source-free domain adaptation (SFDA) for privacy-preserving seizure subtype classification** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10122236) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13671255325572013222&hl=en)
 
-- `...` [Wang et al., IEEE Internet of Things Journal 2023] **Wireless IoT monitoring system in Hong Kong–Zhuhai–Macao bridge and edge computing for anomaly detection** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10197602) [[G-Scholar--]]()
+- `...` [Wang et al., IEEE Internet of Things Journal 2023] **Wireless IoT monitoring system in Hong Kong–Zhuhai–Macao bridge and edge computing for anomaly detection** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10197602) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16524208117464603479&hl=en)
 
-- `...` [Dridi et al., Building and Environment 2023] **Unsupervised domain adaptation with and without access to source data for estimating occupancy and recognizing activities in smart buildings** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0360132323006789) [[G-Scholar--]]()
+- `...` [Dridi et al., Building and Environment 2023] **Unsupervised domain adaptation with and without access to source data for estimating occupancy and recognizing activities in smart buildings** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0360132323006789) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10023762052679130264&hl=en)
 
-- `SFDAF` [Li et al., Reliability Engineering and System Safety 2023] **Source-free domain adaptation framework for fault diagnosis of rotation machinery under data privacy** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0951832023003824) [[G-Scholar--]]()
+- `...` [Dridi et al., Energy and Buildings 2023] **Unsupervised domain adaptation without source data for estimating occupancy and recognizing activities in smart buildings** [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0378778823010381) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8559686073612311627&hl=en)
+
+- `SFDAF` [Li et al., Reliability Engineering and System Safety 2023] **Source-free domain adaptation framework for fault diagnosis of rotation machinery under data privacy** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0951832023003824) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1724382786110975115&hl=en)
 
 - `UCSN` [Li et al., IEEE Sensors Journal 2023] **Unsupervised continual source-free network for fault diagnosis of machines under multiple diagnostic domains** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10075359/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13992913209973746928&hl=en)
 
-- `PPDA` [Wang et al., IEEE Sensors Journal 2023] **Privacy-preserving domain adaptation for intracranial EEG classification via information maximization and gaussian mixture model** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10268883) [[G-Scholar--]]()
+- `PPDA` [Wang et al., IEEE Sensors Journal 2023] **Privacy-preserving domain adaptation for intracranial EEG classification via information maximization and gaussian mixture model** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10268883) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8201062960212700233&hl=en)
 
 - `HSSC-EMM` [Zhang et al., Mechanical Systems and Signal Processing 2023] **Universal source-free domain adaptation method for cross-domain fault diagnosis of machines** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0888327023000663) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9778377080450704864&hl=en)
 
-- `...` [Li et al., Journal of Manufacturing Systems 2023] **Federated transfer learning in fault diagnosis under data privacy with target self-adaptation** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0278612523000808) [[G-Scholar--]]()
+- `...` [Li et al., Journal of Manufacturing Systems 2023] **Federated transfer learning in fault diagnosis under data privacy with target self-adaptation** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0278612523000808) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10402589798438834852&hl=en)
 
-- `TAPDA` [Yuan and Siyal, Biomedical Signal Processing and Control 2023] **Target-oriented augmentation privacy-protection domain adaptation for imbalanced ECG beat classification** [[PDF]](https://www.sciencedirect.com/science/article/pii/S1746809423007413) [[G-Scholar--]]()
+- `TAPDA` [Yuan and Siyal, Biomedical Signal Processing and Control 2023] **Target-oriented augmentation privacy-protection domain adaptation for imbalanced ECG beat classification** [[PDF]](https://www.sciencedirect.com/science/article/pii/S1746809423007413) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2697741390977458349&hl=en)
 
 - `...` [Zhao et al., Measurement Science and Technology 2023] **Single-source UDA for privacy-preserving intelligent fault diagnosis based on domain augmentation** [[PDF]](https://iopscience.iop.org/article/10.1088/1361-6501/acf3ff/meta) [[G-Scholar--]]()
 
@@ -1070,4 +1072,6 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `...` [Huang et al., Arxiv 2023] **Prompt ensemble self-training for open-vocabulary domain adaptation** [[PDF]](https://arxiv.org/abs/2306.16658) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2994211628111857111&hl=en)
 
-- `PseudoCal` [Hu et al., Arxiv 2023] **PseudoCal: A source-free approach to unsupervised uncertainty calibration in domain adaptation** [[PDF]](https://arxiv.org/abs/2307.07489) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7757812403763949632&hl=en)https://ieeexplore.ieee.org/document/10135388
+- `PseudoCal` [Hu et al., Arxiv 2023] **PseudoCal: A source-free approach to unsupervised uncertainty calibration in domain adaptation** [[PDF]](https://arxiv.org/abs/2307.07489) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7757812403763949632&hl=en)
+
+- `TASFAR` [He et al., Arxiv 2023] **Target-agnostic source-free domain adaptation for regression tasks** [[PDF]](https://arxiv.org/abs/2312.00540) [[G-Scholar--]]()
