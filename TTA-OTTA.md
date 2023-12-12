@@ -280,7 +280,7 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `...` [Kuznietsov et al., Proc. WACV Workshops 2022] **Towards unsupervised online domain adaptation for semantic segmentation** [[PDF]](https://openaccess.thecvf.com/content/WACV2022W/DNOW/html/Kuznietsov_Towards_Unsupervised_Online_Domain_Adaptation_for_Semantic_Segmentation_WACVW_2022_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6053803293179476272&hl=en)
 
-- `MM-TTA` [Shin et al., Proc. CVPR 2022] **MM-TTA: Multi-Modal test-time adaptation for 3D semantic segmentation** [[PDF]](https://openaccess.thecvf.com/content/CVPR2022/html/Shin_MM-TTA_Multi-Modal_Test-Time_Adaptation_for_3D_Semantic_Segmentation_CVPR_2022_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9888905009796840437&hl=en) [[CODE--]](https://www.nec-labs.com/~mas/MM-TTA)
+- `MM-TTA` [Shin et al., Proc. CVPR 2022] **MM-TTA: Multi-modal test-time adaptation for 3D semantic segmentation** [[PDF]](https://openaccess.thecvf.com/content/CVPR2022/html/Shin_MM-TTA_Multi-Modal_Test-Time_Adaptation_for_3D_Semantic_Segmentation_CVPR_2022_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9888905009796840437&hl=en) [[CODE--]](https://www.nec-labs.com/~mas/MM-TTA)
 
 - `CD-TTA` [Song et al., Arxiv 2022] **CD-TTA: Compound domain test-time adaptation for semantic segmentation** [[PDF]](https://arxiv.org/abs/2212.08356) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16005649886301679271&hl=en)
 
@@ -294,9 +294,9 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `...` [Zhao et al., Proc. ICIG 2023] **Revisiting TENT for test-time adaption semantic segmentation and classification head adjustment** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-46311-2_6) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10413314604158588291&hl=en)
 
-- `...` [Song et al., IEEE Robotics and Automation Letters 2023] **Test-time adaptation in the dynamic world with compound domain knowledge management** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10227541) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18164231543712426474&hl=en)
+- `Night-TTA` [Liu et al., IEEE TAI 2023] **Test-time adaptation for nighttime color-thermal semantic segmentation** [[PDF]](https://arxiv.org/abs/2307.04470) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12563067344427427591&hl=en)
 
-- `Night-TTA` [Liu et al., Arxiv 2023] **Test-time adaptation for nighttime color-thermal semantic segmentation** [[PDF]](https://arxiv.org/abs/2307.04470) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12563067344427427591&hl=en)
+- `...` [Song et al., IEEE Robotics and Automation Letters 2023] **Test-time adaptation in the dynamic world with compound domain knowledge management** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10227541) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18164231543712426474&hl=en)
 
 - `MCDA` [Ye et al., Arxiv 2023] **Multi task consistency guided source-free test-time domain adaptation medical image segmentation** [[PDF]](https://arxiv.org/abs/2310.11766) [[G-Scholar--]]()
 
@@ -306,6 +306,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `OIL` [Ye et al., Proc. EMNLP Findings 2022] **Robust question answering against distribution shifts with test-time adaptation: An empirical study** [[PDF]](https://arxiv.org/abs/2302.04618) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14000848114209529359&hl=en) [[CODE]](https://github.com/oceanypt/coldqa-tta)
 
 - `CaMeLS` [Hu et al., Proc. EMNLP 2023] **Meta-learning online adaptation of language models** [[PDF]](https://arxiv.org/abs/2305.15076) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12154719702297458365&hl=en)
+
+- `Anti-CF` [Su et al., Proc. EMNLP 2023] **Beware of model collapse! Fast and stable test-time adaptation for robust question answering** [[PDF]](https://aclanthology.org/2023.emnlp-main.803/) [[G-Scholar--]]() [[CODE]](https://github.com/yisunlp/Anti-CF)
 
 - `MEMO-CL` [Singh and Ortega, Proc. AAAI Workshops 2023] **Addressing distribution shift at test time in pre-trained language models** [[PDF]](https://arxiv.org/abs/2212.02384) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14992365786610118665&hl=en)
 

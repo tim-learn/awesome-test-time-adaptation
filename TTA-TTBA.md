@@ -86,6 +86,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `TEA` [Yuan et al., Arxiv 2023] **TEA: Test-time energy adaptation** [[PDF]](https://arxiv.org/abs/2311.14402) [[G-Scholar--]]()
 
+- `GDDA` [Song and Lai, Arxiv 2023] **Target to source: Guidance-based diffusion model for test-time adaptation** [[PDF]](https://arxiv.org/abs/2312.05274) [[G-Scholar--]]()
+
 - `DRM` [Zhang et al., Misc 2023] **Domain-specific risk minimization for out-of-distribution generalization** [[PDF]](https://openreview.net/forum?id=vCVTZYFcmCm) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15694323213451390034&hl=en)
 
 ### Segmentation
@@ -138,6 +140,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 - `AdaAtlas` [Guo et al., Arxiv 2023] **Pay attention to the atlas: Atlas-guided test-time adaptation method for robust 3D medical image segmentation** [[PDF]](https://arxiv.org/abs/2307.00676) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3681859989801585957&hl=en)
 
 - `...` [Janouskova et al., Arxiv 2023] **Single image test-time adaptation for segmentation** [[PDF]](https://arxiv.org/abs/2309.14052) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14549212563557895797&hl=en) [[CODE--]](https://github.com/klarajanouskova/SITTA-Segmentation)
+
+- `DG-TTA` [Weihsbach et al., Arxiv 2023] **DG-TTA: Out-of-domain medical image segmentation through domain generalization and test-time adaptation** [[PDF]](https://arxiv.org/abs/2312.06275) [[G-Scholar--]]() [[CODE--]](https://github.com/multimodallearning/DG-TTA)
 
 - `TTA-SEG` [Janouskova., Master Thesis 2023] **Test-time adaptation for segmentation** [[PDF]]() [[G-Scholar--]]() [[CODE]](https://github.com/klarajanouskova/TTA-SEG)
 
