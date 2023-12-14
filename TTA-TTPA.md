@@ -51,3 +51,6 @@ A curated list of awesome test-time prior adaptation resources. Your contributio
 - `FedCal` [Xu and Huang, Proc. CIKM 2023] **A joint training-calibration framework for test-time personalization with label shift in federated learning** [[PDF]](https://dl.acm.org/doi/abs/10.1145/3583780.3615173) [[G-Scholar--]]()
 
 - `HANOL` [Qian et al., Proc. ICDM 2023] **Handling new class in online label shift** [[PDF]](https://www.lamda.nju.edu.cn/qianyy/paper/ICDM23_NOLS.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17197916004384917829&hl=en)
+
+- `CPMKM` [Wen et al., Arxiv 2023] **Class probability matching using kernel methods for
+label shift adaptation** [[PDF]](https://arxiv.org/abs/2312.07282) [[G-Scholar--]]()

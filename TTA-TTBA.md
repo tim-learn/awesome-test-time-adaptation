@@ -254,6 +254,8 @@ for robust visual perception** [[PDF]](https://openreview.net/forum?id=qgmrC8jhC
 
 - `...` [Sang et al., Medical Physics 2023] **Target‐oriented deep learning‐based image registration with individualized test‐time adaptation** [[PDF]](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.16477) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1343161448571720939&hl=en)
 
+- `...` [Tirer et al., Arxiv 2023] **Deep internal learning: Deep learning from a single input** [[PDF]](https://arxiv.org/abs/2312.07425) [[G-Scholar--]]()
+
 ### Generative modeling
 - `GIP` [Bau et al., ACM TOG 2019] **Semantic photo manipulation with a generative image prior** [[PDF]](https://arxiv.org/abs/2005.07727) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6750293979132878511&hl=en)
 
@@ -315,6 +317,8 @@ for robust visual perception** [[PDF]](https://openreview.net/forum?id=qgmrC8jhC
 
 - `DFA` [Mirza et al., Proc. ICML 2023] **Diagnosis, feedback, adaptation: A human-in-the-loop framework for test-time policy adaptation** [[PDF]](https://arxiv.org/abs/2307.06333) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4093024291231214911&hl=en)
 
+- `DROP` [Liu et al., Proc. NeurIPS 2023] **Design from policies: Conservative test-time adaptation for offline policy optimization** [[PDF]](https://arxiv.org/abs/2306.14479) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15239852686055745245&hl=en)
+
 - `PAFF` [Ge et al., Proc. CVPR 2023] **Policy adaptation from foundation model feedback** [[PDF]](https://openaccess.thecvf.com/content/WACV2023/html/Min_Meta-Learning_for_Adaptation_of_Deep_Optical_Flow_Networks_WACV_2023_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4093024291231214911&hl=en)
 
 - `MATE` [Mirza et al., Proc. ICCV 2023] **MATE: Masked autoencoders are online 3D test-time learners** [[PDF]](https://arxiv.org/abs/2211.11432) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17319713522651218187&hl=en) [[CODE]](https://github.com/jmiemirza/MATE)
@@ -330,8 +334,6 @@ for robust visual perception** [[PDF]](https://openreview.net/forum?id=qgmrC8jhC
 - `ARSP` [Liu and Fang, Arxiv 2023] **Learning to recover spectral reflectance from RGB images** [[PDF]](https://arxiv.org/abs/2303.07850) [[G-Scholar]](https://scholar.google.com/scholar?cluster=146325397292652498&hl=en)
 
 - `RLCF` [Zhao et al., Arxiv 2023] **Test-time adaptation with CLIP reward for zero-shot generalization in vision-language models** [[PDF]](https://arxiv.org/abs/2305.18010) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13354273242354297247&hl=en)
-
-- `DROP` [Liu et al., Arxiv 2023] **Design from policies: Conservative test-time adaptation for offline policy optimization** [[PDF]](https://arxiv.org/abs/2306.14479) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15239852686055745245&hl=en)
 
 - `MoVie` [Yang et al., Arxiv 2023] **MoVie: Visual model-based policy adaptation for view generalization** [[PDF]](https://arxiv.org/abs/2307.00972) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8702194818732254776&hl=en) [[CODE]](https://github.com/yangsizhe/MoVie)
 
