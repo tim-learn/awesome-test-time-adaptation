@@ -267,7 +267,9 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `VPL` [Ambekar et al., Misc 2023] **Variational pseudo labels for meta test-time adaptation** [[PDF]](https://openreview.net/forum?id=iOag71mvHI) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2267598876397998774&hl=en)
 
 #### 2024
-- `TePA` [Cong et al., Proc. S&P 2024] **Test-time poisoning attacks against test-time adaptation models** [[PDF]](https://arxiv.org/abs/2308.08505) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13810860861574844121&hl=en) [[CODE--]](https://github.com/tianshuocong/TePA)
+- `TePA` [Cong et al., Proc. S&P 2024] **Test-time poisoning attacks against test-time adaptation models** [[PDF]](https://arxiv.org/abs/2308.08505) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13810860861574844121&hl=en) [[CODE]](https://github.com/tianshuocong/TePA)
+
+- `...` [Su et al., Proc. AAAI 2024] **Singular value penalization and semantic data augmentation for fully test-time adaptation** [[PDF]](https://arxiv.org/abs/2312.08378) [[G-Scholar--]]()
 
 - `REALM` [Seto et al., Proc. WACV 2024] **REALM: Robust entropy adaptive loss minimization for improved single-sample test-time adaptation** [[PDF]](https://arxiv.org/abs/2309.03964) [[G-Scholar--]]()
 
@@ -318,6 +320,10 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 ### Object Detection
 - `STFAR` [Chen et al., Arxiv 2023] **STFAR: Improving object detection robustness at test-time by self-training with feature alignment regularization** [[PDF]](https://arxiv.org/abs/2303.17937) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16697474129572235092&hl=en)
+
+- `...` [Yoo et al., Arxiv 2023] **What, how, and when should object detectors update in continually changing test domains?** [[PDF]](https://arxiv.org/abs/2312.08875) [[G-Scholar--]]()
+
+- `MoPL` [Gong et al., Misc 2023] **Test-time adaptation in 3D object detection using momentum-based pseudo-labeling** [[PDF]](https://github.com/afterglow-nju/MoPL/blob/main/temporal_online_adaptation_cvpr_2024.pdf) [[G-Scholar--]]()
 
 ### Defense
 - `Dent` [Wang et al., Arxiv 2021] **Fighting gradients with gradients: Dynamic defenses against adversarial attacks** [[PDF]](https://arxiv.org/abs/2105.08714) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17688777795747313333&hl=en) [[CODE]](https://github.com/DequanWang/dent)
@@ -378,3 +384,5 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `Co-UCB` [Ye et al., Proc. ACL 2023] **Multi-source test-time adaptation as dueling bandits for extractive question answering** [[PDF]](https://arxiv.org/abs/2306.06779) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4703214228724350379&hl=en)
 
 - `DSS` [Chakrabarty et al., Proc. ICLR Workshops 2023] **Domain shift signal for low resource continuous test-time adaptation** [[PDF]](https://pml4dc.github.io/iclr2023/pdf/PML4DC_ICLR2023_46.pdf) [[G-Scholar--]]()
+
+- `DrFRODA` [Islam et al., Arxiv 2023] **Active learning guided federated online adaptation: Applications in medical image segmentation** [[PDF]](https://arxiv.org/abs/2312.05407) [[G-Scholar--]]()

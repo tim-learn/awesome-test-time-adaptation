@@ -145,6 +145,9 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `TTA-SEG` [Janouskova., Master Thesis 2023] **Test-time adaptation for segmentation** [[PDF]]() [[G-Scholar--]]() [[CODE]](https://github.com/klarajanouskova/TTA-SEG)
 
+#### 2024
+- `GenSAM` [Hu et al., Proc. AAAI 2024] **Relax image-specific prompt requirement in SAM: A single generic prompt for segmenting camouflaged objects** [[PDF]](https://arxiv.org/abs/2312.07374) [[G-Scholar--]]() [[CODE]](https://github.com/jyLin8100/GenSAM)
+
 ### Detection
 - `OSHOT` [D'Innocente et al., Proc. ECCV 2020] **One-shot unsupervised cross-domain detection** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-030-58517-4_43) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7600955351500947376&hl=en) [[CODE]](https://github.com/VeloDC/oshot_detection)
 
@@ -378,8 +381,6 @@ federated learning** [[PDF]](https://arxiv.org/abs/2310.18816) [[G-Scholar--]]()
 
 - `...` [Rezaei and Norouzzadeh, Arxiv 2023] **Dynamic batch norm statistics update for natural robustness** [[PDF]](https://arxiv.org/abs/2310.20649) [[G-Scholar--]]()
 
-- `TTACIL` [Marouf et al., Arxiv 2023] **Rethinking class-incremental learning in the era of large pre-trained models via test-time adaptation** [[PDF]](https://arxiv.org/abs/2310.11482) [[G-Scholar--]]() [[CODE]](https://github.com/IemProg/TTACIL)
-
 - `...` [Haslum et al, Proc. WACV 2024] **Bridging generalization gaps in high content imaging through online self-supervised domain adaptation** [[PDF]](https://arxiv.org/abs/2311.12623) [[G-Scholar--]]()
 
 ### Video processing (multiple frames)
@@ -443,6 +444,8 @@ for 3D human mesh reconstruction** [[PDF]](https://arxiv.org/abs/2308.06554) [[G
 - `SGEM` [Kim et al., Proc. Interspeech 2023] **SGEM: Test-time adaptation for automatic speech recognition via sequential-level generalized entropy minimization** [[PDF]](https://arxiv.org/abs/2306.01981) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13829873231059396752&hl=en) [[CODE]](https://github.com/drumpt/SGEM)
 
 - `TTS` [Bissoto et al., Proc. MICCAI Workshops 2023] **Test-time selection for robust skin lesion analysis** [[PDF]](https://arxiv.org/abs/2308.05595) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3545620692718587238&hl=en)
+
+- `MixTBN` [Liu and Li, Proc. ICCASIT 2023] **MixTBN: A fully test-time adaptation method for visual reinforcement learning on robotic manipulation** [[PDF]](https://ieeexplore.ieee.org/document/10351689) [[G-Scholar--]]()
 
 - `...` [Mehra et al., Arxiv 2023] **On the fly neural style smoothing for risk-averse domain generalization** [[PDF]](https://arxiv.org/abs/2307.08551) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13314865066099160761&hl=en)
 
