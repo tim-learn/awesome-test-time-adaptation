@@ -271,6 +271,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `...` [Su et al., Proc. AAAI 2024] **Singular value penalization and semantic data augmentation for fully test-time adaptation** [[PDF]](https://arxiv.org/abs/2312.08378) [[G-Scholar--]]()
 
+- `TEMA` [Su et al., Proc. AAAI 2024] **Unraveling batch normalization for realistic test-time adaptation** [[PDF]](https://arxiv.org/abs/2312.09486) [[G-Scholar--]]() [[CODE]](https://github.com/kiwi12138/RealisticTTA)
+
 - `REALM` [Seto et al., Proc. WACV 2024] **REALM: Robust entropy adaptive loss minimization for improved single-sample test-time adaptation** [[PDF]](https://arxiv.org/abs/2309.03964) [[G-Scholar--]]()
 
 - `...` [Niloy et al., Proc. WACV 2024] **Effective restoration of source knowledge in continual test time adaptation** [[PDF]](https://arxiv.org/abs/2311.04991) [[G-Scholar--]]()
