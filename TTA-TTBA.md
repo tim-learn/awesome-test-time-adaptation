@@ -381,7 +381,9 @@ federated learning** [[PDF]](https://arxiv.org/abs/2310.18816) [[G-Scholar--]]()
 
 - `...` [Rezaei and Norouzzadeh, Arxiv 2023] **Dynamic batch norm statistics update for natural robustness** [[PDF]](https://arxiv.org/abs/2310.20649) [[G-Scholar--]]()
 
-- `MABN` [Wu et al., Proc. AAAI 2024] **Test-time domain adaptation by learning domain-aware batch normalization** [[PDF--]]() [[G-Scholar--]]() [[CODE]](https://github.com/ynanwu/MABN)
+- `...` [Müller et al., Arxiv 2023] **Towards context-aware domain generalization: Representing environments with permutation-invariant networks** [[PDF]](https://arxiv.org/abs/2312.10107) [[G-Scholar--]]()
+
+- `MABN` [Wu et al., Proc. AAAI 2024] **Test-time domain adaptation by learning domain-aware batch normalization** [[PDF]](https://arxiv.org/abs/2312.10165) [[G-Scholar--]]() [[CODE]](https://github.com/ynanwu/MABN)
 
 - `...` [Haslum et al, Proc. WACV 2024] **Bridging generalization gaps in high content imaging through online self-supervised domain adaptation** [[PDF]](https://arxiv.org/abs/2311.12623) [[G-Scholar--]]()
 

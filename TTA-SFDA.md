@@ -757,6 +757,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `...` [Wang et al., Health Information Science and Systems 2023] **M-MSSEU: Source-free domain adaptation for multi-modal stroke lesion segmentation using shadowed sets and evidential uncertainty** [[PDF]](https://link.springer.com/article/10.1007/s13755-023-00247-6) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3841179597098584563&hl=en)
 
+- `...` [Li et al., IEEE Open Journal of Signal Processing 2023] **Source-data-free cross-domain knowledge transfer for semantic segmentation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10356748) [[G-Scholar--]]()
+
 - `SFHarmony` [Dinsdale et al., Arxiv 2023] **SFHarmony: Source free domain adaptation for distributed neuroimaging analysis** [[PDF]](https://arxiv.org/abs/2303.15965) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10161228220420913117&hl=en) [[CODE]](https://github.com/nkdinsdale/SFHarmony)
 
 - `SUP` [Xu et al., Arxiv 2023] **Unsupervised cross-domain pulmonary nodule detection without source data** [[PDF]](https://arxiv.org/abs/2304.01085) [[G-Scholar]](https://scholar.google.com/scholar?cluster=682584010073333489&hl=en)
@@ -921,7 +923,10 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 - `UnReGA` [Cai et al., Proc. CVPR 2023] **Source-free adaptive gaze estimation by uncertainty reduction** [[PDF]](https://openaccess.thecvf.com/content/CVPR2023/papers/Cai_Source-Free_Adaptive_Gaze_Estimation_by_Uncertainty_Reduction_CVPR_2023_paper.pdf) [[G-Scholar--]]() [[CODE--]](https://github.com/caixin1998/UnReGA)
 
 ### Hand-Object Interaction
-- `POV` [Xu et al., Proc. ACMMM 2023] **POV: Prompt-oriented view-agnostic learning for egocentric hand-object interaction in the multi-view World** [[PDF]](https://dl.acm.org/doi/abs/10.1145/3581783.3612484) [[G-Scholar--]]()
+- `POV` [Xu et al., Proc. ACMMM 2023] **POV: Prompt-oriented view-agnostic learning for egocentric hand-object interaction in the multi-view world** [[PDF]](https://dl.acm.org/doi/abs/10.1145/3581783.3612484) [[G-Scholar--]]()
+
+### Misc
+- `...` [Rufin et al., Arxiv 2023] **Taking it further: Leveraging pseudo labels for field delineation across label-scarce smallholder regions** [[PDF]](https://arxiv.org/abs/2312.08384) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8445827874885835800&hl=en)
 
 ## Beyond CV Applications
 ### 2020
@@ -1095,5 +1100,4 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 - `PseudoCal` [Hu et al., Arxiv 2023] **PseudoCal: A source-free approach to unsupervised uncertainty calibration in domain adaptation** [[PDF]](https://arxiv.org/abs/2307.07489) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7757812403763949632&hl=en)
 
 - `TASFAR` [He et al., Porc. ICDE 2024] **Target-agnostic source-free domain adaptation for regression tasks** [[PDF]](https://arxiv.org/abs/2312.00540) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3952939575279367642&hl=en) [[CODE]](https://github.com/Siriusize/TASFAR_DA)
-
 
