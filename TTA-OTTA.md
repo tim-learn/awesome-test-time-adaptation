@@ -378,6 +378,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `...` [Yu et al., Proc. ESEC/FSE 2023] **Log parsing with generalization ability under new log types** [[PDF]](https://dl.acm.org/doi/abs/10.1145/3611643.3616355) [[G-Scholar--]]()
 
+- `...` [Kim et al., Proc. AAAI 2024] **When model meets new normals: Test-time adaptation for unsupervised time-series anomaly detection** [[PDF]](https://arxiv.org/abs/2312.11976) [[G-Scholar--]]() [[CODE]](https://github.com/carrtesy/M2N2)
+
 - `OFTTA` [Wang et al., Proc. IMWUT/ UbiComp 2024] **Optimization-free test-time adaptation for cross-person activity recognition** [[PDF]](https://arxiv.org/abs/2310.18562) [[G-Scholar--]]() [[CODE]](https://github.com/Claydon-Wang/OFTTA)
 
 ## Related

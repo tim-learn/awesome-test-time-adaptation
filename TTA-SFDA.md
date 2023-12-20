@@ -935,6 +935,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 ### 2021
 - `CdKD` [Zhao et al., Proc. ACL 2021] **Matching distributions between model and data: Cross-domain knowledge distillation for unsupervised domain adaptation** [[PDF]](https://aclanthology.org/2021.acl-long.421/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16829742576573810731&hl=en)
 
+- `PPT` [Kurniawan et al., Proc. EACL 2021] **PPT: Parsimonious parser transfer for unsupervised cross-lingual adaptation** [[PDF]](https://aclanthology.org/2021.eacl-main.254/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7324868212400960642&hl=en) [[CODE]](https://github.com/kmkurn/ppt-eacl2021)
+
 - `ActiveST` [Su et al., Proc. ACL SemEval 2021] **The University of Arizona at SemEval-2021 task 10: Applying self-training, active learning and data augmentation to source-free domain adaptation** [[PDF]](https://aclanthology.org/2021.semeval-1.56/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15617873900739629649&hl=en)
 
 - `...` [Laparra et al., Proc. ACL SemEval 2021] **SemEval-2021 task 10: Source-free domain adaptation for semantic processing** [[PDF]](https://aclanthology.org/2021.semeval-1.42/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3826840294377233499&hl=en)
@@ -947,6 +949,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 ### 2022
 - `...` [Su et al., Proc. ACL 2022] **A comparison of strategies for source-free domain adaptation** [[PDF]](https://aclanthology.org/2022.acl-long.572/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4321860393076444396&hl=en) [[CODE]](https://github.com/xinsu626/SourceFreeDomainAdaptation)
+
+- `...` [Kurniawan et al., Proc. NAACL 2022] **Unsupervised cross-lingual transfer of structured predictors without source data** [[PDF]](https://aclanthology.org/2022.naacl-main.149/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5635921638596604365&hl=en) [[CODE]](https://github.com/kmkurn/uxtspwsd)
 
 - `IDANI` [Antverg et al., Proc. ACL Workshops 2022] **IDANI: Inference-time domain adaptation via neuron-level interventions** [[PDF]](https://aclanthology.org/2022.deeplo-1.3/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10046849600588003301&hl=en) [[CODE]](https://github.com/technion-cs-nlp/idani)
 
