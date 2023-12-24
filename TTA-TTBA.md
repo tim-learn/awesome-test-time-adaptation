@@ -362,18 +362,21 @@ for robust visual perception** [[PDF]](https://openreview.net/forum?id=qgmrC8jhC
 
 - `L2GP` [Duboudin et al., Arxiv 2022] **Learning less generalizable patterns with an asymmetrically trained double classifier for better test-time adaptation** [[PDF]](https://arxiv.org/abs/2210.09834) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1844003267836965379&hl=en)
 
-- `TTTFlow` [Osowiechi et al., Proc. WACV 2023] **TTTFlow: Unsupervised test-time training with normalizing flow** [[PDF]](https://openaccess.thecvf.com/content/WACV2023/html/Osowiechi_TTTFlow_Unsupervised_Test-Time_Training_With_Normalizing_Flow_WACV_2023_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15158703704163101963&hl=en) [[CODE]](https://github.com/GustavoVargasHakim/TTTFlow)
-
+#### 2023
 - `ShiftMatch` [Wang and Aitchison, Proc. ICLR 2023] **Robustness to corruption in pre-trained Bayesian neural networks** [[PDF]](https://openreview.net/forum?id=kUI41mY8bHl) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12854599053728566431&hl=en)
 
 - `DN` [Zhou et al., Proc. NeuIPS 2023] **Test-time distribution normalization for contrastively learned vision-language models** [[PDF]](https://arxiv.org/abs/2302.11084) [[G-Scholar]](https://scholar.google.com/scholar?cluster=687525890133562566&hl=en) [[CODE]](https://github.com/fengyuli-dev/distribution-normalization)
 
 - `ATP` [Bao et al., Proc. NeuIPS 2023] **Adaptive test-time personalization for
-federated learning** [[PDF]](https://arxiv.org/abs/2310.18816) [[G-Scholar--]]() [[CODE--]](https://github.com/baowenxuan/ATP)
+federated learning** [[PDF]](https://arxiv.org/abs/2310.18816) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2404637854022569306&hl=en) [[CODE--]](https://github.com/baowenxuan/ATP)
 
 - `DomainAdaptor` [Zhang et al., Proc. ICCV 2023] **DomainAdaptor: A novel approach to test-time adaptation** [[PDF]](https://arxiv.org/abs/2308.10297) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9175808446688030557&hl=en) [[CODE]](https://github.com/koncle/DomainAdaptor)
 
 - `ClusT3` [Hakim et al., Proc. ICCV 2023] **ClusT3: Information invariant test-time training** [[PDF]](https://openaccess.thecvf.com/content/ICCV2023/html/Hakim_ClusT3_Information_Invariant_Test-Time_Training_ICCV_2023_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3413390947246646353&hl=en) [[CODE--]](https://github.com/dosowiechi/ClusT3)
+
+- `TTTFlow` [Osowiechi et al., Proc. WACV 2023] **TTTFlow: Unsupervised test-time training with normalizing flow** [[PDF]](https://openaccess.thecvf.com/content/WACV2023/html/Osowiechi_TTTFlow_Unsupervised_Test-Time_Training_With_Normalizing_Flow_WACV_2023_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15158703704163101963&hl=en) [[CODE]](https://github.com/GustavoVargasHakim/TTTFlow)
+
+- `TTN` [Vianna et al., Proc. NeuIPS Workshops 2023] **Channel selection for test-time adaptation under distribution shift** [[PDF]](https://openreview.net/forum?id=BTOBu7y2ZD) [[G-Scholar--]]()
 
 - `DILAM` [Leitner et al., Proc. IEEE Intelligent Vehciles Symposium 2023] **Sit back and relax: Learning to drive incrementally in all weather conditions** [[PDF]](https://arxiv.org/abs/2305.18953) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8435946811898296972&hl=en) [[CODE]](https://github.com/jmiemirza/DILAM)
 
@@ -383,11 +386,14 @@ federated learning** [[PDF]](https://arxiv.org/abs/2310.18816) [[G-Scholar--]]()
 
 - `...` [Rezaei and Norouzzadeh, Arxiv 2023] **Dynamic batch norm statistics update for natural robustness** [[PDF]](https://arxiv.org/abs/2310.20649) [[G-Scholar--]]()
 
-- `...` [Müller et al., Arxiv 2023] **Towards context-aware domain generalization: Representing environments with permutation-invariant networks** [[PDF]](https://arxiv.org/abs/2312.10107) [[G-Scholar--]]()
+- `...` [Müller et al., Arxiv 2023] **Towards context-aware domain generalization: Representing environments with permutation-invariant networks** [[PDF]](https://arxiv.org/abs/2312.10107) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11819764336583103061&hl=en)
 
+#### 2024
 - `MABN` [Wu et al., Proc. AAAI 2024] **Test-time domain adaptation by learning domain-aware batch normalization** [[PDF]](https://arxiv.org/abs/2312.10165) [[G-Scholar--]]() [[CODE]](https://github.com/ynanwu/MABN)
 
-- `...` [Haslum et al, Proc. WACV 2024] **Bridging generalization gaps in high content imaging through online self-supervised domain adaptation** [[PDF]](https://arxiv.org/abs/2311.12623) [[G-Scholar--]]()
+- `...` [Haslum et al, Proc. WACV 2024] **Bridging generalization gaps in high content imaging through online self-supervised domain adaptation** [[PDF]](https://arxiv.org/abs/2311.12623) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5616759635685757071&hl=en)
+
+- `...` [Amosy et al., Proc. WACV 2024] **Late to the party? On-demand unlabeled personalized federated learning** [[PDF]](https://openaccess.thecvf.com/content/WACV2024/html/Amosy_Late_to_the_Party_On-Demand_Unlabeled_Personalized_Federated_Learning_WACV_2024_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6144447574631158841&hl=en)
 
 ### Video processing (multiple frames)
 - `PGO` [Brahmbhatt et al., Proc. CVPR 2018] **Geometry-aware learning of maps for camera localization** [[PDF]](http://openaccess.thecvf.com/content_cvpr_2018/html/Brahmbhatt_Geometry-Aware_Learning_of_CVPR_2018_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15361942550307476955&hl=en) [[CODE]](https://github.com/NVlabs/geomapnet)
@@ -457,7 +463,7 @@ for 3D human mesh reconstruction** [[PDF]](https://arxiv.org/abs/2308.06554) [[G
 
 - `...` [Tula et al., Arxiv 2023] **Is it an i or an l: Test-time adaptation of text line recognition models** [[PDF]](https://arxiv.org/abs/2308.15037) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12686690276500800090&hl=en)
 
-- `...` [Wen et al., Arxiv 2023] **From denoising training to test-time adaptation: Enhancing domain generalization for medical image segmentation** [[PDF]](https://arxiv.org/abs/2310.20271) [[G-Scholar--]]()
-
 ### 2024
 - `PAOA+` [Li and Gong, Proc. WACV 2024] **Mitigate domain shift by primary-auxiliary objectives association for generalizing person ReID** [[PDF]](https://arxiv.org/abs/2310.15913) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4886363486564511690&hl=en)
+
+- `...` [Wen et al., Proc. WACV 2024] **From denoising training to test-time adaptation: Enhancing domain generalization for medical image segmentation** [[PDF]](https://arxiv.org/abs/2310.20271) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17213070336290495734&hl=en)
