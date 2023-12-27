@@ -246,8 +246,6 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `AR-TTA` [Sójka et al., Arxiv 2023] **AR-TTA: A simple method for real-world continual test-time adaptation** [[PDF]](https://arxiv.org/abs/2309.10109) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6007386387969934791&hl=en)
 
-- `TRIBE` [Su et al., Arxiv 2023] **Towards real-world test-time adaptation: Tri-Net self-training with balanced normalization** [[PDF]](https://arxiv.org/abs/2309.14949) [[G-Scholar--]]() [[CODE]](https://github.com/Gorilla-Lab-SCUT/TRIBE)
-
 - `GRoTTA` [Li et al., Arxiv 2023] **Generalized robust test-time adaptation in continuous dynamic scenarios** [[PDF]](https://arxiv.org/abs/2310.04714) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6746157512177012877&hl=en)
 
 - `...` [Kim et al., Arxiv 2023] **Reliable test-time adaptation via agreement-on-the-line** [[PDF]](https://arxiv.org/abs/2310.04941) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7585481133338362359&hl=en)
@@ -268,6 +266,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 #### 2024
 - `TePA` [Cong et al., Proc. S&P 2024] **Test-time poisoning attacks against test-time adaptation models** [[PDF]](https://arxiv.org/abs/2308.08505) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13810860861574844121&hl=en) [[CODE]](https://github.com/tianshuocong/TePA)
+
+- `TRIBE` [Su et al., Proc. AAAI 2024] **Towards real-world test-time adaptation: Tri-Net self-training with balanced normalization** [[PDF]](https://arxiv.org/abs/2309.14949) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16344634599473523404&hl=en) [[CODE]](https://github.com/Gorilla-Lab-SCUT/TRIBE)
 
 - `...` [Su et al., Proc. AAAI 2024] **Singular value penalization and semantic data augmentation for fully test-time adaptation** [[PDF]](https://arxiv.org/abs/2312.08378) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18200094445126980140&hl=en)
 

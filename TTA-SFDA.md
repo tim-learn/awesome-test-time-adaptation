@@ -340,7 +340,7 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `TransMDA` [Li and Wu, Proc. IJCNN 2023] **Transformer-based multi-source domain adaptation without source data** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10191276) [[G-Scholar--]]()
 
-- `SSG-SFDA` [An et al., Proc. IJCNN 2023] **Semi-supervised generalized source-free domain adaptation (SSG-SFDA)** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10191761) [[G-Scholar--]]()
+- `SSG-SFDA` [An et al., Proc. IJCNN 2023] **Semi-supervised generalized source-free domain adaptation (SSG-SFDA)** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10191761) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3056186499440201376&hl=en)
 
 - `...` [Zhong et al., Proc. ICIP 2023] **Unknown class feature transformation for open set domain adaptation without source data** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10222226) [[G-Scholar--]]()
 
@@ -356,13 +356,17 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `FuzUMSFDA` [Li et al., Proc. FUZZ 2023] **Attention-bridging TS fuzzy rules for universal multi-domain adaptation without source data** [[PDF]](https://ieeexplore.ieee.org/document/10309671) [[G-Scholar--]]()
 
+- `CDT` [Chen et al., Proc. PRCV 2023] **Classifier decoupled training for black-box unsupervised domain adaptation** [[PDF]](https://link.springer.com/chapter/10.1007/978-981-99-8435-0_2) [[G-Scholar--]]()
+
   ---------------------------------
 
 - `NRC++` [Yang et al., IEEE TPAMI 2023] **Trust your good friends: Source-free domain adaptation by reciprocal neighborhood clustering** [[PDF]](https://arxiv.org/abs/2309.00528) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13832483681532519069&hl=en)
 
 - `TPDS` [Tang et al., IJCV 2023] **Source-free domain adaptation via target prediction distribution searching** [[PDF]](https://surrey-uplab.github.io/assets/pdf/TangEtAl_IJCV2023.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6285219470702651684&hl=en) [[CODE]](https://github.com/tntek/TPDS)
 
-- `SDG-MA` [Xu et al., IEEE TGRS 2023] **Universal domain adaptation for remote sensing image scene classification** [[PDF]](https://arxiv.org/abs/2301.11387) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7802316111188678098&hl=en)[[CODE]](https://github.com/zhu-xlab/UniDA)
+- `SQAdapt` [Li et al., IEEE TNNLS 2023] **Source-free active domain adaptation via augmentation-based sample query and progressive model adaptation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10368185) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16239702163896389173&hl=en)
+
+- `SDG-MA` [Xu et al., IEEE TGRS 2023] **Universal domain adaptation for remote sensing image scene classification** [[PDF]](https://arxiv.org/abs/2301.11387) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7802316111188678098&hl=en) [[CODE]](https://github.com/zhu-xlab/UniDA)
 
   ~~[Xu et al., Proc. IGARSS 2022] **Universal domain adaptation without source data for remote sensing image scene classification** [[PDF]](https://ieeexplore.ieee.org/abstract/document/9884889/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15682142231027232982&hl=en)~~
 
@@ -911,7 +915,7 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 - `...` [Raychaudhuri et al., Proc. ICCV 2023] **Prior-guided source-free domain adaptation for human pose estimation** [[PDF]](https://arxiv.org/abs/2308.13954) [[G-Scholar--]]()
 
 ### Tracking
-- `DARTH` [Segu et al., Proc. ICCV 2023] **DARTH: Holistic test-time adaptation for multiple object tracking** [[PDF]](https://openaccess.thecvf.com/content/ICCV2023/html/Segu_DARTH_Holistic_Test-time_Adaptation_for_Multiple_Object_Tracking_ICCV_2023_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9104639642522487809&hl=en)
+- `DARTH` [Segu et al., Proc. ICCV 2023] **DARTH: Holistic test-time adaptation for multiple object tracking** [[PDF]](https://openaccess.thecvf.com/content/ICCV2023/html/Segu_DARTH_Holistic_Test-time_Adaptation_for_Multiple_Object_Tracking_ICCV_2023_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9104639642522487809&hl=en) [[CODE]](https://github.com/mattiasegu/darth)
 
 ### Anomaly detection
 - `CaSA` [Bozorgtabar et al., Proc. BMVC 2022] **Anomaly detection and localization using attention-guided synthetic anomaly and test-time adaptation** [[PDF]](https://bmvc2022.mpi-inf.mpg.de/0472.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=209397539357448856&hl=en)
