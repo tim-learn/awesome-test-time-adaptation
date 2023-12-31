@@ -166,6 +166,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `Anti-Adv` [Alfarra et al., Proc. AAAI 2022] **Combating adversaries with anti-adversaries** [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/20545) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15633095022559915646&hl=en) [[CODE]](https://github.com/MotasemAlfarra/Combating-Adversaries-with-Anti-Adversaries)
 
+- `ReScaler` [Gudibande et al., Proc. CVPR Workshops 2022] **Test-time adaptation of residual blocks against poisoning and backdoor attacks** [[PDF]](https://artofrobust.github.io/short_paper/15.pdf) [[G-Scholar--]]()
+
 - `Equ-Defense` [Mao et al., Arxiv 2022] **Robust perception through equivariance** [[PDF]](https://arxiv.org/abs/2212.06079) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6052114939161464594&hl=en)
 
 - `CVP` [Tsai et al., Proc. NeurIPS 2023] **Convolutional visual prompt
@@ -343,6 +345,8 @@ for robust visual perception** [[PDF]](https://openreview.net/forum?id=qgmrC8jhC
 - `MoVie` [Yang et al., Arxiv 2023] **MoVie: Visual model-based policy adaptation for view generalization** [[PDF]](https://arxiv.org/abs/2307.00972) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8702194818732254776&hl=en) [[CODE]](https://github.com/yangsizhe/MoVie)
 
 - `...` [Dumpala et al., Arxiv 2023] **Test-time training for speech** [[PDF]](https://arxiv.org/abs/2309.10930) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1240093156897083970&hl=en)
+
+- `...` [Zheng et al., Proc. PRCV 2023] **Infrared and visible image fusion via test-time training** [[PDF]](https://link.springer.com/chapter/10.1007/978-981-99-8549-4_7) [[G-Scholar--]]()
 
 ## Batch-level
 ### Classification
