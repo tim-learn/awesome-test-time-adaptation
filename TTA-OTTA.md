@@ -291,6 +291,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `LayerwiseTTA` [Park et al., Proc. WACV 2024] **Layer-wise auto-weighting for non-stationary test-time adaptation** [[PDF]](https://arxiv.org/abs/2311.05858) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15940795982645175699&hl=en) [[CODE]](https://github.com/junia3/LayerwiseTTA)
 
+- `DAB` [Döbler et al., Proc. ICASSP 2024] **Diversity-aware buffer for coping with temporally correlated data streams in online test-time adaptation** [[PDF]](https://arxiv.org/abs/2401.00989) [[G-Scholar--]]()
+
 ### Segmentation
 - `RNCR` [Hu et al., Proc. MICCAI 2021] **Fully test-time adaptation for image segmentation** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-030-87199-4_24) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18183176392541200399&hl=en)
 
@@ -338,6 +340,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `...` [Yoo et al., Arxiv 2023] **What, how, and when should object detectors update in continually changing test domains?** [[PDF]](https://arxiv.org/abs/2312.08875) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13715745113239307717&hl=en)
 
 - `MoPL` [Gong et al., Misc 2023] **Test-time adaptation in 3D object detection using momentum-based pseudo-labeling** [[PDF]](https://github.com/afterglow-nju/MoPL/blob/main/temporal_online_adaptation_cvpr_2024.pdf) [[G-Scholar--]]()
+
+- `...` [Jeon et al., Arxiv 2023] **TTA-DAME: Test-time adaptation with domain augmentation and model ensemble for dynamic driving conditions** [[PDF]](https://yonseivnl.github.io/research/papers/iccvw23_paper_ttadame.pdf) [[G-Scholar--]]()
 
 ### Defense
 - `Dent` [Wang et al., Arxiv 2021] **Fighting gradients with gradients: Dynamic defenses against adversarial attacks** [[PDF]](https://arxiv.org/abs/2105.08714) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17688777795747313333&hl=en) [[CODE]](https://github.com/DequanWang/dent)

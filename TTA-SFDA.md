@@ -418,6 +418,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `SIE` [Chen et al., Machine Vision and Applications 2023] **Two-stage structural information enhancement for source-free domain adaptation** [[PDF]](https://link.springer.com/article/10.1007/s00138-023-01472-5) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2739893677246307437&hl=en)
 
+- `Um2B` [Wang et al., Image and Vision Computing 2023] **Universal domain adaptation from multiple black-box sources** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0262885623002706) [[G-Scholar--]]()
+
 - `ALT` [Wu et al., Arxiv 2023] **When source-free domain adaptation meets label propagation** [[PDF]](https://arxiv.org/abs/2301.08413) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16104249125202927341&hl=en)
 
 - `CaC` [Chen et al., Arxiv 2023] **Contrast and clustering: Learning neighborhood pair representation for source-free domain adaptation** [[PDF]](https://arxiv.org/abs/2301.13428) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3921052647478939852&hl=en) [[CODE]](https://github.com/yukilulu/CaC)
@@ -482,6 +484,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 - `CXDA` [Bohdal et al., Proc. WACV 2024] **Feed-forward latent domain adaptation** [[PDF]](https://openaccess.thecvf.com/content/WACV2024/html/Bohdal_Feed-Forward_Latent_Domain_Adaptation_WACV_2024_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15837576530441040681&hl=en)
 
   ~~ [Bohdal et al., Proc. ICML Workshops 2022] **Feed-forward source-free latent domain adaptation via cross-attention** [[PDF]](https://openreview.net/forum?id=EiQB09V5IX) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15837576530441040681&hl=en)~~
+
+- `DCPL` [Diamant et al., Arxiv 2024] **De-confusing pseudo-labels in source-free domain adaptation** [[PDF]](https://arxiv.org/abs/2401.01650) [[G-Scholar--]]()
 
 ## Semantic Segmentation
 ### 2021

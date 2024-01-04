@@ -141,12 +141,12 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `...` [Janouskova et al., Arxiv 2023] **Single image test-time adaptation for segmentation** [[PDF]](https://arxiv.org/abs/2309.14052) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14549212563557895797&hl=en) [[CODE--]](https://github.com/klarajanouskova/SITTA-Segmentation)
 
-- `DG-TTA` [Weihsbach et al., Arxiv 2023] **DG-TTA: Out-of-domain medical image segmentation through domain generalization and test-time adaptation** [[PDF]](https://arxiv.org/abs/2312.06275) [[G-Scholar--]]() [[CODE--]](https://github.com/multimodallearning/DG-TTA)
+- `DG-TTA` [Weihsbach et al., Arxiv 2023] **DG-TTA: Out-of-domain medical image segmentation through domain generalization and test-time adaptation** [[PDF]](https://arxiv.org/abs/2312.06275) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16564960426103156748&hl=en) [[CODE--]](https://github.com/multimodallearning/DG-TTA)
 
 - `TTA-SEG` [Janouskova., Master Thesis 2023] **Test-time adaptation for segmentation** [[PDF]]() [[G-Scholar--]]() [[CODE]](https://github.com/klarajanouskova/TTA-SEG)
 
 #### 2024
-- `GenSAM` [Hu et al., Proc. AAAI 2024] **Relax image-specific prompt requirement in SAM: A single generic prompt for segmenting camouflaged objects** [[PDF]](https://arxiv.org/abs/2312.07374) [[G-Scholar--]]() [[CODE]](https://github.com/jyLin8100/GenSAM)
+- `GenSAM` [Hu et al., Proc. AAAI 2024] **Relax image-specific prompt requirement in SAM: A single generic prompt for segmenting camouflaged objects** [[PDF]](https://arxiv.org/abs/2312.07374) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3602234802657076128&hl=en) [[CODE]](https://github.com/jyLin8100/GenSAM)
 
 ### Detection
 - `OSHOT` [D'Innocente et al., Proc. ECCV 2020] **One-shot unsupervised cross-domain detection** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-030-58517-4_43) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7600955351500947376&hl=en) [[CODE]](https://github.com/VeloDC/oshot_detection)
@@ -243,10 +243,13 @@ for robust visual perception** [[PDF]](https://openreview.net/forum?id=qgmrC8jhC
 
 - `PINER` [Song et al., Proc. WACV 2023] **PINER: Prior-informed implicit neural representation learning for test-time adaptation in sparse-view CT reconstruction** [[PDF]](https://openaccess.thecvf.com/content/WACV2023/html/Song_PINER_Prior-Informed_Implicit_Neural_Representation_Learning_for_Test-Time_Adaptation_in_WACV_2023_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8086782344774079473&hl=en)
 
-- `DIP-Inv` [Xu and Heagy, Arxiv 2023] **A test-time learning approach to reparameterize the geophysical inverse problem with a convolutional neural network** [[PDF]](https://arxiv.org/abs/2312.04752) [[G-Scholar--]]()
+- `DIP-Inv` [Xu and Heagy, Arxiv 2023] **A test-time learning approach to reparameterize the geophysical inverse problem with a convolutional neural network** [[PDF]](https://arxiv.org/abs/2312.04752) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11034300332248270471&hl=en)
 
 ### Face detection
 - `GPR` [Jain and Learned-Miller, Proc. CVPR 2011] **Online domain adaptation of a pre-trained cascade of classifiers** [[PDF]](https://people.cs.umass.edu/~elm/papers/cvpr11adaptive.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1871527275360315634&hl=en)
+
+### Gaze estimation
+- `TPGaze` [Liu et al., Proc. AAAI 2024] **Test-time personalization with meta prompt for gaze estimation** [[PDF]](https://arxiv.org/abs/2401.01577) [[G-Scholar--]]()
 
 ### Mapping between paired images
 - `SSMSR` [Zhu et al., Proc. ICRA 2021] **Test-time training for deformable multi-scale image registration** [[PDF]](https://arxiv.org/abs/2103.13578) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6326490607378414181&hl=en)
@@ -261,7 +264,7 @@ for robust visual perception** [[PDF]](https://openreview.net/forum?id=qgmrC8jhC
 
 - `...` [Sang et al., Medical Physics 2023] **Target‐oriented deep learning‐based image registration with individualized test‐time adaptation** [[PDF]](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.16477) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1343161448571720939&hl=en)
 
-- `...` [Tirer et al., Arxiv 2023] **Deep internal learning: Deep learning from a single input** [[PDF]](https://arxiv.org/abs/2312.07425) [[G-Scholar--]]()
+- `...` [Tirer et al., Arxiv 2023] **Deep internal learning: Deep learning from a single input** [[PDF]](https://arxiv.org/abs/2312.07425) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15158065331823249383&hl=en)
 
 ### Generative modeling
 - `GIP` [Bau et al., ACM TOG 2019] **Semantic photo manipulation with a generative image prior** [[PDF]](https://arxiv.org/abs/2005.07727) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6750293979132878511&hl=en)
@@ -298,7 +301,7 @@ for robust visual perception** [[PDF]](https://openreview.net/forum?id=qgmrC8jhC
 
 - `TTT-NN` [Hardt and Sun, Arxiv 2023] **Test-time training on nearest neighbors for large language models** [[PDF]](https://arxiv.org/abs/2305.18466) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13923028688883164038&hl=en) [[CODE]](https://github.com/socialfoundations/tttlm)
 
-- `AGREE` [Ye et al., Arxiv 2023] **Effective large language model adaptation for improved grounding** [[PDF]](https://arxiv.org/abs/2311.09533) [[G-Scholar--]]()
+- `AGREE` [Ye et al., Arxiv 2023] **Effective large language model adaptation for improved grounding** [[PDF]](https://arxiv.org/abs/2311.09533) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3665830312841118313&hl=en)
 
 ### Graph
 - `GT3` [Wang et al., Arxiv 2022] **Test-time training for graph neural networks** [[PDF]](https://arxiv.org/abs/2210.08813) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4459392671520994454&hl=en)
@@ -393,7 +396,7 @@ federated learning** [[PDF]](https://arxiv.org/abs/2310.18816) [[G-Scholar]](htt
 - `...` [Müller et al., Arxiv 2023] **Towards context-aware domain generalization: Representing environments with permutation-invariant networks** [[PDF]](https://arxiv.org/abs/2312.10107) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11819764336583103061&hl=en)
 
 #### 2024
-- `MABN` [Wu et al., Proc. AAAI 2024] **Test-time domain adaptation by learning domain-aware batch normalization** [[PDF]](https://arxiv.org/abs/2312.10165) [[G-Scholar--]]() [[CODE]](https://github.com/ynanwu/MABN)
+- `MABN` [Wu et al., Proc. AAAI 2024] **Test-time domain adaptation by learning domain-aware batch normalization** [[PDF]](https://arxiv.org/abs/2312.10165) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4488734352967116426&hl=en) [[CODE]](https://github.com/ynanwu/MABN)
 
 - `...` [Haslum et al, Proc. WACV 2024] **Bridging generalization gaps in high content imaging through online self-supervised domain adaptation** [[PDF]](https://arxiv.org/abs/2311.12623) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5616759635685757071&hl=en)
 
