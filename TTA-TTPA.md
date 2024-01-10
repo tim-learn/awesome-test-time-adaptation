@@ -52,5 +52,7 @@ A curated list of awesome test-time prior adaptation resources. Your contributio
 
 - `HANOL` [Qian et al., Proc. ICDM 2023] **Handling new class in online label shift** [[PDF]](https://www.lamda.nju.edu.cn/qianyy/paper/ICDM23_NOLS.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17197916004384917829&hl=en)
 
+- `OLS-OFU` [Wu et al., Proc. NeurIPS Workshops 2023] **Online feature updates improve online (generalized) label shift adaptation** [[PDF]](https://sslneurips23.github.io/paper_pdfs/paper_54.pdf) [[G-Scholar--]]()
+
 - `CPMKM` [Wen et al., Arxiv 2023] **Class probability matching using kernel methods for
-label shift adaptation** [[PDF]](https://arxiv.org/abs/2312.07282) [[G-Scholar--]]()
+label shift adaptation** [[PDF]](https://arxiv.org/abs/2312.07282) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11916720703831072905&hl=en)

@@ -479,13 +479,17 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 - `...` [Thomas., Master Thesis 2023] **Continual domain adaptation through knowledge distillation** [[PDF]](https://scholarworks.rit.edu/theses/11545/) [[G-Scholar--]]() 
 
 ### 2024
+- `FedGM` [Wei and Han, Proc. AAAI 2024] **Multi-source collaborative gradient discrepancy minimization for federated domain generalization** [[PDF]](https://www.researchgate.net/publication/377162689_Multi-Source_Collaborative_Gradient_Discrepancy_Minimization_for_Federated_Domain_Generalization) [[G-Scholar--]]() [[CODE]](https://github.com/weiyikang/FedGM_torch)
+
 - `C-SFTrans` [Sanyal et al., Proc. WACV 2024] **Aligning non-causal factors for transformer-based source-free domain adaptation** [[PDF]](https://arxiv.org/abs/2311.16294/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15477511778305510501&hl=en) [[CODE]](https://github.com/val-iisc/DSiT-SFDA)
 
 - `CXDA` [Bohdal et al., Proc. WACV 2024] **Feed-forward latent domain adaptation** [[PDF]](https://openaccess.thecvf.com/content/WACV2024/html/Bohdal_Feed-Forward_Latent_Domain_Adaptation_WACV_2024_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15837576530441040681&hl=en)
 
   ~~ [Bohdal et al., Proc. ICML Workshops 2022] **Feed-forward source-free latent domain adaptation via cross-attention** [[PDF]](https://openreview.net/forum?id=EiQB09V5IX) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15837576530441040681&hl=en)~~
 
-- `DCPL` [Diamant et al., Arxiv 2024] **De-confusing pseudo-labels in source-free domain adaptation** [[PDF]](https://arxiv.org/abs/2401.01650) [[G-Scholar--]]()
+- `SCAL` [Sun et al., IET Image Processing 2024] **You only label once: A self-adaptive clustering-based method for source-free active domain adaptation** [[PDF]](https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/ipr2.13025) [[G-Scholar--]]()
+
+- `DCPL` [Diamant et al., Arxiv 2024] **De-confusing pseudo-labels in source-free domain adaptation** [[PDF]](https://arxiv.org/abs/2401.01650) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7142632812358574823&hl=en)
 
 ## Semantic Segmentation
 ### 2021
@@ -583,9 +587,12 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `ReGEN` [Tjio et al., Arxiv 2023] **Generating reliable pixel-level labels for source free domain adaptation** [[PDF]](https://arxiv.org/abs/2307.00893) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9031506061920618972&hl=en)
 
-- `WeSAM` [Zhang et al., Arxiv 2023] **Improving the generalization of segmentation foundation model under distribution shift via weakly supervised adaptation** [[PDF]](https://arxiv.org/abs/2312.03502) [[G-Scholar--]]() [[CODE]](https://github.com/Zhang-Haojie/WeSAM)
+- `WeSAM` [Zhang et al., Arxiv 2023] **Improving the generalization of segmentation foundation model under distribution shift via weakly supervised adaptation** [[PDF]](https://arxiv.org/abs/2312.03502) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14418083010954243048&hl=en) [[CODE]](https://github.com/Zhang-Haojie/WeSAM)
 
 - `...` [Sashikanth., Master Thesis 2023] **Active learning guided source-free domain adaptive semantic segmentation and applications in the environmental space** [[PDF]](https://escholarship.org/uc/item/1j56m62f) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12433256709592012887&hl=en)
+
+### 2024
+- `MAS3` [Stan and Rostami, Arxiv 2024] **Online continual domain adaptation for semantic image segmentation using internal representations** [[PDF]](https://arxiv.org/abs/2401.01035) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5773237290303399495&hl=en)
 
 ## Object Detection
 ### before 2020
