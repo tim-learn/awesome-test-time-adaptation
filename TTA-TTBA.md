@@ -8,7 +8,7 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 ## Instance-level
 ### Image classification
-- `GeOS` [D'Innocente et al., Arxiv 2019] **Learning to generalize one sample at a time with self-supervision** [[PDF]](https://arxiv.org/abs/1910.03915) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3203292870958646989&hl=en)
+- `GeOS` [D'Innocente et al., arXiv 2019] **Learning to generalize one sample at a time with self-supervision** [[PDF]](https://arxiv.org/abs/1910.03915) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3203292870958646989&hl=en)
 
 - `TTT` [Sun et al., Proc. ICML 2020] **Test-time training with self-supervision for generalization under distribution shifts** [[PDF]](http://proceedings.mlr.press/v119/sun20b.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=670518589461670180&hl=en) [[CODE-1]](https://github.com/yueatsprograms/ttt_cifar_release) [[CODE-2]](https://github.com/yueatsprograms/ttt_imagenet_release)
 
@@ -18,13 +18,13 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `DSON` [Seo et al., Proc. ECCV 2020] **Learning to optimize domain specific normalization for domain generalization** [[PDF]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670069.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14663179004963922658&hl=en)
 
-- `SSDN-TTT` [Cohen et al., Arxiv 2020] **Self-supervised dynamic networks for covariate shift robustness** [[PDF]](https://arxiv.org/abs/2006.03952) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15130495263371965518&hl=en)
+- `SSDN-TTT` [Cohen et al., arXiv 2020] **Self-supervised dynamic networks for covariate shift robustness** [[PDF]](https://arxiv.org/abs/2006.03952) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15130495263371965518&hl=en)
 
 - `CNGRAD` [Alet et al., Proc. NeurIPS 2021] **Tailoring: Encoding inductive biases by optimizing unsupervised objectives at prediction time** [[PDF]](https://openreview.net/forum?id=8pOPKfibVN) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7588760173472055006&hl=en) [[CODE--]](https://www.lis.csail.mit.edu/tailoring)
 
 - `ITTP` [Pandey et al., Proc. CVPR 2021] **Generalization on unseen domains via inference-time label-preserving target projections** [[PDF]](https://openaccess.thecvf.com/content/CVPR2021/html/Pandey_Generalization_on_Unseen_Domains_via_Inference-Time_Label-Preserving_Target_Projections_CVPR_2021_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4237814808212148329&hl=en) [[CODE]](https://github.com/yys-Polaris/InferenceTimeDG)
 
-- `AugBN` [Khurana et al., Arxiv 2021] **SITA: Single image test-time adaptation** [[PDF]](https://arxiv.org/abs/2112.02355) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14130758976638079758&hl=en)
+- `AugBN` [Khurana et al., arXiv 2021] **SITA: Single image test-time adaptation** [[PDF]](https://arxiv.org/abs/2112.02355) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14130758976638079758&hl=en)
 
 - `SSGen` [Xiao et al., Proc. ICLR 2022] **Learning to generalize across domains on single test samples** [[PDF]](https://arxiv.org/abs/2202.08045) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10799367073706985191&hl=en) [[CODE]](https://github.com/zzzx1224/SingleSampleGeneralization-ICLR2022)
 
@@ -42,13 +42,13 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `TTAPS` [Bartler et al., Proc. IJCNN 2022] **TTAPS: Test-time adaption by aligning prototypes using self-supervision** [[PDF]](https://arxiv.org/abs/2205.08731) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2871857874504831163&hl=en) [[CODE]](https://github.com/AlexanderBartler/TTAPS)
 
-- `DoPrompt` [Zheng et al., Arxiv 2022] **Prompt vision transformer for domain generalization** [[PDF]](https://arxiv.org/abs/2208.08914) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12229109798487228669&hl=en) [[CODE]](https://github.com/zhengzangw/DoPrompt)
+- `DoPrompt` [Zheng et al., arXiv 2022] **Prompt vision transformer for domain generalization** [[PDF]](https://arxiv.org/abs/2208.08914) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12229109798487228669&hl=en) [[CODE]](https://github.com/zhengzangw/DoPrompt)
 
 - `DCN` [Jiang et al., Proc. ECCV Workshops 2022] **Domain-Conditioned normalization for test-time domain generalization** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-25085-9_17#chapter-info) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15238737988084445775&hl=en)
 
 - `BNE` [Segu et al., Pattern Recognition 2022] **Batch normalization embeddings for deep domain generalization** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320322005957) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1822183098800604393&hl=en)
 
-- `GDU` [Föll et al., Arxiv 2022] **Gated domain units for multi-source domain generalization** [[PDF]](https://arxiv.org/abs/2206.12444) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18003235731039545119&hl=en) [[CODE]](https://github.com/im-ethz/pub-gdu4dg)
+- `GDU` [Föll et al., arXiv 2022] **Gated domain units for multi-source domain generalization** [[PDF]](https://arxiv.org/abs/2206.12444) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18003235731039545119&hl=en) [[CODE]](https://github.com/im-ethz/pub-gdu4dg)
 
 - `TTN` [Lim et al., Proc. ICLR 2023] **TTN: A domain-shift aware batch normalization in test-time adaptation** [[PDF]](https://openreview.net/forum?id=EQfeudmWLQ) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12984514498411836030&hl=en)
 
@@ -80,18 +80,18 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `TT-NSS` [Mehra et al., Proc. ICML Workshops 2023] **Risk-averse predictions on unseen domains via neural style smoothing** [[PDF]](https://openreview.net/forum?id=YVwW5yBISo) [[G-Scholar--]]()
 
-- `...` [Taesiri et al., Arxiv 2023] **Zoom is what you need: An empirical study of the power of zoom and spatial biases in image classification** [[PDF]](https://arxiv.org/abs/2304.05538) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15555449545168821035&hl=en)
+- `...` [Taesiri et al., arXiv 2023] **Zoom is what you need: An empirical study of the power of zoom and spatial biases in image classification** [[PDF]](https://arxiv.org/abs/2304.05538) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15555449545168821035&hl=en)
 
-- `TTACIL` [Marouf et al., Arxiv 2023] **Rethinking class-incremental learning in the era of large pre-trained models via test-time adaptation** [[PDF]](https://arxiv.org/abs/2310.11482) [[G-Scholar--]]() [[CODE]](https://github.com/IemProg/TTACIL)
+- `TTACIL` [Marouf et al., arXiv 2023] **Rethinking class-incremental learning in the era of large pre-trained models via test-time adaptation** [[PDF]](https://arxiv.org/abs/2310.11482) [[G-Scholar--]]() [[CODE]](https://github.com/IemProg/TTACIL)
 
-- `TEA` [Yuan et al., Arxiv 2023] **TEA: Test-time energy adaptation** [[PDF]](https://arxiv.org/abs/2311.14402) [[G-Scholar--]]()
+- `TEA` [Yuan et al., arXiv 2023] **TEA: Test-time energy adaptation** [[PDF]](https://arxiv.org/abs/2311.14402) [[G-Scholar--]]()
 
-- `GDDA` [Song and Lai, Arxiv 2023] **Target to source: Guidance-based diffusion model for test-time adaptation** [[PDF]](https://arxiv.org/abs/2312.05274) [[G-Scholar--]]()
+- `GDDA` [Song and Lai, arXiv 2023] **Target to source: Guidance-based diffusion model for test-time adaptation** [[PDF]](https://arxiv.org/abs/2312.05274) [[G-Scholar--]]()
 
 - `DRM` [Zhang et al., Misc 2023] **Domain-specific risk minimization for out-of-distribution generalization** [[PDF]](https://openreview.net/forum?id=vCVTZYFcmCm) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15694323213451390034&hl=en)
 
 ### Segmentation
-- `DIEM` [Wang et al., Arxiv 2019] **Dynamic scale inference by entropy minimization** [[PDF]](https://arxiv.org/abs/1908.03182) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11939087491312325887&hl=en)
+- `DIEM` [Wang et al., arXiv 2019] **Dynamic scale inference by entropy minimization** [[PDF]](https://arxiv.org/abs/1908.03182) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11939087491312325887&hl=en)
 
 - `SDA-Net` [He et al., Proc. MICCAI 2020] **Self domain adapted network** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-030-59710-8_43) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12719162110862116889&hl=en) [[CODE]](https://github.com/YufanHe/self-domain-adapted-network)
 
@@ -105,7 +105,7 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `PSR` [Li et al., Proc. MICCAI Workshops 2022] **Plug-and-play shape refinement framework for multi-site and lifespan brain skull stripping** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-21014-3_9) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2432667356722388433&hl=en)
 
-- `TTA-FoE` [Karani et al., Arxiv 2022] **A field of experts prior for adapting neural networks at test time** [[PDF]](https://arxiv.org/abs/2202.05271) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11048304683105308159&hl=en)
+- `TTA-FoE` [Karani et al., arXiv 2022] **A field of experts prior for adapting neural networks at test time** [[PDF]](https://arxiv.org/abs/2202.05271) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11048304683105308159&hl=en)
 
 - `AdvTTT` [Valvano et al., Journal of Machine Learning for Biomedical Imaging 2022] **Re-using adversarial mask discriminators for test-time training under distribution shifts** [[PDF]](https://arxiv.org/abs/2108.11926) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8356965890664373190&hl=en) [[CODE]](https://github.com/gvalvano/adversarial-test-time-training)
 
@@ -137,11 +137,11 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `WOSA-AugSelf` [Huang et al., Computer Methods and Programs in Biomedicine 2023] **Test-time bi-directional adaptation between image and model for robust segmentation** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0169260723001438) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14768083414195901454&hl=en)
 
-- `AdaAtlas` [Guo et al., Arxiv 2023] **Pay attention to the atlas: Atlas-guided test-time adaptation method for robust 3D medical image segmentation** [[PDF]](https://arxiv.org/abs/2307.00676) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3681859989801585957&hl=en)
+- `AdaAtlas` [Guo et al., arXiv 2023] **Pay attention to the atlas: Atlas-guided test-time adaptation method for robust 3D medical image segmentation** [[PDF]](https://arxiv.org/abs/2307.00676) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3681859989801585957&hl=en)
 
-- `...` [Janouskova et al., Arxiv 2023] **Single image test-time adaptation for segmentation** [[PDF]](https://arxiv.org/abs/2309.14052) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14549212563557895797&hl=en) [[CODE--]](https://github.com/klarajanouskova/SITTA-Segmentation)
+- `...` [Janouskova et al., arXiv 2023] **Single image test-time adaptation for segmentation** [[PDF]](https://arxiv.org/abs/2309.14052) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14549212563557895797&hl=en) [[CODE--]](https://github.com/klarajanouskova/SITTA-Segmentation)
 
-- `DG-TTA` [Weihsbach et al., Arxiv 2023] **DG-TTA: Out-of-domain medical image segmentation through domain generalization and test-time adaptation** [[PDF]](https://arxiv.org/abs/2312.06275) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16564960426103156748&hl=en) [[CODE--]](https://github.com/multimodallearning/DG-TTA)
+- `DG-TTA` [Weihsbach et al., arXiv 2023] **DG-TTA: Out-of-domain medical image segmentation through domain generalization and test-time adaptation** [[PDF]](https://arxiv.org/abs/2312.06275) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16564960426103156748&hl=en) [[CODE--]](https://github.com/multimodallearning/DG-TTA)
 
 - `TTA-SEG` [Janouskova., Master Thesis 2023] **Test-time adaptation for segmentation** [[PDF]]() [[G-Scholar--]]() [[CODE]](https://github.com/klarajanouskova/TTA-SEG)
 
@@ -162,30 +162,30 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `SSRA` [Mao et al., Proc. ICCV 2021] **Adversarial attacks are reversible with natural supervision** [[PDF]](http://openaccess.thecvf.com/content/ICCV2021/html/Mao_Adversarial_Attacks_Are_Reversible_With_Natural_Supervision_ICCV_2021_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13382217456224684062&hl=en) [[CODE]](https://github.com/cvlab-columbia/SelfSupDefense)
 
-- `Hedge` [Wu et al., Arxiv 2021] **Attacking adversarial attacks as a defense** [[PDF]](https://arxiv.org/abs/2106.04938) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13139092335359588465&hl=en)
+- `Hedge` [Wu et al., arXiv 2021] **Attacking adversarial attacks as a defense** [[PDF]](https://arxiv.org/abs/2106.04938) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13139092335359588465&hl=en)
 
 - `Anti-Adv` [Alfarra et al., Proc. AAAI 2022] **Combating adversaries with anti-adversaries** [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/20545) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15633095022559915646&hl=en) [[CODE]](https://github.com/MotasemAlfarra/Combating-Adversaries-with-Anti-Adversaries)
 
 - `ReScaler` [Gudibande et al., Proc. CVPR Workshops 2022] **Test-time adaptation of residual blocks against poisoning and backdoor attacks** [[PDF]](https://artofrobust.github.io/short_paper/15.pdf) [[G-Scholar--]]()
 
-- `Equ-Defense` [Mao et al., Arxiv 2022] **Robust perception through equivariance** [[PDF]](https://arxiv.org/abs/2212.06079) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6052114939161464594&hl=en)
+- `Equ-Defense` [Mao et al., arXiv 2022] **Robust perception through equivariance** [[PDF]](https://arxiv.org/abs/2212.06079) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6052114939161464594&hl=en)
 
 - `CVP` [Tsai et al., Proc. NeurIPS 2023] **Convolutional visual prompt
 for robust visual perception** [[PDF]](https://openreview.net/forum?id=qgmrC8jhCo) [[G-Scholar--]]()
 
 - `Mask-Defense` [McDermott et al., Proc. ICLR Workshops 2023] **Robustifying language models with test-time adaptation** [[PDF]](https://openreview.net/forum?id=MOe6swbU2Ab) [[G-Scholar--]]()
 
-- `DRAM` [Tsai et al., Arxiv 2023] **Test-time defense against adversarial attacks: Detection and reconstruction of adversarial examples via masked autoencoder** [[PDF]](https://arxiv.org/abs/2303.12848) [[G-Scholar--]]() 
+- `DRAM` [Tsai et al., arXiv 2023] **Test-time defense against adversarial attacks: Detection and reconstruction of adversarial examples via masked autoencoder** [[PDF]](https://arxiv.org/abs/2303.12848) [[G-Scholar--]]() 
 
   ~~[Tsai et al., Proc. CVPR Workshops 2023] **Test-time detection and repair of adversarial samples via masked autoencoder** [[PDF]](https://robustart.github.io/long_paper/22.pdf) [[G-Scholar--]]()~~
 
-- `TETRA` [Blau et al., Arxiv 2023] **Classifier robustness enhancement Via test-time transformation** [[PDF]](https://arxiv.org/abs/2303.15409) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10076827701044004595&hl=en)
+- `TETRA` [Blau et al., arXiv 2023] **Classifier robustness enhancement Via test-time transformation** [[PDF]](https://arxiv.org/abs/2303.15409) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10076827701044004595&hl=en)
 
-- `ZIP` [Shi et al., Arxiv 2023] **Black-box backdoor defense via zero-shot image purification** [[PDF]](https://arxiv.org/abs/2303.12175) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10966958864337456240&hl=en)
+- `ZIP` [Shi et al., arXiv 2023] **Black-box backdoor defense via zero-shot image purification** [[PDF]](https://arxiv.org/abs/2303.12175) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10966958864337456240&hl=en)
 
-- `BDMAE` [Sun et al., Arxiv 2023] **Mask and restore: Blind backdoor defense at test time with masked autoencoder** [[PDF]](https://arxiv.org/abs/2303.15564) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12419213242412958636&hl=en)
+- `BDMAE` [Sun et al., arXiv 2023] **Mask and restore: Blind backdoor defense at test time with masked autoencoder** [[PDF]](https://arxiv.org/abs/2303.15564) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12419213242412958636&hl=en)
 
-- `RFI` [Singh et al., Arxiv 2023] **Fast adaptive test-time defense with robust features** [[PDF]](https://arxiv.org/abs/2307.11672) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14379984320874878216&hl=en)
+- `RFI` [Singh et al., arXiv 2023] **Fast adaptive test-time defense with robust features** [[PDF]](https://arxiv.org/abs/2307.11672) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14379984320874878216&hl=en)
 
 - `MAT` [Huang et al., Misc 2023] **Test-time adaptation for better adversarial robustness** [[PDF]](https://openreview.net/forum?id=rUxKM6u8WER) [[G-Scholar--]]()
 
@@ -205,7 +205,7 @@ for robust visual perception** [[PDF]](https://openreview.net/forum?id=qgmrC8jhC
 ### Retrieval 
 - `Sketch3T` [Sain et al., Proc. CVPR 2022] **Sketch3t: Test-time training for zero-shot SBIR** [[PDF]](http://openaccess.thecvf.com/content/CVPR2022/html/Sain_Sketch3T_Test-Time_Training_for_Zero-Shot_SBIR_CVPR_2022_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3412435374622527568&hl=en)
 
-- `TTT-UCDR` [Paul et al., Arxiv 2022] **TTT-UCDR: Test-time training for universal cross-domain retrieval** [[PDF]](https://arxiv.org/abs/2208.09198) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6906804282191188125&hl=en) [[CODE]](https://github.com/mvp18/TTT-UCDR)
+- `TTT-UCDR` [Paul et al., arXiv 2022] **TTT-UCDR: Test-time training for universal cross-domain retrieval** [[PDF]](https://arxiv.org/abs/2208.09198) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6906804282191188125&hl=en) [[CODE]](https://github.com/mvp18/TTT-UCDR)
 
 - `META` [Xu et al., Proc. ECCV 2022] **Mimic embedding via adaptive aggregation: Learning generalizable person re-identification** [[PDF]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136740362.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8699042944012178592&hl=en) [[CODE]](https://github.com/xbq1994/META)
 
@@ -218,7 +218,7 @@ for robust visual perception** [[PDF]](https://openreview.net/forum?id=qgmrC8jhC
 
 - `LIDIA` [Vaksman et al., Proc. CVPR Workshops 2020] **Lidia: Lightweight learned image denoising with instance adaptation** [[PDF]](https://openaccess.thecvf.com/content_CVPRW_2020/html/w31/Vaksman_LIDIA_Lightweight_Learned_Image_Denoising_With_Instance_Adaptation_CVPRW_2020_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8763212900791323920&hl=en) [[CODE]](https://github.com/grishavak/LIDIA-denoiser)
 
-- `SURE-FT` [Soltanayev and Chun, Arxiv 2021] **Training deep learning based denoisers without ground truth data** [[PDF]](https://proceedings.neurips.cc/paper/2018/hash/c0560792e4a3c79e62f76cbf9fb277dd-Abstract.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10949844547317882495&hl=en) [[CODE]](https://github.com/Shakarim94/Net-SURE)
+- `SURE-FT` [Soltanayev and Chun, arXiv 2021] **Training deep learning based denoisers without ground truth data** [[PDF]](https://proceedings.neurips.cc/paper/2018/hash/c0560792e4a3c79e62f76cbf9fb277dd-Abstract.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10949844547317882495&hl=en) [[CODE]](https://github.com/Shakarim94/Net-SURE)
 
 - `Gaintuning` [Mohan et al., Proc. NeurIPS 2021] **Adaptive denoising via gaintuning** [[PDF]](https://openreview.net/forum?id=0BHU7WvZ29) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7653306197808807036&hl=en) [[CODE--]](https://github.com/sreyas-mohan/gaintuning)
 
@@ -226,13 +226,13 @@ for robust visual perception** [[PDF]](https://openreview.net/forum?id=qgmrC8jhC
 
 - `...` [Liu et al., Proc. CVPR 2022] **Towards multi-domain single image dehazing via test-time training** [[PDF]](http://openaccess.thecvf.com/content/CVPR2022/html/Liu_Towards_Multi-Domain_Single_Image_Dehazing_via_Test-Time_Training_CVPR_2022_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16896024038546207959&hl=en)
 
-- `MetaTL` [Gunawan et al., Arxiv 2022] **Test-time adaptation for real image denoising via meta-transfer learning** [[PDF]](https://arxiv.org/abs/2207.02066) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12620165808171507902&hl=en) [[CODE]](https://github.com/agusgun/TTAID)
+- `MetaTL` [Gunawan et al., arXiv 2022] **Test-time adaptation for real image denoising via meta-transfer learning** [[PDF]](https://arxiv.org/abs/2207.02066) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12620165808171507902&hl=en) [[CODE]](https://github.com/agusgun/TTAID)
 
 - `SRTTA` [Deng et al., Proc. NeurIPS 2023] **Efficient test-time adaptation for super-resolution with second-order degradation and reconstruction** [[PDF]](https://arxiv.org/abs/2310.19011) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6276384964075052952&hl=en) [[CODE--]](https://github.com/DengZeshuai/SRTTA)
 
 - `...` [Hatem et al., Proc. IROS 2023] **Test-time adaptation for point cloud upsampling using meta-learning** [[PDF]](https://arxiv.org/abs/2308.16484) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18088448039758938963&hl=en)
 
-- `PTTD` [Chen et al., Arxiv 2023] **Prompt-based test-time real image dehazing: A novel pipelinee** [[PDF]](https://arxiv.org/abs/2309.17389) [[G-Scholar--]]() [[CODE]](https://github.com/cecret3350/PTTD-Dehazing)
+- `PTTD` [Chen et al., arXiv 2023] **Prompt-based test-time real image dehazing: A novel pipelinee** [[PDF]](https://arxiv.org/abs/2309.17389) [[G-Scholar--]]() [[CODE]](https://github.com/cecret3350/PTTD-Dehazing)
 
 ### Inverse problem
 - `R&R+` [Gilton et al., IEEE TCI 2021] **Model adaptation for inverse problems in imaging** [[PDF]](https://ieeexplore.ieee.org/abstract/document/9477112/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1317665702275783452&hl=en)
@@ -243,7 +243,7 @@ for robust visual perception** [[PDF]](https://openreview.net/forum?id=qgmrC8jhC
 
 - `PINER` [Song et al., Proc. WACV 2023] **PINER: Prior-informed implicit neural representation learning for test-time adaptation in sparse-view CT reconstruction** [[PDF]](https://openaccess.thecvf.com/content/WACV2023/html/Song_PINER_Prior-Informed_Implicit_Neural_Representation_Learning_for_Test-Time_Adaptation_in_WACV_2023_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8086782344774079473&hl=en)
 
-- `DIP-Inv` [Xu and Heagy, Arxiv 2023] **A test-time learning approach to reparameterize the geophysical inverse problem with a convolutional neural network** [[PDF]](https://arxiv.org/abs/2312.04752) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11034300332248270471&hl=en)
+- `DIP-Inv` [Xu and Heagy, arXiv 2023] **A test-time learning approach to reparameterize the geophysical inverse problem with a convolutional neural network** [[PDF]](https://arxiv.org/abs/2312.04752) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11034300332248270471&hl=en)
 
 ### Face detection
 - `GPR` [Jain and Learned-Miller, Proc. CVPR 2011] **Online domain adaptation of a pre-trained cascade of classifiers** [[PDF]](https://people.cs.umass.edu/~elm/papers/cvpr11adaptive.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1871527275360315634&hl=en)
@@ -264,16 +264,16 @@ for robust visual perception** [[PDF]](https://openreview.net/forum?id=qgmrC8jhC
 
 - `...` [Sang et al., Medical Physics 2023] **Target‐oriented deep learning‐based image registration with individualized test‐time adaptation** [[PDF]](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.16477) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1343161448571720939&hl=en)
 
-- `...` [Tirer et al., Arxiv 2023] **Deep internal learning: Deep learning from a single input** [[PDF]](https://arxiv.org/abs/2312.07425) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15158065331823249383&hl=en)
+- `...` [Tirer et al., arXiv 2023] **Deep internal learning: Deep learning from a single input** [[PDF]](https://arxiv.org/abs/2312.07425) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15158065331823249383&hl=en)
 
 ### Generative modeling
 - `GIP` [Bau et al., ACM TOG 2019] **Semantic photo manipulation with a generative image prior** [[PDF]](https://arxiv.org/abs/2005.07727) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6750293979132878511&hl=en)
 
-- `INR-st` [Kim et al., Arxiv 2022] **Controllable style transfer via test-time training of implicit neural representation** [[PDF]](https://arxiv.org/abs/2210.07762) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6128992105506775450&hl=en) [[CODE]](https://github.com/KU-CVLAB/INR-st)
+- `INR-st` [Kim et al., arXiv 2022] **Controllable style transfer via test-time training of implicit neural representation** [[PDF]](https://arxiv.org/abs/2210.07762) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6128992105506775450&hl=en) [[CODE]](https://github.com/KU-CVLAB/INR-st)
 
 - `SiSTA` [Subramanyam et al., Proc. ICML 2023] **Target-aware generative augmentations for single-shot adaptation** [[PDF]](https://openreview.net/forum?id=K26zQKvXiR) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15168577856501871450&hl=en) [[CODE]](https://github.com/Rakshith-2905/SiSTA)
 
-  ~~[Subramanyam et al., Arxiv 2022] **Single-shot domain adaptation via target-aware generative augmentation** [[PDF]](https://arxiv.org/abs/2210.16692) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14023566347726420541&hl=en)~~
+  ~~[Subramanyam et al., arXiv 2022] **Single-shot domain adaptation via target-aware generative augmentation** [[PDF]](https://arxiv.org/abs/2210.16692) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14023566347726420541&hl=en)~~
 
 - `MODIFY` [Ding et al., Proc. ICASSP 2023] **MODIFY: Model-driven face stylization without style images** [[PDF]](https://arxiv.org/abs/2303.09831) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2582576045423085678&hl=en)
 
@@ -286,7 +286,7 @@ for robust visual perception** [[PDF]](https://openreview.net/forum?id=qgmrC8jhC
 
 - `MetaVFI` [Choi et al., IEEE TPAMI 2021] **Test-time adaptation for video frame interpolation via meta-learning** [[PDF]](https://ieeexplore.ieee.org/abstract/document/9625774) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4253219786252969489&hl=en)
 
-- `VFI_Adapter` [Wu et al., Arxiv 2023] **Boost video frame interpolation via motion adaptation** [[PDF]](https://arxiv.org/abs/2306.13933) [[G-Scholar--]]() [[CODE]](https://github.com/haoningwu3639/VFI_Adapter)
+- `VFI_Adapter` [Wu et al., arXiv 2023] **Boost video frame interpolation via motion adaptation** [[PDF]](https://arxiv.org/abs/2306.13933) [[G-Scholar--]]() [[CODE]](https://github.com/haoningwu3639/VFI_Adapter)
 
 ### NLP 
 - `TTL-EQA` [Banerjee et al., Proc. NAACL 2021] **Self-supervised test-time learning for reading comprehension** [[PDF]](https://aclanthology.org/2021.naacl-main.95/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7170102090609189822&hl=en)
@@ -295,16 +295,16 @@ for robust visual perception** [[PDF]](https://openreview.net/forum?id=qgmrC8jhC
 
 - `PADA` [Ben-David et al., TACL 2022] **PADA: Example-based prompt learning for on-the-fly adaptation to unseen domains** [[PDF]](https://mitp.silverchair.com/tacl/article-pdf/doi/10.1162/tacl_a_00468/2008061/tacl_a_00468.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7952516094945703287&hl=en) [[CODE]](https://github.com/eyalbd2/PADA)
 
-- `Hyper-PADA` [Volk et al., Arxiv 2022] **Example-based hypernetworks for out-of-distribution generalization** [[PDF]](https://arxiv.org/abs/2203.14276) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14176770453923615063&hl=en) [[CODE]](https://github.com/TomerVolk/Hyper-PADA)
+- `Hyper-PADA` [Volk et al., arXiv 2022] **Example-based hypernetworks for out-of-distribution generalization** [[PDF]](https://arxiv.org/abs/2203.14276) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14176770453923615063&hl=en) [[CODE]](https://github.com/TomerVolk/Hyper-PADA)
 
 - `T-SAS` [Jeong et al., Proc. EMNLP-Findings 2023] **Test-time self-adaptive small languagem models for question answering** [[PDF]](https://arxiv.org/abs/2310.13307) [[G-Scholar--]]() [[CODE--]](https://github.com/starsuzi/T-SAS)
 
-- `TTT-NN` [Hardt and Sun, Arxiv 2023] **Test-time training on nearest neighbors for large language models** [[PDF]](https://arxiv.org/abs/2305.18466) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13923028688883164038&hl=en) [[CODE]](https://github.com/socialfoundations/tttlm)
+- `TTT-NN` [Hardt and Sun, arXiv 2023] **Test-time training on nearest neighbors for large language models** [[PDF]](https://arxiv.org/abs/2305.18466) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13923028688883164038&hl=en) [[CODE]](https://github.com/socialfoundations/tttlm)
 
-- `AGREE` [Ye et al., Arxiv 2023] **Effective large language model adaptation for improved grounding** [[PDF]](https://arxiv.org/abs/2311.09533) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3665830312841118313&hl=en)
+- `AGREE` [Ye et al., arXiv 2023] **Effective large language model adaptation for improved grounding** [[PDF]](https://arxiv.org/abs/2311.09533) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3665830312841118313&hl=en)
 
 ### Graph
-- `GT3` [Wang et al., Arxiv 2022] **Test-time training for graph neural networks** [[PDF]](https://arxiv.org/abs/2210.08813) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4459392671520994454&hl=en)
+- `GT3` [Wang et al., arXiv 2022] **Test-time training for graph neural networks** [[PDF]](https://arxiv.org/abs/2210.08813) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4459392671520994454&hl=en)
 
 - `GTRANS` [Jin et al., Proc. ICLR 2023] **Empowering graph representation learning with test-time graph transformation** [[PDF]](https://openreview.net/forum?id=Lnxl5pr018) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12479531068894109978&hl=en)
 
@@ -339,15 +339,15 @@ for robust visual perception** [[PDF]](https://openreview.net/forum?id=qgmrC8jhC
 
 - `TDS` [Wen et al., IEEE TMM 2023] **Test-time model adaptation for visual question answering with debiased self-supervisions** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10173554/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3117843961096530913&hl=en)
 
-- `SRR-MAML` [Huo et al., Arxiv 2023] **Learning adaptable risk-sensitive policies to coordinate in multi-agent general-sum games** [[PDF]](https://arxiv.org/abs/2304.02162) [[G-Scholar]](https://scholar.google.com/scholar?cluster=146325397292652498&hl=en)
+- `SRR-MAML` [Huo et al., arXiv 2023] **Learning adaptable risk-sensitive policies to coordinate in multi-agent general-sum games** [[PDF]](https://arxiv.org/abs/2304.02162) [[G-Scholar]](https://scholar.google.com/scholar?cluster=146325397292652498&hl=en)
 
-- `ARSP` [Liu and Fang, Arxiv 2023] **Learning to recover spectral reflectance from RGB images** [[PDF]](https://arxiv.org/abs/2303.07850) [[G-Scholar]](https://scholar.google.com/scholar?cluster=146325397292652498&hl=en)
+- `ARSP` [Liu and Fang, arXiv 2023] **Learning to recover spectral reflectance from RGB images** [[PDF]](https://arxiv.org/abs/2303.07850) [[G-Scholar]](https://scholar.google.com/scholar?cluster=146325397292652498&hl=en)
 
-- `RLCF` [Zhao et al., Arxiv 2023] **Test-time adaptation with CLIP reward for zero-shot generalization in vision-language models** [[PDF]](https://arxiv.org/abs/2305.18010) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13354273242354297247&hl=en)
+- `RLCF` [Zhao et al., arXiv 2023] **Test-time adaptation with CLIP reward for zero-shot generalization in vision-language models** [[PDF]](https://arxiv.org/abs/2305.18010) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13354273242354297247&hl=en)
 
-- `MoVie` [Yang et al., Arxiv 2023] **MoVie: Visual model-based policy adaptation for view generalization** [[PDF]](https://arxiv.org/abs/2307.00972) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8702194818732254776&hl=en) [[CODE]](https://github.com/yangsizhe/MoVie)
+- `MoVie` [Yang et al., arXiv 2023] **MoVie: Visual model-based policy adaptation for view generalization** [[PDF]](https://arxiv.org/abs/2307.00972) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8702194818732254776&hl=en) [[CODE]](https://github.com/yangsizhe/MoVie)
 
-- `...` [Dumpala et al., Arxiv 2023] **Test-time training for speech** [[PDF]](https://arxiv.org/abs/2309.10930) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1240093156897083970&hl=en)
+- `...` [Dumpala et al., arXiv 2023] **Test-time training for speech** [[PDF]](https://arxiv.org/abs/2309.10930) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1240093156897083970&hl=en)
 
 - `...` [Zheng et al., Proc. PRCV 2023] **Infrared and visible image fusion via test-time training** [[PDF]](https://link.springer.com/chapter/10.1007/978-981-99-8549-4_7) [[G-Scholar--]]()
 
@@ -367,7 +367,7 @@ for robust visual perception** [[PDF]](https://openreview.net/forum?id=qgmrC8jhC
 
 - `TTAwPCA` [Cordier et al., Proc. ECML/PKDD Workshops 2022] **Test-time adaptation with principal component analysis** [[PDF]](https://arxiv.org/abs/2209.05779) [[G-Scholar]](https://scholar.google.com/scholar?cluster=684086728189075944&hl=en)
 
-- `L2GP` [Duboudin et al., Arxiv 2022] **Learning less generalizable patterns with an asymmetrically trained double classifier for better test-time adaptation** [[PDF]](https://arxiv.org/abs/2210.09834) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1844003267836965379&hl=en)
+- `L2GP` [Duboudin et al., arXiv 2022] **Learning less generalizable patterns with an asymmetrically trained double classifier for better test-time adaptation** [[PDF]](https://arxiv.org/abs/2210.09834) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1844003267836965379&hl=en)
 
 #### 2023
 - `ShiftMatch` [Wang and Aitchison, Proc. ICLR 2023] **Robustness to corruption in pre-trained Bayesian neural networks** [[PDF]](https://openreview.net/forum?id=kUI41mY8bHl) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12854599053728566431&hl=en)
@@ -387,13 +387,13 @@ federated learning** [[PDF]](https://arxiv.org/abs/2310.18816) [[G-Scholar]](htt
 
 - `DILAM` [Leitner et al., Proc. IEEE Intelligent Vehciles Symposium 2023] **Sit back and relax: Learning to drive incrementally in all weather conditions** [[PDF]](https://arxiv.org/abs/2305.18953) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8435946811898296972&hl=en) [[CODE]](https://github.com/jmiemirza/DILAM)
 
-- `CVP` [Tsai et al., Arxiv 2023] **Self-supervised convolutional visual prompts** [[PDF]](https://arxiv.org/abs/2303.00198) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10433190878679136798&hl=en)
+- `CVP` [Tsai et al., arXiv 2023] **Self-supervised convolutional visual prompts** [[PDF]](https://arxiv.org/abs/2303.00198) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10433190878679136798&hl=en)
 
-- `ContextViT` [Bao and Karaletsos, Arxiv 2023] **Contextual vision transformers for robust representation learning** [[PDF]](https://arxiv.org/abs/2305.19402) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12070186471925200805&hl=en)
+- `ContextViT` [Bao and Karaletsos, arXiv 2023] **Contextual vision transformers for robust representation learning** [[PDF]](https://arxiv.org/abs/2305.19402) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12070186471925200805&hl=en)
 
-- `...` [Rezaei and Norouzzadeh, Arxiv 2023] **Dynamic batch norm statistics update for natural robustness** [[PDF]](https://arxiv.org/abs/2310.20649) [[G-Scholar--]]()
+- `...` [Rezaei and Norouzzadeh, arXiv 2023] **Dynamic batch norm statistics update for natural robustness** [[PDF]](https://arxiv.org/abs/2310.20649) [[G-Scholar--]]()
 
-- `...` [Müller et al., Arxiv 2023] **Towards context-aware domain generalization: Representing environments with permutation-invariant networks** [[PDF]](https://arxiv.org/abs/2312.10107) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11819764336583103061&hl=en)
+- `...` [Müller et al., arXiv 2023] **Towards context-aware domain generalization: Representing environments with permutation-invariant networks** [[PDF]](https://arxiv.org/abs/2312.10107) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11819764336583103061&hl=en)
 
 #### 2024
 - `MABN` [Wu et al., Proc. AAAI 2024] **Test-time domain adaptation by learning domain-aware batch normalization** [[PDF]](https://arxiv.org/abs/2312.10165) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4488734352967116426&hl=en) [[CODE]](https://github.com/ynanwu/MABN)
@@ -415,7 +415,7 @@ federated learning** [[PDF]](https://arxiv.org/abs/2310.18816) [[G-Scholar]](htt
 
 - `Deep3D` [Lee et al., Proc. CVPR 2021] **3D video stabilization with depth estimation by CNN-based optimization** [[PDF]](http://openaccess.thecvf.com/content/CVPR2021/html/Lee_3D_Video_Stabilization_With_Depth_Estimation_by_CNN-Based_Optimization_CVPR_2021_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13595361912865724842&hl=en)
 
-- `GCVD` [Lee et al., Arxiv 2022] **Globally consistent video depth and pose estimation with efficient test-time training** [[PDF]](https://arxiv.org/abs/2208.02709) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7306691990551013000&hl=en) [[CODE]](https://github.com/yaochih/GCVD-release)
+- `GCVD` [Lee et al., arXiv 2022] **Globally consistent video depth and pose estimation with efficient test-time training** [[PDF]](https://arxiv.org/abs/2208.02709) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7306691990551013000&hl=en) [[CODE]](https://github.com/yaochih/GCVD-release)
 
 - `...` [Azimi et al., Proc. WACV 2022] **Self-supervised test-time adaptation on video data** [[PDF]](https://openaccess.thecvf.com/content/WACV2022/html/Azimi_Self-Supervised_Test-Time_Adaptation_on_Video_Data_WACV_2022_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11449570492704365767&hl=en)
 
@@ -424,11 +424,11 @@ federated learning** [[PDF]](https://arxiv.org/abs/2310.18816) [[G-Scholar]](htt
 - `CycleAdapt` [Nam et al., Proc. ICCV 2023] **Cyclic test-time adaptation on monocular video
 for 3D human mesh reconstruction** [[PDF]](https://arxiv.org/abs/2308.06554) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5480263647326292275&hl=en) [[CODE]](https://github.com/hygenie1228/CycleAdapt_RELEASE)
 
-- `...` [Mutlu et al., Arxiv 2023] **TempT: Temporal consistency for test-time adaptation** [[PDF]](https://arxiv.org/abs/2303.10536) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13961877707627428919&hl=en)
+- `...` [Mutlu et al., arXiv 2023] **TempT: Temporal consistency for test-time adaptation** [[PDF]](https://arxiv.org/abs/2303.10536) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13961877707627428919&hl=en)
 
-- `Meta-VPL` [Ambekar et al., Arxiv 2023] **Learning variational neighbor labels for test-time domain generalization** [[PDF]](https://arxiv.org/abs/2307.04033) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17881603264637544125&hl=en)
+- `Meta-VPL` [Ambekar et al., arXiv 2023] **Learning variational neighbor labels for test-time domain generalization** [[PDF]](https://arxiv.org/abs/2307.04033) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17881603264637544125&hl=en)
 
-- `...` [Liu et al., Arxiv 2023] **Advancing test-time adaptation for acoustic foundation models in open-world shifts** [[PDF]](https://arxiv.org/abs/2310.09505) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17833880766013368425&hl=en)
+- `...` [Liu et al., arXiv 2023] **Advancing test-time adaptation for acoustic foundation models in open-world shifts** [[PDF]](https://arxiv.org/abs/2310.09505) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17833880766013368425&hl=en)
 
 ### Misc
 - `TTP` [Li et al., Proc. NeurIPS 2021] **Test-time personalization with a transformer for human pose estimation** [[PDF]](https://openreview.net/forum?id=cwSkaedP-wz) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8881142280914530303&hl=en) [[CODE]](https://github.com/harry11162/TTP)
@@ -466,9 +466,9 @@ for 3D human mesh reconstruction** [[PDF]](https://arxiv.org/abs/2308.06554) [[G
 
 - `MixTBN` [Liu and Li, Proc. ICCASIT 2023] **MixTBN: A fully test-time adaptation method for visual reinforcement learning on robotic manipulation** [[PDF]](https://ieeexplore.ieee.org/document/10351689) [[G-Scholar--]]()
 
-- `...` [Mehra et al., Arxiv 2023] **On the fly neural style smoothing for risk-averse domain generalization** [[PDF]](https://arxiv.org/abs/2307.08551) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13314865066099160761&hl=en)
+- `...` [Mehra et al., arXiv 2023] **On the fly neural style smoothing for risk-averse domain generalization** [[PDF]](https://arxiv.org/abs/2307.08551) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13314865066099160761&hl=en)
 
-- `...` [Tula et al., Arxiv 2023] **Is it an i or an l: Test-time adaptation of text line recognition models** [[PDF]](https://arxiv.org/abs/2308.15037) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12686690276500800090&hl=en)
+- `...` [Tula et al., arXiv 2023] **Is it an i or an l: Test-time adaptation of text line recognition models** [[PDF]](https://arxiv.org/abs/2308.15037) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12686690276500800090&hl=en)
 
 ### 2024
 - `PAOA+` [Li and Gong, Proc. WACV 2024] **Mitigate domain shift by primary-auxiliary objectives association for generalizing person ReID** [[PDF]](https://arxiv.org/abs/2310.15913) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4886363486564511690&hl=en)
