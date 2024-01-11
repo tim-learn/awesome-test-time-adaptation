@@ -487,6 +487,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
   ~~ [Bohdal et al., Proc. ICML Workshops 2022] **Feed-forward source-free latent domain adaptation via cross-attention** [[PDF]](https://openreview.net/forum?id=EiQB09V5IX) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15837576530441040681&hl=en)~~
 
+- `SFADA` [He et al., Pattern Recognition 2024] **Source-free domain adaptation with unrestricted source hypothesis** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320323009433) [[G-Scholar--]]() [[CODE]](https://github.com/tiggers23/SFADA-main)
+
 - `SCAL` [Sun et al., IET Image Processing 2024] **You only label once: A self-adaptive clustering-based method for source-free active domain adaptation** [[PDF]](https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/ipr2.13025) [[G-Scholar--]]()
 
 - `DCPL` [Diamant et al., Arxiv 2024] **De-confusing pseudo-labels in source-free domain adaptation** [[PDF]](https://arxiv.org/abs/2401.01650) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7142632812358574823&hl=en)
@@ -659,6 +661,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `...` [Shi et al., Arxiv 2023] **Improving online source-free domain adaptation for object detection by unsupervised data acquisition** [[PDF]](https://arxiv.org/abs/2310.19258) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18439349657086663420&hl=en)
 
+- `...` [Liu et al., Arxiv 2024] **CLIP-guided source-free object detection in aerial images** [[PDF]](https://arxiv.org/abs/2401.05168) [[G-Scholar--]]()
+
 ## Medical Image Analysis
 ### 2020
 - `AdaEnt` [Bateson et al., Proc. MICCAI 2020] **Source-relaxed domain adaptation for image segmentation** [[PDF]](https://arxiv.org/abs/2005.03697) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10960624360275715336&hl=en) [[CODE]](https://github.com/mathilde-b/SFDA)
@@ -741,7 +745,7 @@ segmentation with class-balanced mean teacher** [[PDF]](https://arxiv.org/abs/23
 
 - `...` [Lee et al., Proc. MICCAI 2023] **Self-supervised domain adaptive segmentation of breast cancer via test-time fine-tuning** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_52) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16580935026141696741&hl=en) 
 
-- `...` [Yuan et al., Proc. EMBC 2023] **Entropy-driven adversarial training for source-free medical image segmentation** [[PDF]](https://arinex.com.au/EMBC/pdf/full-paper_228.pdf) [[G-Scholar--]]()
+- `...` [Yuan et al., Proc. EMBC 2023] **Entropy-driven adversarial training for source-free medical image segmentation** [[PDF]](https://arinex.com.au/EMBC/pdf/full-paper_228.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15852246687192396998&hl=en)
 
 - `MATS` [Chen et al., Proc. MIDL 2023] **Model adaptive tooth segmentation** [[PDF]](https://openreview.net/forum?id=O2DerS5oQ1) [[G-Scholar--]]()
 
@@ -792,11 +796,11 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `LGDA` [Ye et al., Arxiv 2023] **Local-global pseudo-label correction for source-free domain adaptive medical image segmentation** [[PDF]](https://arxiv.org/abs/2308.14312) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14525675125862110265&hl=en)
 
-- `SFADA` [Ran et al., Arxiv 2023] **Source-free active domain adaptation for diabetic retinopathy grading based on ultra-wide-field fundus image** [[PDF]](https://arxiv.org/abs/2309.10619) [[G-Scholar--]]()
+- `SFADA` [Ran et al., Arxiv 2023] **Source-free active domain adaptation for diabetic retinopathy grading based on ultra-wide-field fundus image** [[PDF]](https://arxiv.org/abs/2309.10619) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1090372294966552960&hl=en)
 
-- `...` [Wang et al., Arxiv 2023] **Dual-reference source-free active domain adaptation for nasopharyngeal carcinoma tumor segmentation across multiple hospitals** [[PDF]](https://arxiv.org/abs/2309.13401) [[G-Scholar--]]() [[CODE--]](https://github.com/whq-xxh/Active-GTV-Seg)
+- `...` [Wang et al., Arxiv 2023] **Dual-reference source-free active domain adaptation for nasopharyngeal carcinoma tumor segmentation across multiple hospitals** [[PDF]](https://arxiv.org/abs/2309.13401) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2322742421309410339&hl=en) [[CODE--]](https://github.com/whq-xxh/Active-GTV-Seg)
 
-- `...` [Hu et al., Arxiv 2023] **A chebyshev confidence guided source-free domain adaptation framework for medical image segmentation** [[PDF]](https://arxiv.org/abs/2310.18087) [[G-Scholar--]]()
+- `...` [Hu et al., Arxiv 2023] **A chebyshev confidence guided source-free domain adaptation framework for medical image segmentation** [[PDF]](https://arxiv.org/abs/2310.18087) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15144390973634913542&hl=en)
 
 - `PD` [Rafiee et al., Misc 2023] **Diversified source-free domain adaptation** [[PDF]](https://openreview.net/forum?id=Ot0KorOlyl) [[G-Scholar--]]()
 
@@ -888,11 +892,11 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `MISFIT` [Rizzoli et al., Arxiv 2023] **Source-free domain adaptation for RGB-D semantic segmentation with vision transformers** [[PDF]](https://arxiv.org/abs/2305.14269) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1106788040715184555&hl=en)
 
-- `TGKT` [? et al., Misc 2023] **Source-free cross-modal knowledge transfer by unleashing the potential of task-irrelevant data** [[PDF]](https://openreview.net/forum?id=zSN6mXz6VF) [[G-Scholar--]]()
-
 - `ReCLIP` [Hu et al., Proc. WACV 2024] **ReCLIP: Refine contrastive language image pre-training with source free domain adaptation** [[PDF]](https://arxiv.org/abs/2308.03793) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18135944623162059089&hl=en) [[CODE]](https://github.com/michiganleon/ReCLIP_WACV)
 
 - `DIFO` [Tang et al., Proc. WACV 2024] **Source-free domain adaptation with frozen multimodal foundation model** [[PDF]](https://arxiv.org/abs/2311.16510) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7386217752559798759&hl=en) 
+
+- `TGKT` [Zhu et al., Arxiv 2024] **Source-free cross-modal knowledge transfer by unleashing the potential of task-irrelevant data** [[PDF]](https://openreview.net/forum?id=zSN6mXz6VF) [[G-Scholar--]]()
 
 ### Image Super-Resolution
 - `SOSR` [Ai et al., Arxiv 2023] **SOSR: Source-free image super-resolution with wavelet augmentation transformer** [[PDF]](https://arxiv.org/abs/2303.17783) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15698511251689818196&hl=en)
