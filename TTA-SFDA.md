@@ -493,6 +493,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `DCPL` [Diamant et al., arXiv 2024] **De-confusing pseudo-labels in source-free domain adaptation** [[PDF]](https://arxiv.org/abs/2401.01650) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7142632812358574823&hl=en)
 
+- `MixAdapt` [Sheng et al., arXiv 2024] **Can we trust the unlabeled target data? Towards backdoor attack and defense on model adaptation** [[PDF]](https://arxiv.org/abs/2401.06030) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10285492613128460283&hl=en)
+
 ## Semantic Segmentation
 ### 2021
 - `SFDA-UR` [Sivaprasad and Fleuret, Proc. CVPR 2021] **Uncertainty reduction for model adaptation in semantic segmentation** [[PDF]](https://openaccess.thecvf.com/content/CVPR2021/html/S_Uncertainty_Reduction_for_Model_Adaptation_in_Semantic_Segmentation_CVPR_2021_paper.html?ref=https://githubhelp.com) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10763756734865751592&hl=en) [[CODE]](https://github.com/idiap/model-uncertainty-for-adaptation)
@@ -925,9 +927,9 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 ### 2D Keypoint detection (Pose estimation)
 - `MAPS` [Ding et al., IEEE TCSVT 2023] **MAPS: A noise-robust progressive learning approach for source-free domain adaptive keypoint detection** [[PDF]](https://arxiv.org/abs/2302.04589) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13949106311988540827&hl=en) [[CODE]](https://github.com/YuheD/MAPS)
 
-- `...` [Peng et al., Proc. ICCV 2023] **Source-free domain adaptive human pose estimation** [[PDF]](https://arxiv.org/abs/2308.03202) [[G-Scholar--]]()
+- `...` [Peng et al., Proc. ICCV 2023] **Source-free domain adaptive human pose estimation** [[PDF]](https://arxiv.org/abs/2308.03202) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9372500620586065556&hl=en)
 
-- `...` [Raychaudhuri et al., Proc. ICCV 2023] **Prior-guided source-free domain adaptation for human pose estimation** [[PDF]](https://arxiv.org/abs/2308.13954) [[G-Scholar--]]()
+- `...` [Raychaudhuri et al., Proc. ICCV 2023] **Prior-guided source-free domain adaptation for human pose estimation** [[PDF]](https://arxiv.org/abs/2308.13954) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11978507610057332137&hl=en)
 
 ### Tracking
 - `DARTH` [Segu et al., Proc. ICCV 2023] **DARTH: Holistic test-time adaptation for multiple object tracking** [[PDF]](https://openaccess.thecvf.com/content/ICCV2023/html/Segu_DARTH_Holistic_Test-time_Adaptation_for_Multiple_Object_Tracking_ICCV_2023_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9104639642522487809&hl=en) [[CODE]](https://github.com/mattiasegu/darth)
@@ -941,10 +943,13 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 - `T3AR` [Zancato et al., Proc. CVPR 2023] **Train/test-time adaptation with retrieval** [[PDF]](https://arxiv.org/abs/2303.14333) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3099149445593841717&hl=en)
 
 ### Gaze estimation
-- `UnReGA` [Cai et al., Proc. CVPR 2023] **Source-free adaptive gaze estimation by uncertainty reduction** [[PDF]](https://openaccess.thecvf.com/content/CVPR2023/papers/Cai_Source-Free_Adaptive_Gaze_Estimation_by_Uncertainty_Reduction_CVPR_2023_paper.pdf) [[G-Scholar--]]() [[CODE--]](https://github.com/caixin1998/UnReGA)
+- `UnReGA` [Cai et al., Proc. CVPR 2023] **Source-free adaptive gaze estimation by uncertainty reduction** [[PDF]](https://openaccess.thecvf.com/content/CVPR2023/papers/Cai_Source-Free_Adaptive_Gaze_Estimation_by_Uncertainty_Reduction_CVPR_2023_paper.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11136870237307965506&hl=en) [[CODE--]](https://github.com/caixin1998/UnReGA)
 
 ### Hand-Object Interaction
 - `POV` [Xu et al., Proc. ACMMM 2023] **POV: Prompt-oriented view-agnostic learning for egocentric hand-object interaction in the multi-view world** [[PDF]](https://dl.acm.org/doi/abs/10.1145/3581783.3612484) [[G-Scholar--]]()
+
+### Human Activity Recognitio
+- `SF-Adapter` [Kang et al., Proc. IMWUT 2023] **SF-Adapter: Computational-efficient source-free domain adaptation for human activity recognition** [[PDF]](https://dl.acm.org/doi/abs/10.1145/3631428) [[G-Scholar--]]()
 
 ### Misc
 - `...` [Rufin et al., arXiv 2023] **Taking it further: Leveraging pseudo labels for field delineation across label-scarce smallholder regions** [[PDF]](https://arxiv.org/abs/2312.08384) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8445827874885835800&hl=en)
@@ -977,7 +982,7 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `...` [Zhang et al., Proc. China Automation Congress 2022] **Source-free domain adaptation for rotating machinery cross-domain fault diagnosis with neighborhood reciprocity clustering** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10055182) [[G-Scholar--]]()
 
-- `...` [Zhu et al., Proc. ICSMD 2022] **Source-free unsupervised domain adaptation for privacy-preserving intelligent fault diagnosis** [[PDF]](https://ieeexplore.ieee.org/document/10058437) [[G-Scholar--]]()
+- `...` [Zhu et al., Proc. ICSMD 2022] **Source-free unsupervised domain adaptation for privacy-preserving intelligent fault diagnosis** [[PDF]](https://ieeexplore.ieee.org/document/10058437) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11612300519810323279&hl=en)
 
 - `MDMAML` [Li et al., IEEE CIM 2022] **Meta-learning for fast and privacy-preserving source knowledge transfer of EEG-based BCIs** [[PDF]](https://ieeexplore.ieee.org/abstract/document/9942685) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9383691095506932596&hl=en)
 
