@@ -42,6 +42,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `...` [Marsden et al., Proc. WACV 2024] **Universal test-time adaptation through weight ensembling, diversity weighting, and prior correction** [[PDF]](https://arxiv.org/abs/2306.00650) [[G-Scholar]](https://scholar.google.com/scholar?cluster=225063450940283128&hl=en)
 
+- `...` [Tomar et al., Proc. ICLR 2024] **Un-mixing test-time normalization statistics: Combatting label temporal correlation** [[PDF]](https://arxiv.org/abs/2401.08328) [[G-Scholar--]]()
+
 ### Segmentation
 - `OnAVOS` [Voigtlaender and Leibe., Proc. BMVC 2017] **Online adaptation of convolutional neural networks for video object segmentation** [[PDF]](https://arxiv.org/abs/1706.09364) [[G-Scholar]](https://scholar.google.com.tw/scholar?cluster=7737687280948943248&hl=en)
 

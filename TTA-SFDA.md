@@ -358,6 +358,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `CDT` [Chen et al., Proc. PRCV 2023] **Classifier decoupled training for black-box unsupervised domain adaptation** [[PDF]](https://link.springer.com/chapter/10.1007/978-981-99-8435-0_2) [[G-Scholar--]]()
 
+- `...` [He et al., Proc. IEIR 2023] **Robust batch relation preserving for lifelong unsupervised domain adaptation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10391241) [[G-Scholar--]]()
+
   ---------------------------------
 
 - `NRC++` [Yang et al., IEEE TPAMI 2023] **Trust your good friends: Source-free domain adaptation by reciprocal neighborhood clustering** [[PDF]](https://arxiv.org/abs/2309.00528) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13832483681532519069&hl=en)
@@ -488,6 +490,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
   ~~ [Bohdal et al., Proc. ICML Workshops 2022] **Feed-forward source-free latent domain adaptation via cross-attention** [[PDF]](https://openreview.net/forum?id=EiQB09V5IX) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15837576530441040681&hl=en)~~
 
 - `SFADA` [He et al., Pattern Recognition 2024] **Source-free domain adaptation with unrestricted source hypothesis** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320323009433) [[G-Scholar--]]() [[CODE]](https://github.com/tiggers23/SFADA-main)
+
+- `SS-TrBoosting` [Deng et al., IEEE TAI 2024] **Semi-supervised transfer boosting (SS-TrBoosting)** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10382492) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13493837665823220665&hl=en)
 
 - `SCAL` [Sun et al., IET Image Processing 2024] **You only label once: A self-adaptive clustering-based method for source-free active domain adaptation** [[PDF]](https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/ipr2.13025) [[G-Scholar--]]()
 
@@ -1132,4 +1136,3 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 - `PseudoCal` [Hu et al., arXiv 2023] **PseudoCal: A source-free approach to unsupervised uncertainty calibration in domain adaptation** [[PDF]](https://arxiv.org/abs/2307.07489) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7757812403763949632&hl=en)
 
 - `TASFAR` [He et al., Porc. ICDE 2024] **Target-agnostic source-free domain adaptation for regression tasks** [[PDF]](https://arxiv.org/abs/2312.00540) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3952939575279367642&hl=en) [[CODE]](https://github.com/Siriusize/TASFAR_DA)
-
