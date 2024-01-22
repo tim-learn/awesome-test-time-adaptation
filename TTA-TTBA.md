@@ -90,6 +90,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `DRM` [Zhang et al., Misc 2023] **Domain-specific risk minimization for out-of-distribution generalization** [[PDF]](https://openreview.net/forum?id=vCVTZYFcmCm) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15694323213451390034&hl=en)
 
+- `VDPG` [anonymous et al., Proc. ICLR 2024] **Adapting to distribution shift by visual domain prompt generation** [[PDF]](https://openreview.net/forum?id=sSaN4gxuEf) [[G-Scholar--]]()
+
 ### Segmentation
 - `DIEM` [Wang et al., arXiv 2019] **Dynamic scale inference by entropy minimization** [[PDF]](https://arxiv.org/abs/1908.03182) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11939087491312325887&hl=en)
 
@@ -179,7 +181,7 @@ for robust visual perception** [[PDF]](https://openreview.net/forum?id=qgmrC8jhC
 
   ~~[Tsai et al., Proc. CVPR Workshops 2023] **Test-time detection and repair of adversarial samples via masked autoencoder** [[PDF]](https://robustart.github.io/long_paper/22.pdf) [[G-Scholar--]]()~~
 
-- `TETRA` [Blau et al., arXiv 2023] **Classifier robustness enhancement Via test-time transformation** [[PDF]](https://arxiv.org/abs/2303.15409) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10076827701044004595&hl=en)
+- `TETRA` [Blau et al., arXiv 2023] **Classifier robustness enhancement via test-time transformation** [[PDF]](https://arxiv.org/abs/2303.15409) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10076827701044004595&hl=en)
 
 - `ZIP` [Shi et al., arXiv 2023] **Black-box backdoor defense via zero-shot image purification** [[PDF]](https://arxiv.org/abs/2303.12175) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10966958864337456240&hl=en)
 
@@ -299,14 +301,16 @@ for robust visual perception** [[PDF]](https://openreview.net/forum?id=qgmrC8jhC
 
 - `T-SAS` [Jeong et al., Proc. EMNLP-Findings 2023] **Test-time self-adaptive small languagem models for question answering** [[PDF]](https://arxiv.org/abs/2310.13307) [[G-Scholar--]]() [[CODE--]](https://github.com/starsuzi/T-SAS)
 
-- `TTT-NN` [Hardt and Sun, arXiv 2023] **Test-time training on nearest neighbors for large language models** [[PDF]](https://arxiv.org/abs/2305.18466) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13923028688883164038&hl=en) [[CODE]](https://github.com/socialfoundations/tttlm)
-
 - `AGREE` [Ye et al., arXiv 2023] **Effective large language model adaptation for improved grounding** [[PDF]](https://arxiv.org/abs/2311.09533) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3665830312841118313&hl=en)
+
+- `TTT-NN` [Hardt and Sun, Proc. ICLR 2024] **Test-time training on nearest neighbors for large language models** [[PDF]](https://openreview.net/forum?id=CNL2bku4ra) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13923028688883164038&hl=en) [[CODE]](https://github.com/socialfoundations/tttlm)
 
 ### Graph
 - `GT3` [Wang et al., arXiv 2022] **Test-time training for graph neural networks** [[PDF]](https://arxiv.org/abs/2210.08813) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4459392671520994454&hl=en)
 
 - `GTRANS` [Jin et al., Proc. ICLR 2023] **Empowering graph representation learning with test-time graph transformation** [[PDF]](https://openreview.net/forum?id=Lnxl5pr018) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12479531068894109978&hl=en)
+
+- `GOODAT` [Wang et al., arXiv 2024] **GOODAT: Towards test-time graph out-of-distribution detection** [[PDF]](https://arxiv.org/abs/2401.06176) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2440708359479589077&hl=en)
 
 ### Misc
 - `PAD` [Hansen et al., Proc. ICLR 2021] **Self-supervised policy adaptation during deployment** [[PDF]](https://openreview.net/forum?id=o_V-MjyyGV_) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10107448604973336784&hl=en) [[CODE]](https://github.com/nicklashansen/policy-adaptation-during-deployment)
@@ -343,13 +347,15 @@ for robust visual perception** [[PDF]](https://openreview.net/forum?id=qgmrC8jhC
 
 - `ARSP` [Liu and Fang, arXiv 2023] **Learning to recover spectral reflectance from RGB images** [[PDF]](https://arxiv.org/abs/2303.07850) [[G-Scholar]](https://scholar.google.com/scholar?cluster=146325397292652498&hl=en)
 
-- `RLCF` [Zhao et al., arXiv 2023] **Test-time adaptation with CLIP reward for zero-shot generalization in vision-language models** [[PDF]](https://arxiv.org/abs/2305.18010) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13354273242354297247&hl=en)
-
 - `MoVie` [Yang et al., arXiv 2023] **MoVie: Visual model-based policy adaptation for view generalization** [[PDF]](https://arxiv.org/abs/2307.00972) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8702194818732254776&hl=en) [[CODE]](https://github.com/yangsizhe/MoVie)
 
 - `...` [Dumpala et al., arXiv 2023] **Test-time training for speech** [[PDF]](https://arxiv.org/abs/2309.10930) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1240093156897083970&hl=en)
 
 - `...` [Zheng et al., Proc. PRCV 2023] **Infrared and visible image fusion via test-time training** [[PDF]](https://link.springer.com/chapter/10.1007/978-981-99-8549-4_7) [[G-Scholar--]]()
+
+- `RLCF` [Zhao et al., Proc. ICLR 2024] **Test-time adaptation with CLIP reward for zero-shot generalization in vision-language models** [[PDF]](https://openreview.net/forum?id=kIP0duasBb) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13354273242354297247&hl=en) [[CODE]](https://github.com/mzhaoshuai/RLCF)
+
+- `C-TPT` [anonymous et al., Proc. ICLR 2024] **C-TPT: Calibrated test-time prompt tuning for vision-language models via text feature dispersion** [[PDF]](https://openreview.net/forum?id=jzzEHTBFOT) [[G-Scholar--]]()
 
 ## Batch-level
 ### Classification

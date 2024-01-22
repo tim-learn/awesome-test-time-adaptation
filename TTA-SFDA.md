@@ -9,7 +9,7 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 - [Object Detection](#Object-Detection)
 - [Medical Image Analysis](#Medical-Image-Analysis)
 - [Video Classification](#Video-Classification)
-- [3D Point Cloud Perception](#3D-Point-Cloud-Perception)
+- [3D Perception](#3D-Perception)
 - [Other CV Applications](#Other-CV-Applications)
 - [Beyond CV Applications](#Beyond-CV-Applications)
 
@@ -481,6 +481,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 - `...` [Thomas., Master Thesis 2023] **Continual domain adaptation through knowledge distillation** [[PDF]](https://scholarworks.rit.edu/theses/11545/) [[G-Scholar--]]() 
 
 ### 2024
+- `SF(DA)$^2$` [Hwang et al., Proc. ICLR 2024] **SF(DA)$^2$: Source-free domain adaptation through the lens of data augmentation** [[PDF]](https://openreview.net/forum?id=kUCgHbmO11) [[G-Scholar--]]()
+
 - `FedGM` [Wei and Han, Proc. AAAI 2024] **Multi-source collaborative gradient discrepancy minimization for federated domain generalization** [[PDF]](https://www.researchgate.net/publication/377162689_Multi-Source_Collaborative_Gradient_Discrepancy_Minimization_for_Federated_Domain_Generalization) [[G-Scholar--]]() [[CODE]](https://github.com/weiyikang/FedGM_torch)
 
 - `C-SFTrans` [Sanyal et al., Proc. WACV 2024] **Aligning non-causal factors for transformer-based source-free domain adaptation** [[PDF]](https://arxiv.org/abs/2311.16294/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15477511778305510501&hl=en) [[CODE]](https://github.com/val-iisc/DSiT-SFDA)
@@ -498,6 +500,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 - `DCPL` [Diamant et al., arXiv 2024] **De-confusing pseudo-labels in source-free domain adaptation** [[PDF]](https://arxiv.org/abs/2401.01650) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7142632812358574823&hl=en)
 
 - `MixAdapt` [Sheng et al., arXiv 2024] **Can we trust the unlabeled target data? Towards backdoor attack and defense on model adaptation** [[PDF]](https://arxiv.org/abs/2401.06030) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10285492613128460283&hl=en)
+
+- `4Ds` [Tang et al., arXiv 2024] **Direct distillation between different domains** [[PDF]](https://arxiv.org/abs/2401.06826) [[G-Scholar--]]()
 
 ## Semantic Segmentation
 ### 2021
@@ -836,7 +840,7 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `...` [Neubert., Master Thesis 2023] **Source-free domain adaptation for video action recognition** [[PDF]](https://webthesis.biblio.polito.it/secure/26775/1/tesi.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9953124906512607690&hl=en)
 
-## 3D Point Cloud Perception
+## 3D Perception
 ### 3D Object Detection
 - `SF-UDA3D` [Saltori et al., Proc. 3DV 2020] **SF-UDA3D: Source-free unsupervised domain adaptation for lidar-based 3d object detection** [[PDF]](https://arxiv.org/abs/2010.08243) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12668139134909180101&hl=en) [[CODE]](https://github.com/saltoricristiano/SF-UDA-3DV)
 
@@ -860,6 +864,9 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 ### 3D Lidar Recognition
 - `GeoAdapt` [Knights et al., IEEE Robotics and Automation Letters 2023] **GeoAdapt: Self-supervised test-time adaptation in LiDAR place recognition using geometric priors** [[PDF]](https://arxiv.org/abs/2308.04638) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16846487955556908782&hl=en) [[CODE--]](https://github.com/csiro-robotics/GeoAdapt)
+
+### 3D Pose Estimation
+- `...` [Kaushik et al., Proc. ICLR 2024] **Source-free and image-only unsupervised domain adaptation for category level object pose estimation** [[PDF]](https://openreview.net/forum?id=UPvufoBAIs) [[G-Scholar--]]()
 
 ## Facial Analysis
 ### Face Anti-spoofing
@@ -1082,6 +1089,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 - `AMFDA` [Salimnia., Master Thesis 2023] **Attention-based multi-source-free domain adaptation for EEG emotion recognition** [[PDF]](https://ir.lib.uwo.ca/etd/9154) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17471628973502560469&hl=en)
 
 - `...` [Niknam., Master Thesis 2023] **Source-free domain adaptation for sleep stage classification** [[PDF]](https://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=11881&context=etd) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2882485758239180576&hl=en)
+
+- `...` [anonymous et al., Proc. ICLR 2024] **Leveraging generative models for unsupervised alignment of neural time series data** [[PDF]](https://openreview.net/forum?id=9zhHVyLY4K) [[G-Scholar--]]()
 
 ## Misc
 - [Yang et al., Proc. ACM-MM2007] **Cross-domain video concept detection using adaptive svms** [[PDF]](https://dl.acm.org/doi/abs/10.1145/1291233.1291276) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4589454669556425406&hl=en)
