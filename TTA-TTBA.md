@@ -58,11 +58,11 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
   ~~[Park et al., Proc. ICML Workshops 2022] **Style balancing and test-time style shifting for domain generalization** [[PDF]](https://openreview.net/forum?id=7_3oRsaogr) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17482138953832830259&hl=en)~~
 
-- `PromptAlign` [Samadh et al., Proc. NeurIPS 2023] **Align your prompts: Test-time prompting with distribution alignment for zero-shot generalization** [[PDF]](https://arxiv.org/abs/2311.01459) [[G-Scholar--]]() [[CODE]](https://github.com/jameelhassan/PromptAlign)
+- `PromptAlign` [Samadh et al., Proc. NeurIPS 2023] **Align your prompts: Test-time prompting with distribution alignment for zero-shot generalization** [[PDF]](https://arxiv.org/abs/2311.01459) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3235088620563898394&hl=en) [[CODE]](https://github.com/jameelhassan/PromptAlign)
 
 - `Diffusion-TTA` [Prabhudesai et al., Proc. NeurIPS 2023] **Test-time adaptation of discriminative models via diffusion generative feedback** [[PDF]](https://openreview.net/forum?id=gUTVpByfVX) [[G-Scholar--]]() [[CODE]](https://github.com/mihirp1998/Diffusion-TTA)
 
-- `SwapPrompt` [Ma et al., Proc. NeurIPS 2023] **SwapPrompt: Test-time prompt adaptation for vision-language models** [[PDF]](https://openreview.net/forum?id=EhdNQiOWgQ) [[G-Scholar--]]()
+- `SwapPrompt` [Ma et al., Proc. NeurIPS 2023] **SwapPrompt: Test-time prompt adaptation for vision-language models** [[PDF]](https://openreview.net/forum?id=EhdNQiOWgQ) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17344404046023372078&hl=en)
 
 - `DDA` [Gao et al., Proc. CVPR 2023] **Back to the source: Diffusion-driven adaptation to test-time corruption** [[PDF]](https://arxiv.org/abs/2207.03442) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8145404192355562400&hl=en) [[CODE]](https://github.com/shiyegao/DDA)
 
@@ -84,9 +84,9 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `TTACIL` [Marouf et al., arXiv 2023] **Rethinking class-incremental learning in the era of large pre-trained models via test-time adaptation** [[PDF]](https://arxiv.org/abs/2310.11482) [[G-Scholar--]]() [[CODE]](https://github.com/IemProg/TTACIL)
 
-- `TEA` [Yuan et al., arXiv 2023] **TEA: Test-time energy adaptation** [[PDF]](https://arxiv.org/abs/2311.14402) [[G-Scholar--]]()
+- `TEA` [Yuan et al., arXiv 2023] **TEA: Test-time energy adaptation** [[PDF]](https://arxiv.org/abs/2311.14402) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8594385526193961998&hl=en)
 
-- `GDDA` [Song and Lai, arXiv 2023] **Target to source: Guidance-based diffusion model for test-time adaptation** [[PDF]](https://arxiv.org/abs/2312.05274) [[G-Scholar--]]()
+- `GDDA` [Song and Lai, arXiv 2023] **Target to source: Guidance-based diffusion model for test-time adaptation** [[PDF]](https://arxiv.org/abs/2312.05274) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17929600270827256125&hl=en)
 
 - `DRM` [Zhang et al., Misc 2023] **Domain-specific risk minimization for out-of-distribution generalization** [[PDF]](https://openreview.net/forum?id=vCVTZYFcmCm) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15694323213451390034&hl=en)
 

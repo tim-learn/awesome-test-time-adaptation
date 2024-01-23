@@ -282,7 +282,7 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `PROGRAM` [anonymous et al., Proc. ICLR 2024] **PROGRAM: Prototype graph model based pseudo-label learning for test-time adaptation** [[PDF]](https://openreview.net/forum?id=x5LvBK43wg) [[G-Scholar--]]()
 
-- `SimATTA` [anonymous et al., Proc. ICLR 2024] **Active test-time adaptation: Theoretical analyses and an algorithm** [[PDF]](https://openreview.net/forum?id=YHUGlwTzFB) [[G-Scholar--]]()
+- `SimATTA` [Gui et al., Proc. ICLR 2024] **Active test-time adaptation: Theoretical analyses and an algorithm** [[PDF]](https://openreview.net/forum?id=YHUGlwTzFB) [[G-Scholar--]]() [[CODE--]](https://github.com/divelab/ATTA)
 
 - `CMF` [anonymous et al., Proc. ICLR 2024] **Continual momentum filtering on parameter space for online test-time adaptation** [[PDF]](https://openreview.net/forum?id=BllUWdpIOA) [[G-Scholar--]]()
 
@@ -340,6 +340,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `OCL` [Zhang et al., arXiv 2023] **Test-time training for semantic segmentation with output contrastive loss** [[PDF]](https://arxiv.org/abs/2311.07877) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14321906742515330753&hl=en) [[CODE]](https://github.com/dazhangyu123/OCL)
 
 - `...` [Niloy et al., Proc. ICASSP 2024] **Source-free online domain adaptive semantic segmentation of satellite images under image degradation** [[PDF]](https://arxiv.org/abs/2401.02113) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8795029219237150423&hl=en)
+
+- `BECoTTA` [Lee et al., Misc 2024] **BECoTTA: Input-dependent online blending of experts for continual test-time adaptation** [[PDF--]]() [[G-Scholar--]]() [[CODE]](https://github.com/daeunni/becotta)
 
 ### NLP
 - `OIL` [Ye et al., Proc. EMNLP Findings 2022] **Robust question answering against distribution shifts with test-time adaptation: An empirical study** [[PDF]](https://arxiv.org/abs/2302.04618) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14000848114209529359&hl=en) [[CODE]](https://github.com/oceanypt/coldqa-tta)

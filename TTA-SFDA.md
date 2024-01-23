@@ -274,6 +274,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
   
 - `SODA` [Wang et al., Proc. NeurIPS 2023] **SODA: Robust training of test-time data adaptors** [[PDF]](https://arxiv.org/abs/2310.11093) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16757974606908528634&hl=en)
 
+- `CODA` [Chen et al., Proc. NeurIPS 2023] **CODA: Generalizing to open and unseen domains with compaction and disambiguation** [[PDF]](https://openreview.net/forum?id=Jw0KRTjsGA) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1473676182220928288&hl=en) [[CODE]](https://github.com/yuan-yin/CoDA)
+
 - `MHPL` [Wang et al., Proc. CVPR 2023] **MHPL: Minimum happy points Learning for active source free domain adaptation** [[PDF]](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_MHPL_Minimum_Happy_Points_Learning_for_Active_Source_Free_Domain_CVPR_2023_paper.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11650728301910332889&hl=en)
   
   ~~[Wang et al., arXiv 2022] **Active source free domain adaptation** [[PDF]](https://arxiv.org/abs/2205.10711) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13385267099164282245&hl=en)~~
@@ -483,7 +485,9 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 ### 2024
 - `SF(DA)$^2$` [Hwang et al., Proc. ICLR 2024] **SF(DA)$^2$: Source-free domain adaptation through the lens of data augmentation** [[PDF]](https://openreview.net/forum?id=kUCgHbmO11) [[G-Scholar--]]()
 
-- `FedGM` [Wei and Han, Proc. AAAI 2024] **Multi-source collaborative gradient discrepancy minimization for federated domain generalization** [[PDF]](https://www.researchgate.net/publication/377162689_Multi-Source_Collaborative_Gradient_Discrepancy_Minimization_for_Federated_Domain_Generalization) [[G-Scholar--]]() [[CODE]](https://github.com/weiyikang/FedGM_torch)
+- `FedGM` [Wei and Han, Proc. AAAI 2024] **Multi-source collaborative gradient discrepancy minimization for federated domain generalization** [[PDF]](https://arxiv.org/abs/2401.10272) [[G-Scholar--]]() [[CODE]](https://github.com/weiyikang/FedGM_torch)
+
+- `Bi-ATEN` [anonymous et al, Proc. AAAI 2024] **Agile multi-source-free domain adaptation** [[PDF--]]() [[G-Scholar--]]() [[CODE]](https://github.com/TL-UESTC/Bi-ATEN)
 
 - `C-SFTrans` [Sanyal et al., Proc. WACV 2024] **Aligning non-causal factors for transformer-based source-free domain adaptation** [[PDF]](https://arxiv.org/abs/2311.16294/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15477511778305510501&hl=en) [[CODE]](https://github.com/val-iisc/DSiT-SFDA)
 
@@ -806,7 +810,7 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `LGDA` [Ye et al., arXiv 2023] **Local-global pseudo-label correction for source-free domain adaptive medical image segmentation** [[PDF]](https://arxiv.org/abs/2308.14312) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14525675125862110265&hl=en)
 
-- `SFADA` [Ran et al., arXiv 2023] **Source-free active domain adaptation for diabetic retinopathy grading based on ultra-wide-field fundus image** [[PDF]](https://arxiv.org/abs/2309.10619) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1090372294966552960&hl=en)
+- `SFADA` [Ran et al., arXiv 2023] **Source-free active domain adaptation for diabetic retinopathy grading based on ultra-wide-field fundus image** [[PDF]](https://arxiv.org/abs/2309.10619) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1090372294966552960&hl=en) [[CODE]](https://github.com/JinyeRAN/SFADA)
 
 - `...` [Wang et al., arXiv 2023] **Dual-reference source-free active domain adaptation for nasopharyngeal carcinoma tumor segmentation across multiple hospitals** [[PDF]](https://arxiv.org/abs/2309.13401) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2322742421309410339&hl=en) [[CODE--]](https://github.com/whq-xxh/Active-GTV-Seg)
 
@@ -910,6 +914,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 - `DIFO` [Tang et al., Proc. WACV 2024] **Source-free domain adaptation with frozen multimodal foundation model** [[PDF]](https://arxiv.org/abs/2311.16510) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7386217752559798759&hl=en) 
 
 - `TGKT` [Zhu et al., arXiv 2024] **Source-free cross-modal knowledge transfer by unleashing the potential of task-irrelevant data** [[PDF]](https://openreview.net/forum?id=zSN6mXz6VF) [[G-Scholar--]]()
+
+- `...` [anonymous et al., Misc 2024] **Towards dynamic-prompting collaboration for source-free domain adaptation** [[PDF--]]() [[G-Scholar--]]() [[CODE]](https://github.com/Anonymous3119/paperID3119)
 
 ### Image Super-Resolution
 - `SOSR` [Ai et al., arXiv 2023] **SOSR: Source-free image super-resolution with wavelet augmentation transformer** [[PDF]](https://arxiv.org/abs/2303.17783) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15698511251689818196&hl=en)
