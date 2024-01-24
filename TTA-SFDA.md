@@ -362,6 +362,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `...` [He et al., Proc. IEIR 2023] **Robust batch relation preserving for lifelong unsupervised domain adaptation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10391241) [[G-Scholar--]]()
 
+- `GILL` [Liang, Proc. ICCWAMTIP 2023] **Source free domain adaptation based on latent dirichlet allocation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10387035)  [[G-Scholar--]]()
+
   ---------------------------------
 
 - `NRC++` [Yang et al., IEEE TPAMI 2023] **Trust your good friends: Source-free domain adaptation by reciprocal neighborhood clustering** [[PDF]](https://arxiv.org/abs/2309.00528) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13832483681532519069&hl=en)
@@ -494,6 +496,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 - `CXDA` [Bohdal et al., Proc. WACV 2024] **Feed-forward latent domain adaptation** [[PDF]](https://openaccess.thecvf.com/content/WACV2024/html/Bohdal_Feed-Forward_Latent_Domain_Adaptation_WACV_2024_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15837576530441040681&hl=en)
 
   ~~ [Bohdal et al., Proc. ICML Workshops 2022] **Feed-forward source-free latent domain adaptation via cross-attention** [[PDF]](https://openreview.net/forum?id=EiQB09V5IX) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15837576530441040681&hl=en)~~
+
+- `ASM` [Jing et al., IEEE TIP 2024] **Visually source-free domain adaptation via adversarial style matching** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10410236)  [[G-Scholar]](https://scholar.google.com/scholar?cluster=1420083944803220325&hl=en)
 
 - `SFADA` [He et al., Pattern Recognition 2024] **Source-free domain adaptation with unrestricted source hypothesis** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320323009433) [[G-Scholar--]]() [[CODE]](https://github.com/tiggers23/SFADA-main)
 
@@ -823,6 +827,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 ### 2024
 - `PLPB` [Li et al., Proc. WACV 2024] **Robust source-free domain adaptation for fundus image segmentation** [[PDF]](https://arxiv.org/abs/2310.16665) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14362854508610886433&hl=en) [[CODE--]](https://github.com/LinGrayy/PLPB)
 
+- `Distill-SODA` [Vray et al., IEEE TMI 2024] **Distill-SODA: Distilling self-supervised vision transformer for source-free open-set domain adaptation in computational pathology** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10403873)  [[G-Scholar]](https://scholar.google.com/scholar?cluster=14471489511816927773&hl=en) [[CODE]](https://github.com/LTS5/Distill-SODA)
+
 ## Video Classification
 ### 2022
 - `ATCoN` [Xu et al., Proc. ECCV 2022] **Learning temporal consistency for source-free video domain adaptation** [[PDF]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136940144.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4238691108482542310&hl=en) [[CODE]](https://github.com/xuyu0010/ATCoN)
@@ -1043,6 +1049,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 - `...` [Wang et al., Proc. IEEE ICMA 2023] **Source-free domain adaptation network for rolling bearing fault diagnosis** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10216194) [[G-Scholar--]]()
 
 - `DSP` [Liu et al., Proc. AIMLR 2023] **Adaptive speech recognition via dual-level sequential pseudo labels** [[PDF]](https://dl.acm.org/doi/abs/10.1145/3625343.3625366) [[G-Scholar--]]()
+
+- `...` [Zhang et al., Proc. ASRU 2023] **Consistency based unsupervised self-training for ASR personalisation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10389677) [[G-Scholar--]]()
 
   ---------------------
 

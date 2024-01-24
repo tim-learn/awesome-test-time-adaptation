@@ -106,6 +106,10 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `OnDA-DETR` [Suzuki et al., Proc. ICIP 2023] **OnDA-DETR: Online domain adaptation for detection transformers with self-training framework** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10222353) [[G-Scholar--]]()
 
+- `...` [Huang et al., Proc. BIBM 2023] **Huang A parameter adaptive tuning algorithm for medical image recognition model testing** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10385867/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2096254124065812134&hl=en)
+
+- `MTA` [Wang et al., Proc. AI 2023] **Multiple teacher model for continual test-time domain adaptation** [[PDF]](https://link.springer.com/chapter/10.1007/978-981-99-8388-9_25) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1618555893267714317&hl=en)
+
 - `AUTO` [Yang et al., arXiv 2023] **AUTO: Adaptive outlier optimization for online test-time OOD detection** [[PDF]](https://arxiv.org/abs/2303.12267) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14394937181474626375&hl=en)
 
 - `...` [Lumentut and Lee, arXiv 2023] **3DHR-Co: A collaborative test-time refinement framework for in-the-wild 3D human-body reconstruction task** [[PDF]](https://arxiv.org/abs/2310.01291) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15787400814478008159&hl=en)
@@ -117,8 +121,6 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `FSTTA` [Gao et al., arXiv 2023] **Test-time adaptive vision-and-language navigation** [[PDF]](https://arxiv.org/abs/2311.13209) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15442909998382208943&hl=en)
 
 - `AdaODD` [Zhang et al., arXiv 2023] **Model-free test time adaptation for out-of-distribution detection** [[PDF]](https://arxiv.org/abs/2311.16420) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2461883119801129759&hl=en)
-
-- `MTA` [Wang et al., Proc. AI 2023] **Multiple teacher model for continual test-time domain adaptation** [[PDF]](https://link.springer.com/chapter/10.1007/978-981-99-8388-9_25) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1618555893267714317&hl=en)
 
 #### 2024
 - `CEDR` [An et al., Proc. AAAI 2024] **Context enhanced transformer for single image object detection** [[PDF]](https://arxiv.org/abs/2311.13209) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3955557996745187272&hl=en) [[CODE--]](https://github.com/KU-CVLAB/CETR)
@@ -232,6 +234,10 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `CAFe` [Adachi et al., Proc. ICIP 2023] **Covariance-aware feature alignment with pre-computed source statistics for test-time adaptation to multiple image corruptions** [[PDF]](https://arxiv.org/abs/2204.13263) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9027936211625033629&hl=en)
 
 - `...` [Rifat et al., Proc. MILCOM 2023] **Zero-shot dynamic neural network adaptation in tactical wireless systems** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10356318/) [[G-Scholar--]]()
+
+- `AWMC` [Lee et al., Proc. ASRU 2023] **AWMC: Online test-time adaptation without mode collapse for continual adaptation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10389640) [[G-Scholar--]]()
+
+  ---------------------
 
 - `T-TIME` [Li et al., IEEE TMBE 2023] **T-TIME: Test-time information maximization ensemble for plug-and-play BCIs** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10210666) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13455766305882536637&hl=en) [[CODE]](https://github.com/sylyoung/DeepTransferEEG)
 
