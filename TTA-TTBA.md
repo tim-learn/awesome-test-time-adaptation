@@ -150,6 +150,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 #### 2024
 - `GenSAM` [Hu et al., Proc. AAAI 2024] **Relax image-specific prompt requirement in SAM: A single generic prompt for segmenting camouflaged objects** [[PDF]](https://arxiv.org/abs/2312.07374) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3602234802657076128&hl=en) [[CODE]](https://github.com/jyLin8100/GenSAM)
 
+- `InTEnt` [Dong et al., arXiv 2024] **Medical image segmentation with InTEnt: Integrated entropy weighting for single image test-time adaptation** [[PDF]](https://arxiv.org/abs/2402.09604) [[G-Scholar--]]() [[CODE--]](https://github.com/mazurowski-lab/single-image-test-time-adaptation)
+
 ### Detection
 - `OSHOT` [D'Innocente et al., Proc. ECCV 2020] **One-shot unsupervised cross-domain detection** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-030-58517-4_43) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7600955351500947376&hl=en) [[CODE]](https://github.com/VeloDC/oshot_detection)
 
@@ -204,6 +206,8 @@ for robust visual perception** [[PDF]](https://openreview.net/forum?id=qgmrC8jhC
 
 - `...` [Chen et al., IEEE TMM 2023] **Multi-person 3D pose esitmation with occlusion reasoning** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10117604/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10649559173461333171&hl=en)
 
+- `UAO` [Wang et al., arXiv 2024] **Uncertainty-aware testing-time optimization for 3D human pose estimation** [[PDF]](https://arxiv.org/abs/2402.02339) [[G-Scholar--]]()
+
 ### Retrieval 
 - `Sketch3T` [Sain et al., Proc. CVPR 2022] **Sketch3t: Test-time training for zero-shot SBIR** [[PDF]](http://openaccess.thecvf.com/content/CVPR2022/html/Sain_Sketch3T_Test-Time_Training_for_Zero-Shot_SBIR_CVPR_2022_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3412435374622527568&hl=en)
 
@@ -236,6 +240,8 @@ for robust visual perception** [[PDF]](https://openreview.net/forum?id=qgmrC8jhC
 
 - `PTTD` [Chen et al., arXiv 2023] **Prompt-based test-time real image dehazing: A novel pipelinee** [[PDF]](https://arxiv.org/abs/2309.17389) [[G-Scholar--]]() [[CODE]](https://github.com/cecret3350/PTTD-Dehazing)
 
+- `UTAL` [Zhang et al., IEEE TPAMI 2024] **Unsupervised test-time adaptation learning for effective hyperspectral image super-resolution with unknown degeneration** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10420496/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1887433236424898846&hl=en)
+
 ### Inverse problem
 - `R&R+` [Gilton et al., IEEE TCI 2021] **Model adaptation for inverse problems in imaging** [[PDF]](https://ieeexplore.ieee.org/abstract/document/9477112/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1317665702275783452&hl=en)
 
@@ -244,6 +250,8 @@ for robust visual perception** [[PDF]](https://openreview.net/forum?id=qgmrC8jhC
 - `...` [Darestani et al., Proc. ICML 2022] **Test-time training can close the natural distribution shift performance gap in deep learning based compressed sensing** [[PDF]](https://proceedings.mlr.press/v162/darestani22a.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17586372982715627644&hl=en) [[CODE]](https://github.com/MLI-lab/ttt_for_deep_learning_cs)
 
 - `PINER` [Song et al., Proc. WACV 2023] **PINER: Prior-informed implicit neural representation learning for test-time adaptation in sparse-view CT reconstruction** [[PDF]](https://openaccess.thecvf.com/content/WACV2023/html/Song_PINER_Prior-Informed_Implicit_Neural_Representation_Learning_for_Test-Time_Adaptation_in_WACV_2023_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8086782344774079473&hl=en)
+
+- `PnP-TTT` [Chandler et al., Proc. CAMSAP 2023] **Overcoming distribution shifts in plug-and-play methods with test-time training** [[PDF]](https://arxiv.org/abs/2310.16665) [[G-Scholar--]]()
 
 - `DIP-Inv` [Xu and Heagy, arXiv 2023] **A test-time learning approach to reparameterize the geophysical inverse problem with a convolutional neural network** [[PDF]](https://arxiv.org/abs/2312.04752) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11034300332248270471&hl=en)
 
@@ -407,6 +415,8 @@ federated learning** [[PDF]](https://arxiv.org/abs/2310.18816) [[G-Scholar]](htt
 - `...` [Haslum et al, Proc. WACV 2024] **Bridging generalization gaps in high content imaging through online self-supervised domain adaptation** [[PDF]](https://arxiv.org/abs/2311.12623) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5616759635685757071&hl=en)
 
 - `...` [Amosy et al., Proc. WACV 2024] **Late to the party? On-demand unlabeled personalized federated learning** [[PDF]](https://openaccess.thecvf.com/content/WACV2024/html/Amosy_Late_to_the_Party_On-Demand_Unlabeled_Personalized_Federated_Learning_WACV_2024_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6144447574631158841&hl=en)
+
+- `Hybrid-TTN` [Vianna et al, arXiv 2024] **Channel-selective normalization for label-shift robust test-time adaptation** [[PDF]](https://arxiv.org/abs/2402.04958) [[G-Scholar--]]()
 
 ### Video processing (multiple frames)
 - `PGO` [Brahmbhatt et al., Proc. CVPR 2018] **Geometry-aware learning of maps for camera localization** [[PDF]](http://openaccess.thecvf.com/content_cvpr_2018/html/Brahmbhatt_Geometry-Aware_Learning_of_CVPR_2018_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15361942550307476955&hl=en) [[CODE]](https://github.com/NVlabs/geomapnet)

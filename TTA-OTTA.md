@@ -89,6 +89,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `DoSe` [Reddy et al., Proc. WACV 2024] **Towards domain-aware knowledge distillation for continual model generalization** [[PDF]](https://openaccess.thecvf.com/content/WACV2024/html/Reddy_Towards_Domain-Aware_Knowledge_Distillation_for_Continual_Model_Generalization_WACV_2024_paper.html) [[G-Scholar--]]()
 
+- `BECoTTA` [Lee et al., arXiv 2024] **BECoTTA: Input-dependent online blending of experts for continual test-time adaptation** [[PDF]](https://arxiv.org/abs/2402.08712) [[G-Scholar--]]()
+
 ### Misc
 - `BOA` [Guan et al., Proc. CVPR 2021] **Bilevel online adaptation for out-of-domain human mesh reconstruction** [[PDF]](https://openaccess.thecvf.com/content/CVPR2021/html/Guan_Bilevel_Online_Adaptation_for_Out-of-Domain_Human_Mesh_Reconstruction_CVPR_2021_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14857518758485826444&hl=en) [[CODE]](https://github.com/syguan96/BOA)
 
@@ -318,6 +320,14 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `DPL` [Wang et al., arXiv 2024] **Decoupled prototype learning for reliable test-time adaptation** [[PDF]](https://arxiv.org/abs/2401.08703) [[G-Scholar--]]()
 
+- `CNA-TTA` [Cho et al., arXiv 2024] **CNA-TTA: Clean and noisy region aware feature learning within clusters for online-offline test-time adaptation** [[PDF]](https://arxiv.org/abs/2401.14587) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13638373086069513466&hl=en)
+
+- `ResiTTA` [Zhou et al., arXiv 2024] **Resilient practical test-time adaptation: Soft batch normalization alignment and entropy-driven memory bank** [[PDF]](https://arxiv.org/abs/2401.14619) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15309463921930644528&hl=en)
+
+- `GAP` [Shin et al., arXiv 2024] **Gradient alignment with prototype feature for fully test-time adaptation** [[PDF]](https://arxiv.org/abs/2402.09004) [[G-Scholar--]]()
+
+- `VCoTTA` [Lyu et al., arXiv 2024] **Variational continual test-time adaptation** [[PDF]](https://arxiv.org/abs/2402.08182) [[G-Scholar--]]()
+
 ### Segmentation
 - `RNCR` [Hu et al., Proc. MICCAI 2021] **Fully test-time adaptation for image segmentation** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-030-87199-4_24) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18183176392541200399&hl=en)
 
@@ -347,7 +357,9 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `...` [Niloy et al., Proc. ICASSP 2024] **Source-free online domain adaptive semantic segmentation of satellite images under image degradation** [[PDF]](https://arxiv.org/abs/2401.02113) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8795029219237150423&hl=en)
 
-- `BECoTTA` [Lee et al., Misc 2024] **BECoTTA: Input-dependent online blending of experts for continual test-time adaptation** [[PDF--]]() [[G-Scholar--]]() [[CODE]](https://github.com/daeunni/becotta)
+- `COMET` [Schlachter and Yang, arXiv 2024] **COMET: Contrastive mean teacher for online source-free universal domain adaptation** [[PDF]](https://arxiv.org/abs/2401.17728) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14447981558980469860&hl=en)
+
+- `BECoTTA` [Lee et al., arXiv 2024] **BECoTTA: Input-dependent online blending of experts for continual test-time adaptation** [[PDF]](https://arxiv.org/abs/2402.08712) [[G-Scholar--]]() [[CODE]](https://github.com/daeunni/becotta)
 
 ### NLP
 - `OIL` [Ye et al., Proc. EMNLP Findings 2022] **Robust question answering against distribution shifts with test-time adaptation: An empirical study** [[PDF]](https://arxiv.org/abs/2302.04618) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14000848114209529359&hl=en) [[CODE]](https://github.com/oceanypt/coldqa-tta)
@@ -430,6 +442,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `...` [Kim et al., Proc. AAAI 2024] **When model meets new normals: Test-time adaptation for unsupervised time-series anomaly detection** [[PDF]](https://arxiv.org/abs/2312.11976) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11724393678473935195&hl=en) [[CODE]](https://github.com/carrtesy/M2N2)
 
 - `OFTTA` [Wang et al., Proc. IMWUT/ UbiComp 2024] **Optimization-free test-time adaptation for cross-person activity recognition** [[PDF]](https://arxiv.org/abs/2310.18562) [[G-Scholar--]]() [[CODE]](https://github.com/Claydon-Wang/OFTTA)
+
+- `...` [Park et al., arXiv 2024] **Test-time adaptation for depth completion** [[PDF]](https://arxiv.org/abs/2402.03312) [[G-Scholar--]]()
 
 ## Related
 - `GTTA-ST` [Marsden et al., arXiv 2022] **Introducing intermediate domains for effective self-training during test-time** [[PDF]](https://arxiv.org/abs/2208.07736) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11840087784657470158&hl=en)

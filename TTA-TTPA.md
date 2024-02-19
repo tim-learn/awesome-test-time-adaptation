@@ -56,3 +56,5 @@ A curated list of awesome test-time prior adaptation resources. Your contributio
 
 - `CPMKM` [Wen et al., arXiv 2023] **Class probability matching using kernel methods for
 label shift adaptation** [[PDF]](https://arxiv.org/abs/2312.07282) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11916720703831072905&hl=en)
+
+- `OLS-OFU` [Wu et al., arXiv 2024] **Online feature updates improve online (generalized) label shift adaptation** [[PDF]](https://arxiv.org/abs/2402.03545) [[G-Scholar--]]()
