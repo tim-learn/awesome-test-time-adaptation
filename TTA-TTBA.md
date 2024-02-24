@@ -147,6 +147,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `TTA-SEG` [Janouskova., Master Thesis 2023] **Test-time adaptation for segmentation** [[PDF]]() [[G-Scholar--]]() [[CODE]](https://github.com/klarajanouskova/TTA-SEG)
 
+- `TTAwCD` [Song et al., IEEE RA-L 2023] **Test-time Adaptation in the Dynamic World with Compound Domain Knowledge Management** [[PDF]](https://arxiv.org/abs/2212.08356) [[G-Scholar]](https://scholar.google.com/scholar_lookup?arxiv_id=2212.08356)
+
 #### 2024
 - `GenSAM` [Hu et al., Proc. AAAI 2024] **Relax image-specific prompt requirement in SAM: A single generic prompt for segmenting camouflaged objects** [[PDF]](https://arxiv.org/abs/2312.07374) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3602234802657076128&hl=en) [[CODE]](https://github.com/jyLin8100/GenSAM)
 
