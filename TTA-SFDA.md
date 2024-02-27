@@ -503,6 +503,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `ASM` [Jing et al., IEEE TIP 2024] **Visually source-free domain adaptation via adversarial style matching** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10410236)  [[G-Scholar]](https://scholar.google.com/scholar?cluster=1420083944803220325&hl=en)
 
+- `ICPR` [Tian et al., IEEE TNNLS 2024] **Intrinsic consistency preservation with adaptively reliable samples for source-free domain adaptation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10438926/)  [[G-Scholar]](https://scholar.google.com/scholar?cluster=10786835568489220477&hl=en) [[CODE]](https://github.com/CFM-MSG/Code_ICPR)
+
 - `SFADA` [He et al., Pattern Recognition 2024] **Source-free domain adaptation with unrestricted source hypothesis** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320323009433) [[G-Scholar--]]() [[CODE]](https://github.com/tiggers23/SFADA-main)
 
 - `GDT` [Tian and Zhang, Pattern Recognition 2024] **Generation, division and training: A promising method for source-free unsupervised domain adaptation** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0893608024000583)  [[G-Scholar--]]()
@@ -524,6 +526,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 - `LDAuCID` [Rostami, arXiv 2024] **Continuous unsupervised domain adaptation using stabilized representations and experience replay** [[PDF]](https://arxiv.org/abs/2402.00580) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2690826121693915504&hl=en) [[CODE]](https://github.com/rostami-m/LDACID)
 
 - `HCPR` [Shu et al., arXiv 2024] **Source-free unsupervised domain adaptation with hypothesis consolidation of prediction rationale** [[PDF]](https://arxiv.org/abs/2402.01157) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3460934716051010037&hl=en) [[CODE]](https://github.com/GANPerf/HCPR)
+
+- `...` [Zhu et al., Misc 2024] **Pick and adapt: An iterative approach for source-free domain adaptation** [[PDF]](https://openreview.net/forum?id=SaSK9M66KK) [[G-Scholar--]]()
 
 ## Semantic Segmentation
 ### 2021

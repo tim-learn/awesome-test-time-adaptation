@@ -174,8 +174,7 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `Equ-Defense` [Mao et al., arXiv 2022] **Robust perception through equivariance** [[PDF]](https://arxiv.org/abs/2212.06079) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6052114939161464594&hl=en)
 
-- `CVP` [Tsai et al., Proc. NeurIPS 2023] **Convolutional visual prompt
-for robust visual perception** [[PDF]](https://openreview.net/forum?id=qgmrC8jhCo) [[G-Scholar--]]()
+- `CVP` [Tsai et al., Proc. NeurIPS 2023] **Convolutional visual prompt for robust visual perception** [[PDF]](https://openreview.net/forum?id=qgmrC8jhCo) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6621647007888753934&hl=en)
 
 - `Mask-Defense` [McDermott et al., Proc. ICLR Workshops 2023] **Robustifying language models with test-time adaptation** [[PDF]](https://openreview.net/forum?id=MOe6swbU2Ab) [[G-Scholar--]]()
 
