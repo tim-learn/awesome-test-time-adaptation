@@ -221,7 +221,7 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `...` [Yang et al., Proc. IJCAI 2023] **Exploring safety supervision for continual test-time domain adaptation** [[PDF]](https://www.ijcai.org/proceedings/2023/0183.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17086086183883798973&hl=en)
 
-- `...` [Yu et al., Proc. ACMMM 2023] **Noise-robust continual test-time domain adaptation** [[PDF]](https://dl.acm.org/doi/abs/10.1145/3581783.3612071) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12561399263268636104&hl=en)
+- `...` [Yu et al., Proc. ACMMM 2023] **Noise-robust continual test-time domain adaptation** [[PDF]](https://dl.acm.org/doi/abs/10.1145/3581783.3612071) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12561399263268636104&hl=en) [[CODE]](https://github.com/TL-UESTC/cotta_mindspore)
 
 - `...` [Narayanan et al., Proc. ICLR Workshops 2023] **A simple test-time adaptation method for source-free domain generalization** [[PDF]](https://openreview.net/forum?id=Ran2xUWG2n) [[G-Scholar--]]()
 
@@ -288,9 +288,11 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 #### 2024
 - `TePA` [Cong et al., Proc. S&P 2024] **Test-time poisoning attacks against test-time adaptation models** [[PDF]](https://arxiv.org/abs/2308.08505) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13810860861574844121&hl=en) [[CODE]](https://github.com/tianshuocong/TePA)
 
-- `PROGRAM` [anonymous et al., Proc. ICLR 2024] **PROGRAM: Prototype graph model based pseudo-label learning for test-time adaptation** [[PDF]](https://openreview.net/forum?id=x5LvBK43wg) [[G-Scholar--]]()
-
 - `SimATTA` [Gui et al., Proc. ICLR 2024] **Active test-time adaptation: Theoretical analyses and an algorithm** [[PDF]](https://openreview.net/forum?id=YHUGlwTzFB) [[G-Scholar--]]() [[CODE--]](https://github.com/divelab/ATTA)
+
+- `CEMA` [Chen et al., Proc. ICLR 2024] **Towards robust and efficient cloud-edge elastic model adaptation via selective entropy distillation** [[PDF]](https://openreview.net/forum?id=vePdNU3u6n) [[G-Scholar--]]()
+
+- `PROGRAM` [anonymous et al., Proc. ICLR 2024] **PROGRAM: Prototype graph model based pseudo-label learning for test-time adaptation** [[PDF]](https://openreview.net/forum?id=x5LvBK43wg) [[G-Scholar--]]()
 
 - `CMF` [anonymous et al., Proc. ICLR 2024] **Continual momentum filtering on parameter space for online test-time adaptation** [[PDF]](https://openreview.net/forum?id=BllUWdpIOA) [[G-Scholar--]]()
 
@@ -324,9 +326,11 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `ResiTTA` [Zhou et al., arXiv 2024] **Resilient practical test-time adaptation: Soft batch normalization alignment and entropy-driven memory bank** [[PDF]](https://arxiv.org/abs/2401.14619) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15309463921930644528&hl=en)
 
-- `GAP` [Shin et al., arXiv 2024] **Gradient alignment with prototype feature for fully test-time adaptation** [[PDF]](https://arxiv.org/abs/2402.09004) [[G-Scholar--]]()
+- `GAP` [Shin et al., arXiv 2024] **Gradient alignment with prototype feature for fully test-time adaptation** [[PDF]](https://arxiv.org/abs/2402.09004) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11643480628192610591&hl=en)
 
-- `VCoTTA` [Lyu et al., arXiv 2024] **Variational continual test-time adaptation** [[PDF]](https://arxiv.org/abs/2402.08182) [[G-Scholar--]]()
+- `VCoTTA` [Lyu et al., arXiv 2024] **Variational continual test-time adaptation** [[PDF]](https://arxiv.org/abs/2402.08182) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2984398287283233063&hl=en)
+
+- `...` [Chung et al., arXiv 2024] **Mitigating the bias in the model for continual test-time adaptation** [[PDF]](https://arxiv.org/abs/2403.01344) [[G-Scholar--]]()
 
 ### Segmentation
 - `RNCR` [Hu et al., Proc. MICCAI 2021] **Fully test-time adaptation for image segmentation** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-030-87199-4_24) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18183176392541200399&hl=en)
@@ -401,6 +405,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 ### Graph
 - `GAPGC` [Chen et al., Proc. ICML Workshops 2022] **GraphTTA: Test time adaptation on graph neural networks** [[PDF]](https://arxiv.org/abs/2208.09126) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3397674391742244376&hl=en)
 
+- `HomoTTT` [Zhang et al., ACM TKDD 2024] **A fully test-time training framework for semi-supervised node classification on out-of-distribution graphs** [[PDF]](https://dl.acm.org/doi/abs/10.1145/3649507) [[G-Scholar--]]()
+
 ### OOD detection
 - `ETLT` [Fan et al., arXiv 2022] **A simple test-time method for out-of-distribution detection** [[PDF]](https://arxiv.org/abs/2207.08210) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15935572095826047572&hl=en)
 
@@ -443,7 +449,9 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `OFTTA` [Wang et al., Proc. IMWUT/ UbiComp 2024] **Optimization-free test-time adaptation for cross-person activity recognition** [[PDF]](https://arxiv.org/abs/2310.18562) [[G-Scholar--]]() [[CODE]](https://github.com/Claydon-Wang/OFTTA)
 
-- `...` [Park et al., arXiv 2024] **Test-time adaptation for depth completion** [[PDF]](https://arxiv.org/abs/2402.03312) [[G-Scholar--]]()
+- `TA-6DT` [Tian et al., Pattern Recognition 2024] **Test-time adaptation for 6D pose tracking** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320324001419) [[G-Scholar--]]() [[CODE--]](https://github.com/bartektian/TA-6TD)
+
+- `...` [Park et al., arXiv 2024] **Test-time adaptation for depth completion** [[PDF]](https://arxiv.org/abs/2402.03312) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1187743167076919385&hl=en)
 
 ## Related
 - `GTTA-ST` [Marsden et al., arXiv 2022] **Introducing intermediate domains for effective self-training during test-time** [[PDF]](https://arxiv.org/abs/2208.07736) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11840087784657470158&hl=en)

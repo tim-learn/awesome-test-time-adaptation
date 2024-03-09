@@ -358,11 +358,15 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `...` [Dumpala et al., arXiv 2023] **Test-time training for speech** [[PDF]](https://arxiv.org/abs/2309.10930) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1240093156897083970&hl=en)
 
-- `...` [Zheng et al., Proc. PRCV 2023] **Infrared and visible image fusion via test-time training** [[PDF]](https://link.springer.com/chapter/10.1007/978-981-99-8549-4_7) [[G-Scholar--]]()
+- `...` [Zheng et al., Proc. PRCV 2023] **Infrared and visible image fusion via test-time training** [[PDF]](https://link.springer.com/chapter/10.1007/978-981-99-8549-4_7) [[G-Scholar]](https://scholar.google.com/scholar?cluster=202919928966918988&hl=en)
 
 - `RLCF` [Zhao et al., Proc. ICLR 2024] **Test-time adaptation with CLIP reward for zero-shot generalization in vision-language models** [[PDF]](https://openreview.net/forum?id=kIP0duasBb) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13354273242354297247&hl=en) [[CODE]](https://github.com/mzhaoshuai/RLCF)
 
 - `C-TPT` [anonymous et al., Proc. ICLR 2024] **C-TPT: Calibrated test-time prompt tuning for vision-language models via text feature dispersion** [[PDF]](https://openreview.net/forum?id=jzzEHTBFOT) [[G-Scholar--]]()
+
+- `...` [Deshmukh et al., arXiv 2024] **Domain adaptation for contrastive audio-language models** [[PDF]](https://arxiv.org/abs/2402.09585) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1239683760236340401&hl=en)
+
+- `TTA-Nav` [Piriyajitakonkij et al., arXiv 2024] **TTA-Nav: Test-time adaptive reconstruction for point-goal navigation under visual corruptions** [[PDF]](https://arxiv.org/abs/2403.01977) [[G-Scholar--]]()
 
 ## Batch-level
 ### Classification
@@ -486,6 +490,8 @@ for 3D human mesh reconstruction** [[PDF]](https://arxiv.org/abs/2308.06554) [[G
 - `...` [Tula et al., arXiv 2023] **Is it an i or an l: Test-time adaptation of text line recognition models** [[PDF]](https://arxiv.org/abs/2308.15037) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12686690276500800090&hl=en)
 
 ### 2024
+- `...` [Cao et al., Proc. CVPR 2024] **Spectral meets spatial: Harmonising 3D shape matching and interpolation** [[PDF]](https://arxiv.org/abs/2402.18920) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1551241757812051619&hl=en)
+
 - `PAOA+` [Li and Gong, Proc. WACV 2024] **Mitigate domain shift by primary-auxiliary objectives association for generalizing person ReID** [[PDF]](https://arxiv.org/abs/2310.15913) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4886363486564511690&hl=en)
 
 - `...` [Wen et al., Proc. WACV 2024] **From denoising training to test-time adaptation: Enhancing domain generalization for medical image segmentation** [[PDF]](https://arxiv.org/abs/2310.20271) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17213070336290495734&hl=en)
