@@ -402,6 +402,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `...` [Ayyoubzadeh., PhD Thesis 2023] **Prior-guided deep neural networks for image restoration tasks** [[PDF]](https://macsphere.mcmaster.ca/bitstream/11375/28467/2/Ayyoubzadeh_Seyed%20Mehdi_2023April_PhD.pdf) [[G-Scholar--]]()
 
+- `DiffTTA` [Yang et al., Proc. CVPR 2024] **Genuine knowledge from practice: Diffusion test-time adaptation for video adverse weather removal** [[PDF]](https://arxiv.org/abs/2403.07684) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2362711304803738776&hl=en)
+
 ### Graph
 - `GAPGC` [Chen et al., Proc. ICML Workshops 2022] **GraphTTA: Test time adaptation on graph neural networks** [[PDF]](https://arxiv.org/abs/2208.09126) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3397674391742244376&hl=en)
 
@@ -451,7 +453,11 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `TA-6DT` [Tian et al., Pattern Recognition 2024] **Test-time adaptation for 6D pose tracking** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320324001419) [[G-Scholar--]]() [[CODE--]](https://github.com/bartektian/TA-6TD)
 
+- `FT3A` [Mao et al., IEEE Internet of Things Journal 2024] **Online seizure prediction via fine-tuning and test-time adaptation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10460390/) [[G-Scholar--]]()
+
 - `...` [Park et al., arXiv 2024] **Test-time adaptation for depth completion** [[PDF]](https://arxiv.org/abs/2402.03312) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1187743167076919385&hl=en)
+
+- `Latte` [Cao et al., arXiv 2024] **Reliable spatial-temporal voxels for multi-modal test-time adaptation** [[PDF]](https://arxiv.org/abs/2403.06461) [[G-Scholar--]]()
 
 ## Related
 - `GTTA-ST` [Marsden et al., arXiv 2022] **Introducing intermediate domains for effective self-training during test-time** [[PDF]](https://arxiv.org/abs/2208.07736) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11840087784657470158&hl=en)
