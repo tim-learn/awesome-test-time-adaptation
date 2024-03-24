@@ -292,9 +292,9 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `CEMA` [Chen et al., Proc. ICLR 2024] **Towards robust and efficient cloud-edge elastic model adaptation via selective entropy distillation** [[PDF]](https://openreview.net/forum?id=vePdNU3u6n) [[G-Scholar--]]()
 
-- `PROGRAM` [anonymous et al., Proc. ICLR 2024] **PROGRAM: Prototype graph model based pseudo-label learning for test-time adaptation** [[PDF]](https://openreview.net/forum?id=x5LvBK43wg) [[G-Scholar--]]()
+- `PROGRAM` [Sun et al., Proc. ICLR 2024] **PROGRAM: Prototype graph model based pseudo-label learning for test-time adaptation** [[PDF]](https://openreview.net/forum?id=x5LvBK43wg) [[G-Scholar--]]()
 
-- `CMF` [anonymous et al., Proc. ICLR 2024] **Continual momentum filtering on parameter space for online test-time adaptation** [[PDF]](https://openreview.net/forum?id=BllUWdpIOA) [[G-Scholar--]]()
+- `CMF` [Lee and Chang, Proc. ICLR 2024] **Continual momentum filtering on parameter space for online test-time adaptation** [[PDF]](https://openreview.net/forum?id=BllUWdpIOA) [[G-Scholar--]]()
 
 - `TRIBE` [Su et al., Proc. AAAI 2024] **Towards real-world test-time adaptation: Tri-Net self-training with balanced normalization** [[PDF]](https://arxiv.org/abs/2309.14949) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16344634599473523404&hl=en) [[CODE]](https://github.com/Gorilla-Lab-SCUT/TRIBE)
 
@@ -320,7 +320,7 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `PLUTO` [Chang et al., arXiv 2024] **Plug-and-play transformer modules for test-time adaptation** [[PDF]](https://arxiv.org/abs/2401.04130) [[G-Scholar--]]()
 
-- `DPL` [Wang et al., arXiv 2024] **Decoupled prototype learning for reliable test-time adaptation** [[PDF]](https://arxiv.org/abs/2401.08703) [[G-Scholar--]]()
+- `DPL` [Wang et al., arXiv 2024] **Decoupled prototype learning for reliable test-time adaptation** [[PDF]](https://arxiv.org/abs/2401.08703) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11026302286053975195&hl=en)
 
 - `CNA-TTA` [Cho et al., arXiv 2024] **CNA-TTA: Clean and noisy region aware feature learning within clusters for online-offline test-time adaptation** [[PDF]](https://arxiv.org/abs/2401.14587) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13638373086069513466&hl=en)
 
@@ -330,7 +330,11 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `VCoTTA` [Lyu et al., arXiv 2024] **Variational continual test-time adaptation** [[PDF]](https://arxiv.org/abs/2402.08182) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2984398287283233063&hl=en)
 
-- `...` [Chung et al., arXiv 2024] **Mitigating the bias in the model for continual test-time adaptation** [[PDF]](https://arxiv.org/abs/2403.01344) [[G-Scholar--]]()
+- `...` [Chung et al., arXiv 2024] **Mitigating the bias in the model for continual test-time adaptation** [[PDF]](https://arxiv.org/abs/2403.01344) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17109066560142454058&hl=en)
+
+- `PALM` [Maharana et al., arXiv 2024] **PALM: Pushing adaptive learning rate mechanisms for continual test-time adaptation** [[PDF]](https://arxiv.org/abs/2403.10650) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7716777332753810830&hl=en)
+
+- `EATA-C` [Tan et al., arXiv 2024] **Uncertainty-calibrated test-time model adaptation without forgetting** [[PDF]](https://arxiv.org/abs/2403.11491) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7215152583604006023&hl=en)
 
 ### Segmentation
 - `RNCR` [Hu et al., Proc. MICCAI 2021] **Fully test-time adaptation for image segmentation** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-030-87199-4_24) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18183176392541200399&hl=en)
@@ -445,7 +449,9 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `...` [Yu et al., Proc. ESEC/FSE 2023] **Log parsing with generalization ability under new log types** [[PDF]](https://dl.acm.org/doi/abs/10.1145/3611643.3616355) [[G-Scholar--]]()
 
-- `RFRA` [anonymous et al., Proc. ICLR 2024] **Test-time adaption against multi-modal reliability bias** [[PDF]](https://openreview.net/forum?id=TPZRq4FALB) [[G-Scholar--]]()
+- `RFRA` [Yang et al., Proc. ICLR 2024] **Test-time adaption against multi-modal reliability bias** [[PDF]](https://openreview.net/forum?id=TPZRq4FALB) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8796931870692550770&hl=en)
+
+- `T4P` [Park et al., Proc. CVPR 2024] **Test-time training of trajectory prediction via masked autoencoder and actor-specific token memory** [[PDF]](https://arxiv.org/abs/2403.10052) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5642177992093222550&hl=en) [[CODE--]](https://github.com/daeheepark/T4P)
 
 - `...` [Kim et al., Proc. AAAI 2024] **When model meets new normals: Test-time adaptation for unsupervised time-series anomaly detection** [[PDF]](https://arxiv.org/abs/2312.11976) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11724393678473935195&hl=en) [[CODE]](https://github.com/carrtesy/M2N2)
 
@@ -457,7 +463,7 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `...` [Park et al., arXiv 2024] **Test-time adaptation for depth completion** [[PDF]](https://arxiv.org/abs/2402.03312) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1187743167076919385&hl=en)
 
-- `Latte` [Cao et al., arXiv 2024] **Reliable spatial-temporal voxels for multi-modal test-time adaptation** [[PDF]](https://arxiv.org/abs/2403.06461) [[G-Scholar--]]()
+- `Latte` [Cao et al., arXiv 2024] **Reliable spatial-temporal voxels for multi-modal test-time adaptation** [[PDF]](https://arxiv.org/abs/2403.06461) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2264954462221352948&hl=en)
 
 ## Related
 - `GTTA-ST` [Marsden et al., arXiv 2022] **Introducing intermediate domains for effective self-training during test-time** [[PDF]](https://arxiv.org/abs/2208.07736) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11840087784657470158&hl=en)

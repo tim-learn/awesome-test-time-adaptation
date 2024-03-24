@@ -537,6 +537,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `LCFD` [Tang et al., arXiv 2024] **Unified source-free domain adaptation** [[PDF]](https://arxiv.org/abs/2403.07601) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5793394107610803011&hl=en) [[CODE]](https://github.com/tntek/source-free-domain-adaptation)
 
+- `GLC++` [Qu et al., arXiv 2024] **GLC++: Source-free universal domain adaptation through global-local clustering and contrastive affinity learning** [[PDF]](https://arxiv.org/abs/2403.14410) [[G-Scholar--]]()
+
 - `...` [Zhu et al., Misc 2024] **Pick and adapt: An iterative approach for source-free domain adaptation** [[PDF]](https://openreview.net/forum?id=SaSK9M66KK) [[G-Scholar--]]()
 
 ## Semantic Segmentation
@@ -645,6 +647,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 - `...` [Tian et al., IEEE TMM 2024] **Self-mining the confident prototypes for source-free unsupervised domain adaptation in image segmentation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10452765/) [[G-Scholar--]]()
 
 - `MAS3` [Stan and Rostami, arXiv 2024] **Online continual domain adaptation for semantic image segmentation using internal representations** [[PDF]](https://arxiv.org/abs/2401.01035) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5773237290303399495&hl=en)
+
+- `FFreeDA` [Rizzoli et al., arXiv 2024] **When cars meet drones: Hyperbolic federated learning for source-free domain adaptation in adverse weather** [[PDF]](https://arxiv.org/abs/2403.13762) [[G-Scholar--]]()
 
 ## Object Detection
 ### before 2020
@@ -958,6 +962,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `MISFIT` [Rizzoli et al., arXiv 2023] **Source-free domain adaptation for RGB-D semantic segmentation with vision transformers** [[PDF]](https://arxiv.org/abs/2305.14269) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1106788040715184555&hl=en)
 
+- `EventDance` [Zheng and Wang, Proc. CVPR 2024] **EventDance: Unsupervised source-free cross-modal adaptation for event-based object recognition** [[PDF]](https://arxiv.org/abs/2403.14082) [[G-Scholar--]]()
+
 - `ReCLIP` [Hu et al., Proc. WACV 2024] **ReCLIP: Refine contrastive language image pre-training with source free domain adaptation** [[PDF]](https://arxiv.org/abs/2308.03793) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18135944623162059089&hl=en) [[CODE]](https://github.com/michiganleon/ReCLIP_WACV)
 
 - `DIFO` [Tang et al., Proc. WACV 2024] **Source-free domain adaptation with frozen multimodal foundation model** [[PDF]](https://arxiv.org/abs/2311.16510) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7386217752559798759&hl=en) 
@@ -990,7 +996,7 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 ### Visual Document Understanding
 - `DocTTA` [Ebrahimi et al., arXiv 2022] **Test-time adaptation for visual document understanding** [[PDF]](https://arxiv.org/abs/2206.07240) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4974275319186080260&hl=en) [[DATA]](https://sites.google.com/berkeley.edu/doctta/)
 
-### 2D Keypoint detection (Pose estimation)
+### 2D Keypoint Detection (Pose estimation)
 - `MAPS` [Ding et al., IEEE TCSVT 2023] **MAPS: A noise-robust progressive learning approach for source-free domain adaptive keypoint detection** [[PDF]](https://arxiv.org/abs/2302.04589) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13949106311988540827&hl=en) [[CODE]](https://github.com/YuheD/MAPS)
 
 - `...` [Peng et al., Proc. ICCV 2023] **Source-free domain adaptive human pose estimation** [[PDF]](https://arxiv.org/abs/2308.03202) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9372500620586065556&hl=en)
@@ -999,6 +1005,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 ### Tracking
 - `DARTH` [Segu et al., Proc. ICCV 2023] **DARTH: Holistic test-time adaptation for multiple object tracking** [[PDF]](https://openaccess.thecvf.com/content/ICCV2023/html/Segu_DARTH_Holistic_Test-time_Adaptation_for_Multiple_Object_Tracking_ICCV_2023_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9104639642522487809&hl=en) [[CODE]](https://github.com/mattiasegu/darth)
+
+- `OC-SORT` [Shu et al., ITE Technical Report 2024] **Exploring source-free domain adaption in multiple object tracking** [[PDF]](https://www.ite.or.jp/ken/paper/20240219GAMb/eng/) [[G-Scholar--]]()
 
 ### Anomaly detection
 - `CaSA` [Bozorgtabar et al., Proc. BMVC 2022] **Anomaly detection and localization using attention-guided synthetic anomaly and test-time adaptation** [[PDF]](https://bmvc2022.mpi-inf.mpg.de/0472.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=209397539357448856&hl=en)
