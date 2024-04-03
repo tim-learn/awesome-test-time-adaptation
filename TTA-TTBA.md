@@ -165,7 +165,7 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `...` [Veksler., Proc. CVPR 2023] **Test time adaptation with regularized loss for weakly supervised salient object detection** [[PDF]](http://openaccess.thecvf.com/content/CVPR2023/html/Veksler_Test_Time_Adaptation_With_Regularized_Loss_for_Weakly_Supervised_Salient_CVPR_2023_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4711713936732286273&hl=en)
 
-### Defense
+### Attack and Defense
 - `SOAP` [Shi et al., Proc. ICLR 2021] **Online adversarial purification based on self-supervision** [[PDF]](https://openreview.net/forum?id=_i3ASPp12WS) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17641828899893011240&hl=en) [[CODE]](https://github.com/Mishne-Lab/SOAP)
 
 - `ADP` [Yoon et al., Proc. ICML 2021] **Adversarial purification with score-based generative models** [[PDF]](http://proceedings.mlr.press/v139/yoon21a.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1510322463041774819&hl=en) [[CODE]](https://github.com/jmyoon1/adp)
@@ -197,6 +197,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 - `RFI` [Singh et al., arXiv 2023] **Fast adaptive test-time defense with robust features** [[PDF]](https://arxiv.org/abs/2307.11672) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14379984320874878216&hl=en)
 
 - `MAT` [Huang et al., Misc 2023] **Test-time adaptation for better adversarial robustness** [[PDF]](https://openreview.net/forum?id=rUxKM6u8WER) [[G-Scholar--]]()
+
+- `MedBN` [Park et al., Proc. CVPR 2024] **MedBN: Robust Test-Time Adaptation against Malicious Test Samples** [[PDF]](https://arxiv.org/abs/2403.19326) [[G-Scholar--]]() [[CODE--]](https://github.com/ml-postech/MedBN-robust-test-time-adaptation)
 
 - `TTD` [Yang et al., Proc. AAAI 2024] **Adversarial purification with the manifold hypothesis** [[PDF]](https://arxiv.org/abs/2210.14404) [[G-Scholar--]]()
 
@@ -325,6 +327,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `GOODAT` [Wang et al., arXiv 2024] **GOODAT: Towards test-time graph out-of-distribution detection** [[PDF]](https://arxiv.org/abs/2401.06176) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2440708359479589077&hl=en)
 
+- `TARD` [Tao et al., arXiv 2024] **Out-of-distribution rumor detection via test-time adaptation** [[PDF]](https://arxiv.org/abs/2403.17735) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3687180179182997319&hl=en)
+
 ### CLIP-related
 - `TPT` [Shu et al., Proc. NeurIPS 2022] **Test-time prompt tuning for zero-shot generalization in vision-language models** [[PDF]](https://openreview.net/forum?id=e8PVEkSa4Fq) [[G-Scholar]](https://scholar.google.com/scholar?cluster=213109028691722316&hl=en) [[CODE]](https://github.com/azshue/TPT)
 
@@ -341,6 +345,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 - `TPS` [Sui et al., arXiv 2024] **Just shift it: Test-time prototype shifting for zero-shot generalization with vision-language models** [[PDF]](https://arxiv.org/abs/2403.12952) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15629234813577501375&hl=en) [[CODE]](https://github.com/elaine-sui/TPS)
 
 - `InCPL` [Yin et al., arXiv 2024] **In-context prompt learning for test-time vision recognition with frozen vision-language model** [[PDF]](https://arxiv.org/abs/2403.06126) [[G-Scholar--]]()
+
+- `Domain++ CLIP-T` [Hou et al., arXiv 2024] **DomainVerse: A benchmark towards real-world distribution shifts for tuning-free adaptive domain generalization** [[PDF]](https://arxiv.org/abs/2403.02714) [[G-Scholar]](https://scholar.google.com/scholar?cluster=786314354121439332&hl=en)
 
 ### Misc
 - `PAD` [Hansen et al., Proc. ICLR 2021] **Self-supervised policy adaptation during deployment** [[PDF]](https://openreview.net/forum?id=o_V-MjyyGV_) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10107448604973336784&hl=en) [[CODE]](https://github.com/nicklashansen/policy-adaptation-during-deployment)

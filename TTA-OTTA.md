@@ -42,9 +42,11 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `HKA` [Liu et al., Proc. ICLR 2024] **ViDA: Homeostatic visual domain adapter for continual test time adaptation** [[PDF]](https://openreview.net/forum?id=sJ88Wg5Bp5) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9284065084499873574&hl=en) [[CODE]](https://github.com/Yangsenqiao/vida)
 
-- `...` [Tomar et al., Proc. ICLR 2024] **Un-mixing test-time normalization statistics: Combatting label temporal correlation** [[PDF]](https://arxiv.org/abs/2401.08328) [[G-Scholar--]]()
+- `...` [Tomar et al., Proc. ICLR 2024] **Un-mixing test-time normalization statistics: Combatting label temporal correlation** [[PDF]](https://arxiv.org/abs/2401.08328) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5015901750000167574&hl=en)
 
-- `DeYO` [Lee et al., Proc. ICLR 2024] **Entropy is not enough for test-time adaptation: From the perspective of disentangled factors** [[PDF]](https://openreview.net/forum?id=9w3iw8wDuE) [[G-Scholar--]]()
+- `DeYO` [Lee et al., Proc. ICLR 2024] **Entropy is not enough for test-time adaptation: From the perspective of disentangled factors** [[PDF]](https://openreview.net/forum?id=9w3iw8wDuE) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7751786148895366870&hl=en)
+
+- `TDA` [Karmanov et al., Proc. CVPR 2024] **Efficient test-time adaptation of vision-language models** [[PDF]](https://arxiv.org/abs/2403.18293) [[G-Scholar--]]() [[CODE]](https://github.com/kdiAAA/TDA)
 
 ### Segmentation
 - `OnAVOS` [Voigtlaender and Leibe., Proc. BMVC 2017] **Online adaptation of convolutional neural networks for video object segmentation** [[PDF]](https://arxiv.org/abs/1706.09364) [[G-Scholar]](https://scholar.google.com.tw/scholar?cluster=7737687280948943248&hl=en)
@@ -296,6 +298,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `CMF` [Lee and Chang, Proc. ICLR 2024] **Continual momentum filtering on parameter space for online test-time adaptation** [[PDF]](https://openreview.net/forum?id=BllUWdpIOA) [[G-Scholar--]]()
 
+- `BFTT3D` [Wang et al., Proc. CVPR 2024] **Backpropagation-free network for 3D test-time adaptation** [[PDF]](https://arxiv.org/abs/2403.18442) [[G-Scholar]](https://scholar.google.com/scholar?cluster=156479766315680345&hl=en) [[CODE--]](https://github.com/abie-e/BFTT3D)
+
 - `TRIBE` [Su et al., Proc. AAAI 2024] **Towards real-world test-time adaptation: Tri-Net self-training with balanced normalization** [[PDF]](https://arxiv.org/abs/2309.14949) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16344634599473523404&hl=en) [[CODE]](https://github.com/Gorilla-Lab-SCUT/TRIBE)
 
 - `...` [Su et al., Proc. AAAI 2024] **Singular value penalization and semantic data augmentation for fully test-time adaptation** [[PDF]](https://arxiv.org/abs/2312.08378) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18200094445126980140&hl=en)
@@ -315,6 +319,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `LayerwiseTTA` [Park et al., Proc. WACV 2024] **Layer-wise auto-weighting for non-stationary test-time adaptation** [[PDF]](https://arxiv.org/abs/2311.05858) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15940795982645175699&hl=en) [[CODE]](https://github.com/junia3/LayerwiseTTA)
 
 - `DAB` [Döbler et al., Proc. ICASSP 2024] **Diversity-aware buffer for coping with temporally correlated data streams in online test-time adaptation** [[PDF]](https://arxiv.org/abs/2401.00989) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3839875590185704419&hl=en)
+
+- `TECA` [Enomoto et al., Proc. IJCNN 2024] **Test-time adaptation meets image enhancement: Improving accuracy via uncertainty-aware logit switching** [[PDF]](https://arxiv.org/abs/2403.17423) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15579240994493332380&hl=en)
 
 - `MeTA` [Ahmed et al., arXiv 2024] **MeTA: Multi-source test time adaptation** [[PDF]](https://arxiv.org/abs/2401.02561) [[G-Scholar--]]()
 
