@@ -16,6 +16,9 @@ A curated list of awesome test-time (**<u>domain/ batch/ instance/ online/ prior
 
 - [Test-Time Prior Adaptation (TTPA)](./TTA-TTPA.md)
 
+## Datasets
+A list of commonly used datasets in TTA is available in [Google Sheets](https://docs.google.com/spreadsheets/d/10tOlFDA5hLSpyv5Wv8zRcXSbUEDLfxP-YhU82AZvYJo/edit?usp=sharing).
+
 ## Citation
 If you find our survey and repository useful for your research, please consider citing our paper:
 ```bibtex

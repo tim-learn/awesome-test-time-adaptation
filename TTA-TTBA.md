@@ -62,15 +62,11 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `Diffusion-TTA` [Prabhudesai et al., Proc. NeurIPS 2023] **Test-time adaptation of discriminative models via diffusion generative feedback** [[PDF]](https://openreview.net/forum?id=gUTVpByfVX) [[G-Scholar--]]() [[CODE]](https://github.com/mihirp1998/Diffusion-TTA)
 
-- `SwapPrompt` [Ma et al., Proc. NeurIPS 2023] **SwapPrompt: Test-time prompt adaptation for vision-language models** [[PDF]](https://openreview.net/forum?id=EhdNQiOWgQ) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17344404046023372078&hl=en)
-
 - `DDA` [Gao et al., Proc. CVPR 2023] **Back to the source: Diffusion-driven adaptation to test-time corruption** [[PDF]](https://arxiv.org/abs/2207.03442) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8145404192355562400&hl=en) [[CODE]](https://github.com/shiyegao/DDA)
 
   ~~[Gao et al., Proc. Workshops 2023] **Back to the source: Diffusion-driven test-time adaptation** [[PDF]](https://arxiv.org/abs/2207.03442) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8145404192355562400&hl=en) [[CODE]](https://github.com/shiyegao/DDA)~~
 
 - `IAI` [Jeon et al., Proc. ICCV 2023] **A unified framework for robustness on diverse sampling errors** [[PDF]](https://openaccess.thecvf.com/content/ICCV2023/html/Jeon_A_Unified_Framework_for_Robustness_on_Diverse_Sampling_Errors_ICCV_2023_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9460419101326058787&hl=en)
-
-- `CMA` [Bruggemann et al., Proc. ICCV 2023] **Contrastive model adaptation for cross-condition robustness in semantic segmentation** [[PDF]](http://openaccess.thecvf.com/content/ICCV2023/html/Bruggemann_Contrastive_Model_Adaptation_for_Cross-Condition_Robustness_in_Semantic_Segmentation_ICCV_2023_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11262078686777334014&hl=en) [[CODE]](https://github.com/brdav/cma)
 
 - `VPA` [Sun et al., Proc. ACMMM 2023] **VPA: Fully test-time visual prompt adaptation** [[PDF]](https://arxiv.org/abs/2309.15251)) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12897238022086137101&hl=en)
 
@@ -92,7 +88,7 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `VDPG` [Chi et al., Proc. ICLR 2024] **Adapting to distribution shift by visual domain prompt generation** [[PDF]](https://openreview.net/forum?id=sSaN4gxuEf) [[G-Scholar--]]()
 
-- `...` [Zhang et al., arXiv 2024] **Refining segmentation on-the-fly: An interactive framework for point cloud semantic segmentation** [[PDF]](https://arxiv.org/abs/2403.06401) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5548543581989641473&hl=en)
+- `TPS` [Sui et al., arXiv 2024] **Just shift it: Test-time prototype shifting for zero-shot generalization with vision-language models** [[PDF]](https://arxiv.org/abs/2403.12952) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15629234813577501375&hl=en) [[CODE]](https://github.com/elaine-sui/TPS)
 
 ### Segmentation
 - `DIEM` [Wang et al., arXiv 2019] **Dynamic scale inference by entropy minimization** [[PDF]](https://arxiv.org/abs/1908.03182) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11939087491312325887&hl=en)
@@ -135,6 +131,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `DIGA` [Wang et al., Proc. CVPR 2023] **Dynamically instance-guided adaptation: A backward-free approach for test-time domain adaptive semantic segmentation** [[PDF]](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Dynamically_Instance-Guided_Adaptation_A_Backward-Free_Approach_for_Test-Time_Domain_Adaptive_CVPR_2023_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5310249894401773826&hl=en) [[CODE]](https://github.com/Waybaba/DIGA)
 
+- `CMA` [Bruggemann et al., Proc. ICCV 2023] **Contrastive model adaptation for cross-condition robustness in semantic segmentation** [[PDF]](http://openaccess.thecvf.com/content/ICCV2023/html/Bruggemann_Contrastive_Model_Adaptation_for_Cross-Condition_Robustness_in_Semantic_Segmentation_ICCV_2023_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11262078686777334014&hl=en) [[CODE]](https://github.com/brdav/cma)
+
 - `RNA` [Dumpala et al., Proc. ICCV 2023] **Rapid network adaptation: Learning to adapt neural networks using test-time feedback** [[PDF]](https://openaccess.thecvf.com/content/ICCV2023/html/Yeo_Rapid_Network_Adaptation_Learning_to_Adapt_Neural_Networks_Using_Test-Time_ICCV_2023_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3949626307376398237&hl=en)
 
 - `Adaptive-UNet` [Valanarasu et al., Proc. MIDL 2023] **On-the-fly test-time adaptation for medical image segmentation** [[PDF]](https://arxiv.org/abs/2203.05574) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2402009671021470527&hl=en) [[CODE]](https://github.com/jeya-maria-jose/On-The-Fly-Adaptation)
@@ -157,6 +155,10 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 - `TTT-KD` [Weijler et al., arXiv 2024] **TTT-KD: Test-time training for 3D semantic segmentation through knowledge distillation from foundation models** [[PDF]](https://arxiv.org/abs/2403.11691) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11875871707658891748&hl=en)
 
 - `Decorruptor` [Oh et al., arXiv 2024] **Efficient diffusion-driven corruption editor for test-time adaptation** [[PDF]](https://arxiv.org/abs/2403.10911) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10378300351599346301&hl=en)
+
+- `...` [Zhang et al., arXiv 2024] **Refining segmentation on-the-fly: An interactive framework for point cloud semantic segmentation** [[PDF]](https://arxiv.org/abs/2403.06401) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5548543581989641473&hl=en)
+
+- `...` [Schön et al., arXiv 2024] **Adapting the segment anything model during usage in novel situations** [[PDF]](https://arxiv.org/abs/2404.08421) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4344992557187726414&hl=en)
 
 ### Detection
 - `OSHOT` [D'Innocente et al., Proc. ECCV 2020] **One-shot unsupervised cross-domain detection** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-030-58517-4_43) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7600955351500947376&hl=en) [[CODE]](https://github.com/VeloDC/oshot_detection)
