@@ -150,6 +150,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 #### 2024
 - `GenSAM` [Hu et al., Proc. AAAI 2024] **Relax image-specific prompt requirement in SAM: A single generic prompt for segmenting camouflaged objects** [[PDF]](https://arxiv.org/abs/2312.07374) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3602234802657076128&hl=en) [[CODE]](https://github.com/jyLin8100/GenSAM)
 
+- `TTT4AS` [Costanzino et al., Proc. CVPR Workshops 2024] **Test time training for industrial anomaly segmentation** [[PDF]](https://arxiv.org/abs/2404.03743) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13668953966639046509&hl=en)
+
 - `InTEnt` [Dong et al., arXiv 2024] **Medical image segmentation with InTEnt: Integrated entropy weighting for single image test-time adaptation** [[PDF]](https://arxiv.org/abs/2402.09604) [[G-Scholar]](https://scholar.google.com/scholar?cluster=963613001981542095&hl=en) [[CODE--]](https://github.com/mazurowski-lab/single-image-test-time-adaptation)
 
 - `TTT-KD` [Weijler et al., arXiv 2024] **TTT-KD: Test-time training for 3D semantic segmentation through knowledge distillation from foundation models** [[PDF]](https://arxiv.org/abs/2403.11691) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11875871707658891748&hl=en)
@@ -326,6 +328,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 - `GT3` [Wang et al., arXiv 2022] **Test-time training for graph neural networks** [[PDF]](https://arxiv.org/abs/2210.08813) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4459392671520994454&hl=en)
 
 - `GTRANS` [Jin et al., Proc. ICLR 2023] **Empowering graph representation learning with test-time graph transformation** [[PDF]](https://openreview.net/forum?id=Lnxl5pr018) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12479531068894109978&hl=en)
+
+- `...` [Chen et al., Proc. SDM 2024] **Test-time training for spatial-temporal forecasting** [[PDF]](https://epubs.siam.org/doi/abs/10.1137/1.9781611978032.54) [[G-Scholar--]]()
 
 - `GOODAT` [Wang et al., arXiv 2024] **GOODAT: Towards test-time graph out-of-distribution detection** [[PDF]](https://arxiv.org/abs/2401.06176) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2440708359479589077&hl=en)
 
