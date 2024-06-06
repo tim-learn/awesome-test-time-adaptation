@@ -94,6 +94,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `TPS` [Sui et al., arXiv 2024] **Just shift it: Test-time prototype shifting for zero-shot generalization with vision-language models** [[PDF]](https://arxiv.org/abs/2403.12952) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15629234813577501375&hl=en) [[CODE]](https://github.com/elaine-sui/TPS)
 
+- `ZERO` [Farina et al., arXiv 2023] **Frustratingly easy test-time adaptation of vision-language models** [[PDF]](https://arxiv.org/abs/2405.18330) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6024530939490096886&hl=en) [[CODE--]](https://github.com/FarinaMatteo/zero)
+
 ### Segmentation
 - `DIEM` [Wang et al., arXiv 2019] **Dynamic scale inference by entropy minimization** [[PDF]](https://arxiv.org/abs/1908.03182) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11939087491312325887&hl=en)
 
@@ -494,6 +496,8 @@ federated learning** [[PDF]](https://arxiv.org/abs/2310.18816) [[G-Scholar]](htt
 - `...` [Haslum et al, Proc. WACV 2024] **Bridging generalization gaps in high content imaging through online self-supervised domain adaptation** [[PDF]](https://arxiv.org/abs/2311.12623) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5616759635685757071&hl=en)
 
 - `...` [Amosy et al., Proc. WACV 2024] **Late to the party? On-demand unlabeled personalized federated learning** [[PDF]](https://openaccess.thecvf.com/content/WACV2024/html/Amosy_Late_to_the_Party_On-Demand_Unlabeled_Personalized_Federated_Learning_WACV_2024_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6144447574631158841&hl=en)
+
+- `ABNN` [Lo and Patel, Proc. AVSS 2024] **Adaptive batch normalization networks for adversarial robustness** [[PDF]](https://arxiv.org/abs/2405.11708) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6809196964032925339&hl=en)
 
 - `Hybrid-TTN` [Vianna et al, arXiv 2024] **Channel-selective normalization for label-shift robust test-time adaptation** [[PDF]](https://arxiv.org/abs/2402.04958) [[G-Scholar--]]()
 
