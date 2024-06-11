@@ -57,6 +57,8 @@ A curated list of awesome test-time prior adaptation resources. Your contributio
 - `CPMKM` [Wen et al., arXiv 2023] **Class probability matching using kernel methods for
 label shift adaptation** [[PDF]](https://arxiv.org/abs/2312.07282) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11916720703831072905&hl=en)
 
-- `...` [Wei et al., Proc. ICML 2024] **Learning label shift correction for test-agnostic long-tailed recognition** [[PDF--]](https://icml.cc/virtual/2024/poster/34403) [[G-Scholar--]]()
+- `...` [Wei et al., Proc. ICML 2024] **Learning label shift correction for test-agnostic long-tailed recognition** [[PDF]](https://openreview.net/forum?id=J3xYTh6xtL) [[G-Scholar--]]() [[CODE]](https://github.com/Stomach-ache/label-shift-correction)
+
+- `Wav-O/-R` [Qian et al., Proc. ICML 2024] **Efficient non-stationary online learning by wavelets with applications to online distribution shift adaptation** [[PDF]](https://openreview.net/forum?id=KNedb3bQ4h) [[G-Scholar--]]()
 
 - `OLS-OFU` [Wu et al., arXiv 2024] **Online feature updates improve online (generalized) label shift adaptation** [[PDF]](https://arxiv.org/abs/2402.03545) [[G-Scholar--]]()

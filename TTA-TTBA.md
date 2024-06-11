@@ -94,7 +94,9 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `TPS` [Sui et al., arXiv 2024] **Just shift it: Test-time prototype shifting for zero-shot generalization with vision-language models** [[PDF]](https://arxiv.org/abs/2403.12952) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15629234813577501375&hl=en) [[CODE]](https://github.com/elaine-sui/TPS)
 
-- `ZERO` [Farina et al., arXiv 2023] **Frustratingly easy test-time adaptation of vision-language models** [[PDF]](https://arxiv.org/abs/2405.18330) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6024530939490096886&hl=en) [[CODE--]](https://github.com/FarinaMatteo/zero)
+- `ZERO` [Farina et al., arXiv 2024] **Frustratingly easy test-time adaptation of vision-language models** [[PDF]](https://arxiv.org/abs/2405.18330) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6024530939490096886&hl=en) [[CODE--]](https://github.com/FarinaMatteo/zero)
+
+- `SDA` [Guo et al., arXiv 2024] **Everything to the synthetic: Diffusion-driven test-time adaptation via synthetic-domain alignment** [[PDF]](https://arxiv.org/abs/2406.04295) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2953274777395588123&hl=en) [[CODE]](https://github.com/SHI-Labs/Diffusion-Driven-Test-Time-Adaptation-via-Synthetic-Domain-Alignment)
 
 ### Segmentation
 - `DIEM` [Wang et al., arXiv 2019] **Dynamic scale inference by entropy minimization** [[PDF]](https://arxiv.org/abs/1908.03182) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11939087491312325887&hl=en)

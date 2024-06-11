@@ -565,6 +565,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `Co-learn++` [Zhang et al., arXiv 2024] **Source-free domain adaptation guided by vision and vision-language pre-training** [[PDF]](https://arxiv.org/abs/2405.02954) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16448810577157836597&hl=en)
 
+- `...` [Zou et al., arXiv 2024] **Incremental pseudo-labeling for black-box unsupervised domain adaptation** [[PDF]](https://arxiv.org/abs/2405.16437) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16767933709374501800&hl=en)
+
 - `...` [Zhu et al., Misc 2024] **Pick and adapt: An iterative approach for source-free domain adaptation** [[PDF]](https://openreview.net/forum?id=SaSK9M66KK) [[G-Scholar--]]()
 
 - `...` [Musabe, Master Thesis 2024] **Towards regression-free and source-free online domain adaptation** [[PDF]](https://mspace.lib.umanitoba.ca/items/d9190005-e89a-4b46-b2de-f12042436094) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8863159720183005103&hl=en)
