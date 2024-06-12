@@ -235,6 +235,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `AB-TTA` [Xu et al., Proc. CVPR 2024] **Dexterous grasp transformer** [[PDF]](https://arxiv.org/abs/2404.18135) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5370389810152932292&hl=en) [[CODE--]](https://github.com/iSEE-Laboratory/DGTR)
 
+- `...` [Pérez-Villar et al., IEEE TAES 2024] **Test-time adaptation for keypoint-based spacecraft pose estimation based on predicted-view synthesis** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10552046/) [[G-Scholar--]]() [[CODE]](https://github.com/JotaBravo/spacecraft-tta)
+
 - `UAO` [Wang et al., arXiv 2024] **Uncertainty-aware testing-time optimization for 3D human pose estimation** [[PDF]](https://arxiv.org/abs/2402.02339) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6391270279659103285&hl=en)
 
 ### Retrieval 
@@ -534,6 +536,10 @@ for 3D human mesh reconstruction** [[PDF]](https://arxiv.org/abs/2308.06554) [[G
 - `...` [Liu et al., Proc. CVPR 2024] **Depth-aware test-time training for zero-shot video object segmentation** [[PDF]](https://arxiv.org/abs/2403.04258) [[G-Scholar--]]() [[CODE]](https://github.com/NiFangBaAGe/DATTT)
 
 - `...` [Ali et al., Proc. CVPR 2024] **Harnessing meta-learning for improving full-frame video stabilization** [[PDF]](https://arxiv.org/abs/2403.03662) [[G-Scholar--]]() [[CODE--]](https://github.com/MKashifAli/MetaVideoStab)
+
+- `BISSA` [Yoo et al., Pattern Recognition 2024] **Looking beyond input frames: Self-supervised adaptation for video super-resolution** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320324003534) [[G-Scholar--]]() [[CODE]](https://github.com/jinsuyoo/bissa)
+
+- `...` [Wu et al., arXiv 2024] **DeNVeR: Deformable neural vessel representations for unsupervised video vessel segmentation** [[PDF]](https://arxiv.org/abs/2406.01591) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15443771597451862644&hl=en)
 
 ### Misc
 - `TTP` [Li et al., Proc. NeurIPS 2021] **Test-time personalization with a transformer for human pose estimation** [[PDF]](https://openreview.net/forum?id=cwSkaedP-wz) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8881142280914530303&hl=en) [[CODE]](https://github.com/harry11162/TTP)
