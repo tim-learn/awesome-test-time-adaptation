@@ -143,6 +143,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 #### 2024
 - `FSTTA` [Gao et al., Proc. ICML 2024] **Fast-slow test-time adaptation for online vision-and-language navigation** [[PDF]](https://openreview.net/forum?id=Zos5wsaB5r) [[G-Scholar--]]() [[CODE]](https://github.com/Feliciaxyao/ICML2024-FSTTA)
 
+- `RTL` [Fan et al., Proc. CVPR 2024] **Test-time linear out-of-distribution detection** [[PDF]](https://openaccess.thecvf.com/content/CVPR2024/html/Fan_Test-Time_Linear_Out-of-Distribution_Detection_CVPR_2024_paper.html) [[G-Scholar--]]() [[CODE]](https://github.com/kfan21/RTL)
+
 - `CEDR` [An et al., Proc. AAAI 2024] **Context enhanced transformer for single image object detection** [[PDF]](https://arxiv.org/abs/2311.13209) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3955557996745187272&hl=en) [[CODE--]](https://github.com/KU-CVLAB/CETR)
 
 - `ADCSD` [Guo et al., arXiv 2024] **Online test-time adaptation of spatial-temporal traffic flow forecasting** [[PDF]](https://arxiv.org/abs/2401.04148) [[G-Scholar--]]() [[CODE]](https://github.com/Pengxin-Guo/ADCSD)
@@ -332,6 +334,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `DMN-ZS` [Zhang et al., Proc. CVPR 2024] **Dual memory networks: A versatile adaptation approach for vision-language models** [[PDF]](https://arxiv.org/abs/2403.17589) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4519832720500818378&hl=en) [[CODE]](https://github.com/YBZh/DMN)
 
+- `ADMA` [Liu et al., Proc. CVPR 2024] **Continual-MAE: Adaptive distribution masked autoencoders for continual test-time adaptation** [[PDF]](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_Continual-MAE_Adaptive_Distribution_Masked_Autoencoders_for_Continual_Test-Time_Adaptation_CVPR_2024_paper.html) [[G-Scholar--]]()
+
 - `TRIBE` [Su et al., Proc. AAAI 2024] **Towards real-world test-time adaptation: Tri-Net self-training with balanced normalization** [[PDF]](https://arxiv.org/abs/2309.14949) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16344634599473523404&hl=en) [[CODE]](https://github.com/Gorilla-Lab-SCUT/TRIBE)
 
 - `...` [Su et al., Proc. AAAI 2024] **Singular value penalization and semantic data augmentation for fully test-time adaptation** [[PDF]](https://arxiv.org/abs/2312.08378) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18200094445126980140&hl=en)
@@ -396,7 +400,9 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `C-CoTTA` [Shi et al., arXiv 2024] **Controllable continual test-time adaptation** [[PDF]](https://arxiv.org/abs/2405.14602) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11203952634858501625&hl=en) [[CODE]](https://github.com/RenshengJi/C-CoTTA)
 
-- `PLF` [Tan et al., arXiv 2024] **Less is more: Pseudo-label filtering for continual test-time adaptation** [[PDF]](https://arxiv.org/abs/2406.02609) [[G-Scholar--]]() [[CODE--]](https://github.com/tjy1423317192/PLF)
+- `PLF` [Tan et al., arXiv 2024] **Less is more: Pseudo-label filtering for continual test-time adaptation** [[PDF]](https://arxiv.org/abs/2406.02609) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15442966577028268247&hl=en) [[CODE--]](https://github.com/tjy1423317192/PLF)
+
+- `DYN` [Jiang et al., arXiv 2024] **Discover your neighbors: Advanced stable test-time adaptation in dynamic world** [[PDF]](https://arxiv.org/abs/2406.05413) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2948296646488402340&hl=en)
 
 - `...` [Cygert et al., Misc 2024] **Realistic evaluation of test-time adaptation: Surrogate-based model selection strategies** [[PDF]](https://openreview.net/forum?id=X4ATu1huMJ) [[G-Scholar--]]()
 

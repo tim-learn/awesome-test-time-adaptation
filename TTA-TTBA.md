@@ -202,7 +202,7 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `Mask-Defense` [McDermott et al., Proc. ICLR Workshops 2023] **Robustifying language models with test-time adaptation** [[PDF]](https://openreview.net/forum?id=MOe6swbU2Ab) [[G-Scholar--]]()
 
-- `DRAM` [Tsai et al., arXiv 2023] **Test-time defense against adversarial attacks: Detection and reconstruction of adversarial examples via masked autoencoder** [[PDF]](https://arxiv.org/abs/2303.12848) [[G-Scholar--]]() 
+- `DRAM` [Tsai et al., arXiv 2023] **Test-time defense against adversarial attacks: Detection and reconstruction of adversarial examples via masked autoencoder** [[PDF]](https://arxiv.org/abs/2303.12848) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12004321465219900586&hl=en) 
 
   ~~[Tsai et al., Proc. CVPR Workshops 2023] **Test-time detection and repair of adversarial samples via masked autoencoder** [[PDF]](https://robustart.github.io/long_paper/22.pdf) [[G-Scholar--]]()~~
 
@@ -216,11 +216,11 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `MAT` [Huang et al., Misc 2023] **Test-time adaptation for better adversarial robustness** [[PDF]](https://openreview.net/forum?id=rUxKM6u8WER) [[G-Scholar--]]()
 
-- `MedBN` [Park et al., Proc. CVPR 2024] **MedBN: Robust Test-Time Adaptation against Malicious Test Samples** [[PDF]](https://arxiv.org/abs/2403.19326) [[G-Scholar--]]() [[CODE--]](https://github.com/ml-postech/MedBN-robust-test-time-adaptation)
+- `MedBN` [Park et al., Proc. CVPR 2024] **MedBN: Robust test-time adaptation against malicious test samples** [[PDF]](https://arxiv.org/abs/2403.19326) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10147602344134795140&hl=en) [[CODE--]](https://github.com/ml-postech/MedBN-robust-test-time-adaptation)
 
 - `TPAP` [Tang and Zhang, Proc. CVPR 2024] **Robust overfitting does matter: Test-time adversarial purification with FGSM** [[PDF]](https://arxiv.org/abs/2403.11448) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16989861815632578277&hl=en) [[CODE]](https://github.com/tly18/TPAP)
 
-- `TTD` [Yang et al., Proc. AAAI 2024] **Adversarial purification with the manifold hypothesis** [[PDF]](https://arxiv.org/abs/2210.14404) [[G-Scholar--]]()
+- `TTD` [Yang et al., Proc. AAAI 2024] **Adversarial purification with the manifold hypothesis** [[PDF]](https://arxiv.org/abs/2210.14404) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6768374233387843170&hl=en)
 
 ### Pose estimation
 - `ISO` [Zhang et al., Proc. NeurIPS 2020] **Inference stage optimization for cross-scenario 3d human pose estimation** [[PDF]](https://proceedings.neurips.cc/paper/2020/hash/1943102704f8f8f3302c2b730728e023-Abstract.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1453780569346725768&hl=en)
@@ -271,7 +271,7 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `PTTD` [Chen et al., arXiv 2023] **Prompt-based test-time real image dehazing: A novel pipelinee** [[PDF]](https://arxiv.org/abs/2309.17389) [[G-Scholar--]]() [[CODE]](https://github.com/cecret3350/PTTD-Dehazing)
 
-- `TAO` [Gou et al., Proc. ICML 2024] **Test-time degradation adaption for open-set image restoration** [[PDF]](https://arxiv.org/abs/2312.02197) [[G-Scholar--]]()
+- `TAO` [Gou et al., Proc. ICML 2024] **Test-time degradation adaptation for open-set image restoration** [[PDF]](https://openreview.net/forum?id=XLlQb24X2o) [[G-Scholar--]]() [[CODE--]](https://github.com/XLearning-SCU/2024-ICML-TAO)
 
 - `UTAL` [Zhang et al., IEEE TPAMI 2024] **Unsupervised test-time adaptation learning for effective hyperspectral image super-resolution with unknown degeneration** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10420496/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1887433236424898846&hl=en)
 
@@ -438,6 +438,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `...` [Dumpala et al., arXiv 2023] **Test-time training for speech** [[PDF]](https://arxiv.org/abs/2309.10930) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1240093156897083970&hl=en)
 
+- `DTDA` [Zhang et al., IEEE TMI 2024] **Constraint-aware learning for fractional flow reserve pullback curve estimation from invasive coronary imaging** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10553327/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11794755209258619660&hl=en)
+
 - `...` [Deshmukh et al., arXiv 2024] **Domain adaptation for contrastive audio-language models** [[PDF]](https://arxiv.org/abs/2402.09585) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1239683760236340401&hl=en)
 
 - `TTA-Nav` [Piriyajitakonkij et al., arXiv 2024] **TTA-Nav: Test-time adaptive reconstruction for point-goal navigation under visual corruptions** [[PDF]](https://arxiv.org/abs/2403.01977) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10787274148036384798&hl=en)
@@ -587,5 +589,7 @@ for 3D human mesh reconstruction** [[PDF]](https://arxiv.org/abs/2308.06554) [[G
 - `PAOA+` [Li and Gong, Proc. WACV 2024] **Mitigate domain shift by primary-auxiliary objectives association for generalizing person ReID** [[PDF]](https://arxiv.org/abs/2310.15913) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4886363486564511690&hl=en)
 
 - `...` [Wen et al., Proc. WACV 2024] **From denoising training to test-time adaptation: Enhancing domain generalization for medical image segmentation** [[PDF]](https://arxiv.org/abs/2310.20271) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17213070336290495734&hl=en)
+
+- `TTAGaze` [Wu et al., IEEE TCSVT 2024] **TTAGaze: Self-supervised test-time adaptation for personalized gaze estimation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10552776/) [[G-Scholar--]]()
 
 - `ICL-State-Vector` [Li et al., arXiv 2024] **In-context learning state vector with inner and momentum optimization** [[PDF]](https://arxiv.org/abs/2404.11225) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13467769071575363789&hl=en) [[CODE]](https://github.com/HITsz-TMG/ICL-State-Vector)
