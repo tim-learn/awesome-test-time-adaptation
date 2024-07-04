@@ -354,6 +354,10 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `LayerwiseTTA` [Park et al., Proc. WACV 2024] **Layer-wise auto-weighting for non-stationary test-time adaptation** [[PDF]](https://arxiv.org/abs/2311.05858) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15940795982645175699&hl=en) [[CODE]](https://github.com/junia3/LayerwiseTTA)
 
+- `PeTTA` [Hoang et al., Proc. CVPR Workshops 2024] **Persistent test-time adaptation in recurring testing scenarios** [[PDF]](https://tta-cvpr2024.github.io/_downloads/5004502028687719670699494371b834/matc_3_persistent_test_time_adaptatio.pdf) [[G-Scholar--]]() [[CODE--]](https://github.com/hthieu166/petta)
+
+- `MCTTA` [Yamashita and Hotta, Proc. CVPR Workshops 2024] **MixStyle-based contrastive test-time adaptation: Pathway to domain generalization** [[PDF]](https://openaccess.thecvf.com/content/CVPR2024W/MAT/html/Yamashita_MixStyle-Based_Contrastive_Test-Time_Adaptation_Pathway_to_Domain_Generalization_CVPRW_2024_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1836260706593188671&hl=en) 
+
 - `DAB` [Döbler et al., Proc. ICASSP 2024] **Diversity-aware buffer for coping with temporally correlated data streams in online test-time adaptation** [[PDF]](https://arxiv.org/abs/2401.00989) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3839875590185704419&hl=en)
 
 - `TESLA` [Cha et al., Proc. MOBISYS 2024] **Poster: Time-efficient sparse and lightweight adaptation for real-time mobile application** [[PDF]](https://dl.acm.org/doi/abs/10.1145/3643832.3661442) [[G-Scholar--]]()
@@ -403,6 +407,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `PLF` [Tan et al., arXiv 2024] **Less is more: Pseudo-label filtering for continual test-time adaptation** [[PDF]](https://arxiv.org/abs/2406.02609) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15442966577028268247&hl=en) [[CODE--]](https://github.com/tjy1423317192/PLF)
 
 - `DYN` [Jiang et al., arXiv 2024] **Discover your neighbors: Advanced stable test-time adaptation in dynamic world** [[PDF]](https://arxiv.org/abs/2406.05413) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2948296646488402340&hl=en)
+
+- `DPCore` [Zhang et al., arXiv 2024] **Dynamic domains, dynamic solutions: DPCore for continual test-time adaptation** [[PDF]](https://arxiv.org/abs/2406.10737) [[G-Scholar--]]() [[CODE--]](https://github.com/zybeich/DPCore)
 
 - `...` [Cygert et al., Misc 2024] **Realistic evaluation of test-time adaptation: Surrogate-based model selection strategies** [[PDF]](https://openreview.net/forum?id=X4ATu1huMJ) [[G-Scholar--]]()
 
@@ -474,6 +480,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 ### Speech
 - `CEA` [Liu et al., arXiv 2023] **Advancing test-time adaptation for acoustic foundation models in open-world shifts** [[PDF]](https://arxiv.org/abs/2310.09505) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17833880766013368425&hl=en)
 
+- `DSUTA` [Lin et al., arXiv 2024] **Continual test-time adaptation for end-to-end speech recognition on noisy speech** [[PDF]](https://arxiv.org/abs/2406.11064) [[G-Scholar--]]()
+
 ### Object Detection
 - `STFAR` [Chen et al., arXiv 2023] **STFAR: Improving object detection robustness at test-time by self-training with feature alignment regularization** [[PDF]](https://arxiv.org/abs/2303.17937) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16697474129572235092&hl=en)
 
@@ -482,6 +490,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `MoPL` [Gong et al., Misc 2023] **Test-time adaptation in 3D object detection using momentum-based pseudo-labeling** [[PDF]](https://github.com/afterglow-nju/MoPL/blob/main/temporal_online_adaptation_cvpr_2024.pdf) [[G-Scholar--]]()
 
 - `...` [Jeon et al., arXiv 2023] **TTA-DAME: Test-time adaptation with domain augmentation and model ensemble for dynamic driving conditions** [[PDF]](https://yonseivnl.github.io/research/papers/iccvw23_paper_ttadame.pdf) [[G-Scholar--]]()
+
+- `...` [Ruan and Tang, Proc. CVPR Workshops 2024] **Fully test-time adaptation for object detection** [[PDF]](https://tta-cvpr2024.github.io/_downloads/67c18f73a2c6eb6cce800484178cb6d9/matp_2_fully_test_time_adaptation_for.pdf) [[G-Scholar--]]()  [[CODE]](https://github.com/XiaoqianRuan1/IoU-filter)
 
 - `MonoTTA` [Lin et al., arXiv 2024] **Fully test-time adaptation for monocular 3D object detection** [[PDF]](https://arxiv.org/abs/2405.19682) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14852794251838168710&hl=en)
 
@@ -501,6 +511,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `DiffTTA` [Yang et al., Proc. CVPR 2024] **Genuine knowledge from practice: Diffusion test-time adaptation for video adverse weather removal** [[PDF]](https://arxiv.org/abs/2403.07684) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2362711304803738776&hl=en)
 
+- `ST2ST` [Fahim et al., Proc. CVPR Workshops 2024] **ST2ST: Self-supervised test-time adaptation for video action recognition** [[PDF]](https://tta-cvpr2024.github.io/_downloads/71c70b99c912cb3c70bd2f6cd13023b7/matp_5_st2st_self_supervised_test_tim.pdf) [[G-Scholar--]]() 
+
 ### Graph
 - `GAPGC` [Chen et al., Proc. ICML Workshops 2022] **GraphTTA: Test time adaptation on graph neural networks** [[PDF]](https://arxiv.org/abs/2208.09126) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3397674391742244376&hl=en)
 
@@ -508,6 +520,9 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 ### OOD detection
 - `ETLT` [Fan et al., arXiv 2022] **A simple test-time method for out-of-distribution detection** [[PDF]](https://arxiv.org/abs/2207.08210) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15935572095826047572&hl=en)
+
+### Regression
+- `SSA` [Adachi et al., Proc. CVPR Workshops 2024] **Test-time adaptation for regression by subspace alignment** [[PDF]](https://tta-cvpr2024.github.io/_downloads/5c8596c2798bf34ada89ed342bb08d51/matc_1_test_time_adaptation_for_regre.pdf) [[G-Scholar--]]() 
 
 ### Tabular data
 - `TabLog` [Li et al., Proc. ICML 2024] **TabLog: Test-time adaptation for tabular data using logic rules** [[PDF]](https://openreview.net/forum?id=LZeixIvQcB) [[G-Scholar--]]() [[CODE]](https://github.com/WeijieyingRen/TabLog)

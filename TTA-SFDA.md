@@ -474,8 +474,6 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `...` [Sheng et al., arXiv 2023] **Self-training solutions for the ICCV 2023 GeoNet challenge** [[PDF]](https://arxiv.org/abs/2311.16843) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2098897309052885736&hl=en)
 
-- `USD` [Jahan and Savakis, arXiv 2023] **Unknown sample discovery for source free open set domain adaptation** [[PDF]](https://arxiv.org/abs/2312.03767) [[G-Scholar--]]()
-
 - `E2` [Shen et al., Misc 2023] **E2: Entropy discrimination and energy optimization for source-free universal domain adaptation** [[PDF]](https://openreview.net/forum?id=FMEXgK9-I8) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2517695593354531262&hl=en)
 
 - `...` [Wang et al., Misc 2023] **Graph-guided unsupervised clustering for source-free domain adaptation** [[PDF]](https://lrjconan.github.io/UBC-EECE571F-DL-Structures/assets/sample_reports_2022_W1/report_06.pdf) [[G-Scholar--]]()
@@ -510,6 +508,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 - `CXDA` [Bohdal et al., Proc. WACV 2024] **Feed-forward latent domain adaptation** [[PDF]](https://openaccess.thecvf.com/content/WACV2024/html/Bohdal_Feed-Forward_Latent_Domain_Adaptation_WACV_2024_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15837576530441040681&hl=en)
 
   ~~ [Bohdal et al., Proc. ICML Workshops 2022] **Feed-forward source-free latent domain adaptation via cross-attention** [[PDF]](https://openreview.net/forum?id=EiQB09V5IX) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15837576530441040681&hl=en)~~
+
+- `USD` [Jahan and Savakis, Proc. CVPR Workshops 2023] **Unknown sample discovery for source free open set domain adaptation** [[PDF]](https://arxiv.org/abs/2312.03767) [[G-Scholar--]]()
 
 - `UAD` [Sivaprasad and Fleuret, Proc. ISBI 2024] **Multi-source-free domain adaptation via uncertainty-aware adaptive distillation** [[PDF]](https://arxiv.org/abs/2402.06213) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14240206218895524027&hl=en)
 
@@ -1038,6 +1038,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `DIFO` [Tang et al., Proc. WACV 2024] **Source-free domain adaptation with frozen multimodal foundation model** [[PDF]](https://arxiv.org/abs/2311.16510) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7386217752559798759&hl=en) 
 
+- `OT-VP` [Zhang et al., Proc. CVPR Workshops 2024] **OT-VP: Optimal transport-guided visual prompting for test-time adaptation** [[PDF]](https://tta-cvpr2024.github.io/_downloads/63a4c7ea64117d8e8f2db690967c01fb/matc_4_ot_vp_optimal_transport_guided.pdf) [[G-Scholar--]]() 
+
 - `QED` [Liu et al., IEEE TCSVT 2024] **Question type-aware debiasing for test-time visual question answering model adaptation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10550013) [[G-Scholar--]]()
 
 - `BBC` [Tian et al., Signal, Image and Video Processing 2024] **CLIP-guided black-box domain adaptation of image classification** [[PDF]](https://link.springer.com/article/10.1007/s11760-024-03101-8) [[G-Scholar--]]()
@@ -1264,6 +1266,10 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `SFDA-OMR` [Roselló et al., Proc. ICDAR 2024] **Source-free domain adaptation for optical music recognition** [[PDF--]]() [[G-Scholar--]]() [[CODE]](https://github.com/OMR-PRAIG-UA-ES/SFDA-OMR)
 
+- `...` [Wang et al., Proc. I2MTC 2024] **A clustering-guided source-free domain transfer learning diagnostic method for rotating machiner** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10561161) [[G-Scholar--]]()
+
+- `SODAN` [Yue et al., Proc. I2MTC 2024] **Source-free open-set domain adaptation network for emerging fault diagnosis of planetary gearbox** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10561232) [[G-Scholar--]]()
+
 - `GALA` [Luo et al., IEEE TPAMI 2024] **GALA: Graph diffusion-based alignment with Jigsaw for source-free domain adaptation** [[PDF]](https://ieeexplore.ieee.org/document/10561561/) [[G-Scholar--]]() [[CODE]](ttps://github.com/luo-junyu/GALA)
 
 - `ISFAD` [Liu et al., IEEE TIM 2024] **Imbalanced source-free adaptation diagnosis for rotating machinery** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10530023/) [[G-Scholar--]]()
@@ -1287,6 +1293,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 - `E-MAPU` [Gong et al., arXiv 2024] **Evidentially calibrated source-free time-series domain adaptation with temporal imputation** [[PDF]](https://arxiv.org/abs/2406.02635) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8565279166729981246&hl=en)
 
 - `...` [Elia et al., arXiv 2024] **Source-free domain adaptation for speaker verification in data-scarce languages and noisy channels** [[PDF]](https://arxiv.org/abs/2406.05863) [[G-Scholar--]]()
+
+- `TAAD` [Sun et al., arXiv 2024] **Continuous test-time domain adaptation for efficient fault detection under evolving operating conditions** [[PDF]](https://arxiv.org/abs/2406.06607) [[G-Scholar--]]()
 
 ## Misc
 - [Yang et al., Proc. ACM-MM2007] **Cross-domain video concept detection using adaptive svms** [[PDF]](https://dl.acm.org/doi/abs/10.1145/1291233.1291276) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4589454669556425406&hl=en)
@@ -1348,5 +1356,7 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 - `IM-DCL` [Xu et al., IEEE TIP 2024] **Enhancing information maximization with distance-aware contrastive learning for source-free cross-domain few-shot learning** [[PDF]](https://arxiv.org/abs/2403.01966) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6606628700918716097&hl=en) [[CODE]](https://github.com/xuhuali-mxj/IM-DCL)
 
 - `CamoNet` [Zhang et al., IEEE TMC 2024] **CamoNet: On-device neural network adaptation with zero interaction and unlabeled data for diverse edge environments** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10522944/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12018083912496855600&hl=en)
+
+- `...` [Leroux et al., Proc. CVPR Workshops 2024] **Test-time specialization of dynamic neural networks** [[PDF]](https://tta-cvpr2024.github.io/_downloads/4d709aa8330b463834bd636dac27d927/matp_4_test_time_specialization_of_dy.pdf) [[G-Scholar--]]() 
 
 - `TETOT` [Mehra et al., arXiv 2024] **Test-time assessment of a model's performance on unseen domains via optimal transport** [[PDF]](https://arxiv.org/abs/2405.01451) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17236322836354599887&hl=en)

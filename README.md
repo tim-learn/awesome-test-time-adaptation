@@ -25,7 +25,7 @@ If you find our survey and repository useful for your research, please consider 
 @article{liang2023ttasurvey,
   title={A Comprehensive Survey on Test-Time Adaptation under Distribution Shifts},
   author={Liang, Jian and He, Ran and Tan, Tieniu},
-  journal={arXiv preprint arXiv:2303.15361},
+  journal={International Journal Of Computer Vision},
   year={2023}
 }
 ```

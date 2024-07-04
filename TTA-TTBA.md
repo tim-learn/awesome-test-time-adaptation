@@ -92,7 +92,7 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `MoDE` [Ma et al., Proc. CVPR 2024] **MoDE: CLIP data experts via clustering** [[PDF]](https://arxiv.org/abs/2404.16030) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6687597386819654107&hl=en) [[CODE]](https://github.com/facebookresearch/MetaCLIP/tree/main/mode)
 
-- `TPS` [Sui et al., arXiv 2024] **Just shift it: Test-time prototype shifting for zero-shot generalization with vision-language models** [[PDF]](https://arxiv.org/abs/2403.12952) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15629234813577501375&hl=en) [[CODE]](https://github.com/elaine-sui/TPS)
+- `TPS` [Sui et al., Proc. CVPR Workshops 2024] **Just shift it: Test-time prototype shifting for zero-shot generalization with vision-language models** [[PDF]](https://arxiv.org/abs/2403.12952) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15629234813577501375&hl=en) [[CODE]](https://github.com/elaine-sui/TPS)
 
 - `ZERO` [Farina et al., arXiv 2024] **Frustratingly easy test-time adaptation of vision-language models** [[PDF]](https://arxiv.org/abs/2405.18330) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6024530939490096886&hl=en) [[CODE--]](https://github.com/FarinaMatteo/zero)
 
@@ -221,6 +221,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 - `TPAP` [Tang and Zhang, Proc. CVPR 2024] **Robust overfitting does matter: Test-time adversarial purification with FGSM** [[PDF]](https://arxiv.org/abs/2403.11448) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16989861815632578277&hl=en) [[CODE]](https://github.com/tly18/TPAP)
 
 - `TTD` [Yang et al., Proc. AAAI 2024] **Adversarial purification with the manifold hypothesis** [[PDF]](https://arxiv.org/abs/2210.14404) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6768374233387843170&hl=en)
+
+- `...` [Shaikh et al., Proc. CVPR Workshops 2024] **Adaptive randomized smoothing for certified multi-step defence** [[PDF]](https://tta-cvpr2024.github.io/_downloads/61e60378db6d598c6bec6643f2d79daa/matc_8_adaptive_randomized_smoothing_.pdf) [[G-Scholar--]]() 
 
 ### Pose estimation
 - `ISO` [Zhang et al., Proc. NeurIPS 2020] **Inference stage optimization for cross-scenario 3d human pose estimation** [[PDF]](https://proceedings.neurips.cc/paper/2020/hash/1943102704f8f8f3302c2b730728e023-Abstract.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1453780569346725768&hl=en)
