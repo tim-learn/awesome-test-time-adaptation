@@ -183,6 +183,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `...` [Shen et al., Proc. ICASSP 2024] **One-epoch training with single test sample in test time for better generalization of cough-based Covid-19 detection model** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10447997/) [[G-Scholar--]]()
 
+- `MonoTTA` [Lin et al., Proc. ECCV 2024] **Fully Test-Time Adaptation for Monocular 3D Object Detection** [[PDF]](https://arxiv.org/pdf/2405.19682) [[G-Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Fully+Test-Time+Adaptation+for+Monocular+3D+Object+Detection&btnG=) [[CODE]](https://github.com/Hongbin98/MonoTTA)
+
 ### Attack and Defense
 - `SOAP` [Shi et al., Proc. ICLR 2021] **Online adversarial purification based on self-supervision** [[PDF]](https://openreview.net/forum?id=_i3ASPp12WS) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17641828899893011240&hl=en) [[CODE]](https://github.com/Mishne-Lab/SOAP)
 
