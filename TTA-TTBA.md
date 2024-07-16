@@ -337,6 +337,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `DINO-Tracker` [Tumanyan et al., arXiv 2024] **DINO-Tracker: Taming DINO for self-supervised point tracking in a single video** [[PDF]](https://arxiv.org/abs/2403.14548) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9701816814724108105&hl=en) [[CODE]](https://github.com/AssafSinger94/dino-tracker)
 
+- `VIA` [Gu et al., arXiv 2024] **VIA: A spatiotemporal video adaptation framework for global and local video editing** [[PDF]](https://arxiv.org/abs/2406.12831) [[G-Scholar--]]() [[CODE--]](https://github.com/eric-ai-lab/via-video)
+
 ### Action Recognition
 - `T3AL` [Liberatori et al., Proc. CVPR 2024] **From denoising training to test-time adaptation: Enhancing domain generalization for medical image segmentation** [[PDF]](https://arxiv.org/abs/2404.05426) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2064578012025530100&hl=en) [[CODE]](https://github.com/benedettaliberatori/T3AL)
 
@@ -354,6 +356,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 - `AGREE` [Ye et al., arXiv 2023] **Effective large language model adaptation for improved grounding** [[PDF]](https://arxiv.org/abs/2311.09533) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3665830312841118313&hl=en)
 
 - `TTT-NN` [Hardt and Sun, Proc. ICLR 2024] **Test-time training on nearest neighbors for large language models** [[PDF]](https://openreview.net/forum?id=CNL2bku4ra) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13923028688883164038&hl=en) [[CODE]](https://github.com/socialfoundations/tttlm)
+
+- `TTTLayers` [Sun et al., arXiv 2024] **Learning to (learn at test time): RNNs with expressive hidden states** [[PDF]](https://arxiv.org/abs/2407.04620) [[G-Scholar--]]() [[CODE]](https://github.com/test-time-training/ttt-lm-pytorch)
 
 ### Graph
 - `GT3` [Wang et al., arXiv 2022] **Test-time training for graph neural networks** [[PDF]](https://arxiv.org/abs/2210.08813) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4459392671520994454&hl=en)
@@ -398,8 +402,10 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `...` [Huang et al., Misc 2024] **Semi-supervised acoustic scene classification with test-time adaptation** [[PDF]](https://ascchallenge.xshengyun.com/static/reports/3-Audio%20Warriors.pdf) [[G-Scholar--]]()
 
-### Face Anti-spoofing
+### Face
 - `TTSP` [Zhou et al., Proc. CVPR 2024] **Test-time domain generalization for face anti-spoofing** [[PDF]](https://arxiv.org/abs/2403.19334) [[G-Scholar]](https://scholar.google.com/scholar?cluster=901090132601636901&hl=en)
+
+- `ELF-UA` [Wu et al., Proc. IJCAI 2024] **ELF-UA: Efficient label-free user adaptation in gaze estimation** [[PDF]](https://arxiv.org/abs/2406.09481) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16153028536416526889&hl=en)
 
 ### Misc
 - `PAD` [Hansen et al., Proc. ICLR 2021] **Self-supervised policy adaptation during deployment** [[PDF]](https://openreview.net/forum?id=o_V-MjyyGV_) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10107448604973336784&hl=en) [[CODE]](https://github.com/nicklashansen/policy-adaptation-during-deployment)
@@ -508,6 +514,8 @@ federated learning** [[PDF]](https://arxiv.org/abs/2310.18816) [[G-Scholar]](htt
 - `ABNN` [Lo and Patel, Proc. AVSS 2024] **Adaptive batch normalization networks for adversarial robustness** [[PDF]](https://arxiv.org/abs/2405.11708) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6809196964032925339&hl=en)
 
 - `Hybrid-TTN` [Vianna et al, arXiv 2024] **Channel-selective normalization for label-shift robust test-time adaptation** [[PDF]](https://arxiv.org/abs/2402.04958) [[G-Scholar--]]()
+
+- `PAN` [Camuffo et al., arXiv 2024] **Enhanced model robustness to input corruptions by per-corruption adaptation of normalization statistics** [[PDF]](https://arxiv.org/abs/2407.06450) [[G-Scholar--]]() 
 
 ### Video processing (multiple frames)
 - `PGO` [Brahmbhatt et al., Proc. CVPR 2018] **Geometry-aware learning of maps for camera localization** [[PDF]](http://openaccess.thecvf.com/content_cvpr_2018/html/Brahmbhatt_Geometry-Aware_Learning_of_CVPR_2018_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15361942550307476955&hl=en) [[CODE]](https://github.com/NVlabs/geomapnet)

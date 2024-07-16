@@ -136,8 +136,6 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `...` [Li et al., arXiv 2023] **Domain generalization of 3D object detection by density-resampling** [[PDF]](https://arxiv.org/abs/2311.10845) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12500302214387896145&hl=en)
 
-- `FSTTA` [Gao et al., arXiv 2023] **Test-time adaptive vision-and-language navigation** [[PDF]](https://arxiv.org/abs/2311.13209) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15442909998382208943&hl=en)
-
 - `AdaODD` [Zhang et al., arXiv 2023] **Model-free test time adaptation for out-of-distribution detection** [[PDF]](https://arxiv.org/abs/2311.16420) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2461883119801129759&hl=en)
 
 #### 2024
@@ -152,6 +150,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `MiDl` [Ramazanova et al., arXiv 2024] **Combating missing modalities in egocentric videos at test time** [[PDF]](https://arxiv.org/abs/2404.15161) [[G-Scholar--]]()
 
 - `ROSITA` [Sreenivas and Biswas, arXiv 2024] **Effectiveness of vision language models for open-world single image test time adaptation** [[PDF]](https://arxiv.org/abs/2406.00481) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10170685160055888954&hl=en) [[CODE]](https://github.com/manogna-s/ROSITA)
+
+- `WSTTA` [Doan et al., arXiv 2024] **Weakly supervised test-time domain adaptation for object detection** [[PDF]](https://arxiv.org/abs/2407.05607) [[G-Scholar--]]() [[CODE--]](https://github.com/dzungdoan6/WSTTA)
 
 ## Online Batch-level
 ### Image Classification
@@ -464,6 +464,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `CoMM` [Chuah et al, arXiv 2024] **Enhanced online test-time adaptation with feature-weight cosine alignment** [[PDF]](https://arxiv.org/abs/2405.07171) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16796492520258842861&hl=en) [[CODE]](https://github.com/waychin-weiqin/CoMM)
 
+- `...` [Wang et al., arXiv 2024] **Test-time adaptation for geospatial point cloud semantic segmentation with distinct domain shifts** [[PDF]](https://arxiv.org/abs/2407.06043) [[G-Scholar--]]()
+
 ### NLP
 - `OIL` [Ye et al., Proc. EMNLP Findings 2022] **Robust question answering against distribution shifts with test-time adaptation: An empirical study** [[PDF]](https://arxiv.org/abs/2302.04618) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14000848114209529359&hl=en) [[CODE]](https://github.com/oceanypt/coldqa-tta)
 
@@ -474,6 +476,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `MEMO-CL` [Singh and Ortega, Proc. AAAI Workshops 2023] **Addressing distribution shift at test time in pre-trained language models** [[PDF]](https://arxiv.org/abs/2212.02384) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14992365786610118665&hl=en)
 
 - `PCL` [Su et al., arXiv 2023] **Test-time adaptation with perturbation consistency learning** [[PDF]](https://arxiv.org/abs/2304.12764) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14643133049836398835&hl=en)
+
+- `TTem` [Wu et al., IEEE SPL 2024] **A test-time entropy minimization method for cross-domain linguistic steganalysis** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10582504/) [[G-Scholar--]]()
 
 - `STAF` [Xiong et al., Proc. LREC-COLING 2024] **STAF: Pushing the boundaries of test-time adaptation towards practical noise scenarios** [[PDF]](https://aclanthology.org/2024.lrec-main.1324/) [[G-Scholar--]]()
 
@@ -491,9 +495,9 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `...` [Jeon et al., arXiv 2023] **TTA-DAME: Test-time adaptation with domain augmentation and model ensemble for dynamic driving conditions** [[PDF]](https://yonseivnl.github.io/research/papers/iccvw23_paper_ttadame.pdf) [[G-Scholar--]]()
 
-- `...` [Ruan and Tang, Proc. CVPR Workshops 2024] **Fully test-time adaptation for object detection** [[PDF]](https://tta-cvpr2024.github.io/_downloads/67c18f73a2c6eb6cce800484178cb6d9/matp_2_fully_test_time_adaptation_for.pdf) [[G-Scholar--]]()  [[CODE]](https://github.com/XiaoqianRuan1/IoU-filter)
+- `MonoTTA` [Lin et al., Proc. ECCV 2024] **Fully test-time adaptation for monocular 3D object detection** [[PDF]](https://arxiv.org/abs/2405.19682) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14852794251838168710&hl=en) [[CODE]](https://github.com/Hongbin98/MonoTTA)
 
-- `MonoTTA` [Lin et al., arXiv 2024] **Fully test-time adaptation for monocular 3D object detection** [[PDF]](https://arxiv.org/abs/2405.19682) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14852794251838168710&hl=en)
+- `...` [Ruan and Tang, Proc. CVPR Workshops 2024] **Fully test-time adaptation for object detection** [[PDF]](https://tta-cvpr2024.github.io/_downloads/67c18f73a2c6eb6cce800484178cb6d9/matp_2_fully_test_time_adaptation_for.pdf) [[G-Scholar--]]()  [[CODE]](https://github.com/XiaoqianRuan1/IoU-filter)
 
 ### Defense
 - `Dent` [Wang et al., arXiv 2021] **Fighting gradients with gradients: Dynamic defenses against adversarial attacks** [[PDF]](https://arxiv.org/abs/2105.08714) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17688777795747313333&hl=en) [[CODE]](https://github.com/DequanWang/dent)
@@ -598,3 +602,5 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `AETTA` [Lee et al., arXiv 2024] **AETTA: Label-free accuracy estimation for test-time adaptation** [[PDF]](https://arxiv.org/abs/2404.01351) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4098672415240681318&hl=en) [[CODE]](https://github.com/taeckyung/AETTA)
 
 - `EACP` [Kasa et al., arXiv 2024] **Adapting conformal prediction to distribution shifts without labels** [[PDF]](https://arxiv.org/abs/2406.01416) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12815146141810977184&hl=en)
+
+- `DoSAPP` [Singh et al., arXiv 2024] **Controlling forgetting with test-time data in continual learning** [[PDF]](https://arxiv.org/abs/2406.13653) [[G-Scholar--]]()

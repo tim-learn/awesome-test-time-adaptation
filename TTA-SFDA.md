@@ -571,6 +571,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `...` [Jiang et al., arXiv 2024] **High-order neighborhoods know more: HyperGraph learning meets source-free unsupervised domain adaptation** [[PDF]](https://arxiv.org/abs/2405.06916) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14976529978689430892&hl=en)
 
+- `MIRoUDA` [Yin et al., arXiv 2024] **Towards trustworthy unsupervised domain adaptation: A representation learning perspective for enhancing robustness, discrimination, and generalization** [[PDF]](https://arxiv.org/abs/2406.13180) [[G-Scholar--]]()
+
 - `...` [Zhu et al., Misc 2024] **Pick and adapt: An iterative approach for source-free domain adaptation** [[PDF]](https://openreview.net/forum?id=SaSK9M66KK) [[G-Scholar--]]()
 
 - `...` [Musabe, Master Thesis 2024] **Towards regression-free and source-free online domain adaptation** [[PDF]](https://mspace.lib.umanitoba.ca/items/d9190005-e89a-4b46-b2de-f12042436094) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8863159720183005103&hl=en)
@@ -684,13 +686,15 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 ### 2024
 - `360SFUDA` [Zheng et al., Proc. CVPR 2024] **Semantics, distortion, and style matter: Towards source-free UDA for panoramic segmentation** [[PDF]](https://arxiv.org/abs/2403.12505) [[G-Scholar]](https://scholar.google.com/scholar?cluster=121363794852722597&hl=en) [[CODE]](https://github.com/zhengxujosh/360SFUDA)
 
-- `ProAC` [Ren et al., IEEE TCSVT 2024] **Exploring prototype-anchor contrast for semantic segmentation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10445499/) [[G-Scholar--]]()
+- `ProAC` [Ren et al., IEEE TCSVT 2024] **Exploring prototype-anchor contrast for semantic segmentation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10445499/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8127961343037029711&hl=en)
 
-- `...` [Tian et al., IEEE TMM 2024] **Self-mining the confident prototypes for source-free unsupervised domain adaptation in image segmentation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10452765/) [[G-Scholar--]]()
+- `...` [Tian et al., IEEE TMM 2024] **Self-mining the confident prototypes for source-free unsupervised domain adaptation in image segmentation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10452765/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=777411465098328628&hl=en)
+
+- `...` [Gao et al., Proc. IEEE GRSL 2024] **Attention prompt-driven source-free adaptation for remote sensing images semantic segmentation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10583928/) [[G-Scholar--]]()
 
 - `MAS3` [Stan and Rostami, arXiv 2024] **Online continual domain adaptation for semantic image segmentation using internal representations** [[PDF]](https://arxiv.org/abs/2401.01035) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5773237290303399495&hl=en)
 
-- `FFreeDA` [Rizzoli et al., arXiv 2024] **When cars meet drones: Hyperbolic federated learning for source-free domain adaptation in adverse weather** [[PDF]](https://arxiv.org/abs/2403.13762) [[G-Scholar--]]()
+- `FFreeDA` [Rizzoli et al., arXiv 2024] **When cars meet drones: Hyperbolic federated learning for source-free domain adaptation in adverse weather** [[PDF]](https://arxiv.org/abs/2403.13762) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14495060341531327733&hl=en)
 
 - `360SFUDA++` [Zheng et al., arXiv 2024] **360SFUDA++: Towards source-free UDA for panoramic segmentation by learning reliable category prototypes** [[PDF]](https://arxiv.org/abs/2404.16501) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12998254106770471662&hl=en) [[CODE]](https://github.com/zhengxujosh/360SFUDA)
 
@@ -760,6 +764,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 - `...` [Shi et al., arXiv 2023] **Improving online source-free domain adaptation for object detection by unsupervised data acquisition** [[PDF]](https://arxiv.org/abs/2310.19258) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18439349657086663420&hl=en)
 
 ### 2024
+- `LPLD` [Shi et al., Proc. ECCV 2024] **Enhancing source-free domain adaptive object detection with low-confidence pseudo-label distillation** [[PDF--]]() [[G-Scholar--]]() [[CODE]](https://github.com/junia3/LPLD)
+
 - `STAR-MT` [Zhang and Zhou, Proc. CVPR Workshops 2024] **Source-free domain adaptation for video object detection under adverse image conditions** [[PDF]](https://arxiv.org/abs/2404.15252) [[G-Scholar--]]()
 
 - `...` [Liu et al., Proc. IGARSS 2024] **CLIP-guided source-free object detection in aerial images** [[PDF]](https://arxiv.org/abs/2401.05168) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12573935687703695201&hl=en)
@@ -912,11 +918,15 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 - `...` [Pourreza., Master Thesis 2023] **Open-set source-free domain adaptation in fundus images analysis** [[PDF]](https://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=11898&context=etd) [[G-Scholar--]]()
 
 ### 2024
+- `SF-UT` [Hao et al., Proc. ECCV 2024] **Simplifying source-free domain adaptation for object detection: Effective self-training strategies and performance insights** [[PDF]](https://arxiv.org/abs/2407.07586) [[G-Scholar--]]() [[CODE]](https://github.com/EPFL-IMOS/simple-SFOD)
+
 - `PLPB` [Li et al., Proc. WACV 2024] **Robust source-free domain adaptation for fundus image segmentation** [[PDF]](https://arxiv.org/abs/2310.16665) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14362854508610886433&hl=en) [[CODE]](https://github.com/LinGrayy/PLPB)
 
 - `...` [Guichemerre et al., Proc. CVPR Workshops 2024] **Source-free domain adaptation of weakly-supervised object localization models for histology** [[PDF]](https://arxiv.org/abs/2404.19113) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11764162416449308542&hl=en) [[CODE]](https://github.com/AlexisGuichemerreCode/survey_hist_wsol_sfda)
 
 - `...` [Nakhaei et al., Proc. SPIE Medical Imaging 2024] **Refining boundaries of the segment anything model in medical images using an active contour model** [[PDF]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12927/1292734/Refining-boundaries-of-the-segment-anything-model-in-medical-images/10.1117/12.3006255.short) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2412331644154163819&hl=en)
+
+- `DACA` [Zhao et al., IJCV 2024] **Multi-source-free domain adaptive object detection** [[PDF]](https://link.springer.com/article/10.1007/s11263-024-02170-z) [[G-Scholar--]]()
 
 - `Distill-SODA` [Vray et al., IEEE TMI 2024] **Distill-SODA: Distilling self-supervised vision transformer for source-free open-set domain adaptation in computational pathology** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10403873)  [[G-Scholar]](https://scholar.google.com/scholar?cluster=14471489511816927773&hl=en) [[CODE]](https://github.com/LTS5/Distill-SODA)
 
