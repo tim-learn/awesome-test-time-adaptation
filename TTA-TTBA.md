@@ -335,6 +335,9 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `VFI_Adapter` [Wu et al., arXiv 2023] **Boost video frame interpolation via motion adaptation** [[PDF]](https://arxiv.org/abs/2306.13933) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10629349727546459874&hl=en) [[CODE]](https://github.com/haoningwu3639/VFI_Adapter)
 
+- `DADeblur` [He et al., Proc. ECCV 2024] **Domain-adaptive video deblurring via test-time
+blurring** [[PDF]](https://arxiv.org/abs/2407.09059) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16166201323794932401&hl=en) [[CODE--]](https://github.com/Jin-Ting-He/DADeblur)
+
 - `DINO-Tracker` [Tumanyan et al., arXiv 2024] **DINO-Tracker: Taming DINO for self-supervised point tracking in a single video** [[PDF]](https://arxiv.org/abs/2403.14548) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9701816814724108105&hl=en) [[CODE]](https://github.com/AssafSinger94/dino-tracker)
 
 - `VIA` [Gu et al., arXiv 2024] **VIA: A spatiotemporal video adaptation framework for global and local video editing** [[PDF]](https://arxiv.org/abs/2406.12831) [[G-Scholar--]]() [[CODE--]](https://github.com/eric-ai-lab/via-video)
@@ -603,3 +606,5 @@ for 3D human mesh reconstruction** [[PDF]](https://arxiv.org/abs/2308.06554) [[G
 - `TTAGaze` [Wu et al., IEEE TCSVT 2024] **TTAGaze: Self-supervised test-time adaptation for personalized gaze estimation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10552776/) [[G-Scholar--]]()
 
 - `ICL-State-Vector` [Li et al., arXiv 2024] **In-context learning state vector with inner and momentum optimization** [[PDF]](https://arxiv.org/abs/2404.11225) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13467769071575363789&hl=en) [[CODE]](https://github.com/HITsz-TMG/ICL-State-Vector)
+
+- `DEnEM` [Gilany et al., arXiv 2024] **Calibrated diverse ensemble entropy minimization for robust test-time adaptation in prostate cancer detection** [[PDF]](https://arxiv.org/abs/2407.12697) [[G-Scholar--]]()

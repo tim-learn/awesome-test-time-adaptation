@@ -513,7 +513,9 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `UAD` [Sivaprasad and Fleuret, Proc. ISBI 2024] **Multi-source-free domain adaptation via uncertainty-aware adaptive distillation** [[PDF]](https://arxiv.org/abs/2402.06213) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14240206218895524027&hl=en)
 
-- `FedAcross` [Röder et al., Proc. ICPRAM 2024] **Crossing domain borders with federated few-shot adaptation** [[PDF]](https://www.scitepress.org/Papers/2024/123519/123519.pdf) [[G-Scholar--]]()
+- `FedAcross` [Röder et al., Proc. ICPRAM 2024] **Crossing domain borders with federated few-shot adaptation** [[PDF]](https://www.scitepress.org/Papers/2024/123519/123519.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17139721934997781275&hl=en)
+
+- `...` [Yang et al., Proc. IEEE CSCWD 2024] **Source free domain adaptation via adapting to the enhanced style** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10580674/) [[G-Scholar--]]()
 
 - `EAAF` [Pei et al., IEEE TPAMI 2024] **Evidential multi-source-free unsupervised domain adaptation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10420513)  [[G-Scholar]](https://scholar.google.com/scholar?cluster=7451657378107187713&hl=en) [[CODE]](https://github.com/SPIresearch/EAAF)
 
@@ -686,6 +688,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 ### 2024
 - `360SFUDA` [Zheng et al., Proc. CVPR 2024] **Semantics, distortion, and style matter: Towards source-free UDA for panoramic segmentation** [[PDF]](https://arxiv.org/abs/2403.12505) [[G-Scholar]](https://scholar.google.com/scholar?cluster=121363794852722597&hl=en) [[CODE]](https://github.com/zhengxujosh/360SFUDA)
 
+- `FREST` [Lee et al, Proc. ECCV 2024] **FREST: Feature restoration for semantic segmentation under multiple adverse conditions** [[PDF]](https://arxiv.org/abs/2407.13437) [[G-Scholar--]]() [[CODE--]](https://github.com/sohyun-l/frest)
+
 - `ProAC` [Ren et al., IEEE TCSVT 2024] **Exploring prototype-anchor contrast for semantic segmentation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10445499/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8127961343037029711&hl=en)
 
 - `...` [Tian et al., IEEE TMM 2024] **Self-mining the confident prototypes for source-free unsupervised domain adaptation in image segmentation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10452765/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=777411465098328628&hl=en)
@@ -766,11 +770,13 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 ### 2024
 - `LPLD` [Shi et al., Proc. ECCV 2024] **Enhancing source-free domain adaptive object detection with low-confidence pseudo-label distillation** [[PDF--]]() [[G-Scholar--]]() [[CODE]](https://github.com/junia3/LPLD)
 
-- `STAR-MT` [Zhang and Zhou, Proc. CVPR Workshops 2024] **Source-free domain adaptation for video object detection under adverse image conditions** [[PDF]](https://arxiv.org/abs/2404.15252) [[G-Scholar--]]()
+- `STAR-MT` [Zhang and Zhou, Proc. CVPR Workshops 2024] **Source-free domain adaptation for video object detection under adverse image conditions** [[PDF]](https://arxiv.org/abs/2404.15252) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8777924463734083960&hl=en)
 
 - `...` [Liu et al., Proc. IGARSS 2024] **CLIP-guided source-free object detection in aerial images** [[PDF]](https://arxiv.org/abs/2401.05168) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12573935687703695201&hl=en)
 
 - `...` [Deng et al., IEEE TCSVT 2024] **Balanced teacher for source-free object detection** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10466767/) [[G-Scholar--]]()
+
+- `...` [Liu et al., Geo-spatial Information Science 2024] **Multi-level domain perturbation for source-free object detection in remote sensing images** [[PDF]](https://www.tandfonline.com/doi/full/10.1080/10095020.2024.2378920/) [[G-Scholar--]]()
 
 - `...` [Liu et al., arXiv 2024] **Source-free domain adaptive object detection in remote sensing images** [[PDF]](https://arxiv.org/abs/2401.17916) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6757841461042013328&hl=en)
 
@@ -924,6 +930,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `...` [Guichemerre et al., Proc. CVPR Workshops 2024] **Source-free domain adaptation of weakly-supervised object localization models for histology** [[PDF]](https://arxiv.org/abs/2404.19113) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11764162416449308542&hl=en) [[CODE]](https://github.com/AlexisGuichemerreCode/survey_hist_wsol_sfda)
 
+- `RSA` [Zeng et al., Proc. MICCAI 2024] **Reliable source approximation: Source-free unsupervised domain adaptation for vestibular schwannoma MRI segmentation** [[PDF]](https://arxiv.org/abs/2405.16102) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15313961143347598441&hl=en) [[CODE]](https://github.com/zenghy96/Reliable-Source-Approximation)
+
 - `...` [Nakhaei et al., Proc. SPIE Medical Imaging 2024] **Refining boundaries of the segment anything model in medical images using an active contour model** [[PDF]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12927/1292734/Refining-boundaries-of-the-segment-anything-model-in-medical-images/10.1117/12.3006255.short) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2412331644154163819&hl=en)
 
 - `DACA` [Zhao et al., IJCV 2024] **Multi-source-free domain adaptive object detection** [[PDF]](https://link.springer.com/article/10.1007/s11263-024-02170-z) [[G-Scholar--]]()
@@ -934,9 +942,9 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `...` [Liu and Jiao, Biomedical Engineering Letters 2024] **Cross-domain additive learning of new knowledge rather than replacement** [[PDF]](https://link.springer.com/article/10.1007/s13534-024-00399-8) [[G-Scholar--]]()
 
-- `UniFed` [Dinsdale et al., arXiv 2024] **UniFed: A unified deep learning framework for segmentation of partially labelled, distributed neuroimaging data** [[PDF]](https://www.biorxiv.org/content/10.1101/2024.02.05.578912v1.abstract) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10410788971059392258&hl=en)
+- `...` [Zhang et al., International Journal of Ophthalmology 2024] **Diabetic retinopathy identification based on multi-source-free domain adaptation** [[PDF]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11246935/) [[G-Scholar--]]()
 
-- `RSA` [Zeng et al., Proc. MICCAI 2024] **Reliable source approximation: Source-free unsupervised domain adaptation for vestibular schwannoma MRI segmentation** [[PDF]](https://arxiv.org/abs/2405.16102) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15313961143347598441&hl=en) [[CODE]](https://github.com/zenghy96/Reliable-Source-Approximation)
+- `UniFed` [Dinsdale et al., arXiv 2024] **UniFed: A unified deep learning framework for segmentation of partially labelled, distributed neuroimaging data** [[PDF]](https://www.biorxiv.org/content/10.1101/2024.02.05.578912v1.abstract) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10410788971059392258&hl=en)
 
 ## Video Classification
 ### 2022
