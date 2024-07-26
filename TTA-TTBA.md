@@ -156,6 +156,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 - `TTA-SEG` [Janouskova., Master Thesis 2023] **Test-time adaptation for segmentation** [[PDF]]() [[G-Scholar--]]() [[CODE]](https://github.com/klarajanouskova/TTA-SEG)
 
 #### 2024
+- `Decorruptor` [Oh et al., Proc. ECCV 2024] **Efficient diffusion-driven corruption editor for test-time adaptation** [[PDF]](https://arxiv.org/abs/2403.10911) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10378300351599346301&hl=en) [[CODE]](https://github.com/oyt9306/Decorruptor)
+
 - `GenSAM` [Hu et al., Proc. AAAI 2024] **Relax image-specific prompt requirement in SAM: A single generic prompt for segmenting camouflaged objects** [[PDF]](https://arxiv.org/abs/2312.07374) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3602234802657076128&hl=en) [[CODE]](https://github.com/jyLin8100/GenSAM)
 
 - `TTT4AS` [Costanzino et al., Proc. CVPR Workshops 2024] **Test time training for industrial anomaly segmentation** [[PDF]](https://arxiv.org/abs/2404.03743) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13668953966639046509&hl=en)
@@ -167,8 +169,6 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 - `InTEnt` [Dong et al., arXiv 2024] **Medical image segmentation with InTEnt: Integrated entropy weighting for single image test-time adaptation** [[PDF]](https://arxiv.org/abs/2402.09604) [[G-Scholar]](https://scholar.google.com/scholar?cluster=963613001981542095&hl=en) [[CODE--]](https://github.com/mazurowski-lab/single-image-test-time-adaptation)
 
 - `TTT-KD` [Weijler et al., arXiv 2024] **TTT-KD: Test-time training for 3D semantic segmentation through knowledge distillation from foundation models** [[PDF]](https://arxiv.org/abs/2403.11691) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11875871707658891748&hl=en)
-
-- `Decorruptor` [Oh et al., arXiv 2024] **Efficient diffusion-driven corruption editor for test-time adaptation** [[PDF]](https://arxiv.org/abs/2403.10911) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10378300351599346301&hl=en)
 
 - `...` [Zhang et al., arXiv 2024] **Refining segmentation on-the-fly: An interactive framework for point cloud semantic segmentation** [[PDF]](https://arxiv.org/abs/2403.06401) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5548543581989641473&hl=en)
 

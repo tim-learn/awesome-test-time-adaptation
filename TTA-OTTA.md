@@ -318,13 +318,13 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 #### 2024
 - `TePA` [Cong et al., Proc. S&P 2024] **Test-time poisoning attacks against test-time adaptation models** [[PDF]](https://arxiv.org/abs/2308.08505) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13810860861574844121&hl=en) [[CODE]](https://github.com/tianshuocong/TePA)
 
-- `SimATTA` [Gui et al., Proc. ICLR 2024] **Active test-time adaptation: Theoretical analyses and an algorithm** [[PDF]](https://openreview.net/forum?id=YHUGlwTzFB) [[G-Scholar--]]() [[CODE--]](https://github.com/divelab/ATTA)
+- `SimATTA` [Gui et al., Proc. ICLR 2024] **Active test-time adaptation: Theoretical analyses and an algorithm** [[PDF]](https://openreview.net/forum?id=YHUGlwTzFB) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4194131213342595367&hl=en) [[CODE--]](https://github.com/divelab/ATTA)
 
-- `CEMA` [Chen et al., Proc. ICLR 2024] **Towards robust and efficient cloud-edge elastic model adaptation via selective entropy distillation** [[PDF]](https://openreview.net/forum?id=vePdNU3u6n) [[G-Scholar--]]()
+- `CEMA` [Chen et al., Proc. ICLR 2024] **Towards robust and efficient cloud-edge elastic model adaptation via selective entropy distillation** [[PDF]](https://openreview.net/forum?id=vePdNU3u6n) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10740781922768722500&hl=en)
 
 - `PROGRAM` [Sun et al., Proc. ICLR 2024] **PROGRAM: Prototype graph model based pseudo-label learning for test-time adaptation** [[PDF]](https://openreview.net/forum?id=x5LvBK43wg) [[G-Scholar--]]()
 
-- `CMF` [Lee and Chang, Proc. ICLR 2024] **Continual momentum filtering on parameter space for online test-time adaptation** [[PDF]](https://openreview.net/forum?id=BllUWdpIOA) [[G-Scholar--]]()
+- `CMF` [Lee and Chang, Proc. ICLR 2024] **Continual momentum filtering on parameter space for online test-time adaptation** [[PDF]](https://openreview.net/forum?id=BllUWdpIOA) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17722179941905804974&hl=en))
 
 - `SLWI` [Lee and Chang, Proc. ICML 2024] **Stationary latent weight inference for unreliable observations from online test-time adaptation** [[PDF]](https://openreview.net/forum?id=HmKMpJXH67) [[G-Scholar--]]()
 
@@ -340,7 +340,9 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `OBAO` [Zhu et al., Proc. ECCV 2024] **Reshaping the online data buffering and organizing mechanism for continual test-time adaptation** [[PDF]](https://arxiv.org/abs/2407.09367) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9136309287394368570&hl=en) [[CODE--]](https://github.com/z1358/OBAO)
 
-- `DA-TTA` [Wang et al., Proc. ECCV 2024] **Distribution alignment for fully test-time adaptation with dynamic online data streams** [[PDF]](https://arxiv.org/abs/2407.12128) [[G-Scholar--]]() [[CODE--]](https://github.com/WZq975/DA-TTA)
+- `DA-TTA` [Wang et al., Proc. ECCV 2024] **Distribution alignment for fully test-time adaptation with dynamic online data streams** [[PDF]](https://arxiv.org/abs/2407.12128) [[G-Scholar]](https://scholar.google.com/scholar?cluster=602770777012324597&hl=en) [[CODE--]](https://github.com/WZq975/DA-TTA)
+
+- `STAMP` [Yu et al., Proc. ECCV 2024] **STAMP: Outlier-aware test-time adaptation with stable memory replay** [[PDF]](https://arxiv.org/abs/2407.15773) [[G-Scholar--]]() [[CODE]](https://github.com/yuyongcan/STAMP)
 
 - `TRIBE` [Su et al., Proc. AAAI 2024] **Towards real-world test-time adaptation: Tri-Net self-training with balanced normalization** [[PDF]](https://arxiv.org/abs/2309.14949) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16344634599473523404&hl=en) [[CODE]](https://github.com/Gorilla-Lab-SCUT/TRIBE)
 
@@ -379,6 +381,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `TPM` [Gu et al., IJCV 2024] **Adversarial reweighting with α-power maximization for domain adaptation** [[PDF]](https://arxiv.org/abs/2404.17275) [[G-Scholar--]]() [[CODE]](https://github.com/XJTU-XGU/ARPM)
 
 - `ElasticDNN` [Zhang et al., IEEE TC 2024] **ElasticDNN: On-device neural network remodeling for adapting evolving vision domains at edge** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10466390) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4986607897827811516&hl=en)
+
+- `NLS` [Yang et al., Neurocomputing 2024] **Towards test time domain adaptation via negative label smoothing** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0925231224009536) [[G-Scholar--]]()
 
 - `CIM` [Fan et al., Journal on Autonomous Transportation Systems 2024] **Benchmarking test-time DNN adaptation at edge with compute-in-memory** [[PDF]](https://dl.acm.org/doi/abs/10.1145/3665898) [[G-Scholar--]]() [[CODE]](https://github.com/SenFFF/CIM_Adaptation/)
 

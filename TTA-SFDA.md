@@ -768,7 +768,7 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 - `...` [Shi et al., arXiv 2023] **Improving online source-free domain adaptation for object detection by unsupervised data acquisition** [[PDF]](https://arxiv.org/abs/2310.19258) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18439349657086663420&hl=en)
 
 ### 2024
-- `LPLD` [Shi et al., Proc. ECCV 2024] **Enhancing source-free domain adaptive object detection with low-confidence pseudo-label distillation** [[PDF--]]() [[G-Scholar--]]() [[CODE]](https://github.com/junia3/LPLD)
+- `LPLD` [Yoon et al., Proc. ECCV 2024] **Enhancing source-free domain adaptive object detection with low-confidence pseudo-label distillation** [[PDF]](https://arxiv.org/abs/2407.13524) [[G-Scholar--]]() [[CODE]](https://github.com/junia3/LPLD)
 
 - `STAR-MT` [Zhang and Zhou, Proc. CVPR Workshops 2024] **Source-free domain adaptation for video object detection under adverse image conditions** [[PDF]](https://arxiv.org/abs/2404.15252) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8777924463734083960&hl=en)
 
