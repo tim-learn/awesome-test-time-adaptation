@@ -362,6 +362,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `LayerwiseTTA` [Park et al., Proc. WACV 2024] **Layer-wise auto-weighting for non-stationary test-time adaptation** [[PDF]](https://arxiv.org/abs/2311.05858) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15940795982645175699&hl=en) [[CODE]](https://github.com/junia3/LayerwiseTTA)
 
+- `...` [Choi et al., Proc. ICML Workshops 2024] **Adaptive concept bottleneck for foundation models** [[PDF]](https://openreview.net/forum?id=gVswBbGg2C) [[G-Scholar--]]()
+
 - `PeTTA` [Hoang et al., Proc. CVPR Workshops 2024] **Persistent test-time adaptation in recurring testing scenarios** [[PDF]](https://tta-cvpr2024.github.io/_downloads/5004502028687719670699494371b834/matc_3_persistent_test_time_adaptatio.pdf) [[G-Scholar--]]() [[CODE--]](https://github.com/hthieu166/petta)
 
 - `MCTTA` [Yamashita and Hotta, Proc. CVPR Workshops 2024] **MixStyle-based contrastive test-time adaptation: Pathway to domain generalization** [[PDF]](https://openaccess.thecvf.com/content/CVPR2024W/MAT/html/Yamashita_MixStyle-Based_Contrastive_Test-Time_Adaptation_Pathway_to_Domain_Generalization_CVPRW_2024_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1836260706593188671&hl=en) 
@@ -390,9 +392,9 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `RGAR` [Xiong and Xiang, The Visual Computer 2024] **Robust gradient aware and reliable entropy minimization for stable test-time adaptation in dynamic scenarios** [[PDF]](https://link.springer.com/article/10.1007/s00371-024-03327-0) [[G-Scholar--]]()
 
-- `MeTA` [Ahmed et al., arXiv 2024] **MeTA: Multi-source test time adaptation** [[PDF]](https://arxiv.org/abs/2401.02561) [[G-Scholar--]]()
+- `MeTA` [Ahmed et al., arXiv 2024] **MeTA: Multi-source test time adaptation** [[PDF]](https://arxiv.org/abs/2401.02561) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9865980366481365938&hl=en)
 
-- `PLUTO` [Chang et al., arXiv 2024] **Plug-and-play transformer modules for test-time adaptation** [[PDF]](https://arxiv.org/abs/2401.04130) [[G-Scholar--]]()
+- `PLUTO` [Chang et al., arXiv 2024] **Plug-and-play transformer modules for test-time adaptation** [[PDF]](https://arxiv.org/abs/2401.04130) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2314284088415770737&hl=en)
 
 - `DPL` [Wang et al., arXiv 2024] **Decoupled prototype learning for reliable test-time adaptation** [[PDF]](https://arxiv.org/abs/2401.08703) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11026302286053975195&hl=en)
 
@@ -599,6 +601,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `OFTTA` [Wang et al., Proc. IMWUT/ UbiComp 2024] **Optimization-free test-time adaptation for cross-person activity recognition** [[PDF]](https://arxiv.org/abs/2310.18562) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6085700084354796899&hl=en) [[CODE]](https://github.com/Claydon-Wang/OFTTA)
 
 - `TEMP` [Adachi et al., Proc. IJCNN 2024] **Test-time similarity modification for person re-identification toward temporal distribution shift** [[PDF]](https://arxiv.org/abs/2403.14114) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6720067341435210799&hl=en)
+
+- `SHW` [Jiang et al., IEEE TITS 2024] **Strong-help-weak: An online multi-task inference learning approach for robust advanced driver assistance systems** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10618976/) [[G-Scholar--]]()
 
 - `TA-6DT` [Tian et al., Pattern Recognition 2024] **Test-time adaptation for 6D pose tracking** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320324001419) [[G-Scholar--]]() [[CODE--]](https://github.com/bartektian/TA-6TD)
 
