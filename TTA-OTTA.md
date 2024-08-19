@@ -109,6 +109,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `...` [Li et al., Intelligence, Informatics and Infrastructure 2024] **Generalizing deep learning-based distress segmentation models for subway tunnel images by test-time training** [[PDF]](https://www.jstage.jst.go.jp/article/jsceiiai/5/1/5_34/_article/-char/ja/) [[G-Scholar--]]()
 
+- `GraTa` [Chen et al., arXiv 2024] **Gradient alignment improves test-time adaptation for medical image segmentation** [[PDF]](https://arxiv.org/abs/2408.07343) [[G-Scholar]](https://scholar.google.com.sg/scholar?cluster=1111859093116595295&hl=en)
+
 ### Misc
 - `BOA` [Guan et al., Proc. CVPR 2021] **Bilevel online adaptation for out-of-domain human mesh reconstruction** [[PDF]](https://openaccess.thecvf.com/content/CVPR2021/html/Guan_Bilevel_Online_Adaptation_for_Out-of-Domain_Human_Mesh_Reconstruction_CVPR_2021_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14857518758485826444&hl=en) [[CODE]](https://github.com/syguan96/BOA)
 
@@ -438,7 +440,9 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `DATTA` [Ye et al., arXiv 2024] **DATTA: Towards diversity adaptive test-time adaptation in dynamic wild world** [[PDF]](https://arxiv.org/abs/2408.08056) [[G-Scholar--]]()
 
-- `PSMT` [Tian and Lyu, arXiv 2024] **Parameter-selective continual test-time adaptation** [[PDF]](https://arxiv.org/abs/2407.02253) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8116556017025379750&hl=en) [[CODE]]()
+- `PSMT` [Tian and Lyu, arXiv 2024] **Parameter-selective continual test-time adaptation** [[PDF]](https://arxiv.org/abs/2407.02253) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8116556017025379750&hl=en) [[CODE]](https://github.com/JiaxuTian/PSMT)
+
+- `POEM` [Bar et al., arXiv 2024] **Protected test-time adaptation via online entropy matching: A betting approach** [[PDF]](https://arxiv.org/abs/2408.07511) [[G-Scholar]](https://scholar.google.com.sg/scholar?cluster=5942224325174186389&hl=en) [[CODE]](https://github.com/yarinbar/poem)
 
 - `...` [Cygert et al., Misc 2024] **Realistic evaluation of test-time adaptation: Surrogate-based model selection strategies** [[PDF]](https://openreview.net/forum?id=X4ATu1huMJ) [[G-Scholar--]]()
 
