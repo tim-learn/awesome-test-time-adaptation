@@ -503,6 +503,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `RFC` [Zhang et al, Proc. AAAI 2024] **Reviewing the forgotten classes for domain adaptation of black-box predictors** [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/29624) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4005670949185008852&hl=en) [[CODE]](https://github.com/shaojiezhanglalala/RFC)
 
+- `AEM` [Xiao et al., Proc. ACM MM 2024] **Adversarial experts model for black-box domain adaptation** [[PDF]](https://openreview.net/forum?id=60QvmIlnhT) [[G-Scholar--]]()
+
 - `...` [Shen et al., Proc. AISTATS 2024] **Continual domain adversarial adaptation via double-head discriminators** [[PDF]](https://arxiv.org/abs/2402.03588) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11538889541778894777&hl=en)
 
 - `EIANet` [Pan et al., Proc. BMVC 2024] **EIANet: A novel domain adaptation approach to maximize class distinction with neural collapse principles** [[PDF]](https://arxiv.org/abs/2407.16189) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2694846243086591413&hl=en) [[CODE]](https://github.com/zichengpan/EIANet)
@@ -516,6 +518,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 - `USD` [Jahan and Savakis, Proc. CVPR Workshops 2023] **Unknown sample discovery for source free open set domain adaptation** [[PDF]](https://arxiv.org/abs/2312.03767) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4072124127999749285&hl=en)
 
 - `UAD` [Sivaprasad and Fleuret, Proc. ISBI 2024] **Multi-source-free domain adaptation via uncertainty-aware adaptive distillation** [[PDF]](https://arxiv.org/abs/2402.06213) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14240206218895524027&hl=en)
+
+- `CAT^3` [Feng et al., Proc. CAI 2024] **Category-aware test-time training domain adaptation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10605260/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10223731562433159378&hl=en)
 
 - `FedAcross` [Röder et al., Proc. ICPRAM 2024] **Crossing domain borders with federated few-shot adaptation** [[PDF]](https://www.scitepress.org/Papers/2024/123519/123519.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17139721934997781275&hl=en)
 
@@ -702,6 +706,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 - `360SFUDA` [Zheng et al., Proc. CVPR 2024] **Semantics, distortion, and style matter: Towards source-free UDA for panoramic segmentation** [[PDF]](https://arxiv.org/abs/2403.12505) [[G-Scholar]](https://scholar.google.com/scholar?cluster=121363794852722597&hl=en) [[CODE]](https://github.com/zhengxujosh/360SFUDA)
 
 - `FREST` [Lee et al, Proc. ECCV 2024] **FREST: Feature restoration for semantic segmentation under multiple adverse conditions** [[PDF]](https://arxiv.org/abs/2407.13437) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12288371437392512998&hl=en) [[CODE--]](https://github.com/sohyun-l/frest)
+
+- `RKP` [Zang et al., Proc. ACM MM 2024] **Generalized source-free domain-adaptive segmentation via reliable knowledge propagation** [[PDF]](https://openreview.net/forum?id=dmkAVtukfK) [[G-Scholar--]]()
 
 - `...` [Gao et al., Proc. IEEE GRSL 2024] **Attention prompt-driven source-free adaptation for remote sensing images semantic segmentation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10583928/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3053128466868794489&hl=en)
 
@@ -1426,6 +1432,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 - `TASFAR` [He et al., Porc. ICDE 2024] **Target-agnostic source-free domain adaptation for regression tasks** [[PDF]](https://arxiv.org/abs/2312.00540) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3952939575279367642&hl=en) [[CODE]](https://github.com/Siriusize/TASFAR_DA)
 
 - `IM-DCL` [Xu et al., IEEE TIP 2024] **Enhancing information maximization with distance-aware contrastive learning for source-free cross-domain few-shot learning** [[PDF]](https://arxiv.org/abs/2403.01966) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6606628700918716097&hl=en) [[CODE]](https://github.com/xuhuali-mxj/IM-DCL)
+
+- `OSFTL` [Wu et al., IEEE TNSRE 2024] **Online privacy-preserving EEG classification by source-free transfer learning** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10638104/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1021214697549059773&hl=en)
 
 - `CamoNet` [Zhang et al., IEEE TMC 2024] **CamoNet: On-device neural network adaptation with zero interaction and unlabeled data for diverse edge environments** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10522944/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12018083912496855600&hl=en)
 

@@ -317,6 +317,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `SGTTA` [Zhou et al., Proc. AAAI 2024] **Test-time adaptation via style and structure guidance for histological image registration** [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/28601) [[G-Scholar--]]()
 
+- `MeTTA` [Kim et al., Proc. BMVC 2024] **MeTTA: Single-view to 3D textured mesh reconstruction with test-time adaptation** [[PDF]](https://arxiv.org/abs/2408.11465) [[G-Scholar--]]()
+
 ### Generative modeling
 - `GIP` [Bau et al., ACM TOG 2019] **Semantic photo manipulation with a generative image prior** [[PDF]](https://arxiv.org/abs/2005.07727) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6750293979132878511&hl=en)
 
@@ -388,9 +390,11 @@ blurring** [[PDF]](https://arxiv.org/abs/2407.09059) [[G-Scholar]](https://schol
 
 - `RLCF` [Zhao et al., Proc. ICLR 2024] **Test-time adaptation with CLIP reward for zero-shot generalization in vision-language models** [[PDF]](https://openreview.net/forum?id=kIP0duasBb) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13354273242354297247&hl=en) [[CODE]](https://github.com/mzhaoshuai/RLCF)
 
-- `C-TPT` [Yoon et al., Proc. ICLR 2024] **C-TPT: Calibrated test-time prompt tuning for vision-language models via text feature dispersion** [[PDF]](https://openreview.net/forum?id=jzzEHTBFOT) [[G-Scholar--]]()
+- `C-TPT` [Yoon et al., Proc. ICLR 2024] **C-TPT: Calibrated test-time prompt tuning for vision-language models via text feature dispersion** [[PDF]](https://openreview.net/forum?id=jzzEHTBFOT) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17710052127676580968&hl=en)
 
-- `MTA` [Zanella and Ayed, Proc. CVPR 2024] **On the test-time zero-shot generalization of vision-language models: Do we really need prompt learning?** [[PDF]](https://arxiv.org/abs/2405.02266) [[G-Scholar--]]() [[CODE]](https://github.com/MaxZanella/MTA)
+- `MTA` [Zanella and Ayed, Proc. CVPR 2024] **On the test-time zero-shot generalization of vision-language models: Do we really need prompt learning?** [[PDF]](https://arxiv.org/abs/2405.02266) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5809089823158937394&hl=en) [[CODE]](https://github.com/MaxZanella/MTA)
+
+- `SCP` [Wang et al., Proc. ACM MM 2024] **Towards robustness prompt tuning with fully test-time adaptation for CLIP’s zero-shot generalization** [[PDF]](https://openreview.net/forum?id=BVFAVis7ui) [[G-Scholar--]]()
 
 - `PromptSync` [Khandelwal, Proc. CVPR Workshops 2024] **PromptSync: Bridging domain gaps in vision-language models through class-aware prototype alignment and discrimination** [[PDF]](https://arxiv.org/abs/2404.07520) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8608620749266264950&hl=en)
 

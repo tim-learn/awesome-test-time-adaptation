@@ -52,13 +52,15 @@ A curated list of awesome test-time prior adaptation resources. Your contributio
 
 - `HANOL` [Qian et al., Proc. ICDM 2023] **Handling new class in online label shift** [[PDF]](https://www.lamda.nju.edu.cn/qianyy/paper/ICDM23_NOLS.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17197916004384917829&hl=en)
 
-- `OLS-OFU` [Wu et al., Proc. NeurIPS Workshops 2023] **Online feature updates improve online (generalized) label shift adaptation** [[PDF]](https://sslneurips23.github.io/paper_pdfs/paper_54.pdf) [[G-Scholar--]]()
+- `OLS-OFU` [Wu et al., Proc. NeurIPS Workshops 2023] **Online feature updates improve online (generalized) label shift adaptation** [[PDF]](https://sslneurips23.github.io/paper_pdfs/paper_54.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13826390929957704274&hl=en)
 
 - `CPMKM` [Wen et al., arXiv 2023] **Class probability matching using kernel methods for
 label shift adaptation** [[PDF]](https://arxiv.org/abs/2312.07282) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11916720703831072905&hl=en)
 
-- `...` [Wei et al., Proc. ICML 2024] **Learning label shift correction for test-agnostic long-tailed recognition** [[PDF]](https://openreview.net/forum?id=J3xYTh6xtL) [[G-Scholar--]]() [[CODE]](https://github.com/Stomach-ache/label-shift-correction)
+- `...` [Wei et al., Proc. ICML 2024] **Learning label shift correction for test-agnostic long-tailed recognition** [[PDF]](https://openreview.net/forum?id=J3xYTh6xtL) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13080086498775196290&hl=en) [[CODE]](https://github.com/Stomach-ache/label-shift-correction)
 
 - `Wav-O/-R` [Qian et al., Proc. ICML 2024] **Efficient non-stationary online learning by wavelets with applications to online distribution shift adaptation** [[PDF]](https://openreview.net/forum?id=KNedb3bQ4h) [[G-Scholar--]]()
 
-- `OLS-OFU` [Wu et al., arXiv 2024] **Online feature updates improve online (generalized) label shift adaptation** [[PDF]](https://arxiv.org/abs/2402.03545) [[G-Scholar--]]()
+- `CPMCN` [Wen et al., Proc. ICLR 2024] **Class probability matching with calibrated networks for label shift adaption** [[PDF]](https://openreview.net/forum?id=mliQ2huFrZ) [[G-Scholar--]]()
+
+- `OLS-OFU` [Wu et al., arXiv 2024] **Online feature updates improve online (generalized) label shift adaptation** [[PDF]](https://arxiv.org/abs/2402.03545) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13826390929957704274&hl=en)
