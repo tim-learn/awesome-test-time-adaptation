@@ -1107,6 +1107,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `TransCLIP` [Zanella et al., arXiv 2024] **Boosting vision-language models with transduction** [[PDF]](https://arxiv.org/abs/2406.01837) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3194689844176400835&hl=en) [[CODE]](https://github.com/MaxZanella/transduction-for-vlms)
 
+- `DPA` [Ali et al., arXiv 2024] **DPA: Dual prototypes alignment for unsupervised adaptation of vision-language models** [[PDF]](https://arxiv.org/abs/2408.08855) [[G-Scholar--]]()
+
 - `...` [anonymous et al., Misc 2024] **Towards dynamic-prompting collaboration for source-free domain adaptation** [[PDF--]]() [[G-Scholar--]]() [[CODE]](https://github.com/Anonymous3119/paperID3119)
 
 ### Image Super-Resolution
