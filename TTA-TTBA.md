@@ -412,6 +412,10 @@ blurring** [[PDF]](https://arxiv.org/abs/2407.09059) [[G-Scholar]](https://schol
 
 - `CPT` [Zhu et al., arXiv 2024] **Efficient test-time prompt tuning for vision-language models** [[PDF]](https://arxiv.org/abs/2408.05775) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3768269930436088919&hl=en)
 
+- `TTL` [Imam et al., arXiv 2024] **Test-time low rank adaptation via confidence maximization for zero-shot generalization of vision-language models** [[PDF]](https://arxiv.org/abs/2407.15913) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15339667606687082459&hl=en) [[CODE]](https://github.com/Razaimam45/TTL-Test-Time-Low-Rank-Adaptation)
+
+- `...` [Zhang et al., arXiv 2024] **StylePrompter: Enhancing domain generalization with test-time style priors** [[PDF]](https://arxiv.org/abs/2408.09138) [[G-Scholar--]]()
+
 ### Audio Classification
 - `...` [Chen et al., Misc 2024] **Acoustic scene classification by the self-learning of eat** [[PDF]](https://ascchallenge.xshengyun.com/static/reports/2-Aural%20Pioneers.pdf) [[G-Scholar--]]()
 
@@ -551,8 +555,7 @@ federated learning** [[PDF]](https://arxiv.org/abs/2310.18816) [[G-Scholar]](htt
 
 - `...` [Yeh et al., Proc. CVPR 2023] **Meta-personalizing vision-language models to find named instances in video** [[PDF]](http://openaccess.thecvf.com/content/CVPR2023/html/Yeh_Meta-Personalizing_Vision-Language_Models_To_Find_Named_Instances_in_Video_CVPR_2023_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5736801019110688089&hl=en)
 
-- `CycleAdapt` [Nam et al., Proc. ICCV 2023] **Cyclic test-time adaptation on monocular video
-for 3D human mesh reconstruction** [[PDF]](https://arxiv.org/abs/2308.06554) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5480263647326292275&hl=en) [[CODE]](https://github.com/hygenie1228/CycleAdapt_RELEASE)
+- `CycleAdapt` [Nam et al., Proc. ICCV 2023] **Cyclic test-time adaptation on monocular video for 3D human mesh reconstruction** [[PDF]](https://arxiv.org/abs/2308.06554) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5480263647326292275&hl=en) [[CODE]](https://github.com/hygenie1228/CycleAdapt_RELEASE)
 
 - `...` [Mutlu et al., arXiv 2023] **TempT: Temporal consistency for test-time adaptation** [[PDF]](https://arxiv.org/abs/2303.10536) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13961877707627428919&hl=en)
 
@@ -560,11 +563,13 @@ for 3D human mesh reconstruction** [[PDF]](https://arxiv.org/abs/2308.06554) [[G
 
 - `...` [Liu et al., arXiv 2023] **Advancing test-time adaptation for acoustic foundation models in open-world shifts** [[PDF]](https://arxiv.org/abs/2310.09505) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17833880766013368425&hl=en)
 
-- `...` [Liu et al., Proc. CVPR 2024] **Depth-aware test-time training for zero-shot video object segmentation** [[PDF]](https://arxiv.org/abs/2403.04258) [[G-Scholar--]]() [[CODE]](https://github.com/NiFangBaAGe/DATTT)
+- `...` [Liu et al., Proc. CVPR 2024] **Depth-aware test-time training for zero-shot video object segmentation** [[PDF]](https://arxiv.org/abs/2403.04258) [[G-Scholar]](https://scholar.google.com/scholar?cluster=978467499717097067&hl=en) [[CODE]](https://github.com/NiFangBaAGe/DATTT)
 
-- `...` [Ali et al., Proc. CVPR 2024] **Harnessing meta-learning for improving full-frame video stabilization** [[PDF]](https://arxiv.org/abs/2403.03662) [[G-Scholar--]]() [[CODE--]](https://github.com/MKashifAli/MetaVideoStab)
+- `...` [Ali et al., Proc. CVPR 2024] **Harnessing meta-learning for improving full-frame video stabilization** [[PDF]](https://arxiv.org/abs/2403.03662) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16358729581420318240&hl=en) [[CODE--]](https://github.com/MKashifAli/MetaVideoStab)
 
-- `BISSA` [Yoo et al., Pattern Recognition 2024] **Looking beyond input frames: Self-supervised adaptation for video super-resolution** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320324003534) [[G-Scholar--]]() [[CODE]](https://github.com/jinsuyoo/bissa)
+- `DTS-TPT` [Yan et al, Proc. IJCAI 2024] **DTS-TPT: Dual temporal-sync test-time prompt Tuning for zero-shot activity recognition** [[PDF](https://www.ijcai.org/proceedings/2024/0170.pdf) [[G-Scholar--]]()
+
+- `BISSA` [Yoo et al., Pattern Recognition 2024] **Looking beyond input frames: Self-supervised adaptation for video super-resolution** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320324003534) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18421129190685196667&hl=en) [[CODE]](https://github.com/jinsuyoo/bissa)
 
 - `...` [Wu et al., arXiv 2024] **DeNVeR: Deformable neural vessel representations for unsupervised video vessel segmentation** [[PDF]](https://arxiv.org/abs/2406.01591) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15443771597451862644&hl=en)
 

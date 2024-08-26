@@ -367,6 +367,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `...` [Yang et al., Proc. IJCAI 2024] **Navigating continual test-time adaptation with symbiosis knowledge** [[PDF]](https://www.ijcai.org/proceedings/2024/0589.pdf) [[G-Scholar--]]()
 
+- `ATTA` [Jia et al, Proc. IJCAI 2024] **ATTA: Adaptive test-time adaptation for multi-modal sleep stage classification** [[PDF](https://www.ijcai.org/proceedings/2024/0650.pdf) [[G-Scholar--]]()
+
 - `DSS` [Wang et al., Proc. WACV 2024] **Continual test-time domain adaptation via dynamic sample selection** [[PDF]](https://arxiv.org/abs/2310.03335) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9737501438235354426&hl=en)
 
 - `...` [Mounsaveng et al., Proc. WACV 2024] **Bag of tricks for fully test-time adaptation** [[PDF]](https://arxiv.org/abs/2310.02416) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2507959288963318296&hl=en)

@@ -503,6 +503,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `RFC` [Zhang et al, Proc. AAAI 2024] **Reviewing the forgotten classes for domain adaptation of black-box predictors** [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/29624) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4005670949185008852&hl=en) [[CODE]](https://github.com/shaojiezhanglalala/RFC)
 
+- `DMP` [Zhan et al, Proc. IJCAI 2024] **Towards dynamic-prompting collaboration for source-free domain adaptation** [[PDF](https://www.ijcai.org/proceedings/2024/0182.pdf) [[G-Scholar--]]()
+
 - `AEM` [Xiao et al., Proc. ACM MM 2024] **Adversarial experts model for black-box domain adaptation** [[PDF]](https://openreview.net/forum?id=60QvmIlnhT) [[G-Scholar--]]()
 
 - `...` [Shen et al., Proc. AISTATS 2024] **Continual domain adversarial adaptation via double-head discriminators** [[PDF]](https://arxiv.org/abs/2402.03588) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11538889541778894777&hl=en)
@@ -531,6 +533,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `CC-Loss` [Jin et al., IEEE TPAMI 2024] **One fits many: Class confusion loss for versatile domain adaptation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10506994)  [[G-Scholar]](https://scholar.google.com/scholar?cluster=9557812502723593052&hl=en) [[CODE]](https://github.com/thuml/Transfer-Learning-Library/blob/master/examples/domain_adaptation/image_classification/cc_loss.py)
 
+- `Co-learn++` [Zhang et al., IJCV 2024] **Source-free domain adaptation guided by vision and vision-language pre-training** [[PDF]](https://arxiv.org/abs/2405.02954) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16448810577157836597&hl=en)
+
 - `ASM` [Jing et al., IEEE TIP 2024] **Visually source-free domain adaptation via adversarial style matching** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10410236)  [[G-Scholar]](https://scholar.google.com/scholar?cluster=1420083944803220325&hl=en)
 
 - `ICPR` [Tian et al., IEEE TNNLS 2024] **Intrinsic consistency preservation with adaptively reliable samples for source-free domain adaptation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10438926/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10786835568489220477&hl=en) [[CODE]](https://github.com/CFM-MSG/Code_ICPR)
@@ -539,13 +543,15 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `SFADA` [He et al., Pattern Recognition 2024] **Source-free domain adaptation with unrestricted source hypothesis** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320323009433) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6406182194472361020&hl=en) [[CODE]](https://github.com/tiggers23/SFADA-main)
 
-- `DPLS` [Ma et al., Pattern Recognition 2024] **Source-free domain adaptation via dynamic pseudo labeling and self-supervision** [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0031320324005442) [[G-Scholar--]]() [[CODE]](https://github.com/meowpass/DPLS)
+- `DPLS` [Ma et al., Pattern Recognition 2024] **Source-free domain adaptation via dynamic pseudo labeling and self-supervision** [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0031320324005442) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2006994458495887202&hl=en) [[CODE]](https://github.com/meowpass/DPLS)
 
 - `GDT` [Tian and Zhao, Neural Networks 2024] **Generation, division and training: A promising method for source-free unsupervised domain adaptation** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0893608024000583)  [[G-Scholar]](https://scholar.google.com/scholar?cluster=13482895004193323062&hl=en)
 
 - `SS-TrBoosting` [Deng et al., IEEE TAI 2024] **Semi-supervised transfer boosting (SS-TrBoosting)** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10382492) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13493837665823220665&hl=en)
 
 - `UPA` [Chen et al., Neurocomputing 2024] **Uncertainty-aware pseudo-label filtering for source-free unsupervised domain adaptation** [[PDF]](https://arxiv.org/abs/2403.11256) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9592984808926564814&hl=en) [[CODE]](https://github.com/chenxi52/UPA)
+
+- `...` [Xing et al., Neurocomputing 2024] **Rectifying self-training with neighborhood consistency and proximity for source-free domain adaptation** [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0925231224011962) [[G-Scholar--]]() [[CODE]](https://github.com/xingbw/Rectified-Self-Training)
 
 - `SCAL` [Sun et al., IET Image Processing 2024] **You only label once: A self-adaptive clustering-based method for source-free active domain adaptation** [[PDF]](https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/ipr2.13025) [[G-Scholar--]]()
 
@@ -583,8 +589,6 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `...` [Litrico et al., arXiv 2024] **Uncertainty-guided open-set source-free unsupervised domain adaptation with target-private class segregation** [[PDF]](https://arxiv.org/abs/2404.10574) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17847386924872930134&hl=en)
 
-- `Co-learn++` [Zhang et al., arXiv 2024] **Source-free domain adaptation guided by vision and vision-language pre-training** [[PDF]](https://arxiv.org/abs/2405.02954) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16448810577157836597&hl=en)
-
 - `...` [Zou et al., arXiv 2024] **Incremental pseudo-labeling for black-box unsupervised domain adaptation** [[PDF]](https://arxiv.org/abs/2405.16437) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16767933709374501800&hl=en)
 
 - `...` [Jiang et al., arXiv 2024] **High-order neighborhoods know more: HyperGraph learning meets source-free unsupervised domain adaptation** [[PDF]](https://arxiv.org/abs/2405.06916) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14976529978689430892&hl=en)
@@ -592,6 +596,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 - `MIRoUDA` [Yin et al., arXiv 2024] **Towards trustworthy unsupervised domain adaptation: A representation learning perspective for enhancing robustness, discrimination, and generalization** [[PDF]](https://arxiv.org/abs/2406.13180) [[G-Scholar--]]()
 
 - `ECA` [Zheng et al., arXiv 2024] **Evidential graph contrastive alignment for source-free blending-target domain adaptation** [[PDF]](https://arxiv.org/abs/2408.07527) [[G-Scholar]](https://scholar.google.com.sg/scholar?cluster=11281747430103451880&hl=en)
+
+- `ProDe` [Tang et al., arXiv 2024] **Proxy denoising for source-free domain adaptation** [[PDF]](https://arxiv.org/abs/2406.01658) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17620695069530556718&hl=en)
 
 - `...` [Zhu et al., Misc 2024] **Pick and adapt: An iterative approach for source-free domain adaptation** [[PDF]](https://openreview.net/forum?id=SaSK9M66KK) [[G-Scholar--]]()
 
@@ -1103,8 +1109,6 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `RCL` [Chen et al., arXiv 2024] **Empowering source-free domain adaptation with MLLM-driven curriculum learning** [[PDF]](https://arxiv.org/abs/2405.18376) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14936799511700755704&hl=en) [[CODE--]](https://github.com/Dong-Jie-Chen/RCL)
 
-- `ProDe` [Tang et al., arXiv 2024] **Proxy denoising for source-free domain adaptation** [[PDF]](https://arxiv.org/abs/2406.01658) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17620695069530556718&hl=en)
-
 - `TransCLIP` [Zanella et al., arXiv 2024] **Boosting vision-language models with transduction** [[PDF]](https://arxiv.org/abs/2406.01837) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3194689844176400835&hl=en) [[CODE]](https://github.com/MaxZanella/transduction-for-vlms)
 
 - `DPA` [Ali et al., arXiv 2024] **DPA: Dual prototypes alignment for unsupervised adaptation of vision-language models** [[PDF]](https://arxiv.org/abs/2408.08855) [[G-Scholar--]]()
@@ -1304,7 +1308,9 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `...` [Niknam., Master Thesis 2023] **Source-free domain adaptation for sleep stage classification** [[PDF]](https://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=11881&context=etd) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2882485758239180576&hl=en)
 
-- `...` [anonymous et al., Proc. ICLR 2024] **Leveraging generative models for unsupervised alignment of neural time series data** [[PDF]](https://openreview.net/forum?id=9zhHVyLY4K) [[G-Scholar--]]()
+- `...` [Vermani et al., Proc. ICLR 2024] **Leveraging generative models for unsupervised alignment of neural time series data** [[PDF]](https://openreview.net/forum?id=9zhHVyLY4K) [[G-Scholar--]]()
+
+- `RNA` [Luo et al., Proc. IJCAI 2024] **Rank and align: Towards effective source-free graph domain adaptation** [[PDF]](https://arxiv.org/abs/2408.12185) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7055237628244854793&hl=en)
 
 - `GraphCTA` [Zhang et al., Proc. WWW 2024] **Collaborate to adapt: Source-free graph domain adaptation via bi-directional adaptation** [[PDF]](https://arxiv.org/abs/2403.01467) [[G-Scholar--]]() [[CODE]](https://github.com/cszhangzhen/GraphCTA)
 
