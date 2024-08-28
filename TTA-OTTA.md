@@ -357,7 +357,9 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `DA-TTA` [Wang et al., Proc. ECCV 2024] **Distribution alignment for fully test-time adaptation with dynamic online data streams** [[PDF]](https://arxiv.org/abs/2407.12128) [[G-Scholar]](https://scholar.google.com/scholar?cluster=602770777012324597&hl=en) [[CODE--]](https://github.com/WZq975/DA-TTA)
 
-- `STAMP` [Yu et al., Proc. ECCV 2024] **STAMP: Outlier-aware test-time adaptation with stable memory replay** [[PDF]](https://arxiv.org/abs/2407.15773) [[G-Scholar--]]() [[CODE]](https://github.com/yuyongcan/STAMP)
+- `STAMP` [Yu et al., Proc. ECCV 2024] **STAMP: Outlier-aware test-time adaptation with stable memory replay** [[PDF]](https://arxiv.org/abs/2407.15773) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15718235455521056018&hl=en) [[CODE]](https://github.com/yuyongcan/STAMP)
+
+- `OnZeta` [Qian and Hu, Proc. ECCV 2024] **Online zero-shot classification with CLIP** [[PDF]](https://arxiv.org/abs/2408.13320) [[G-Scholar--]]() [[CODE]](https://github.com/idstcv/OnZeta)
 
 - `TRIBE` [Su et al., Proc. AAAI 2024] **Towards real-world test-time adaptation: Tri-Net self-training with balanced normalization** [[PDF]](https://arxiv.org/abs/2309.14949) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16344634599473523404&hl=en) [[CODE]](https://github.com/Gorilla-Lab-SCUT/TRIBE)
 
@@ -460,6 +462,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `POEM` [Bar et al., arXiv 2024] **Protected test-time adaptation via online entropy matching: A betting approach** [[PDF]](https://arxiv.org/abs/2408.07511) [[G-Scholar]](https://scholar.google.com.sg/scholar?cluster=5942224325174186389&hl=en) [[CODE]](https://github.com/yarinbar/poem)
 
 - `UniTTA` [Du et al., arXiv 2024] **UniTTA: Unified benchmark and versatile framework towards realistic test-time adaptation** [[PDF]](https://arxiv.org/abs/2407.20080) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9946351602601552227&hl=en) [[CODE--]](https://github.com/LeapLabTHU/UniTTA)
+
+- `DPAL` [Tang et al., arXiv 2024] **Dual-path adversarial lifting for domain shift correction in online test-time adaptation** [[PDF]](https://arxiv.org/abs/2408.13983) [[G-Scholar--]]() [[CODE]](https://github.com/yushuntang/DPAL)
 
 - `...` [Cygert et al., Misc 2024] **Realistic evaluation of test-time adaptation: Surrogate-based model selection strategies** [[PDF]](https://openreview.net/forum?id=X4ATu1huMJ) [[G-Scholar--]]()
 
