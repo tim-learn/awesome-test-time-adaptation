@@ -491,6 +491,10 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `DPC` [Xia et al., Proc. CVPR 2024] **Discriminative pattern calibration mechanism for source-free domain adaptation** [[PDF]](https://openaccess.thecvf.com/content/CVPR2024/html/Xia_Discriminative_Pattern_Calibration_Mechanism_for_Source-Free_Domain_Adaptation_CVPR_2024_paper.html) [[G-Scholar--]]()
 
+- `UPUK` [Wan et al., Proc. CVPR 2024] **Unveiling the unknown: Unleashing the power of unknown to known in open-set source-free domain adaptation** [[PDF]](https://openaccess.thecvf.com/content/CVPR2024/html/Wan_Unveiling_the_Unknown_Unleashing_the_Power_of_Unknown_to_Known_CVPR_2024_paper.html) [[G-Scholar--]]() [[CODE--]](https://github.com/xdwfl/UPUK)
+
+- `Improved SFDA` [Mitsuzumi et al., Proc. CVPR 2024] **Understanding and improving source-free domain adaptation from a theoretical perspective** [[PDF]](https://openaccess.thecvf.com/content/CVPR2024/html/Mitsuzumi_Understanding_and_Improving_Source-free_Domain_Adaptation_from_a_Theoretical_Perspective_CVPR_2024_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17385215931384027664&hl=en)
+
 - `NBF` [Song et al., Proc. ECCV 2024] **Is user feedback always informative? Retrieval latent defending for semi-supervised domain adaptation without source data** [[PDF]](https://arxiv.org/abs/2407.15383) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6343848007731199368&hl=en) [[CODE--]](https://github.com/junha1125/RLD-SemiSDA)
 
 - `LFTL` [Lyu et al., Proc. ECCV 2024] **Learn from the learnt: Source-free active domain adaptation via contrastive sampling and visual persistence** [[PDF]](https://arxiv.org/abs/2407.18899) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5688131372670853016&hl=en) [[CODE--]](https://github.com/lyumengyao/lftl)
@@ -545,6 +549,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `DPLS` [Ma et al., Pattern Recognition 2024] **Source-free domain adaptation via dynamic pseudo labeling and self-supervision** [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0031320324005442) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2006994458495887202&hl=en) [[CODE]](https://github.com/meowpass/DPLS)
 
+- `GOAL` [Peng et al., Pattern Recognition 2024] **Global self-sustaining and local inheritance for source-free unsupervised domain adaptation** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320324004308) [[G-Scholar--]]()
+
 - `GDT` [Tian and Zhao, Neural Networks 2024] **Generation, division and training: A promising method for source-free unsupervised domain adaptation** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0893608024000583)  [[G-Scholar]](https://scholar.google.com/scholar?cluster=13482895004193323062&hl=en)
 
 - `SS-TrBoosting` [Deng et al., IEEE TAI 2024] **Semi-supervised transfer boosting (SS-TrBoosting)** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10382492) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13493837665823220665&hl=en)
@@ -552,6 +558,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 - `UPA` [Chen et al., Neurocomputing 2024] **Uncertainty-aware pseudo-label filtering for source-free unsupervised domain adaptation** [[PDF]](https://arxiv.org/abs/2403.11256) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9592984808926564814&hl=en) [[CODE]](https://github.com/chenxi52/UPA)
 
 - `...` [Xing et al., Neurocomputing 2024] **Rectifying self-training with neighborhood consistency and proximity for source-free domain adaptation** [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0925231224011962) [[G-Scholar--]]() [[CODE]](https://github.com/xingbw/Rectified-Self-Training)
+
+- `CdKC` [Zhang et al., Information Processing & Management 2024] **Cross-domain knowledge collaboration for blending-target domain adaptation** [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0306457324000906) [[G-Scholar--]]()
 
 - `SCAL` [Sun et al., IET Image Processing 2024] **You only label once: A self-adaptive clustering-based method for source-free active domain adaptation** [[PDF]](https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/ipr2.13025) [[G-Scholar--]]()
 
@@ -711,6 +719,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 ### 2024
 - `360SFUDA` [Zheng et al., Proc. CVPR 2024] **Semantics, distortion, and style matter: Towards source-free UDA for panoramic segmentation** [[PDF]](https://arxiv.org/abs/2403.12505) [[G-Scholar]](https://scholar.google.com/scholar?cluster=121363794852722597&hl=en) [[CODE]](https://github.com/zhengxujosh/360SFUDA)
 
+- `SND` [Zhao et al., Proc. CVPR 2024] **Stable neighbor denoising for source-free domain adaptive segmentation** [[PDF]](https://arxiv.org/abs/2406.06813) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17488124855985467148&hl=en) [[CODE]](https://github.com/DZhaoXd/SND)
+
 - `FREST` [Lee et al, Proc. ECCV 2024] **FREST: Feature restoration for semantic segmentation under multiple adverse conditions** [[PDF]](https://arxiv.org/abs/2407.13437) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12288371437392512998&hl=en) [[CODE--]](https://github.com/sohyun-l/frest)
 
 - `RKP` [Zang et al., Proc. ACM MM 2024] **Generalized source-free domain-adaptive segmentation via reliable knowledge propagation** [[PDF]](https://openreview.net/forum?id=dmkAVtukfK) [[G-Scholar--]]()
@@ -730,6 +740,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 - `...` [Ren et al., Multimedia Systems 2024] **SAM-guided contrast based self-training for source-free cross-domain semantic segmentation** [[PDF]](https://link.springer.com/article/10.1007/s00530-024-01426-5) [[G-Scholar--]]()
 
 - `...` [Zhou et al., Image and Vision Computing 2024] **Black-box model adaptation for semantic segmentation** [[PDF]](https://www.sciencedirect.com/science/article/pii/S026288562400338X) [[G-Scholar--]]()
+
+- `...` [Stand and Rostami, Frontiers in Big Data 2024] **Source-free domain adaptation for semantic image segmentation using internal representations** [[PDF]](https://www.frontiersin.org/journals/big-data/articles/10.3389/fdata.2024.1359317/full) [[G-Scholar--]]()
 
 - `MAS3` [Stan and Rostami, arXiv 2024] **Online continual domain adaptation for semantic image segmentation using internal representations** [[PDF]](https://arxiv.org/abs/2401.01035) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5773237290303399495&hl=en)
 
@@ -1350,6 +1362,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `...` [Ma et al., Knowledge-Based Systems 2024] **Source-free cross-domain fault diagnosis of rotating machinery using the siamese framework** [[PDF]](https://www.sciencedirect.com/science/article/pii/S095070512400813X) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11685984920291285181&hl=en) 
 
+- `SFRDA-PLUE` [Liu et al., Knowledge-Based Systems 2024] **A source free robust domain adaptation approach with pseudo-labels uncertainty estimation for rolling bearing fault diagnosis under limited sample conditions** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0950705124010773) [[G-Scholar--]]() 
+
 - `...` [Cao et al., Reliability Engineering & System Safety 2024] **Source-free domain adaptation for transferable remaining useful life prediction of machine considering source data absence** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0951832024001534) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15671673724434139005&hl=en)
 
 - `...` [Yu et al., Reliability Engineering & System Safety 2024] **Source-free domain adaptation method for fault diagnosis of rotation machinery under partial information** [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0951832024002552) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11298423459024052845&hl=en)
@@ -1448,3 +1462,5 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 - `...` [Leroux et al., Proc. CVPR Workshops 2024] **Test-time specialization of dynamic neural networks** [[PDF]](https://tta-cvpr2024.github.io/_downloads/4d709aa8330b463834bd636dac27d927/matp_4_test_time_specialization_of_dy.pdf) [[G-Scholar--]]() 
 
 - `TETOT` [Mehra et al., arXiv 2024] **Test-time assessment of a model's performance on unseen domains via optimal transport** [[PDF]](https://arxiv.org/abs/2405.01451) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17236322836354599887&hl=en)
+
+- `L^3` [Xie et al., arXiv 2024] **Look, learn and leverage (L^3): Mitigating visual-domain shift and discovering intrinsic relations via symbolic alignment** [[PDF]](https://arxiv.org/abs/2408.17363) [[G-Scholar--]]()

@@ -100,6 +100,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `SDA` [Guo et al., arXiv 2024] **Everything to the synthetic: Diffusion-driven test-time adaptation via synthetic-domain alignment** [[PDF]](https://arxiv.org/abs/2406.04295) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2953274777395588123&hl=en) [[CODE]](https://github.com/SHI-Labs/Diffusion-Driven-Test-Time-Adaptation-via-Synthetic-Domain-Alignment)
 
+- `...` [Hu et al., arXiv 2024] **Diffusion model driven test-time image adaptation for robust skin lesion classification** [[PDF]](https://arxiv.org/abs/2405.11289) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3035106452576593208&hl=en) [[CODE--]](https://github.com/minghu0830/Skin-TTA_Diffusion)
+
 ### Segmentation
 - `DIEM` [Wang et al., arXiv 2019] **Dynamic scale inference by entropy minimization** [[PDF]](https://arxiv.org/abs/1908.03182) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11939087491312325887&hl=en)
 
@@ -275,9 +277,11 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `...` [Hatem et al., Proc. IROS 2023] **Test-time adaptation for point cloud upsampling using meta-learning** [[PDF]](https://arxiv.org/abs/2308.16484) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18088448039758938963&hl=en)
 
-- `PTTD` [Chen et al., arXiv 2023] **Prompt-based test-time real image dehazing: A novel pipelinee** [[PDF]](https://arxiv.org/abs/2309.17389) [[G-Scholar--]]() [[CODE]](https://github.com/cecret3350/PTTD-Dehazing)
+- `PTTD` [Chen et al., arXiv 2023] **Prompt-based test-time real image dehazing: A novel pipeline** [[PDF]](https://arxiv.org/abs/2309.17389) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13059265125891960415&hl=en) [[CODE]](https://github.com/cecret3350/PTTD-Dehazing)
 
 - `TAO` [Gou et al., Proc. ICML 2024] **Test-time degradation adaptation for open-set image restoration** [[PDF]](https://openreview.net/forum?id=XLlQb24X2o) [[G-Scholar--]]() [[CODE--]](https://github.com/XLearning-SCU/2024-ICML-TAO)
+
+- `LAN` [Kim et al., Proc. CVPR 2024] **LAN: Learning to adapt noise for image denoising** [[PDF]](https://openaccess.thecvf.com/content/CVPR2024/html/Kim_LAN_Learning_to_Adapt_Noise_for_Image_Denoising_CVPR_2024_paper.html) [[G-Scholar--]]()
 
 - `UTAL` [Zhang et al., IEEE TPAMI 2024] **Unsupervised test-time adaptation learning for effective hyperspectral image super-resolution with unknown degeneration** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10420496/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1887433236424898846&hl=en)
 
@@ -340,6 +344,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 - `MetaVFI` [Choi et al., IEEE TPAMI 2021] **Test-time adaptation for video frame interpolation via meta-learning** [[PDF]](https://ieeexplore.ieee.org/abstract/document/9625774) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4253219786252969489&hl=en)
 
 - `VFI_Adapter` [Wu et al., arXiv 2023] **Boost video frame interpolation via motion adaptation** [[PDF]](https://arxiv.org/abs/2306.13933) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10629349727546459874&hl=en) [[CODE]](https://github.com/haoningwu3639/VFI_Adapter)
+
+- `TTA-EVF` [Cho et al., Proc. CVPR 2024] **TTA-EVF: Test-time adaptation for event-based video frame interpolation via reliable pixel and sample estimation** [[PDF]](https://openaccess.thecvf.com/content/CVPR2024/html/Cho_TTA-EVF_Test-Time_Adaptation_for_Event-based_Video_Frame_Interpolation_via_Reliable_CVPR_2024_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11134673632235246397&hl=en) [[CODE]](https://github.com/Chohoonhee/TTA-EVF)
 
 - `DADeblur` [He et al., Proc. ECCV 2024] **Domain-adaptive video deblurring via test-time
 blurring** [[PDF]](https://arxiv.org/abs/2407.09059) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16166201323794932401&hl=en) [[CODE--]](https://github.com/Jin-Ting-He/DADeblur)
@@ -615,6 +621,8 @@ federated learning** [[PDF]](https://arxiv.org/abs/2310.18816) [[G-Scholar]](htt
 
 ### 2024
 - `...` [Cao et al., Proc. CVPR 2024] **Spectral meets spatial: Harmonising 3D shape matching and interpolation** [[PDF]](https://arxiv.org/abs/2402.18920) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1551241757812051619&hl=en)
+
+- `MeTTA` [Hu et al., Proc. CVPR 2024] **Fast adaptation for human pose estimation via meta-optimization** [[PDF]](https://openaccess.thecvf.com/content/CVPR2024/html/Hu_Fast_Adaptation_for_Human_Pose_Estimation_via_Meta-Optimization_CVPR_2024_paper.html) [[G-Scholar--]]()
 
 - `LI-TTA` [Yoon et al., Proc. Interspeech 2024] **LI-TTA: Language informed test-time adaptation for automatic speech recognition** [[PDF]](https://arxiv.org/abs/2408.05769) [[G-Scholar]](https://scholar.google.com/scholar?cluster=733847309262333373&hl=en) [[CODE--]](https://github.com/EsYoon7/LiTTA)
 
