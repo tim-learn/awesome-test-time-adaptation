@@ -607,6 +607,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `ProDe` [Tang et al., arXiv 2024] **Proxy denoising for source-free domain adaptation** [[PDF]](https://arxiv.org/abs/2406.01658) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17620695069530556718&hl=en)
 
+- `TAB` [Maracani et al., arXiv 2024] **Trust and balance: Few trusted samples pseudo-labeling and temperature scaled loss for effective source-free unsupervised domain adaptation** [[PDF]](https://arxiv.org/abs/2409.00741) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16032437956341103664&hl=en) [[CODE--]](https://github.com/andreamaracani/TAB_SFUDA)
+
 - `...` [Zhu et al., Misc 2024] **Pick and adapt: An iterative approach for source-free domain adaptation** [[PDF]](https://openreview.net/forum?id=SaSK9M66KK) [[G-Scholar--]]()
 
 - `...` [Musabe, Master Thesis 2024] **Towards regression-free and source-free online domain adaptation** [[PDF]](https://mspace.lib.umanitoba.ca/items/d9190005-e89a-4b46-b2de-f12042436094) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8863159720183005103&hl=en)
@@ -1044,6 +1046,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `LiDAR-UDA` [Shaban et al., Proc. ICCV 2023] **LiDAR-UDA: Self-ensembling through time for unsupervised LiDAR domain adaptation** [[PDF]](https://arxiv.org/abs/2309.13523) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3023674887678953347&hl=en) [[CODE]](https://github.com/JHLee0513/LiDARUDA)
 
+- `TTYD` [Michele et al., Proc. ECCV 2024] **Train till you drop: Towards stable and robust source-free unsupervised 3D domain adaptation** [[PDF]](https://arxiv.org/abs/2409.04409) [[G-Scholar--]]() [[CODE]](https://github.com/valeoai/TTYD)
+
 ### 3D Lidar Recognition
 - `GeoAdapt` [Knights et al., IEEE Robotics and Automation Letters 2023] **GeoAdapt: Self-supervised test-time adaptation in LiDAR place recognition using geometric priors** [[PDF]](https://arxiv.org/abs/2308.04638) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16846487955556908782&hl=en) [[CODE--]](https://github.com/csiro-robotics/GeoAdapt)
 
@@ -1192,6 +1196,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 ### Misc
 - `...` [Rufin et al., arXiv 2023] **Taking it further: Leveraging pseudo labels for field delineation across label-scarce smallholder regions** [[PDF]](https://arxiv.org/abs/2312.08384) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8445827874885835800&hl=en)
+
+- `...` [Mohammadi et al., Remote Sensing of Environment 2024] **A source-free unsupervised domain adaptation method for cross-regional and cross-time crop mapping from satellite image time series** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0034425724004115) [[G-Scholar--]]() [[CODE]](https://github.com/Sina-Mohammadi/SFUDA-CropMapping)
 
 ## Beyond CV Applications
 ### 2020

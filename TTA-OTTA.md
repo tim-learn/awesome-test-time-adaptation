@@ -119,6 +119,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `GraTa` [Chen et al., arXiv 2024] **Gradient alignment improves test-time adaptation for medical image segmentation** [[PDF]](https://arxiv.org/abs/2408.07343) [[G-Scholar]](https://scholar.google.com.sg/scholar?cluster=1111859093116595295&hl=en)
 
+- `RODASS` [Liu et al., arXiv 2024] **Towards robust online domain adaptive semantic segmentation under adverse weather conditions** [[PDF]](https://arxiv.org/abs/2409.01072) [[G-Scholar]](https://scholar.google.com.sg/scholar?cluster=1783457856210536350&hl=en)
+
 ### Object Detection
 - `...` [Lin et al., arXiv 2023] **VCL challenges 2023 at ICCV 2023 technical report: Bi-level adaptation method for test-time adaptive object detection** [[PDF]](https://arxiv.org/abs/2310.08986) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6724013113617030497&hl=en)
 
@@ -476,6 +478,10 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `UniTTA` [Du et al., arXiv 2024] **UniTTA: Unified benchmark and versatile framework towards realistic test-time adaptation** [[PDF]](https://arxiv.org/abs/2407.20080) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9946351602601552227&hl=en) [[CODE--]](https://github.com/LeapLabTHU/UniTTA)
 
 - `DPAL` [Tang et al., arXiv 2024] **Dual-path adversarial lifting for domain shift correction in online test-time adaptation** [[PDF]](https://arxiv.org/abs/2408.13983) [[G-Scholar--]]() [[CODE]](https://github.com/yushuntang/DPAL)
+
+- `FS-TTA` [Luo et al., arXiv 2024] **Enhancing test time adaptation with few-shot guidance** [[PDF]](https://arxiv.org/abs/2409.01341) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3326101482924158238&hl=en)
+
+- `...` [Duan et al., arXiv 2024] **Brain-inspired online adaptation for remote sensing with spiking neural network** [[PDF]](https://arxiv.org/abs/2409.02146) [[G-Scholar--]]()
 
 - `...` [Cygert et al., Misc 2024] **Realistic evaluation of test-time adaptation: Surrogate-based model selection strategies** [[PDF]](https://openreview.net/forum?id=X4ATu1huMJ) [[G-Scholar--]]()
 

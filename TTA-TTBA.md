@@ -471,6 +471,8 @@ blurring** [[PDF]](https://arxiv.org/abs/2407.09059) [[G-Scholar]](https://schol
 
 - `...` [Dumpala et al., arXiv 2023] **Test-time training for speech** [[PDF]](https://arxiv.org/abs/2309.10930) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1240093156897083970&hl=en)
 
+- `...` [Zhou et al., Proc. ECML-PKDD 2024] **Contrastive learning enhanced diffusion model for improving tropical cyclone intensity estimation with test-time adaptation** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-70378-2_26) [[G-Scholar--]]() [[CODE]](https://github.com/maxmaxcu/ConDiff-RTTA/)
+
 - `DTDA` [Zhang et al., IEEE TMI 2024] **Constraint-aware learning for fractional flow reserve pullback curve estimation from invasive coronary imaging** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10553327/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11794755209258619660&hl=en)
 
 - `...` [Deshmukh et al., arXiv 2024] **Domain adaptation for contrastive audio-language models** [[PDF]](https://arxiv.org/abs/2402.09585) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1239683760236340401&hl=en)
