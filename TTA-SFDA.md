@@ -555,6 +555,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `SS-TrBoosting` [Deng et al., IEEE TAI 2024] **Semi-supervised transfer boosting (SS-TrBoosting)** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10382492) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13493837665823220665&hl=en)
 
+- `SiLAN` [Wang et al., TMLR 2024] **What has been overlooked in contrastive source-free domain adaptation: Leveraging source-informed latent augmentation within neighborhood context** [[PDF]](https://openreview.net/forum?id=iulMde3dP1) [[G-Scholar--]]() [[CODE]](https://github.com/JingWang18/SiLAN)
+
 - `UPA` [Chen et al., Neurocomputing 2024] **Uncertainty-aware pseudo-label filtering for source-free unsupervised domain adaptation** [[PDF]](https://arxiv.org/abs/2403.11256) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9592984808926564814&hl=en) [[CODE]](https://github.com/chenxi52/UPA)
 
 - `...` [Xing et al., Neurocomputing 2024] **Rectifying self-training with neighborhood consistency and proximity for source-free domain adaptation** [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0925231224011962) [[G-Scholar--]]() [[CODE]](https://github.com/xingbw/Rectified-Self-Training)
@@ -1109,6 +1111,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `ZLaP` [Stojnić et al., Proc. CVPR 2024] **Label propagation for zero-shot classification with vision-language models** [[PDF]](https://arxiv.org/abs/2404.04072) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3792709328276280732&hl=en) [[CODE]](https://github.com/vladan-stojnic/ZLaP)
 
+- `uCAP` [Nguyen et al., Proc. ECCV 2024] **uCAP: An unsupervised prompting method for vision-language models** [[PDF]](https://atuannguyen.com/assets/pdf/nguyen2024ucap.pdf) [[G-Scholar--]]()
+
 - `ReCLIP` [Hu et al., Proc. WACV 2024] **ReCLIP: Refine contrastive language image pre-training with source free domain adaptation** [[PDF]](https://arxiv.org/abs/2308.03793) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18135944623162059089&hl=en) [[CODE]](https://github.com/michiganleon/ReCLIP_WACV)
 
 - `DIFO` [Tang et al., Proc. WACV 2024] **Source-free domain adaptation with frozen multimodal foundation model** [[PDF]](https://arxiv.org/abs/2311.16510) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7386217752559798759&hl=en) 
@@ -1337,6 +1341,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
   ~~[Mao et al., arxiv 2024] **Source free unsupervised graph domain adaptation** [[PDF]](https://arxiv.org/abs/2112.00955) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8057939358946355621&hl=en)~~
 
 - `...` [Flynn and Ragni, Proc. Interspeech 2024] **Self-train before you transcribe** [[PDF]](https://arxiv.org/abs/2406.12937) [[G-Scholar--]]() 
+
+- `CHDA` [Chien et al., Proc. Interspeech 2024] **Collaborative contrastive learning for hypothesis domain adaptation** [[PDF]](https://www.isca-archive.org/interspeech_2024/chien24c_interspeech.pdf) [[G-Scholar--]]() 
 
 - `PASAL` [Yin et al., Proc. NAACL Findings 2024] **Source-free unsupervised domain adaptation for question answering via prompt-assisted self-learning** [[PDF]](https://aclanthology.org/2024.findings-naacl.44/) [[G-Scholar--]]()
 

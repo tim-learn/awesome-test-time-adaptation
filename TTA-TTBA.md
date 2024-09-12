@@ -637,3 +637,5 @@ federated learning** [[PDF]](https://arxiv.org/abs/2310.18816) [[G-Scholar]](htt
 - `ICL-State-Vector` [Li et al., arXiv 2024] **In-context learning state vector with inner and momentum optimization** [[PDF]](https://arxiv.org/abs/2404.11225) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13467769071575363789&hl=en) [[CODE]](https://github.com/HITsz-TMG/ICL-State-Vector)
 
 - `DEnEM` [Gilany et al., arXiv 2024] **Calibrated diverse ensemble entropy minimization for robust test-time adaptation in prostate cancer detection** [[PDF]](https://arxiv.org/abs/2407.12697) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7042846574901367526&hl=en)
+
+- `Adapted-MoE` [Lei et al., arXiv 2024] **Adapted-MoE: Mixture of experts with test-time adaption for anomaly detection** [[PDF]](https://arxiv.org/abs/2409.05611) [[G-Scholar--]]()
