@@ -285,6 +285,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `UTAL` [Zhang et al., IEEE TPAMI 2024] **Unsupervised test-time adaptation learning for effective hyperspectral image super-resolution with unknown degeneration** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10420496/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1887433236424898846&hl=en)
 
+- `...` [Li et al., IEEE TPAMI 2024] **Test-time training for hyperspectral image super-resolution** [[PDF]](https://arxiv.org/abs/2409.08667) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12022533964967983670&hl=en)
+
 ### Inverse problem
 - `R&R+` [Gilton et al., IEEE TCI 2021] **Model adaptation for inverse problems in imaging** [[PDF]](https://ieeexplore.ieee.org/abstract/document/9477112/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1317665702275783452&hl=en)
 
@@ -297,6 +299,10 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 - `PnP-TTT` [Chandler et al., Proc. CAMSAP 2023] **Overcoming distribution shifts in plug-and-play methods with test-time training** [[PDF]](https://arxiv.org/abs/2310.16665) [[G-Scholar--]]()
 
 - `DIP-Inv` [Xu and Heagy, arXiv 2023] **A test-time learning approach to reparameterize the geophysical inverse problem with a convolutional neural network** [[PDF]](https://arxiv.org/abs/2312.04752) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11034300332248270471&hl=en)
+
+- `OML` [Wang et al., IEEE Transactions on Radiation and Plasma Medical Sciences 2024] **Test-time adaptation via orthogonal meta-learning for medical imaging** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10681615) [[G-Scholar--]]()
+
+- `...` [Klug et al., arXiv 2024] **MotionTTT: 2D test-time-training motion estimation for 3D motion corrected MRI** [[PDF]](https://arxiv.org/abs/2409.09370) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1905781321696318910&hl=en)
 
 ### Face detection
 - `GPR` [Jain and Learned-Miller, Proc. CVPR 2011] **Online domain adaptation of a pre-trained cascade of classifiers** [[PDF]](https://people.cs.umass.edu/~elm/papers/cvpr11adaptive.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1871527275360315634&hl=en)
@@ -639,3 +645,5 @@ federated learning** [[PDF]](https://arxiv.org/abs/2310.18816) [[G-Scholar]](htt
 - `DEnEM` [Gilany et al., arXiv 2024] **Calibrated diverse ensemble entropy minimization for robust test-time adaptation in prostate cancer detection** [[PDF]](https://arxiv.org/abs/2407.12697) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7042846574901367526&hl=en)
 
 - `Adapted-MoE` [Lei et al., arXiv 2024] **Adapted-MoE: Mixture of experts with test-time adaption for anomaly detection** [[PDF]](https://arxiv.org/abs/2409.05611) [[G-Scholar--]]()
+
+- `...` [Shi et al., arXiv 2024] **Personalized speech recognition for children with test-time adaptation** [[PDF]](https://arxiv.org/abs/2409.13095) [[G-Scholar--]]()
