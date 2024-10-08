@@ -337,8 +337,6 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `BaFTA` [Hu et al., Misc 2023] **BaFTA: Backprop-free test-time adaptation for zero-shot vision language models** [[PDF]](https://openreview.net/forum?id=KNtcoAM5Gy) [[G-Scholar--]]()
 
 #### 2024
-- `TePA` [Cong et al., Proc. S&P 2024] **Test-time poisoning attacks against test-time adaptation models** [[PDF]](https://arxiv.org/abs/2308.08505) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13810860861574844121&hl=en) [[CODE]](https://github.com/tianshuocong/TePA)
-
 - `SimATTA` [Gui et al., Proc. ICLR 2024] **Active test-time adaptation: Theoretical analyses and an algorithm** [[PDF]](https://openreview.net/forum?id=YHUGlwTzFB) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4194131213342595367&hl=en) [[CODE--]](https://github.com/divelab/ATTA)
 
 - `CEMA` [Chen et al., Proc. ICLR 2024] **Towards robust and efficient cloud-edge elastic model adaptation via selective entropy distillation** [[PDF]](https://openreview.net/forum?id=vePdNU3u6n) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10740781922768722500&hl=en)
@@ -499,6 +497,13 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `...` [Gwon et al., Misc 2024] **Refining pseudo labels for robust test time adaptation** [[PDF]](https://vizwiz.cs.colorado.edu/VizWiz_workshop/abstracts/gwon_2024_vizwiz_CVPR.pdf) [[G-Scholar--]]()
 
+- `TTAC` [Su et al., Misc 2024] **Towards inference stage robust 3D point cloud recognition** [[PDF]](https://www.worldscientific.com/doi/abs/10.1142/9789811286490_0008) [[G-Scholar--]]()
+
+### Attacks & Defenses
+- `TePA` [Cong et al., Proc. S&P 2024] **Test-time poisoning attacks against test-time adaptation models** [[PDF]](https://arxiv.org/abs/2308.08505) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13810860861574844121&hl=en) [[CODE]](https://github.com/tianshuocong/TePA)
+
+- `RTTDP` [Su et al., arXiv 2024] **On the adversarial risk of test time adaptation: An investigation into realistic test-time data poisoning** [[PDF]](https://arxiv.org/abs/2410.04682) [[G-Scholar--]]()
+
 ### CLIP-based
 - `SwapPrompt` [Ma et al., Proc. NeurIPS 2023] **SwapPrompt: Test-time prompt adaptation for vision-language models** [[PDF]](https://openreview.net/forum?id=EhdNQiOWgQ) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17344404046023372078&hl=en)
 
@@ -649,7 +654,7 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `...` [Kim et al., Proc. ICCV 2023] **Calibrating panoramic depth estimation for practical localization and mapping** [[PDF]](https://arxiv.org/abs/2308.14005) [[G-Scholar]](https://scholar.google.com/scholar?cluster=635859421443450672&hl=en)
 
-- `UTT` [Huang et al., Proc. ACPR 2023] **Uncertainty-guided test-time training for face forgery detectione** [[PDF]](https://aihuazheng.github.io/publications/pdf/2023/2023-Uncertainty-guided_Test-time_Training_for_Face_Forgery_Detection.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4837792649608574223&hl=en)
+- `UTT` [Huang et al., Proc. ACPR 2023] **Uncertainty-guided test-time training for face forgery detection** [[PDF]](https://aihuazheng.github.io/publications/pdf/2023/2023-Uncertainty-guided_Test-time_Training_for_Face_Forgery_Detection.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4837792649608574223&hl=en)
 
 - `...` [Almansoori et al., Proc. Scandinavian Conference on Image Analysis 2023] **Anchor-ReID: A test time adaptation for person re-identification** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-31438-4_39) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1515526462186910481&hl=en)
 

@@ -102,6 +102,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `...` [Hu et al., arXiv 2024] **Diffusion model driven test-time image adaptation for robust skin lesion classification** [[PDF]](https://arxiv.org/abs/2405.11289) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3035106452576593208&hl=en) [[CODE--]](https://github.com/minghu0830/Skin-TTA_Diffusion)
 
+- `IT3` [Durasov et al., arXiv 2024] **IT3: Idempotent test-time training** [[PDF]](https://arxiv.org/abs/2410.04201) [[G-Scholar--]]()
+
 ### Segmentation
 - `DIEM` [Wang et al., arXiv 2019] **Dynamic scale inference by entropy minimization** [[PDF]](https://arxiv.org/abs/1908.03182) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11939087491312325887&hl=en)
 
@@ -226,6 +228,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `TPAP` [Tang and Zhang, Proc. CVPR 2024] **Robust overfitting does matter: Test-time adversarial purification with FGSM** [[PDF]](https://arxiv.org/abs/2403.11448) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16989861815632578277&hl=en) [[CODE]](https://github.com/tly18/TPAP)
 
+- `IG-Defense` [Kulkarni and Weng, Proc. ECCV 2024] **Interpretability-guided test-time adversarial defense** [[PDF]](https://arxiv.org/abs/2409.15190) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3869772767147229969&hl=en) [[CODE]](https://github.com/Trustworthy-ML-Lab/Interpretability-Guided-Defense)
+
 - `TTD` [Yang et al., Proc. AAAI 2024] **Adversarial purification with the manifold hypothesis** [[PDF]](https://arxiv.org/abs/2210.14404) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6768374233387843170&hl=en)
 
 - `...` [Shaikh et al., Proc. CVPR Workshops 2024] **Adaptive randomized smoothing for certified multi-step defence** [[PDF]](https://tta-cvpr2024.github.io/_downloads/61e60378db6d598c6bec6643f2d79daa/matc_8_adaptive_randomized_smoothing_.pdf) [[G-Scholar--]]() 
@@ -303,12 +307,6 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 - `OML` [Wang et al., IEEE Transactions on Radiation and Plasma Medical Sciences 2024] **Test-time adaptation via orthogonal meta-learning for medical imaging** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10681615) [[G-Scholar--]]()
 
 - `...` [Klug et al., arXiv 2024] **MotionTTT: 2D test-time-training motion estimation for 3D motion corrected MRI** [[PDF]](https://arxiv.org/abs/2409.09370) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1905781321696318910&hl=en)
-
-### Face detection
-- `GPR` [Jain and Learned-Miller, Proc. CVPR 2011] **Online domain adaptation of a pre-trained cascade of classifiers** [[PDF]](https://people.cs.umass.edu/~elm/papers/cvpr11adaptive.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1871527275360315634&hl=en)
-
-### Gaze estimation
-- `TPGaze` [Liu et al., Proc. AAAI 2024] **Test-time personalization with meta prompt for gaze estimation** [[PDF]](https://arxiv.org/abs/2401.01577) [[G-Scholar--]]()
 
 ### Mapping between paired images
 - `SSMSR` [Zhu et al., Proc. ICRA 2021] **Test-time training for deformable multi-scale image registration** [[PDF]](https://arxiv.org/abs/2103.13578) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6326490607378414181&hl=en)
@@ -434,9 +432,17 @@ blurring** [[PDF]](https://arxiv.org/abs/2407.09059) [[G-Scholar]](https://schol
 - `...` [Huang et al., Misc 2024] **Semi-supervised acoustic scene classification with test-time adaptation** [[PDF]](https://ascchallenge.xshengyun.com/static/reports/3-Audio%20Warriors.pdf) [[G-Scholar--]]()
 
 ### Face
+- `GPR` [Jain and Learned-Miller, Proc. CVPR 2011] **Online domain adaptation of a pre-trained cascade of classifiers** [[PDF]](https://people.cs.umass.edu/~elm/papers/cvpr11adaptive.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1871527275360315634&hl=en)
+
 - `TTSP` [Zhou et al., Proc. CVPR 2024] **Test-time domain generalization for face anti-spoofing** [[PDF]](https://arxiv.org/abs/2403.19334) [[G-Scholar]](https://scholar.google.com/scholar?cluster=901090132601636901&hl=en)
 
 - `ELF-UA` [Wu et al., Proc. IJCAI 2024] **ELF-UA: Efficient label-free user adaptation in gaze estimation** [[PDF]](https://arxiv.org/abs/2406.09481) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16153028536416526889&hl=en)
+
+### Gaze estimation
+- `TPGaze` [Liu et al., Proc. AAAI 2024] **Test-time personalization with meta prompt for gaze estimation** [[PDF]](https://arxiv.org/abs/2401.01577) [[G-Scholar--]]()
+
+### Image manipulation localization
+- `ForgeryTTT` [Liu et al., arXiv 2024] **ForgeryTTT: Zero-shot image manipulation localization with test-time training** [[PDF]](https://arxiv.org/abs/2410.04032) [[G-Scholar--]]()
 
 ### Misc
 - `PAD` [Hansen et al., Proc. ICLR 2021] **Self-supervised policy adaptation during deployment** [[PDF]](https://openreview.net/forum?id=o_V-MjyyGV_) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10107448604973336784&hl=en) [[CODE]](https://github.com/nicklashansen/policy-adaptation-during-deployment)
@@ -546,9 +552,9 @@ federated learning** [[PDF]](https://arxiv.org/abs/2310.18816) [[G-Scholar]](htt
 
 - `ABNN` [Lo and Patel, Proc. AVSS 2024] **Adaptive batch normalization networks for adversarial robustness** [[PDF]](https://arxiv.org/abs/2405.11708) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6809196964032925339&hl=en)
 
-- `Hybrid-TTN` [Vianna et al, arXiv 2024] **Channel-selective normalization for label-shift robust test-time adaptation** [[PDF]](https://arxiv.org/abs/2402.04958) [[G-Scholar--]]()
+- `Hybrid-TTN` [Vianna et al, arXiv 2024] **Channel-selective normalization for label-shift robust test-time adaptation** [[PDF]](https://arxiv.org/abs/2402.04958) [[G-Scholar]](https://scholar.google.com/scholar?cluster=64155104335611854&hl=en)
 
-- `PAN` [Camuffo et al., arXiv 2024] **Enhanced model robustness to input corruptions by per-corruption adaptation of normalization statistics** [[PDF]](https://arxiv.org/abs/2407.06450) [[G-Scholar--]]() 
+- `PAN` [Camuffo et al., arXiv 2024] **Enhanced model robustness to input corruptions by per-corruption adaptation of normalization statistics** [[PDF]](https://arxiv.org/abs/2407.06450) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7611612506238718514&hl=en) 
 
 ### Video processing (multiple frames)
 - `PGO` [Brahmbhatt et al., Proc. CVPR 2018] **Geometry-aware learning of maps for camera localization** [[PDF]](http://openaccess.thecvf.com/content_cvpr_2018/html/Brahmbhatt_Geometry-Aware_Learning_of_CVPR_2018_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15361942550307476955&hl=en) [[CODE]](https://github.com/NVlabs/geomapnet)
@@ -647,3 +653,5 @@ federated learning** [[PDF]](https://arxiv.org/abs/2310.18816) [[G-Scholar]](htt
 - `Adapted-MoE` [Lei et al., arXiv 2024] **Adapted-MoE: Mixture of experts with test-time adaption for anomaly detection** [[PDF]](https://arxiv.org/abs/2409.05611) [[G-Scholar--]]()
 
 - `...` [Shi et al., arXiv 2024] **Personalized speech recognition for children with test-time adaptation** [[PDF]](https://arxiv.org/abs/2409.13095) [[G-Scholar--]]()
+
+- `TTT-Unet` [Zhou et al., arXiv 2024] **TTT-Unet: Enhancing U-Net with test-time training layers for biomedical image segmentation** [[PDF]](https://arxiv.org/abs/2409.11299) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17812955381908763969&hl=en) 
