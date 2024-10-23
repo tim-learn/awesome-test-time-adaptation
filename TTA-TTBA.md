@@ -170,9 +170,13 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `SaLIP` [Aleem et al., Proc. CVPR Workshops 2024] **Test-time adaptation with SaLIP: A cascade of SAM and CLIP for zero-shot medical image segmentation** [[PDF]](https://arxiv.org/abs/2404.06362) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2076060907669377814&hl=en) [[CODE]](https://github.com/aleemsidra/SaLIP)
 
+- `...` [Basak and Yin, Proc. MICCAI 2024] **Quest for clone: Test-time domain adaptation for medical image segmentation by searching the closest clone in latent space** [[PDF]](https://papers.miccai.org/miccai-2024/paper/0297_paper.pdf) [[G-Scholar--]]() [[CODE--]](https://github.com/hritam-98/Quest4Clone)
+
 - `...` [Gérin et al., Proc. CAI 2024] **Exploring viability of test-time training: Application to 3D segmentation in multiple sclerosis** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10605525/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6972552266931903968&hl=en) [[CODE--]](https://github.com/Gerin-Benoit/ttt-for-multi-sclerosis)
 
 - `...` [Lee et al., IEEE TGRS 2024] **Fine-grained binary segmentation for geospatial objects in remote sensing imagery via path-selective test-time adaptation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10476498) [[G-Scholar--]]()
+
+- `Adaptive WaVNet` [Qian et al., Medical Physics 2024] **Adaptive wavelet-VNet for single-sample test time adaptation in medical image segmentation** [[PDF]](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.17423) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5877801300333275518&hl=en)
 
 - `InTEnt` [Dong et al., arXiv 2024] **Medical image segmentation with InTEnt: Integrated entropy weighting for single image test-time adaptation** [[PDF]](https://arxiv.org/abs/2402.09604) [[G-Scholar]](https://scholar.google.com/scholar?cluster=963613001981542095&hl=en) [[CODE--]](https://github.com/mazurowski-lab/single-image-test-time-adaptation)
 
@@ -181,6 +185,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 - `...` [Zhang et al., arXiv 2024] **Refining segmentation on-the-fly: An interactive framework for point cloud semantic segmentation** [[PDF]](https://arxiv.org/abs/2403.06401) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5548543581989641473&hl=en)
 
 - `...` [Schön et al., arXiv 2024] **Adapting the segment anything model during usage in novel situations** [[PDF]](https://arxiv.org/abs/2404.08421) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4344992557187726414&hl=en)
+
+- `PASS` [Zhang et al., arXiv 2024] **PASS: Test-time prompting to adapt styles and semantic shapes in medical image segmentation** [[PDF]](https://arxiv.org/abs/2410.01573) [[G-Scholar--]]() [[CODE]](https://github.com/EndoluminalSurgicalVision-IMR/PASS)
 
 ### Detection
 - `OSHOT` [D'Innocente et al., Proc. ECCV 2020] **One-shot unsupervised cross-domain detection** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-030-58517-4_43) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7600955351500947376&hl=en) [[CODE]](https://github.com/VeloDC/oshot_detection)
@@ -483,6 +489,8 @@ blurring** [[PDF]](https://arxiv.org/abs/2407.09059) [[G-Scholar]](https://schol
 
 - `...` [Dumpala et al., arXiv 2023] **Test-time training for speech** [[PDF]](https://arxiv.org/abs/2309.10930) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1240093156897083970&hl=en)
 
+- `TICA` [Zhu et al., Proc. ICONIP 2024] **Test-time intensity consistency adaptation for shadow detection** [[PDF]](https://arxiv.org/abs/2410.07695) [[G-Scholar--]]()
+
 - `...` [Zhou et al., Proc. ECML-PKDD 2024] **Contrastive learning enhanced diffusion model for improving tropical cyclone intensity estimation with test-time adaptation** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-70378-2_26) [[G-Scholar--]]() [[CODE]](https://github.com/maxmaxcu/ConDiff-RTTA/)
 
 - `DTDA` [Zhang et al., IEEE TMI 2024] **Constraint-aware learning for fractional flow reserve pullback curve estimation from invasive coronary imaging** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10553327/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11794755209258619660&hl=en)
@@ -654,4 +662,4 @@ federated learning** [[PDF]](https://arxiv.org/abs/2310.18816) [[G-Scholar]](htt
 
 - `...` [Shi et al., arXiv 2024] **Personalized speech recognition for children with test-time adaptation** [[PDF]](https://arxiv.org/abs/2409.13095) [[G-Scholar--]]()
 
-- `TTT-Unet` [Zhou et al., arXiv 2024] **TTT-Unet: Enhancing U-Net with test-time training layers for biomedical image segmentation** [[PDF]](https://arxiv.org/abs/2409.11299) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17812955381908763969&hl=en) 
+- `TTT-Unet` [Zhou et al., arXiv 2024] **TTT-Unet: Enhancing U-Net with test-time training layers for biomedical image segmentation** [[PDF]](https://arxiv.org/abs/2409.11299) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17812955381908763969&hl=en)
