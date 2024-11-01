@@ -188,6 +188,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `PASS` [Zhang et al., arXiv 2024] **PASS: Test-time prompting to adapt styles and semantic shapes in medical image segmentation** [[PDF]](https://arxiv.org/abs/2410.01573) [[G-Scholar--]]() [[CODE]](https://github.com/EndoluminalSurgicalVision-IMR/PASS)
 
+- `InvSeg` [Lin et al., arXiv 2024] **InvSeg: Test-time prompt inversion for semantic segmentation** [[PDF]](https://arxiv.org/abs/2410.11473) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10469529667852002453&hl=en) [[CODE--]](https://github.com/jyLin8100/InvSeg)
+
 ### Detection
 - `OSHOT` [D'Innocente et al., Proc. ECCV 2020] **One-shot unsupervised cross-domain detection** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-030-58517-4_43) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7600955351500947376&hl=en) [[CODE]](https://github.com/VeloDC/oshot_detection)
 
@@ -238,7 +240,9 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `TTD` [Yang et al., Proc. AAAI 2024] **Adversarial purification with the manifold hypothesis** [[PDF]](https://arxiv.org/abs/2210.14404) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6768374233387843170&hl=en)
 
-- `...` [Shaikh et al., Proc. CVPR Workshops 2024] **Adaptive randomized smoothing for certified multi-step defence** [[PDF]](https://tta-cvpr2024.github.io/_downloads/61e60378db6d598c6bec6643f2d79daa/matc_8_adaptive_randomized_smoothing_.pdf) [[G-Scholar--]]() 
+- `...` [Shaikh et al., Proc. CVPR Workshops 2024] **Adaptive randomized smoothing for certified multi-step defence** [[PDF]](https://tta-cvpr2024.github.io/_downloads/61e60378db6d598c6bec6643f2d79daa/matc_8_adaptive_randomized_smoothing_.pdf) [[G-Scholar--]]()
+
+- `...` [Yeh et al., arXiv 2024] **Test-time adversarial defense with opposite adversarial path and high attack time cost** [[PDF]](https://arxiv.org/abs/2410.16805) [[G-Scholar--]]()
 
 ### Pose estimation
 - `ISO` [Zhang et al., Proc. NeurIPS 2020] **Inference stage optimization for cross-scenario 3d human pose estimation** [[PDF]](https://proceedings.neurips.cc/paper/2020/hash/1943102704f8f8f3302c2b730728e023-Abstract.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1453780569346725768&hl=en)
@@ -384,6 +388,8 @@ blurring** [[PDF]](https://arxiv.org/abs/2407.09059) [[G-Scholar]](https://schol
 
 - `TTTLayers` [Sun et al., arXiv 2024] **Learning to (learn at test time): RNNs with expressive hidden states** [[PDF]](https://arxiv.org/abs/2407.04620) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4859112994803550513&hl=en) [[CODE]](https://github.com/test-time-training/ttt-lm-pytorch)
 
+- `iP-VAE` [Vafaii et al., arXiv 2024] **A prescriptive theory for brain-like inference** [[PDF]](https://arxiv.org/abs/2410.19315) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10125295363151699158&hl=en)
+
 ### Graph
 - `GT3` [Wang et al., arXiv 2022] **Test-time training for graph neural networks** [[PDF]](https://arxiv.org/abs/2210.08813) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4459392671520994454&hl=en)
 
@@ -407,6 +413,8 @@ blurring** [[PDF]](https://arxiv.org/abs/2407.09059) [[G-Scholar]](https://schol
 - `RLCF` [Zhao et al., Proc. ICLR 2024] **Test-time adaptation with CLIP reward for zero-shot generalization in vision-language models** [[PDF]](https://openreview.net/forum?id=kIP0duasBb) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13354273242354297247&hl=en) [[CODE]](https://github.com/mzhaoshuai/RLCF)
 
 - `C-TPT` [Yoon et al., Proc. ICLR 2024] **C-TPT: Calibrated test-time prompt tuning for vision-language models via text feature dispersion** [[PDF]](https://openreview.net/forum?id=jzzEHTBFOT) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17710052127676580968&hl=en)
+
+- `APM` [Modi and Rawat, Proc. NeurIPS 2024] **Asynchronous perception machine for Efficient test time training** [[PDF]](https://arxiv.org/abs/2410.20535) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16502052114378234715&hl=en) [[CODE--]](https://github.com/rajatmodi62/apm)
 
 - `MTA` [Zanella and Ayed, Proc. CVPR 2024] **On the test-time zero-shot generalization of vision-language models: Do we really need prompt learning?** [[PDF]](https://arxiv.org/abs/2405.02266) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5809089823158937394&hl=en) [[CODE]](https://github.com/MaxZanella/MTA)
 
@@ -489,9 +497,11 @@ blurring** [[PDF]](https://arxiv.org/abs/2407.09059) [[G-Scholar]](https://schol
 
 - `...` [Dumpala et al., arXiv 2023] **Test-time training for speech** [[PDF]](https://arxiv.org/abs/2309.10930) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1240093156897083970&hl=en)
 
-- `TICA` [Zhu et al., Proc. ICONIP 2024] **Test-time intensity consistency adaptation for shadow detection** [[PDF]](https://arxiv.org/abs/2410.07695) [[G-Scholar--]]()
+- `TICA` [Zhu et al., Proc. ICONIP 2024] **Test-time intensity consistency adaptation for shadow detection** [[PDF]](https://arxiv.org/abs/2410.07695) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16219193731828547842&hl=en)
 
-- `...` [Zhou et al., Proc. ECML-PKDD 2024] **Contrastive learning enhanced diffusion model for improving tropical cyclone intensity estimation with test-time adaptation** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-70378-2_26) [[G-Scholar--]]() [[CODE]](https://github.com/maxmaxcu/ConDiff-RTTA/)
+- `...` [Zhou et al., Proc. ECML-PKDD 2024] **Contrastive learning enhanced diffusion model for improving tropical cyclone intensity estimation with test-time adaptation** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-70378-2_26) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10587621713344082740&hl=en) [[CODE]](https://github.com/maxmaxcu/ConDiff-RTTA/)
+
+- `...` [Schopf-Kuester et al., Proc. ICML Workshops 2024] **3D shape completion with test-time training** [[PDF]](https://openreview.net/forum?id=E7B97EiFYl) [[G-Scholar--]]() [[CODE--]](https://github.com/mschopfkuester/shape_completion_ttt)
 
 - `DTDA` [Zhang et al., IEEE TMI 2024] **Constraint-aware learning for fractional flow reserve pullback curve estimation from invasive coronary imaging** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10553327/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11794755209258619660&hl=en)
 
