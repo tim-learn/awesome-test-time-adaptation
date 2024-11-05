@@ -760,7 +760,7 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `...` [Jawaid et al., Proc. IROS 2024] **Test-time certifiable self-supervision to bridge the Sim2Real gap in event-based satellite pose estimation** [[PDF]](https://arxiv.org/abs/2409.06240) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13217865884955040585&hl=en)
 
-- `AETTA` [Lee et al., arXiv 2024] **AETTA: Label-free accuracy estimation for test-time adaptation** [[PDF]](https://arxiv.org/abs/2404.01351) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4098672415240681318&hl=en) [[CODE]](https://github.com/taeckyung/AETTA)
+- `AETTA` [Lee et al., Proc. CVPR 2024] **AETTA: Label-free accuracy estimation for test-time adaptation** [[PDF]](https://arxiv.org/abs/2404.01351) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4098672415240681318&hl=en) [[CODE]](https://github.com/taeckyung/AETTA)
 
 - `EACP` [Kasa et al., arXiv 2024] **Adapting conformal prediction to distribution shifts without labels** [[PDF]](https://arxiv.org/abs/2406.01416) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12815146141810977184&hl=en)
 
