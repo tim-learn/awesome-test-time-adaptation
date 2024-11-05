@@ -497,9 +497,11 @@ blurring** [[PDF]](https://arxiv.org/abs/2407.09059) [[G-Scholar]](https://schol
 
 - `...` [Dumpala et al., arXiv 2023] **Test-time training for speech** [[PDF]](https://arxiv.org/abs/2309.10930) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1240093156897083970&hl=en)
 
-- `TICA` [Zhu et al., Proc. ICONIP 2024] **Test-time intensity consistency adaptation for shadow detection** [[PDF]](https://arxiv.org/abs/2410.07695) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16219193731828547842&hl=en)
+- `TPC` [Yoon et al., Proc. NeurIPS 2024] **TPC: Test-time procrustes calibration for diffusion-based human image animation** [[PDF]](https://arxiv.org/abs/2410.24037) [[G-Scholar--]]()
 
 - `...` [Zhou et al., Proc. ECML-PKDD 2024] **Contrastive learning enhanced diffusion model for improving tropical cyclone intensity estimation with test-time adaptation** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-70378-2_26) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10587621713344082740&hl=en) [[CODE]](https://github.com/maxmaxcu/ConDiff-RTTA/)
+
+- `TICA` [Zhu et al., Proc. ICONIP 2024] **Test-time intensity consistency adaptation for shadow detection** [[PDF]](https://arxiv.org/abs/2410.07695) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16219193731828547842&hl=en)
 
 - `...` [Schopf-Kuester et al., Proc. ICML Workshops 2024] **3D shape completion with test-time training** [[PDF]](https://openreview.net/forum?id=E7B97EiFYl) [[G-Scholar--]]() [[CODE--]](https://github.com/mschopfkuester/shape_completion_ttt)
 
