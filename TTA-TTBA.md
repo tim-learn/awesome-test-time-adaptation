@@ -390,6 +390,8 @@ blurring** [[PDF]](https://arxiv.org/abs/2407.09059) [[G-Scholar]](https://schol
 
 - `iP-VAE` [Vafaii et al., arXiv 2024] **A prescriptive theory for brain-like inference** [[PDF]](https://arxiv.org/abs/2410.19315) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10125295363151699158&hl=en)
 
+- `...` [Akyürek et al., Misc 2024] **The surprising effectiveness of test-time training for abstract reasoning** [[PDF]](https://ekinakyurek.github.io/papers/ttt.pdf) [[G-Scholar--]]()
+
 ### Graph
 - `GT3` [Wang et al., arXiv 2022] **Test-time training for graph neural networks** [[PDF]](https://arxiv.org/abs/2210.08813) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4459392671520994454&hl=en)
 
@@ -402,6 +404,8 @@ blurring** [[PDF]](https://arxiv.org/abs/2407.09059) [[G-Scholar]](https://schol
 - `GOODAT` [Wang et al., arXiv 2024] **GOODAT: Towards test-time graph out-of-distribution detection** [[PDF]](https://arxiv.org/abs/2401.06176) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2440708359479589077&hl=en)
 
 - `TARD` [Tao et al., arXiv 2024] **Out-of-distribution rumor detection via test-time adaptation** [[PDF]](https://arxiv.org/abs/2403.17735) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3687180179182997319&hl=en)
+
+- `ProteinTTT` [Bushuiev et al., arXiv 2024] **Training on test proteins improves fitness, structure, and function prediction** [[PDF]](https://arxiv.org/abs/2411.02109) [[G-Scholar]](https://scholar.google.com/scholar?cluster=959823846646259228&hl=en) [[CODE]](https://github.com/anton-bushuiev/ProteinTTT)
 
 ### CLIP-related
 - `TPT` [Shu et al., Proc. NeurIPS 2022] **Test-time prompt tuning for zero-shot generalization in vision-language models** [[PDF]](https://openreview.net/forum?id=e8PVEkSa4Fq) [[G-Scholar]](https://scholar.google.com/scholar?cluster=213109028691722316&hl=en) [[CODE]](https://github.com/azshue/TPT)

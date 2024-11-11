@@ -316,8 +316,6 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `SATA` [Chakrabarty et al., arXiv 2023] **SATA: Source anchoring and target alignment network for continual test time adaptation** [[PDF]](https://arxiv.org/abs/2304.10113) [[G-Scholar]](https://scholar.google.com/scholar?cluster=406667574849068188&hl=en) 
 
-- `...` [Yu et al., arXiv 2023] **Benchmarking test-time adaptation against distribution shifts in image classification** [[PDF]](https://arxiv.org/abs/2307.03133) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15489648442199966100&hl=en) [[CODE]](https://github.com/yuyongcan/benchmark-tta)
-
 - `...` [ Jahan and Savakis, arXiv 2023] **Continual domain adaptation on aerial images under gradually degrading weather** [[PDF]](https://arxiv.org/abs/2308.00924) [[G-Scholar--]]()
 
 - `...` [Du et al., arXiv 2023] **Domain adaptation for satellite-borne hyperspectral cloud detection** [[PDF]](https://arxiv.org/abs/2309.02150) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12633378786725870873&hl=en)
@@ -331,8 +329,6 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `UniDG` [Zhang et al., arXiv 2023] **Towards unified and effective domain generalization** [[PDF]](https://arxiv.org/abs/2310.10008) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10817814553401983041&hl=en) [[CODE]](https://github.com/invictus717/UniDG)
 
 - `TTC` [Lin et al., arXiv 2023] **Improving entropy-based test-time adaptation from a clustering view** [[PDF]](https://arxiv.org/abs/2310.20327) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14302158409440638041&hl=en)
-
-- `...` [Wang et al., arXiv 2023] **In search of lost online test-time adaptation: A survey** [[PDF]](https://arxiv.org/abs/2310.20199) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17648038488874099908&hl=en)
 
 - `PeTTA` [Hoang et al., arXiv 2023] **Persistent test-time adaptation in episodic testing scenarios** [[PDF]](https://arxiv.org/abs/2311.18193) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16489254122252432918&hl=en)
 
@@ -724,6 +720,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `HTT` [Wang et al., Proc. AAAI 2024] **Heterogeneous test-time training for multi-modal person re-identification** [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/28398) [[G-Scholar--]]() [[CODE]](https://github.com/ziwang1121/HTT)
 
 - `OFTTA` [Wang et al., Proc. IMWUT/ UbiComp 2024] **Optimization-free test-time adaptation for cross-person activity recognition** [[PDF]](https://arxiv.org/abs/2310.18562) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6085700084354796899&hl=en) [[CODE]](https://github.com/Claydon-Wang/OFTTA)
+
+- `HTTA` [Xian et al., Proc. PRCV 2024] **Exploring out-of-distribution scene text recognition for driving scenes with hybrid test-time adaptation** [[PDF]](https://link.springer.com/chapter/10.1007/978-981-97-8487-5_5) [[G-Scholar--]]()
 
 - `TEMP` [Adachi et al., Proc. IJCNN 2024] **Test-time similarity modification for person re-identification toward temporal distribution shift** [[PDF]](https://arxiv.org/abs/2403.14114) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6720067341435210799&hl=en)
 
