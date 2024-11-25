@@ -465,6 +465,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `SlimTTT` [Cai et al., Misc 2024] **Resource efficient test-time training with slimmable network** [[PDF]](https://openreview.net/forum?id=7iuFxx9Ccx) [[G-Scholar--]]()
 
+- `LPR` [Yoo et al., Misc 2024] **Label space-induced pseudo label refinement for multi-source black-box domain adaptation** [[PDF]](https://openreview.net/forum?id=JGTC6WgO4T) [[G-Scholar--]]()
+
 - `...` [Wong., Master Thesis 2023] **Reducing negative transfer of random data in source-free unsupervised domain adaptation** [[PDF]](https://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=11907&context=etd) [[G-Scholar--]]() 
 
 - `...` [Thomas., Master Thesis 2023] **Continual domain adaptation through knowledge distillation** [[PDF]](https://scholarworks.rit.edu/theses/11545/) [[G-Scholar--]]() 
@@ -615,6 +617,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 - `ProDe` [Tang et al., arXiv 2024] **Proxy denoising for source-free domain adaptation** [[PDF]](https://arxiv.org/abs/2406.01658) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17620695069530556718&hl=en)
 
 - `TAB` [Maracani et al., arXiv 2024] **Trust and balance: Few trusted samples pseudo-labeling and temperature scaled loss for effective source-free unsupervised domain adaptation** [[PDF]](https://arxiv.org/abs/2409.00741) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16032437956341103664&hl=en) [[CODE--]](https://github.com/andreamaracani/TAB_SFUDA)
+
+- `StepSPT` [Xu et al., arXiv 2024] **Step-wise distribution alignment guided style prompt tuning for source-free cross-domain few-shot learning** [[PDF]](https://arxiv.org/abs/2411.10070) [[G-Scholar--]]() [[CODE]](https://github.com/xuhuali-mxj/StepSPT)
 
 - `...` [Zhu et al., Misc 2024] **Pick and adapt: An iterative approach for source-free domain adaptation** [[PDF]](https://openreview.net/forum?id=SaSK9M66KK) [[G-Scholar--]]()
 
@@ -993,7 +997,7 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 - `...` [Pourreza., Master Thesis 2023] **Open-set source-free domain adaptation in fundus images analysis** [[PDF]](https://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=11898&context=etd) [[G-Scholar--]]()
 
 ### 2024
-- `SF-UT` [Hao et al., Proc. ECCV 2024] **Simplifying source-free domain adaptation for object detection: Effective self-training strategies and performance insights** [[PDF]](https://arxiv.org/abs/2407.07586) [[G-Scholar--]]() [[CODE]](https://github.com/EPFL-IMOS/simple-SFOD)
+- `SF-UT` [Hao et al., Proc. ECCV 2024] **Simplifying source-free domain adaptation for object detection: Effective self-training strategies and performance insights** [[PDF]](https://arxiv.org/abs/2407.07586) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8647739709393243478&hl=en) [[CODE]](https://github.com/EPFL-IMOS/simple-SFOD)
 
 - `PLPB` [Li et al., Proc. WACV 2024] **Robust source-free domain adaptation for fundus image segmentation** [[PDF]](https://arxiv.org/abs/2310.16665) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14362854508610886433&hl=en) [[CODE]](https://github.com/LinGrayy/PLPB)
 
@@ -1019,7 +1023,11 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `UniFed` [Dinsdale et al., arXiv 2024] **UniFed: A unified deep learning framework for segmentation of partially labelled, distributed neuroimaging data** [[PDF]](https://www.biorxiv.org/content/10.1101/2024.02.05.578912v1.abstract) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10410788971059392258&hl=en)
 
-- `DyNA` [Chen et al., arXiv 2024] **Day-night adaptation: An innovative source-free adaptation framework for medical image segmentation** [[PDF]](https://arxiv.org/abs/2410.13472) [[G-Scholar--]]()
+- `DyNA` [Chen et al., arXiv 2024] **Day-night adaptation: An innovative source-free adaptation framework for medical image segmentation** [[PDF]](https://arxiv.org/abs/2410.13472) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8896829600509695972&hl=en)
+
+- `...` [Sun and  Rostami, arXiv 2024] **Cross-domain distribution alignment for segmentation of private unannotated 3D medical Images** [[PDF]](https://arxiv.org/abs/2410.09210) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15303510450833492450&hl=en)
+
+- `...` [Peralta et al., Misc 2024] **Source-free domain adaptation for improving medical image quality in clinical applications** [[PDF]](https://www.researchgate.net/publication/385659625_Source-Free_Domain_Adaptation_for_Improving_Medical_Image_Quality_in_Clinical_Applications) [[G-Scholar--]]()
 
 ## Video Classification
 ### 2022
@@ -1160,7 +1168,7 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `LatteCLIP` [Cao et al., arXiv 2024] **LatteCLIP: Unsupervised CLIP fine-tuning via LMM-synthetic texts** [[PDF]](https://arxiv.org/abs/2410.08211) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12882603399194379365&hl=en)
 
-- `CDBN` [Li et al., arXiv 2024] **Data-efficient CLIP-powered dual-branch networks for source-free unsupervised domain adaptation** [[PDF]](https://arxiv.org/abs/2410.15811) [[G-Scholar--]]()
+- `CDBN` [Li et al., arXiv 2024] **Data-efficient CLIP-powered dual-branch networks for source-free unsupervised domain adaptation** [[PDF]](https://arxiv.org/abs/2410.15811) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17056937347900577651&hl=en)
 
 - `...` [anonymous et al., Misc 2024] **Towards dynamic-prompting collaboration for source-free domain adaptation** [[PDF--]]() [[G-Scholar--]]() [[CODE]](https://github.com/Anonymous3119/paperID3119)
 
@@ -1473,6 +1481,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `TFDA` [Furqon et al., arXiv 2024] **Time and frequency synergy for source-free time-series domain adaptations** [[PDF]](https://arxiv.org/abs/2410.17511) [[G-Scholar--]]() [[CODE]](https://github.com/furqon3009/TFDA)
 
+- `SPDIM` [Li et al., arXiv 2024] **SPDIM: Source-free unsupervised conditional and label shift adaptation in EEG** [[PDF]](https://arxiv.org/abs/2411.07249) [[G-Scholar--]]()
+
 ## Misc
 - [Yang et al., Proc. ACM-MM2007] **Cross-domain video concept detection using adaptive svms** [[PDF]](https://dl.acm.org/doi/abs/10.1145/1291233.1291276) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4589454669556425406&hl=en)
 
@@ -1536,12 +1546,12 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `CamoNet` [Zhang et al., IEEE TMC 2024] **CamoNet: On-device neural network adaptation with zero interaction and unlabeled data for diverse edge environments** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10522944/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12018083912496855600&hl=en)
 
-- `RobustDA` [Guo et al., IEEE Journal on Emerging and Selected Topics in Circuits and Systems 2024] **RobustDA: Lightweight robust domain adaptation for evolving data at edge** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10714457/) [[G-Scholar--]]()
+- `RobustDA` [Guo et al., IEEE Journal on Emerging and Selected Topics in Circuits and Systems 2024] **RobustDA: Lightweight robust domain adaptation for evolving data at edge** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10714457/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2785912523970263712&hl=en)
 
 - `...` [Leroux et al., Proc. CVPR Workshops 2024] **Test-time specialization of dynamic neural networks** [[PDF]](https://tta-cvpr2024.github.io/_downloads/4d709aa8330b463834bd636dac27d927/matp_4_test_time_specialization_of_dy.pdf) [[G-Scholar--]]() 
 
 - `TETOT` [Mehra et al., arXiv 2024] **Test-time assessment of a model's performance on unseen domains via optimal transport** [[PDF]](https://arxiv.org/abs/2405.01451) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17236322836354599887&hl=en)
 
-- `L^3` [Xie et al., arXiv 2024] **Look, learn and leverage (L^3): Mitigating visual-domain shift and discovering intrinsic relations via symbolic alignment** [[PDF]](https://arxiv.org/abs/2408.17363) [[G-Scholar--]]()
+- `L^3` [Xie et al., arXiv 2024] **Look, learn and leverage (L^3): Mitigating visual-domain shift and discovering intrinsic relations via symbolic alignment** [[PDF]](https://arxiv.org/abs/2408.17363) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13875583366994072200&hl=en)
 
 - `...` [Zeng et al., arXiv 2024] **LLM embeddings improve test-time adaptation to tabular Y|X-shifts** [[PDF]](https://arxiv.org/abs/2410.07395) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18201469738692370537&hl=en) [[CODE]](https://github.com/namkoong-lab/LLM-Tabular-Shifts)
