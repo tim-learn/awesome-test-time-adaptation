@@ -572,6 +572,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `FUSE` [Tian et al., Signal, Image and Video Processing 2024] **Source bias reduction for source-free domain adaptation** [[PDF]](https://link.springer.com/article/10.1007/s11760-024-03200-6) [[G-Scholar--]]()
 
+- `...` [Zhou et al., Pattern Recognition Letters 2024] **Multi source-free domain adaptation based on pseudo-label knowledge mining** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0167865524003209) [[G-Scholar--]]()
+
 - `DCA` [Wang et al., Neural Processing Letters 2024] **Dual classifier adaptation: Source-free UDA via adaptive pseudo-labels learning** [[PDF]](https://link.springer.com/article/10.1007/s11063-024-11627-8) [[G-Scholar--]]() [[CODE]](https://github.com/MALA-NJUPT/DCA)
 
 - `RECS` [Tian and Sun, Neural Computing and Applications 2024] **Rethinking confidence scores for source-free unsupervised domain adaptation** [[PDF]](https://link.springer.com/article/10.1007/s00521-024-09867-9) [[G-Scholar--]]() [[CODE]](https://github.com/lingyuxuan1234/RECS)

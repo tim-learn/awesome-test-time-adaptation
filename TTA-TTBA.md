@@ -199,6 +199,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `...` [Shen et al., Proc. ICASSP 2024] **One-epoch training with single test sample in test time for better generalization of cough-based Covid-19 detection model** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10447997/) [[G-Scholar--]]()
 
+- `...` [Huang et al., IEEE TGRS 2024] **Learning to adapt using test-time images for salient object detection in optical remote sensing images** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10764741/) [[G-Scholar--]]()
+
 ### Attack and Defense
 - `SOAP` [Shi et al., Proc. ICLR 2021] **Online adversarial purification based on self-supervision** [[PDF]](https://openreview.net/forum?id=_i3ASPp12WS) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17641828899893011240&hl=en) [[CODE]](https://github.com/Mishne-Lab/SOAP)
 
@@ -310,9 +312,11 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `PINER` [Song et al., Proc. WACV 2023] **PINER: Prior-informed implicit neural representation learning for test-time adaptation in sparse-view CT reconstruction** [[PDF]](https://openaccess.thecvf.com/content/WACV2023/html/Song_PINER_Prior-Informed_Implicit_Neural_Representation_Learning_for_Test-Time_Adaptation_in_WACV_2023_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8086782344774079473&hl=en)
 
-- `PnP-TTT` [Chandler et al., Proc. CAMSAP 2023] **Overcoming distribution shifts in plug-and-play methods with test-time training** [[PDF]](https://arxiv.org/abs/2310.16665) [[G-Scholar--]]()
+- `PnP-TTT` [Chandler et al., Proc. CAMSAP 2023] **Overcoming distribution shifts in plug-and-play methods with test-time training** [[PDF]](https://arxiv.org/abs/2310.16665) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18343217185897060873&hl=en)
 
 - `DIP-Inv` [Xu and Heagy, arXiv 2023] **A test-time learning approach to reparameterize the geophysical inverse problem with a convolutional neural network** [[PDF]](https://arxiv.org/abs/2312.04752) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11034300332248270471&hl=en)
+
+- `FluidMotionNet` [Zhang et al., Proc. NeurIPS 2024] **Dual-frame fluid motion estimation with test-time optimization and zero-divergence loss** [[PDF]](https://arxiv.org/abs/2410.11934) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15386317869655790396&hl=en) [[CODE]](https://github.com/Forrest-110/FluidMotionNet)
 
 - `OML` [Wang et al., IEEE Transactions on Radiation and Plasma Medical Sciences 2024] **Test-time adaptation via orthogonal meta-learning for medical imaging** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10681615) [[G-Scholar--]]()
 
