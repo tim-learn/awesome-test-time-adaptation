@@ -1023,6 +1023,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `...` [Zhang et al., International Journal of Ophthalmology 2024] **Diabetic retinopathy identification based on multi-source-free domain adaptation** [[PDF]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11246935/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9166609315682439482&hl=en)
 
+- `VP-SFDA` [Chen et al., Health Data Science 2024] **VP-SFDA: Visual prompt source-free domain adaptation for cross-modal medical image** [[PDF]](https://spj.science.org/doi/pdf/10.34133/hds.0143) [[G-Scholar--]]()
+
 - `UniFed` [Dinsdale et al., arXiv 2024] **UniFed: A unified deep learning framework for segmentation of partially labelled, distributed neuroimaging data** [[PDF]](https://www.biorxiv.org/content/10.1101/2024.02.05.578912v1.abstract) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10410788971059392258&hl=en)
 
 - `DyNA` [Chen et al., arXiv 2024] **Day-night adaptation: An innovative source-free adaptation framework for medical image segmentation** [[PDF]](https://arxiv.org/abs/2410.13472) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8896829600509695972&hl=en)
