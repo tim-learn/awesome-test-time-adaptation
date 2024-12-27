@@ -463,6 +463,8 @@ blurring** [[PDF]](https://arxiv.org/abs/2407.09059) [[G-Scholar]](https://schol
 - `TAPT` [Wang et al., arXiv 2024] **TAPT: Test-time adversarial prompt tuning for robust inference in vision-language models** [[PDF]](https://arxiv.org/abs/2411.13136) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17479152377155248319&hl=en)
 
 ### Audio Classification
+- `...` [Chen et al., arXiv 2024] **Multiple consistency-guided test-time adaptation for contrastive audio-language models with unlabeled audio** [[PDF]](https://arxiv.org/abs/2412.17306) [[G-Scholar--]]()
+
 - `...` [Chen et al., Misc 2024] **Acoustic scene classification by the self-learning of eat** [[PDF]](https://ascchallenge.xshengyun.com/static/reports/2-Aural%20Pioneers.pdf) [[G-Scholar--]]()
 
 - `...` [Huang et al., Misc 2024] **Semi-supervised acoustic scene classification with test-time adaptation** [[PDF]](https://ascchallenge.xshengyun.com/static/reports/3-Audio%20Warriors.pdf) [[G-Scholar--]]()
@@ -540,6 +542,8 @@ blurring** [[PDF]](https://arxiv.org/abs/2407.09059) [[G-Scholar]](https://schol
 - `...` [Yu et al., arXiv 2024] **DPA-Net: Structured 3D abstraction from sparse views via differentiable primitive assembly** [[PDF]](https://arxiv.org/abs/2404.00875) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17420548736806547943&hl=en)
 
 - `...` [Wu et al., arXiv 2024] **Efficient domain adaptation for endoscopic visual odometry** [[PDF]](https://arxiv.org/abs/2403.10860) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9307250194673490965&hl=en)
+
+- `CustomTTT` [Bi et al., arXiv 2024] **CustomTTT: Motion and appearance customized video generation via test-time training** [[PDF]](https://arxiv.org/abs/2412.15646) [[G-Scholar--]]() [[CODE]](https://github.com/RongPiKing/CustomTTT)
 
 ## Batch-level
 ### Classification

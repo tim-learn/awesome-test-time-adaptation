@@ -1017,6 +1017,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `...` [Yin et al., Scientific Reports 2024] **Source free domain adaptation for kidney and tumor image segmentation with wavelet style mining** [[PDF]](https://www.nature.com/articles/s41598-024-75972-3) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15999060855296565676&hl=en)
 
+- `CCMT` [Zhang et al., Neurocomputing 2024] **Source-free domain adaptation framework based on confidence constrained mean teacher for fundus image segmentation** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0925231224020332) [[G-Scholar--]]()
+
 - `UCDA` [Yu and Pei et al., Applied Sciences 2024] **Uncertainty-guided asymmetric consistency domain adaptation for histopathological image classification** [[PDF]](https://www.mdpi.com/2076-3417/14/7/2900)  [[G-Scholar]](https://scholar.google.com/scholar?cluster=2119962835455490279&hl=en)
 
 - `...` [Liu and Jiao, Biomedical Engineering Letters 2024] **Cross-domain additive learning of new knowledge rather than replacement** [[PDF]](https://link.springer.com/article/10.1007/s13534-024-00399-8) [[G-Scholar--]]()
