@@ -620,7 +620,9 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `TAB` [Maracani et al., arXiv 2024] **Trust and balance: Few trusted samples pseudo-labeling and temperature scaled loss for effective source-free unsupervised domain adaptation** [[PDF]](https://arxiv.org/abs/2409.00741) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16032437956341103664&hl=en) [[CODE--]](https://github.com/andreamaracani/TAB_SFUDA)
 
-- `StepSPT` [Xu et al., arXiv 2024] **Step-wise distribution alignment guided style prompt tuning for source-free cross-domain few-shot learning** [[PDF]](https://arxiv.org/abs/2411.10070) [[G-Scholar--]]() [[CODE]](https://github.com/xuhuali-mxj/StepSPT)
+- `StepSPT` [Xu et al., arXiv 2024] **Step-wise distribution alignment guided style prompt tuning for source-free cross-domain few-shot learning** [[PDF]](https://arxiv.org/abs/2411.10070) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8720702324262666555&hl=en) [[CODE]](https://github.com/xuhuali-mxj/StepSPT)
+
+- `MEA` [Wang et al., arXiv 2024] **Unveiling the superior paradigm: A comparative study of source-free domain adaptation and unsupervised domain adaptation** [[PDF]](https://arxiv.org/abs/2411.15844) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3412071246184659825&hl=en)
 
 - `...` [Zhu et al., Misc 2024] **Pick and adapt: An iterative approach for source-free domain adaptation** [[PDF]](https://openreview.net/forum?id=SaSK9M66KK) [[G-Scholar--]]()
 
@@ -941,7 +943,7 @@ segmentation with class-balanced mean teacher** [[PDF]](https://arxiv.org/abs/23
 
 - `...` [Yuan et al., Proc. EMBC 2023] **Entropy-driven adversarial training for source-free medical image segmentation** [[PDF]](https://arinex.com.au/EMBC/pdf/full-paper_228.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15852246687192396998&hl=en)
 
-- `MATS` [Chen et al., Proc. MIDL 2023] **Model adaptive tooth segmentation** [[PDF]](https://openreview.net/forum?id=O2DerS5oQ1) [[G-Scholar--]]()
+- `MATS` [Chen et al., Proc. MIDL 2023] **Model adaptive tooth segmentation** [[PDF]](https://openreview.net/forum?id=O2DerS5oQ1) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14510692842514020867&hl=en)
 
 - `...` [Wang et al., Proc. CMMCA 2023] **Advancing delineation of gross tumor volume based on magnetic resonance imaging by performing source-free domain adaptation in nasopharyngeal carcinoma** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-45087-7_8) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15174580942678325244&hl=en)
 
@@ -1014,6 +1016,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 - `...` [Nakhaei et al., Proc. SPIE Medical Imaging 2024] **Refining boundaries of the segment anything model in medical images using an active contour model** [[PDF]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12927/1292734/Refining-boundaries-of-the-segment-anything-model-in-medical-images/10.1117/12.3006255.short) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2412331644154163819&hl=en)
 
 - `Distill-SODA` [Vray et al., IEEE TMI 2024] **Distill-SODA: Distilling self-supervised vision transformer for source-free open-set domain adaptation in computational pathology** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10403873)  [[G-Scholar]](https://scholar.google.com/scholar?cluster=14471489511816927773&hl=en) [[CODE]](https://github.com/LTS5/Distill-SODA)
+
+- `MS-MATS` [Chen et al., Medical Image Analysis 2024] **Cross-center model adaptive tooth segmentation** [[PDF]](https://www.sciencedirect.com/science/article/pii/S1361841524003682) [[G-Scholar--]]()
 
 - `...` [Yin et al., Scientific Reports 2024] **Source free domain adaptation for kidney and tumor image segmentation with wavelet style mining** [[PDF]](https://www.nature.com/articles/s41598-024-75972-3) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15999060855296565676&hl=en)
 
@@ -1546,15 +1550,17 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `TASFAR` [He et al., Porc. ICDE 2024] **Target-agnostic source-free domain adaptation for regression tasks** [[PDF]](https://arxiv.org/abs/2312.00540) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3952939575279367642&hl=en) [[CODE]](https://github.com/Siriusize/TASFAR_DA)
 
+- `...` [Leroux et al., Proc. CVPR Workshops 2024] **Test-time specialization of dynamic neural networks** [[PDF]](https://tta-cvpr2024.github.io/_downloads/4d709aa8330b463834bd636dac27d927/matp_4_test_time_specialization_of_dy.pdf) [[G-Scholar--]]() 
+
 - `IM-DCL` [Xu et al., IEEE TIP 2024] **Enhancing information maximization with distance-aware contrastive learning for source-free cross-domain few-shot learning** [[PDF]](https://arxiv.org/abs/2403.01966) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6606628700918716097&hl=en) [[CODE]](https://github.com/xuhuali-mxj/IM-DCL)
+
+- `TEA` [Jin et al., IEEE TMM 2024] **Federated hallucination translation and source-free regularization adaptation in decentralized domain adaptation for foggy scene understanding** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10814654/) [[G-Scholar--]]()
 
 - `OSFTL` [Wu et al., IEEE TNSRE 2024] **Online privacy-preserving EEG classification by source-free transfer learning** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10638104/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1021214697549059773&hl=en)
 
 - `CamoNet` [Zhang et al., IEEE TMC 2024] **CamoNet: On-device neural network adaptation with zero interaction and unlabeled data for diverse edge environments** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10522944/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12018083912496855600&hl=en)
 
 - `RobustDA` [Guo et al., IEEE Journal on Emerging and Selected Topics in Circuits and Systems 2024] **RobustDA: Lightweight robust domain adaptation for evolving data at edge** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10714457/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2785912523970263712&hl=en)
-
-- `...` [Leroux et al., Proc. CVPR Workshops 2024] **Test-time specialization of dynamic neural networks** [[PDF]](https://tta-cvpr2024.github.io/_downloads/4d709aa8330b463834bd636dac27d927/matp_4_test_time_specialization_of_dy.pdf) [[G-Scholar--]]() 
 
 - `TETOT` [Mehra et al., arXiv 2024] **Test-time assessment of a model's performance on unseen domains via optimal transport** [[PDF]](https://arxiv.org/abs/2405.01451) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17236322836354599887&hl=en)
 

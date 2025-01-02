@@ -381,7 +381,10 @@ blurring** [[PDF]](https://arxiv.org/abs/2407.09059) [[G-Scholar]](https://schol
 - `VIA` [Gu et al., arXiv 2024] **VIA: A spatiotemporal video adaptation framework for global and local video editing** [[PDF]](https://arxiv.org/abs/2406.12831) [[G-Scholar--]]() [[CODE--]](https://github.com/eric-ai-lab/via-video)
 
 ### Action Recognition
-- `T3AL` [Liberatori et al., Proc. CVPR 2024] **From denoising training to test-time adaptation: Enhancing domain generalization for medical image segmentation** [[PDF]](https://arxiv.org/abs/2404.05426) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2064578012025530100&hl=en) [[CODE]](https://github.com/benedettaliberatori/T3AL)
+- `T3AL` [Liberatori et al., Proc. CVPR 2024] **Test-time zero-shot temporal action localization** [[PDF]](https://arxiv.org/abs/2404.05426) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2064578012025530100&hl=en) [[CODE]](https://github.com/benedettaliberatori/T3AL)
+
+### Point Clouds
+- `3DD-TTA` [Dastmalchi et al., Proc. WACV 2025] **Test-time adaptation of 3D point clouds via denoising diffusion models** [[PDF]](https://arxiv.org/abs/2411.14495) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1949155298282533415&hl=en) [[CODE]](https://github.com/hamidreza-dastmalchi/3DD-TTA)
 
 ### NLP 
 - `TTL-EQA` [Banerjee et al., Proc. NAACL 2021] **Self-supervised test-time learning for reading comprehension** [[PDF]](https://aclanthology.org/2021.naacl-main.95/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7170102090609189822&hl=en)
@@ -710,3 +713,5 @@ federated learning** [[PDF]](https://arxiv.org/abs/2310.18816) [[G-Scholar]](htt
 - `TTT-Unet` [Zhou et al., arXiv 2024] **TTT-Unet: Enhancing U-Net with test-time training layers for biomedical image segmentation** [[PDF]](https://arxiv.org/abs/2409.11299) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17812955381908763969&hl=en)
 
 - `QTTT` [Jian et al., arXiv 2024] **Test-time training with quantum auto-encoder: From distribution shift to noisy quantum circuits** [[PDF]](https://arxiv.org/abs/2411.06828) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12221972040319018327&hl=en)
+
+- `UniAda` [Zhang et al., IEEE TMI 2024] **UniAda: Domain unifying and adapting network for generalizable medical image segmentation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10816643/) [[G-Scholar--]]() [[CODE]](https://github.com/ZhouZhang233/UniAda)

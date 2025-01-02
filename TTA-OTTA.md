@@ -105,11 +105,11 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `...` [Sojka et al., arXiv 2023] **Technical report for ICCV 2023 visual continual learning challenge: Continuous test-time adaptation for semantic segmentation** [[PDF]](https://arxiv.org/abs/2310.13533) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3011418502748744087&hl=en)
 
-- `VPTTA` [Chen et al., arXiv 2023] **Each test image deserves a specific prompt: Continual test-time adaptation for 2D medical Image segmentation** [[PDF]](https://arxiv.org/abs/2311.18363) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17181601800519887084&hl=en) [[CODE--]](https://github.com/Chen-Ziyang/VPTTA)
-
 - `...` [Yuan et al., arXiv 2023] **Few clicks suffice: Active test-time adaptation for semantic segmentation** [[PDF]](https://arxiv.org/abs/2312.01835) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11120798194770889567&hl=en)
 
 - `BECoTTA` [Lee et al., Proc. ICML 2024] **BECoTTA: Input-dependent online blending of experts for continual test-time adaptation** [[PDF]](https://arxiv.org/abs/2402.08712) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17441138606596295398&hl=en) [[CODE]](https://github.com/daeunni/becotta)
+
+- `VPTTA` [Chen et al., Proc. CVPR 2024] **Each test image deserves a specific prompt: Continual test-time adaptation for 2D medical Image segmentation** [[PDF]](https://arxiv.org/abs/2311.18363) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17181601800519887084&hl=en) [[CODE]](https://github.com/Chen-Ziyang/VPTTA)
 
 - `HGL` [Zou et al., Proc. ECCV 2024] **HGL: Hierarchical geometry learning for test-time adaptation in 3D point cloud segmentation** [[PDF]](https://arxiv.org/abs/2407.12387) [[G-Scholar--]]() [[CODE]](https://github.com/tpzou/HGL)
 
@@ -121,9 +121,9 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `...` [Li et al., Intelligence, Informatics and Infrastructure 2024] **Generalizing deep learning-based distress segmentation models for subway tunnel images by test-time training** [[PDF]](https://www.jstage.jst.go.jp/article/jsceiiai/5/1/5_34/_article/-char/ja/) [[G-Scholar--]]()
 
-- `GraTa` [Chen et al., arXiv 2024] **Gradient alignment improves test-time adaptation for medical image segmentation** [[PDF]](https://arxiv.org/abs/2408.07343) [[G-Scholar]](https://scholar.google.com.sg/scholar?cluster=1111859093116595295&hl=en)
-
 - `RODASS` [Liu et al., arXiv 2024] **Towards robust online domain adaptive semantic segmentation under adverse weather conditions** [[PDF]](https://arxiv.org/abs/2409.01072) [[G-Scholar]](https://scholar.google.com.sg/scholar?cluster=1783457856210536350&hl=en)
+
+- `GraTa` [Chen et al., Proc. AAAI 2025] **Gradient alignment improves test-time adaptation for medical image segmentation** [[PDF]](https://arxiv.org/abs/2408.07343) [[G-Scholar]](https://scholar.google.com.sg/scholar?cluster=1111859093116595295&hl=en) [[CODE]](https://github.com/Chen-Ziyang/GraTa)
 
 ### Object Detection
 - `...` [Lin et al., arXiv 2023] **VCL challenges 2023 at ICCV 2023 technical report: Bi-level adaptation method for test-time adaptive object detection** [[PDF]](https://arxiv.org/abs/2310.08986) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6724013113617030497&hl=en)
@@ -537,6 +537,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `MDAA` [Zhang et al., arXiv 2024] **Analytic continual test-time adaptation for multi-modality corruption** [[PDF]](https://arxiv.org/abs/2410.22373) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2639777167234785525&hl=en)
 
 - `TTVD` [Lei et al., arXiv 2024] **TTVD: Towards a geometric framework for test-time adaptation based on voronoi diagram** [[PDF]](https://arxiv.org/abs/2412.07980) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10689268017302419066&hl=en)
+
+- `DART` [Jang and Chung, arXiv 2024] **Label distribution shift-aware prediction refinement for test-time adaptation** [[PDF]](https://dr.ntu.edu.sg/handle/10356/177418) [[G-Scholar]](https://scholar.google.com/scholar?cluster=725323425234476257&hl=en)
 
 - `...` [Cygert et al., Misc 2024] **Realistic evaluation of test-time adaptation: Surrogate-based model selection strategies** [[PDF]](https://openreview.net/forum?id=X4ATu1huMJ) [[G-Scholar--]]()
 
