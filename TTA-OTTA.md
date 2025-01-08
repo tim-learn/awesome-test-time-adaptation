@@ -187,9 +187,11 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `RTL` [Fan et al., Proc. CVPR 2024] **Test-time linear out-of-distribution detection** [[PDF]](https://openaccess.thecvf.com/content/CVPR2024/html/Fan_Test-Time_Linear_Out-of-Distribution_Detection_CVPR_2024_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17075024924643588897&hl=en) [[CODE]](https://github.com/kfan21/RTL)
 
-- `2LTTA` [Lei and Pernkopf, Proc. ICML Workshops 2024] **Two-level test-time adaptation in multimodal learning** [[PDF]](https://openreview.net/forum?id=n0lDbIKVAT) [[G-Scholar--]]()
+- `2LTTA` [Lei and Pernkopf, Proc. ICML Workshops 2024] **Two-level test-time adaptation in multimodal learning** [[PDF]](https://openreview.net/forum?id=n0lDbIKVAT) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4556989997647648245&hl=en)
 
 - `...` [Song et al., Proc. ICPR 2024] **Source-free test-time adaptation for online surface-defect detection** [[PDF]](https://arxiv.org/abs/2408.09494) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5188877749659842560&hl=en)
+
+- `...` [Borkar et al., Proc. ICVGIP 2024] **No prompting frozen foundation models: Interactive medical volume segmentation using continual test time adaptation of compact models** [[PDF]](https://dl.acm.org/doi/abs/10.1145/3702250.3702275) [[G-Scholar--]]()
 
 - `STA-AD` [Ambekar et al., Proc. MICCAI Workshops 2024] **Selective test-time adaptation for unsupervised anomaly detection using neural implicit representations** [[PDF]](https://arxiv.org/abs/2410.03306) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13265038064053749909&hl=en) [[CODE]](https://github.com/compai-lab/2024-miccai-adsmi-ambekar)
 
@@ -444,6 +446,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `RDPT` [Xiong and Yang, Proc. IEEE CSCWD 2024] **Test-time adaptation with robust dual-stream perturbation for stable agent deployment in dynamic scenarios** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10580008/) [[G-Scholar--]]() [[CODE]](https://anonymous.4open.science/r/CSCWD-2024)
 
+- `FATA` [Jiang et al., Proc. BigDIA 2024] **FATA: Focal-adjusted test-time adaptation under data imbalance** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10808710/) [[G-Scholar--]]()
+
 - `TPM` [Gu et al., IJCV 2024] **Adversarial reweighting with α-power maximization for domain adaptation** [[PDF]](https://arxiv.org/abs/2404.17275) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3738901056882826012&hl=en) [[CODE]](https://github.com/XJTU-XGU/ARPM)
 
 - `ElasticDNN` [Zhang et al., IEEE TC 2024] **ElasticDNN: On-device neural network remodeling for adapting evolving vision domains at edge** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10466390) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4986607897827811516&hl=en)
@@ -540,6 +544,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `DART` [Jang and Chung, arXiv 2024] **Label distribution shift-aware prediction refinement for test-time adaptation** [[PDF]](https://dr.ntu.edu.sg/handle/10356/177418) [[G-Scholar]](https://scholar.google.com/scholar?cluster=725323425234476257&hl=en)
 
+- `ASR` [Wang et al., arXiv 2024] **Maintain plasticity in long-timescale continual test-time adaptation** [[PDF]](https://arxiv.org/abs/2412.20034) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3210802993371215100&hl=en)
+
 - `...` [Cygert et al., Misc 2024] **Realistic evaluation of test-time adaptation: Surrogate-based model selection strategies** [[PDF]](https://openreview.net/forum?id=X4ATu1huMJ) [[G-Scholar--]]()
 
 - `...` [Gwon et al., Misc 2024] **Refining pseudo labels for robust test time adaptation** [[PDF]](https://vizwiz.cs.colorado.edu/VizWiz_workshop/abstracts/gwon_2024_vizwiz_CVPR.pdf) [[G-Scholar--]]()
@@ -550,6 +556,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `PALM` [Maharana et al., Proc. AAAI 2025] **PALM: Pushing adaptive learning rate mechanisms for continual test-time adaptation** [[PDF]](https://arxiv.org/abs/2403.10650) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7716777332753810830&hl=en)
 
 - `MGTTA` [Deng et al., Proc. AAAI 2025] **Learning to generate gradients for test-time adaptation via test-time training layers** [[PDF]](https://arxiv.org/abs/1910.03915) [[G-Scholar--]]() [[CODE--]](https://github.com/keikeiqi/MGTTA)
+
+- `...` [Si et al., Proc. ICASSP 2025] **Generalize your face forgery detectors: An insertable adaptation module is all you need** [[PDF]](https://arxiv.org/abs/2412.20801) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14020276034270904866&hl=en)
 
 ### Attacks & Defenses
 - `TePA` [Cong et al., Proc. S&P 2024] **Test-time poisoning attacks against test-time adaptation models** [[PDF]](https://arxiv.org/abs/2308.08505) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13810860861574844121&hl=en) [[CODE]](https://github.com/tianshuocong/TePA)
@@ -694,8 +702,11 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 ### Regression
 - `SSA` [Adachi et al., Proc. CVPR Workshops 2024] **Test-time adaptation for regression by subspace alignment** [[PDF]](https://tta-cvpr2024.github.io/_downloads/5c8596c2798bf34ada89ed342bb08d51/matc_1_test_time_adaptation_for_regre.pdf) [[G-Scholar--]]() 
 
+### Attribute recognition
+- `AdaGPAR` [Li et al., Machine Intelligence Research 2024] **AdaGPAR: Generalizable pedestrian attribute recognition via test-time adaptation** [[PDF]](https://www.mi-research.net/article/doi/10.1007/s11633-024-1504-6) [[G-Scholar--]]()
+
 ### Tabular data
-- `TabLog` [Li et al., Proc. ICML 2024] **TabLog: Test-time adaptation for tabular data using logic rules** [[PDF]](https://openreview.net/forum?id=LZeixIvQcB) [[G-Scholar--]]() [[CODE]](https://github.com/WeijieyingRen/TabLog)
+- `TabLog` [Li et al., Proc. ICML 2024] **TabLog: Test-time adaptation for tabular data using logic rules** [[PDF]](https://openreview.net/forum?id=LZeixIvQcB) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5698734737885390620&hl=en) [[CODE]](https://github.com/WeijieyingRen/TabLog)
 
 - `...` [Kim et al., Misc 2024] **AdapTable: Test-time adaptation for tabular data via shift-aware uncertainty calibrator and label distribution handler** [[PDF]](https://openreview.net/forum?id=ws0F5NTzGw) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14768089699665459008&hl=en)
 

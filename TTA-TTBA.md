@@ -439,9 +439,13 @@ blurring** [[PDF]](https://arxiv.org/abs/2407.09059) [[G-Scholar]](https://schol
 
 - `SCP` [Wang et al., Proc. ACM MM 2024] **Towards robustness prompt tuning with fully test-time adaptation for CLIP’s zero-shot generalization** [[PDF]](https://openreview.net/forum?id=BVFAVis7ui) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8308390685705434168&hl=en)
 
+- `...` [Kawamura et al., Proc. BMVC 2024] **Region-based entropy separation for one-shot test-time adaptation** [[PDF]](https://bmva-archive.org.uk/bmvc/2024/papers/Paper_16/paper.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1796631996015986288&hl=en) [[CODE]](https://github.com/kodaikawamura/Region-basedTTA)
+
 - `PromptSync` [Khandelwal, Proc. CVPR Workshops 2024] **PromptSync: Bridging domain gaps in vision-language models through class-aware prototype alignment and discrimination** [[PDF]](https://arxiv.org/abs/2404.07520) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8608620749266264950&hl=en)
 
 - `TT-DNA` [Zhang and Zhang, Proc. ICASSP 2024] **Test-time distribution learning adapter for cross-modal visual reasoning** [[PDF]](https://arxiv.org/abs/2403.06059) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3036032333985422536&hl=en)
+
+- `IT3A` [Feng et al., IJCV 2024] **Diffusion-enhanced test-time adaptation with text and image augmentation** [[PDF]](https://arxiv.org/abs/2412.09706) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9379338628199062820&hl=en)
 
 - `InTTA` [Ma et al., arXiv 2024] **Invariant test-time adaptation for vision-language model generalization** [[PDF]](https://arxiv.org/abs/2403.00376) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9786632067199719961&hl=en) [[CODE]](https://github.com/MaHuanAAA/InTTA)
 
@@ -461,12 +465,12 @@ blurring** [[PDF]](https://arxiv.org/abs/2407.09059) [[G-Scholar]](https://schol
 
 - `TCA` [Wang et al., arXiv 2024] **Tokens on demand: Token condensation as training-free test-time adaptation** [[PDF]](https://arxiv.org/abs/2410.14729) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13325682508138007943&hl=en)
 
-- `IT3A` [Feng et al., arXiv 2024] **Diffusion-enhanced test-time adaptation with text and image augmentation** [[PDF]](https://arxiv.org/abs/2412.09706) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9379338628199062820&hl=en)
-
 - `TAPT` [Wang et al., arXiv 2024] **TAPT: Test-time adversarial prompt tuning for robust inference in vision-language models** [[PDF]](https://arxiv.org/abs/2411.13136) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17479152377155248319&hl=en)
 
+- `TS3` [Yin et al., arXiv 2024] **S3: Synonymous semantic space for improving zero-shot generalization of vision-language models** [[PDF]](https://arxiv.org/abs/2412.04925) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5247100664641347141&hl=en)
+
 ### Audio Classification
-- `...` [Chen et al., arXiv 2024] **Multiple consistency-guided test-time adaptation for contrastive audio-language models with unlabeled audio** [[PDF]](https://arxiv.org/abs/2412.17306) [[G-Scholar--]]()
+- `...` [Chen et al., arXiv 2024] **Multiple consistency-guided test-time adaptation for contrastive audio-language models with unlabeled audio** [[PDF]](https://arxiv.org/abs/2412.17306) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17440872618964057508&hl=en)
 
 - `...` [Chen et al., Misc 2024] **Acoustic scene classification by the self-learning of eat** [[PDF]](https://ascchallenge.xshengyun.com/static/reports/2-Aural%20Pioneers.pdf) [[G-Scholar--]]()
 
