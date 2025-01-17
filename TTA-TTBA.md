@@ -172,6 +172,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `...` [Basak and Yin, Proc. MICCAI 2024] **Quest for clone: Test-time domain adaptation for medical image segmentation by searching the closest clone in latent space** [[PDF]](https://papers.miccai.org/miccai-2024/paper/0297_paper.pdf) [[G-Scholar--]]() [[CODE--]](https://github.com/hritam-98/Quest4Clone)
 
+- `TTCS` [Zhou et al., Proc. BIBM 2024] **Test-time medical image segmentation using CLIP-guided SAM adaptation** [[PDF]](https://www.computer.org/csdl/proceedings-article/bibm/2024/10822570/23oobp9nCsE) [[G-Scholar--]]()
+
 - `...` [Gérin et al., Proc. CAI 2024] **Exploring viability of test-time training: Application to 3D segmentation in multiple sclerosis** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10605525/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6972552266931903968&hl=en) [[CODE--]](https://github.com/Gerin-Benoit/ttt-for-multi-sclerosis)
 
 - `...` [Lee et al., IEEE TGRS 2024] **Fine-grained binary segmentation for geospatial objects in remote sensing imagery via path-selective test-time adaptation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10476498) [[G-Scholar--]]()
@@ -189,6 +191,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 - `PASS` [Zhang et al., arXiv 2024] **PASS: Test-time prompting to adapt styles and semantic shapes in medical image segmentation** [[PDF]](https://arxiv.org/abs/2410.01573) [[G-Scholar--]]() [[CODE]](https://github.com/EndoluminalSurgicalVision-IMR/PASS)
 
 - `InvSeg` [Lin et al., arXiv 2024] **InvSeg: Test-time prompt inversion for semantic segmentation** [[PDF]](https://arxiv.org/abs/2410.11473) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10469529667852002453&hl=en) [[CODE--]](https://github.com/jyLin8100/InvSeg)
+
+- `Seg-TTO` [Silva et al., arXiv 2025] **Test-time optimization for domain adaptive open vocabulary segmentation** [[PDF]](https://arxiv.org/abs/2501.04696) [[G-Scholar--]]()
 
 ### Detection
 - `OSHOT` [D'Innocente et al., Proc. ECCV 2020] **One-shot unsupervised cross-domain detection** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-030-58517-4_43) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7600955351500947376&hl=en) [[CODE]](https://github.com/VeloDC/oshot_detection)
@@ -401,11 +405,13 @@ blurring** [[PDF]](https://arxiv.org/abs/2407.09059) [[G-Scholar]](https://schol
 
 - `TTT-NN` [Hardt and Sun, Proc. ICLR 2024] **Test-time training on nearest neighbors for large language models** [[PDF]](https://openreview.net/forum?id=CNL2bku4ra) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13923028688883164038&hl=en) [[CODE]](https://github.com/socialfoundations/tttlm)
 
-- `TTTLayers` [Sun et al., arXiv 2024] **Learning to (learn at test time): RNNs with expressive hidden states** [[PDF]](https://arxiv.org/abs/2407.04620) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4859112994803550513&hl=en) [[CODE]](https://github.com/test-time-training/ttt-lm-pytorch)
+- `TTT-Layers` [Sun et al., arXiv 2024] **Learning to (learn at test time): RNNs with expressive hidden states** [[PDF]](https://arxiv.org/abs/2407.04620) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4859112994803550513&hl=en) [[CODE]](https://github.com/test-time-training/ttt-lm-pytorch)
 
 - `iP-VAE` [Vafaii et al., arXiv 2024] **A prescriptive theory for brain-like inference** [[PDF]](https://arxiv.org/abs/2410.19315) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10125295363151699158&hl=en)
 
 - `...` [Akyürek et al., Misc 2024] **The surprising effectiveness of test-time training for abstract reasoning** [[PDF]](https://ekinakyurek.github.io/papers/ttt.pdf) [[G-Scholar--]]()
+
+- `Titans` [Behrouz et al., arXiv 2025] **Titans: Learning to memorize at test time** [[PDF]](https://arxiv.org/abs/2501.00663) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9980712524834909912&hl=en)
 
 ### Graph
 - `GT3` [Wang et al., arXiv 2022] **Test-time training for graph neural networks** [[PDF]](https://arxiv.org/abs/2210.08813) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4459392671520994454&hl=en)

@@ -155,6 +155,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `scFusionTTT` [Meng et al., arXiv 2024] **scFusionTTT: Single-cell transcriptomics and proteomics fusion with test-time training layers** [[PDF]](https://arxiv.org/abs/2410.13257) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2140706206040096556&hl=en) [[CODE--]](https://github.com/DM0815/scFusionTTT)
 
+- `OGA` [Fuchs et al., arXiv 2025] **Online gaussian test-time adaptation of vision-language models** [[PDF]](https://arxiv.org/abs/2501.04352) [[G-Scholar--]]() [[CODE]](https://github.com/cfuchs2023/OGA)
+
 ### Action recognition
 - `ViTTA` [Lin et al., Proc. CVPR 2023] **Video test-time adaptation for action recognition** [[PDF]](https://arxiv.org/abs/2211.15393) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14921741895103050225&hl=en) [[CODE--]](https://github.com/wlin-at/ViTTA)
 
@@ -559,6 +561,10 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `...` [Si et al., Proc. ICASSP 2025] **Generalize your face forgery detectors: An insertable adaptation module is all you need** [[PDF]](https://arxiv.org/abs/2412.20801) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14020276034270904866&hl=en)
 
+- `CPT4` [Karimian and Beigy, Information Sciences 2025] **CPT4: Continual prompted transformer for test time training** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0020025524017559) [[G-Scholar--]]() [[CODE]](https://github.com/mahan66/cpt4)
+
+- `DRDT3` [Huang et al., arXiv 2025] **DRDT3: Diffusion-refined decision test-time training model** [[PDF]](https://arxiv.org/abs/2501.06718) [[G-Scholar--]]()
+
 ### Attacks & Defenses
 - `TePA` [Cong et al., Proc. S&P 2024] **Test-time poisoning attacks against test-time adaptation models** [[PDF]](https://arxiv.org/abs/2308.08505) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13810860861574844121&hl=en) [[CODE]](https://github.com/tianshuocong/TePA)
 
@@ -578,6 +584,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `CLIPArTT` [Hakim et al., arXiv 2024] **CLIPArTT: Light-weight adaptation of CLIP to new domains at test time** [[PDF]](https://arxiv.org/abs/2405.00754) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2862137860801142056&hl=en) [[CODE]](https://github.com/dosowiechi/CLIPArTT)
 
 - `BAT-CLIP` [Maharana et al., arXiv 2024] **Enhancing robustness of CLIP to common corruptions through bimodal test-time adaptation** [[PDF]](https://arxiv.org/abs/2412.02837) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3146638934081739701&hl=en)
+
+- `StatA` [Zanella et al., arXiv 2025] **Realistic test-time adaptation of vision-language models** [[PDF]](https://arxiv.org/abs/2501.03729) [[G-Scholar--]]() [[CODE]](https://github.com/MaxZanella/StatA)
 
 ### Segmentation
 - `RNCR` [Hu et al., Proc. MICCAI 2021] **Fully test-time adaptation for image segmentation** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-030-87199-4_24) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18183176392541200399&hl=en)
@@ -715,6 +723,9 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `SVWA` [Bahri et al., Proc. WACV 2025] **Test-time adaptation in point clouds: Leveraging sampling variation with weight averaging** [[PDF]](https://arxiv.org/abs/2411.01116) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5271389488499240538&hl=en) [[CODE--]](https://github.com/AliBahri94/SVWA_TTA)
 
+###  Time Series Analysis
+- `ACCUP` [Gong et al., arXiv 2025] **Augmented contrastive clustering with uncertainty-aware prototyping for time series test time adaptation** [[PDF]](https://arxiv.org/abs/2501.01472) [[G-Scholar--]]()
+
 ### Misc
 - `Ev-TTA` [Kim et al., Proc. CVPR 2022] **Ev-TTA: Test-time adaptation for event-based object recognition** [[PDF]](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_Ev-TTA_Test-Time_Adaptation_for_Event-Based_Object_Recognition_CVPR_2022_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14941098914432467048&hl=en) [[CODE]](https://github.com/82magnolia/ev_tta)
 
@@ -804,3 +815,5 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `EACP` [Kasa et al., arXiv 2024] **Adapting conformal prediction to distribution shifts without labels** [[PDF]](https://arxiv.org/abs/2406.01416) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12815146141810977184&hl=en)
 
 - `DoSAPP` [Singh et al., arXiv 2024] **Controlling forgetting with test-time data in continual learning** [[PDF]](https://arxiv.org/abs/2406.13653) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17428328598948098764&hl=en)
+
+- `...` [Ji et al., arXiv 2025] **Test-time computing: from system-1 thinking to system-2 thinking** [[PDF]](https://arxiv.org/abs/2501.02497) [[G-Scholar--]]()

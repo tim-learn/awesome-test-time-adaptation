@@ -641,6 +641,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 ### 2025
 - `GMM` [Schlachter et al., Proc. WACV 2025] **Memory-efficient pseudo-labeling for online source-free universal domain adaptation using a gaussian mixture model** [[PDF]](https://arxiv.org/abs/2407.14208) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5405263564082143661&hl=en) [[CODE]](https://github.com/pascalschlachter/GMM)
 
+- `EKS` [Rai et al., Proc. WACV 2025] **Label calibration in source free domain adaptation** [[PDF]](https://arxiv.org/abs/2501.07072) [[G-Scholar--]]() [[CODE--]](https://visdomlab.github.io/EKS/)
+
 ## Attacks and Defenses
 - `AdaptGuard` [Sheng et al., Proc. ICCV 2023] **AdaptGuard: Defending against universal attacks for model adaptation** [[PDF]](https://arxiv.org/abs/2303.10594) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5822749974898079720&hl=en) 
 
@@ -1017,6 +1019,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `IPLC` [Zhang et al., Proc. MICCAI 2024] **IPLC: Iterative pseudo label correction guided by SAM for source-free domain adaptation in medical image segmentation** [[PDF]](https://papers.miccai.org/miccai-2024/paper/1958_paper.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4930976709266432359&hl=en) [[CODE]](https://github.com/HiLab-git/IPLC)
 
+- `D2SFDA` [Zhou et al., Proc. BIBM 2024] **Diffusion-driven dual-flow source-free domain adaptation for medical image segmentation** [[PDF]](https://www.computer.org/csdl/proceedings-article/bibm/2024/10821827/23onB5pMJBC) [[G-Scholar--]]() [[CODE--]](https://github.com/M4cheal/D2SFDA)
+
 - `A-SFUDA` [Zhang et al., Proc. CAI 2024] **Asymmetric source-free unsupervised domain adaptation for medical image diagnosis** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10605586/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11507737389431698095&hl=en)
 
 - `...` [Nakhaei et al., Proc. SPIE Medical Imaging 2024] **Refining boundaries of the segment anything model in medical images using an active contour model** [[PDF]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12927/1292734/Refining-boundaries-of-the-segment-anything-model-in-medical-images/10.1117/12.3006255.short) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2412331644154163819&hl=en)
@@ -1044,6 +1048,11 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 - `...` [Sun and  Rostami, arXiv 2024] **Cross-domain distribution alignment for segmentation of private unannotated 3D medical Images** [[PDF]](https://arxiv.org/abs/2410.09210) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15303510450833492450&hl=en)
 
 - `...` [Peralta et al., Misc 2024] **Source-free domain adaptation for improving medical image quality in clinical applications** [[PDF]](https://www.researchgate.net/publication/385659625_Source-Free_Domain_Adaptation_for_Improving_Medical_Image_Quality_in_Clinical_Applications) [[G-Scholar--]]()
+
+### 2025
+- `AIF-SFDA` [Li et al., Proc. AAAI 2025] **AIF-SFDA: Autonomous information filter-driven source-free domain adaptation for medical image segmentation** [[PDF]](https://arxiv.org/abs/2501.03074) [[G-Scholar--]]() [[CODE]](https://github.com/JingHuaMan/AIF-SFDA)
+
+- `MPPL-SFDA` [Zhang et al., Biomedical Signal Processing and Control 2025] **Multicentric prototype and pseudo-labeling based source-free domain adaptation for Alzheimer's disease classification** [[PDF]](https://www.sciencedirect.com/science/article/pii/S1746809424015416) [[G-Scholar--]]()
 
 ## Video Classification
 ### 2022
@@ -1189,6 +1198,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 - `CDBN` [Li et al., arXiv 2024] **Data-efficient CLIP-powered dual-branch networks for source-free unsupervised domain adaptation** [[PDF]](https://arxiv.org/abs/2410.15811) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17056937347900577651&hl=en)
 
 - `LAD` [Peng et al., arXiv 2024] **Language-guided alignment and distillation for source-free domain adaptation** [[PDF]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5074834) [[G-Scholar--]]()
+
+- `ECALP` [Li et al., arXiv 2024] **Efficient and context-aware label propagation for zero-/few-shot training-free adaptation of vision-language model** [[PDF]](https://arxiv.org/abs/2412.18303) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2144864553872756774&hl=en)
 
 - `...` [anonymous et al., Misc 2024] **Towards dynamic-prompting collaboration for source-free domain adaptation** [[PDF--]]() [[G-Scholar--]]() [[CODE]](https://github.com/Anonymous3119/paperID3119)
 
