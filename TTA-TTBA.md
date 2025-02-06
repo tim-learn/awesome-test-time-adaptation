@@ -481,6 +481,8 @@ blurring** [[PDF]](https://arxiv.org/abs/2407.09059) [[G-Scholar]](https://schol
 
 - `RA-TTA` [Lee et al., Proc. ICLR 2025] **RA-TTA: Retrieval-Augmented Test-Time Adaptation for Vision-Language Models** [[PDF]](https://openreview.net/forum?id=V3zobHnS61) [[G-Scholar--]]()
 
+- `BEM` [Wu et al., Proc. ICLR 2025] **Multi-label test-time adaptation with bound entropy minimization** [[PDF]](https://openreview.net/forum?id=75PhjtbBdr) [[G-Scholar--]]() [[CODE]](https://anonymous.4open.science/r/ML-TTA-10BE/README.md)
+
 - `CaPL` [Yin et al., Pattern Recognition 2025] **Context-aware prompt learning for test-time vision recognition with frozen vision-language model** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320325000196) [[G-Scholar--]]() [[CODE]](https://github.com/yjh576/CaPL)
 
 ### Audio Classification
