@@ -586,6 +586,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `TAMER` [Zhu et al., arXiv 2025] **TAMER: A test-time adaptive MoE-driven framework for EHR representation learning** [[PDF]](https://arxiv.org/abs/2501.05661) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7839050350819357258&hl=en) [[CODE]](https://github.com/yhzhu99/TAMER)
 
+- `CUI` [Lyu et al., arXiv 2025] **Conformal uncertainty indicator for continual test-time adaptation** [[PDF]](https://arxiv.org/abs/2502.02998) [[G-Scholar--]]()
+
 ### Attacks & Defenses
 - `TePA` [Cong et al., Proc. S&P 2024] **Test-time poisoning attacks against test-time adaptation models** [[PDF]](https://arxiv.org/abs/2308.08505) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13810860861574844121&hl=en) [[CODE]](https://github.com/tianshuocong/TePA)
 
