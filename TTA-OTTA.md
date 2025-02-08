@@ -50,9 +50,13 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `FOA` [Niu et al., Proc. ICML 2024] **Test-time model adaptation with only forward passes** [[PDF]](https://arxiv.org/abs/2404.01650) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15589056319652439747&hl=en)
 
-- `...` [Alfarra et al., Proc. ICML 2024] **Evaluation of test-time adaptation under computational time constraints** [[PDF]](https://openreview.net/forum?id=6FtAXU4ean) [[G-Scholar--]]() [[CODE]](https://github.com/MotasemAlfarra/Online_Test_Time_Adaptation)
+- `...` [Alfarra et al., Proc. ICML 2024] **Evaluation of test-time adaptation under computational time constraints** [[PDF]](https://openreview.net/forum?id=6FtAXU4ean) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14704941764172938735&hl=en) [[CODE]](https://github.com/MotasemAlfarra/Online_Test_Time_Adaptation)
+
+- `TinyTTA` [Jia et al., Proc. NeurIPS 2024] **TinyTTA: Efficient test-time adaptation via early-exit ensembles on edge devices** [[PDF]](https://openreview.net/forum?id=XIcBCBe6C3) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6462184065284203879&hl=en) [[CODE--]](https://github.com/h-jia/TTE)
 
 - `TDA` [Karmanov et al., Proc. CVPR 2024] **Efficient test-time adaptation of vision-language models** [[PDF]](https://arxiv.org/abs/2403.18293) [[G-Scholar]](https://scholar.google.com/scholar?cluster=619277035423926459&hl=en) [[CODE]](https://github.com/kdiAAA/TDA)
+
+- `TEA` [Yuan et al., Proc. CVPR 2024] **TEA: Test-time energy adaptation** [[PDF]](https://arxiv.org/abs/2311.14402) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8594385526193961998&hl=en) [[CODE]](https://github.com/yuanyige/tea)
 
 - `DART` [Liu et al., Proc. AAAI 2024] **DART: Dual-modal adaptive online prompting and knowledge retention for test-time adaptation** [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/29320) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9775535245931314639&hl=en)
 
@@ -68,7 +72,9 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `...` [Tang et al., arXiv 2024] **Learning visual conditioning tokens to correct domain shift for fully test-time adaptation** [[PDF]](https://arxiv.org/abs/2406.19341) [[G-Scholar]](https://scholar.google.com/scholar?cluster=177797170965053841&hl=en)
 
-- `TAEA` [Feng et al., arXiv 2024] **Test-time alignment-Enhanced adapter for vision-language models** [[PDF]](https://arxiv.org/abs/2411.15735) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10117279620721078427&hl=en) [[CODE--]](https://github.com/BaoshunWq/clip_TAEA)
+- `MITA` [Yuan et al., arXiv 2024] **MITA: Bridging the gap between model and data for test-time adaptation** [[PDF]](https://arxiv.org/abs/2410.09398) [[G-Scholar--]]()
+
+- `IEL` [Remington et al., Misc 2024] **IEL: Intra-model ensemble learning For single sample test-time adaptation** [[PDF]](https://openreview.net/forum?id=4LiegvCeQD) [[G-Scholar--]]()
 
 ### Segmentation
 - `OnAVOS` [Voigtlaender and Leibe., Proc. BMVC 2017] **Online adaptation of convolutional neural networks for video object segmentation** [[PDF]](https://arxiv.org/abs/1706.09364) [[G-Scholar]](https://scholar.google.com.tw/scholar?cluster=7737687280948943248&hl=en)
@@ -147,7 +153,7 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `CTAOD` [Cao et al., arXiv 2024] **Exploring test-time adaptation for object detection in continually changing environments** [[PDF]](https://arxiv.org/abs/2406.16439) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9985445545977978836&hl=en)
 
 ### CLIP-based
-- `BoostAdapter` [Zhang et al., Proc. NeurIPS 2024] **BoostAdapter: Improving vision-language test-time adaptation via regional bootstrapping** [[PDF]](https://arxiv.org/abs/2410.15430) [[G-Scholar--]]() [[CODE--]](https://github.com/taolinzhang/BoostAdapter)
+- `BoostAdapter` [Zhang et al., Proc. NeurIPS 2024] **BoostAdapter: Improving vision-language test-time adaptation via regional bootstrapping** [[PDF]](https://arxiv.org/abs/2410.15430) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8088257124532306842&hl=en) [[CODE]](https://github.com/taolinzhang/BoostAdapter)
 
 - `DPE` [Zhang et al., Proc. NeurIPS 2024] **Dual prototype evolving for test-time generalization of vision-language models** [[PDF]](https://arxiv.org/abs/2410.15430) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14439439185196460718&hl=en&as_sdt=0,5) [[CODE]](https://github.com/zhangce01/DPE-CLIP)
 
@@ -158,6 +164,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `Dota` [Han et al., arXiv 2024] **DOTA: Distributional test-time adaptation of vision-language models** [[PDF]](https://arxiv.org/abs/2409.19375) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14786199961698906049&hl=en)
 
 - `scFusionTTT` [Meng et al., arXiv 2024] **scFusionTTT: Single-cell transcriptomics and proteomics fusion with test-time training layers** [[PDF]](https://arxiv.org/abs/2410.13257) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2140706206040096556&hl=en) [[CODE--]](https://github.com/DM0815/scFusionTTT)
+
+- `TAEA` [Feng et al., arXiv 2024] **Test-time alignment-enhanced adapter for vision-language models** [[PDF]](https://arxiv.org/abs/2411.15735) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10117279620721078427&hl=en) [[CODE--]](https://github.com/BaoshunWq/clip_TAEA)
 
 - `OGA` [Fuchs et al., arXiv 2025] **Online gaussian test-time adaptation of vision-language models** [[PDF]](https://arxiv.org/abs/2501.04352) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16801571758871886215&hl=en) [[CODE]](https://github.com/cfuchs2023/OGA)
 
@@ -211,6 +219,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `MiDl` [Ramazanova et al., arXiv 2024] **Combating missing modalities in egocentric videos at test time** [[PDF]](https://arxiv.org/abs/2404.15161) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3172302829388405485&hl=en)
 
 - `ROSITA` [Sreenivas and Biswas, arXiv 2024] **Effectiveness of vision language models for open-world single image test time adaptation** [[PDF]](https://arxiv.org/abs/2406.00481) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10170685160055888954&hl=en) [[CODE]](https://github.com/manogna-s/ROSITA)
+
+  ~~- `ROSITA` [Sreenivas and Biswas, Misc 2025] **Efficient open set single image test time adaptation of vision language models** [[PDF]](https://openreview.net/forum?id=72YVabBErN) [[G-Scholar--]]()~~
 
 - `CauSiam` [Cui et al., arXiv 2025] **Continual test-time adaptation for single image defocus deblurring via causal siamese networks** [[PDF]](https://arxiv.org/abs/2501.09052) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6609881184284575680&hl=en)
 
@@ -465,6 +475,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `TPM` [Gu et al., IJCV 2024] **Adversarial reweighting with α-power maximization for domain adaptation** [[PDF]](https://arxiv.org/abs/2404.17275) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3738901056882826012&hl=en) [[CODE]](https://github.com/XJTU-XGU/ARPM)
 
+- `HILTTA` [Li et al., TMLR 2024] **Exploring human-in-the-loop test-time adaptation by synergizing active learning and model selection** [[PDF]](https://arxiv.org/abs/2405.18911) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10605540247618296350&hl=en) [[CODE--]](https://github.com/Yushu-Li/HILTTA)
+
 - `ElasticDNN` [Zhang et al., IEEE TC 2024] **ElasticDNN: On-device neural network remodeling for adapting evolving vision domains at edge** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10466390) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4986607897827811516&hl=en)
 
 - `FTTA` [Wang et al., IEEE TFUZZ 2024] **Fuzzy rule-based test-time adaptation for class imbalance in dynamic scenarios** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10704963) [[G-Scholar--]]()
@@ -504,8 +516,6 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `EATA-C` [Tan et al., arXiv 2024] **Uncertainty-calibrated test-time model adaptation without forgetting** [[PDF]](https://arxiv.org/abs/2403.11491) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7215152583604006023&hl=en)
 
 - `CODA` [Qiu et al., arXiv 2024] **CODA: A cost-efficient test-time domain adaptation mechanism for HAR** [[PDF]](https://arxiv.org/abs/2403.14922) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1262947932107981197&hl=en)
-
-- `HILTTA` [Li et al., arXiv 2024] **Exploring human-in-the-loop test-time adaptation by synergizing active learning and model selection** [[PDF]](https://arxiv.org/abs/2405.18911) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10605540247618296350&hl=en)
 
 - `MoASE` [Zhang et al., arXiv 2024] **Decomposing the neurons: Activation sparsity via mixture of experts for continual test time adaptation** [[PDF]](https://arxiv.org/abs/2405.16486) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3565637953155518166&hl=en) [[CODE]](https://github.com/RoyZry98/MoASE-Pytorch)
 
@@ -611,6 +621,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `CLIPArTT` [Hakim et al., arXiv 2024] **CLIPArTT: Light-weight adaptation of CLIP to new domains at test time** [[PDF]](https://arxiv.org/abs/2405.00754) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2862137860801142056&hl=en) [[CODE]](https://github.com/dosowiechi/CLIPArTT)
 
 - `BAT-CLIP` [Maharana et al., arXiv 2024] **Enhancing robustness of CLIP to common corruptions through bimodal test-time adaptation** [[PDF]](https://arxiv.org/abs/2412.02837) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3146638934081739701&hl=en)
+
+- `SNAP` [Cha et al., Misc 2024] **SNAP-TTA: Sparse test-time adaptation for latency-sensitive applications** [[PDF]](https://openreview.net/forum?id=0vtftmYQGV) [[G-Scholar--]]()
 
 - `AEO` [Dong et al., Proc. ICLR 2025] **Towards robust multimodal open-set test-time adaptation via adaptive entropy-aware optimization** [[PDF]](https://openreview.net/forum?id=hj323oR3rw) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11306476709508459286&hl=en) [[CODE]](https://github.com/donghao51/AEO)
 
@@ -834,6 +846,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `TTA-rPPG` [Huang et al., arXiv 2024] **Fully test-time rPPG estimation via synthetic signal-guided feature learning** [[PDF]](https://arxiv.org/abs/2407.13322) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1481907055447093847&hl=en)
 
 - `LSCD-TTA` [Liang et al., arXiv 2024] **Low saturation confidence distribution-based test-time adaptation for cross-domain remote sensing image classification** [[PDF]](https://arxiv.org/abs/2408.16265) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10284552671581143600&hl=en)
+
+- `...` [Bach and Nguyen-Tang, Misc 2024] **Update larger, train faster: Stable test-time adaptation utilizing noisy-pseudo labels** [[PDF]](https://openreview.net/forum?id=ezzmWTm8r6) [[G-Scholar--]]()
 
 ## Related
 - `GTTA-ST` [Marsden et al., arXiv 2022] **Introducing intermediate domains for effective self-training during test-time** [[PDF]](https://arxiv.org/abs/2208.07736) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11840087784657470158&hl=en)
