@@ -1070,6 +1070,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 ### 2025
 - `AIF-SFDA` [Li et al., Proc. AAAI 2025] **AIF-SFDA: Autonomous information filter-driven source-free domain adaptation for medical image segmentation** [[PDF]](https://arxiv.org/abs/2501.03074) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17692708446747663719&hl=en) [[CODE]](https://github.com/JingHuaMan/AIF-SFDA)
 
+- `...` [Oda et al., Proc. IWAIT 2025] **Strict source-free domain adaptation with simple assumptions for cardiac segmentation** [[PDF]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13510/1351007/Strict-source-free-domain-adaptation-with-simple-assumptions-for-cardiac/10.1117/12.3057249.short) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18286509675007678391&hl=en)
+
 - `MPPL-SFDA` [Zhang et al., Biomedical Signal Processing and Control 2025] **Multicentric prototype and pseudo-labeling based source-free domain adaptation for Alzheimer's disease classification** [[PDF]](https://www.sciencedirect.com/science/article/pii/S1746809424015416) [[G-Scholar--]]()
 
 - `C2MAL` [Zhou et al., Medical & Biological Engineering & Computing 2025] **C2MAL: Cascaded network-guided class-balanced multi-prototype auxiliary learning for source-free domain adaptive medical image segmentation** [[PDF]](https://link.springer.com/article/10.1007/s11517-025-03287-0) [[G-Scholar--]]()
@@ -1098,6 +1100,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 - `CleanAdapt` [Dasgupta et al., Misc 2024] **Source-free video domain adaptation by learning from noisy labels** [[PDF]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4832737) [[G-Scholar--]]() [[CODE]](https://github.com/avijit9/CleanAdapt)
 
 - `CleanAdapt+TS` [Neubert et al., Pattern Recognition 2025] **Source-free video domain adaptation by learning from noisy labels** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320324010793) [[G-Scholar--]]() [[CODE]](https://github.com/avijit9/CleanAdapt)
+
+- `...` [Zara, Master Thesis 2025] **Human action recognition in the real world: handling domain shift in open-set, source-free and multi-source scenarios** [[PDF]](https://iris.unitn.it/handle/11572/443511) [[G-Scholar]](https://scholar.google.com/scholar?cluster=739977252216400299&hl=en)
 
 ## 3D Perception
 ### 3D Object Detection

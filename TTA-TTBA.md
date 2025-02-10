@@ -487,6 +487,10 @@ blurring** [[PDF]](https://arxiv.org/abs/2407.09059) [[G-Scholar]](https://schol
 
 - `CaPL` [Yin et al., Pattern Recognition 2025] **Context-aware prompt learning for test-time vision recognition with frozen vision-language model** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320325000196) [[G-Scholar--]]() [[CODE]](https://github.com/yjh576/CaPL)
 
+- `TLLA` [Li et al., arXiv 2025] **Test-time loss landscape adaptation for zero-shot generalization in vision-language models** [[PDF]](https://arxiv.org/abs/2501.18864) [[G-Scholar--]]()
+
+- `LoRA-TTT` [Kojima et al., arXiv 2025] **LoRA-TTT: Low-rank test-time training for vision-language models** [[PDF]](https://arxiv.org/abs/2502.02069) [[G-Scholar--]]()
+
 ### Audio Classification
 - `...` [Chen et al., arXiv 2024] **Multiple consistency-guided test-time adaptation for contrastive audio-language models with unlabeled audio** [[PDF]](https://arxiv.org/abs/2412.17306) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17440872618964057508&hl=en)
 
@@ -569,6 +573,8 @@ blurring** [[PDF]](https://arxiv.org/abs/2407.09059) [[G-Scholar]](https://schol
 - `...` [Wu et al., arXiv 2024] **Efficient domain adaptation for endoscopic visual odometry** [[PDF]](https://arxiv.org/abs/2403.10860) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9307250194673490965&hl=en)
 
 - `CustomTTT` [Bi et al., arXiv 2024] **CustomTTT: Motion and appearance customized video generation via test-time training** [[PDF]](https://arxiv.org/abs/2412.15646) [[G-Scholar--]]() [[CODE]](https://github.com/RongPiKing/CustomTTT)
+
+- `TTT4D` [Zhang et al., arXiv 2025] **Test time training for 4D medical image interpolation** [[PDF]](https://arxiv.org/abs/2502.02341) [[G-Scholar--]]() [[CODE]](https://github.com/ChaosTheProducer/TTT4D)
 
 ## Batch-level
 ### Classification
@@ -663,11 +669,13 @@ federated learning** [[PDF]](https://arxiv.org/abs/2310.18816) [[G-Scholar]](htt
 
 - `...` [Ali et al., Proc. CVPR 2024] **Harnessing meta-learning for improving full-frame video stabilization** [[PDF]](https://arxiv.org/abs/2403.03662) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16358729581420318240&hl=en) [[CODE--]](https://github.com/MKashifAli/MetaVideoStab)
 
-- `DTS-TPT` [Yan et al, Proc. IJCAI 2024] **DTS-TPT: Dual temporal-sync test-time prompt Tuning for zero-shot activity recognition** [[PDF](https://www.ijcai.org/proceedings/2024/0170.pdf) [[G-Scholar--]]()
+- `DTS-TPT` [Yan et al, Proc. IJCAI 2024] **DTS-TPT: Dual temporal-sync test-time prompt Tuning for zero-shot activity recognition** [[PDF](https://www.ijcai.org/proceedings/2024/0170.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11612994586888281072&hl=en)
 
 - `BISSA` [Yoo et al., Pattern Recognition 2024] **Looking beyond input frames: Self-supervised adaptation for video super-resolution** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320324003534) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18421129190685196667&hl=en) [[CODE]](https://github.com/jinsuyoo/bissa)
 
 - `...` [Wu et al., arXiv 2024] **DeNVeR: Deformable neural vessel representations for unsupervised video vessel segmentation** [[PDF]](https://arxiv.org/abs/2406.01591) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15443771597451862644&hl=en)
+
+- `...` [Yan et al., arXiv 2025] **TeST-V: Test-time support-set tuning for zero-shot video classification** [[PDF]](https://arxiv.org/abs/2502.00426) [[G-Scholar--]]()
 
 ### Misc
 - `TTP` [Li et al., Proc. NeurIPS 2021] **Test-time personalization with a transformer for human pose estimation** [[PDF]](https://openreview.net/forum?id=cwSkaedP-wz) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8881142280914530303&hl=en) [[CODE]](https://github.com/harry11162/TTP)
@@ -739,3 +747,5 @@ federated learning** [[PDF]](https://arxiv.org/abs/2310.18816) [[G-Scholar]](htt
 - `QTTT` [Jian et al., arXiv 2024] **Test-time training with quantum auto-encoder: From distribution shift to noisy quantum circuits** [[PDF]](https://arxiv.org/abs/2411.06828) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12221972040319018327&hl=en)
 
 - `...` [Kasa et al., Misc 2024] **Adapting prediction sets to distribution shifts without labels** [[PDF]](https://openreview.net/forum?id=k2gGy2hpfx) [[G-Scholar--]]()
+
+- `...` [Yuksel and Sawaf, arXiv 2025] **ChamaleonLLM: Batch-aware dynamic low-rank adaptation via inference-time clusters** [[PDF]](https://arxiv.org/abs/2502.04315) [[G-Scholar--]]()

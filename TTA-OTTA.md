@@ -590,6 +590,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `...` [Si et al., Proc. ICASSP 2025] **Generalize your face forgery detectors: An insertable adaptation module is all you need** [[PDF]](https://arxiv.org/abs/2412.20801) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14020276034270904866&hl=en)
 
+- `DISTA` [Alfarra et al., TMLR 2025] **Test-time adaptation with source based auxiliary tasks** [[PDF]](https://openreview.net/forum?id=XWAXcxNg4n) [[G-Scholar--]]()
+
 - `CPT4` [Karimian and Beigy, Information Sciences 2025] **CPT4: Continual prompted transformer for test time training** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0020025524017559) [[G-Scholar--]]() [[CODE]](https://github.com/mahan66/cpt4)
 
 - `DRDT3` [Huang et al., arXiv 2025] **DRDT3: Diffusion-refined decision test-time training model** [[PDF]](https://arxiv.org/abs/2501.06718) [[G-Scholar--]]()
