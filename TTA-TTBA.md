@@ -188,7 +188,9 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `InvSeg` [Lin et al., arXiv 2024] **InvSeg: Test-time prompt inversion for semantic segmentation** [[PDF]](https://arxiv.org/abs/2410.11473) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10469529667852002453&hl=en) [[CODE--]](https://github.com/jyLin8100/InvSeg)
 
-- `Seg-TTO` [Silva et al., arXiv 2025] **Test-time optimization for domain adaptive open vocabulary segmentation** [[PDF]](https://arxiv.org/abs/2501.04696) [[G-Scholar--]]()
+- `Seg-TTO` [Silva et al., arXiv 2025] **Test-time optimization for domain adaptive open vocabulary segmentation** [[PDF]](https://arxiv.org/abs/2501.04696) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11664277597711483004&hl=en)
+
+- `INT` [Hu et al., arXiv 2025] **INT: Instance-specific negative mining for task-generic promptable segmentation** [[PDF]](https://arxiv.org/abs/2501.18753) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18003844780246240761&hl=en)
 
 ### Detection
 - `OSHOT` [D'Innocente et al., Proc. ECCV 2020] **One-shot unsupervised cross-domain detection** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-030-58517-4_43) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7600955351500947376&hl=en) [[CODE]](https://github.com/VeloDC/oshot_detection)
@@ -389,6 +391,8 @@ blurring** [[PDF]](https://arxiv.org/abs/2407.09059) [[G-Scholar]](https://schol
 ### Action Recognition
 - `T3AL` [Liberatori et al., Proc. CVPR 2024] **Test-time zero-shot temporal action localization** [[PDF]](https://arxiv.org/abs/2404.05426) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2064578012025530100&hl=en) [[CODE]](https://github.com/benedettaliberatori/T3AL)
 
+- `AdaZAD` [Han et al., arXiv 2025] **Training-free zero-shot temporal action detection with vision-language models** [[PDF]](https://arxiv.org/abs/2501.13795) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16183477751006206442&hl=en)
+
 ### Point Clouds
 - `3DD-TTA` [Dastmalchi et al., Proc. WACV 2025] **Test-time adaptation of 3D point clouds via denoising diffusion models** [[PDF]](https://arxiv.org/abs/2411.14495) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1949155298282533415&hl=en) [[CODE]](https://github.com/hamidreza-dastmalchi/3DD-TTA)
 
@@ -469,8 +473,6 @@ blurring** [[PDF]](https://arxiv.org/abs/2407.09059) [[G-Scholar]](https://schol
 
 - `CPT` [Zhu et al., arXiv 2024] **Efficient test-time prompt tuning for vision-language models** [[PDF]](https://arxiv.org/abs/2408.05775) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3768269930436088919&hl=en)
 
-- `TTL` [Imam et al., arXiv 2024] **Test-time low rank adaptation via confidence maximization for zero-shot generalization of vision-language models** [[PDF]](https://arxiv.org/abs/2407.15913) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15339667606687082459&hl=en) [[CODE]](https://github.com/Razaimam45/TTL-Test-Time-Low-Rank-Adaptation)
-
 - `...` [Zhang et al., arXiv 2024] **StylePrompter: Enhancing domain generalization with test-time style priors** [[PDF]](https://arxiv.org/abs/2408.09138) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10408479259324229624&hl=en)
 
 - `TCA` [Wang et al., arXiv 2024] **Tokens on demand: Token condensation as training-free test-time adaptation** [[PDF]](https://arxiv.org/abs/2410.14729) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13325682508138007943&hl=en)
@@ -479,17 +481,21 @@ blurring** [[PDF]](https://arxiv.org/abs/2407.09059) [[G-Scholar]](https://schol
 
 - `TS3` [Yin et al., arXiv 2024] **S3: Synonymous semantic space for improving zero-shot generalization of vision-language models** [[PDF]](https://arxiv.org/abs/2412.04925) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5247100664641347141&hl=en)
 
-- `MP-TPT` [Huang et al., Misc 2025] **Multi-perspective test-time prompt tuning for global, local visuals, and language** [[PDF]](https://openreview.net/forum?id=0Xc6o1HKXD) [[G-Scholar--]]()
+- `MP-TPT` [Huang et al., Misc 2024] **Multi-perspective test-time prompt tuning for global, local visuals, and language** [[PDF]](https://openreview.net/forum?id=0Xc6o1HKXD) [[G-Scholar--]]()
 
 - `RA-TTA` [Lee et al., Proc. ICLR 2025] **RA-TTA: Retrieval-augmented test-time adaptation for vision-language models** [[PDF]](https://openreview.net/forum?id=V3zobHnS61) [[G-Scholar--]]()
 
-- `BEM` [Wu et al., Proc. ICLR 2025] **Multi-label test-time adaptation with bound entropy minimization** [[PDF]](https://openreview.net/forum?id=75PhjtbBdr) [[G-Scholar--]]() [[CODE]](https://anonymous.4open.science/r/ML-TTA-10BE/README.md)
+- `BEM` [Wu et al., Proc. ICLR 2025] **Multi-label test-time adaptation with bound entropy minimization** [[PDF]](https://openreview.net/forum?id=75PhjtbBdr) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15554800015800904362&hl=en) [[CODE]](https://anonymous.4open.science/r/ML-TTA-10BE/README.md)
 
-- `CaPL` [Yin et al., Pattern Recognition 2025] **Context-aware prompt learning for test-time vision recognition with frozen vision-language model** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320325000196) [[G-Scholar--]]() [[CODE]](https://github.com/yjh576/CaPL)
+- `TTL` [Imam et al., Proc. WACV 2025] **Test-time low rank adaptation via confidence maximization for zero-shot generalization of vision-language models** [[PDF]](https://arxiv.org/abs/2407.15913) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15339667606687082459&hl=en) [[CODE]](https://github.com/Razaimam45/TTL-Test-Time-Low-Rank-Adaptation)
 
-- `TLLA` [Li et al., arXiv 2025] **Test-time loss landscape adaptation for zero-shot generalization in vision-language models** [[PDF]](https://arxiv.org/abs/2501.18864) [[G-Scholar--]]()
+- `CaPL` [Yin et al., Pattern Recognition 2025] **Context-aware prompt learning for test-time vision recognition with frozen vision-language model** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320325000196) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8738378215972173300&hl=en) [[CODE]](https://github.com/yjh576/CaPL)
 
-- `LoRA-TTT` [Kojima et al., arXiv 2025] **LoRA-TTT: Low-rank test-time training for vision-language models** [[PDF]](https://arxiv.org/abs/2502.02069) [[G-Scholar--]]()
+- `TLLA` [Li et al., arXiv 2025] **Test-time loss landscape adaptation for zero-shot generalization in vision-language models** [[PDF]](https://arxiv.org/abs/2501.18864) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5227529988235240881&hl=en)
+
+- `LoRA-TTT` [Kojima et al., arXiv 2025] **LoRA-TTT: Low-rank test-time training for vision-language models** [[PDF]](https://arxiv.org/abs/2502.02069) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3889360808457707101&hl=en)
+
+- `TNT` [Imam et al., arXiv 2025] **Noise is an efficient learner for zero-shot vision-language models** [[PDF]](https://arxiv.org/abs/2502.06019) [[G-Scholar--]]() [[CODE--]](https://github.com/Razaimam45/TNT)
 
 ### Audio Classification
 - `...` [Chen et al., arXiv 2024] **Multiple consistency-guided test-time adaptation for contrastive audio-language models with unlabeled audio** [[PDF]](https://arxiv.org/abs/2412.17306) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17440872618964057508&hl=en)
