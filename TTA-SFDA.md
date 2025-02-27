@@ -486,6 +486,10 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `LFTL` [Lyu et al., Proc. ECCV 2024] **Learn from the learnt: Source-free active domain adaptation via contrastive sampling and visual persistence** [[PDF]](https://arxiv.org/abs/2407.18899) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5688131372670853016&hl=en) [[CODE--]](https://github.com/lyumengyao/lftl)
 
+- `HRD` [Xing et al., Proc. ECCV 2024] **Hierarchical unsupervised relation distillation for source free domain adaptation** [[PDF]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06726.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=123468086557439852&hl=en)
+
+- `SFDA-CDS` [Tejero-de-Pablos et al., Proc. ECCV 2024] **Robust nearest neighbors for source-free domain adaptation under class distribution shift** [[PDF]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09049.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6828132234341731471&hl=en) [[CODE]](https://github.com/CyberAgentAILab/Robust_Nearest_Neighbors_SFDA-CDS)
+
 - `FedGM` [Wei and Han, Proc. AAAI 2024] **Multi-source collaborative gradient discrepancy minimization for federated domain generalization** [[PDF]](https://arxiv.org/abs/2401.10272) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8202719057595874616&hl=en) [[CODE]](https://github.com/weiyikang/FedGM_torch)
 
 - `Bi-ATEN` [Li et al, Proc. AAAI 2024] **Agile multi-source-free domain adaptation** [[PDF](http://arxiv.org/abs/2403.05062) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11330122765447548423&hl=en) [[CODE]](https://github.com/TL-UESTC/Bi-ATEN)
@@ -660,6 +664,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 - `EKS` [Rai et al., Proc. WACV 2025] **Label calibration in source free domain adaptation** [[PDF]](https://arxiv.org/abs/2501.07072) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10481551965563048436&hl=en) [[CODE--]](https://visdomlab.github.io/EKS/)
 
 - `NVC-LLN` [Xu et al., IEEE TPAMI 2025] **Unraveling the mysteries of label noise in source-free domain adaptation: Theory and practice** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10858421) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6005165208774683209&hl=en) [[CODE]](https://github.com/xugezheng/labelNoiseInSFDA)
+
+- `FuzHDA` [Li et al., IEEE TFUZZ 2025] **Fuzzy domain adaptation from heterogeneous source teacher models** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10883015/) [[G-Scholar--]]()
 
 ## Attacks and Defenses
 - `AdaptGuard` [Sheng et al., Proc. ICCV 2023] **AdaptGuard: Defending against universal attacks for model adaptation** [[PDF]](https://arxiv.org/abs/2303.10594) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5822749974898079720&hl=en) 
@@ -1129,6 +1135,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `TTYD` [Michele et al., Proc. ECCV 2024] **Train till you drop: Towards stable and robust source-free unsupervised 3D domain adaptation** [[PDF]](https://arxiv.org/abs/2409.04409) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16485874495803986516&hl=en) [[CODE]](https://github.com/valeoai/TTYD)
 
+- `TGSF` [Duan et al., Proc. ICME 2024] **Source-free domain adaptation for point cloud semantic segmentation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10687489/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6688461912906131608&hl=en) 
+
 ### 3D Lidar Recognition
 - `GeoAdapt` [Knights et al., IEEE Robotics and Automation Letters 2023] **GeoAdapt: Self-supervised test-time adaptation in LiDAR place recognition using geometric priors** [[PDF]](https://arxiv.org/abs/2308.04638) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16846487955556908782&hl=en) [[CODE--]](https://github.com/csiro-robotics/GeoAdapt)
 
@@ -1157,6 +1165,11 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 ### Face forgery detection
 - `...` [Xu et al., CVIU 2024] **Uncertainty guided test-time training for face forgery detection** [[PDF]](https://www.sciencedirect.com/science/article/pii/S1077314224002662) [[G-Scholar--]]()
+
+### Visual Emotion Recognition
+- `BBA` [Zhu et al., Proc. AAAI 2025] **Bridge then begin anew: Generating target-relevant intermediate model for source-free visual emotion adaptation** [[PDF]](https://arxiv.org/abs/2412.13577) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15291681000096552828&hl=en) [[CODE]](https://github.com/zhuzhu804/BBA)
+
+- `FAL` [Zheng et al., arXiv 2025] **Fuzzy-aware loss for source-free domain adaptation in visual emotion recognition** [[PDF]](https://arxiv.org/abs/2501.15519) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11497093528770730532&hl=en) 
 
 ## Other CV Applications
 ### Person ReID
@@ -1260,7 +1273,7 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 - `CMPL` [Renz et al., Proc. CVPR Workshops 2021] **Sign segmentation with changepoint-modulated pseudo-labelling** [[PDF]](https://openaccess.thecvf.com/content/CVPR2021W/ChaLearn/html/Renz_Sign_Segmentation_With_Changepoint-Modulated_Pseudo-Labelling_CVPRW_2021_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10843136778842689752&hl=en) [[CODE]](https://github.com/RenzKa/sign-segmentation)
 
 ### Visual Document Understanding
-- `DocTTA` [Ebrahimi et al., arXiv 2022] **Test-time adaptation for visual document understanding** [[PDF]](https://arxiv.org/abs/2206.07240) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4974275319186080260&hl=en) [[DATA]](https://sites.google.com/berkeley.edu/doctta/)
+- `DocTTA` [Ebrahimi et al., TMLR 2023] **Test-time adaptation for visual document understanding** [[PDF]](https://arxiv.org/abs/2206.07240) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4974275319186080260&hl=en) [[DATA]](https://sites.google.com/berkeley.edu/doctta/)
 
 ### 2D Keypoint Detection (Pose estimation)
 - `MAPS` [Ding et al., IEEE TCSVT 2023] **MAPS: A noise-robust progressive learning approach for source-free domain adaptive keypoint detection** [[PDF]](https://arxiv.org/abs/2302.04589) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13949106311988540827&hl=en) [[CODE]](https://github.com/YuheD/MAPS)
@@ -1547,11 +1560,11 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `TemSR` [Wang et al., arXiv 2024] **Temporal source recovery for time-series source-free unsupervised domain adaptation** [[PDF]](https://arxiv.org/abs/2409.19635) [[G-Scholar]](https://scholar.google.com/scholar?cluster=179109207018088258&hl=en) [[CODE]](https://github.com/Frank-Wang-oss/TemSR)
 
-- `SFT` [Patel et al., arXiv 2024] **Efficient source-free time-series adaptation via parameter subspace disentanglement** [[PDF]](https://arxiv.org/abs/2410.02147) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15088096027663744139&hl=en)
-
 - `AdaRC` [Bao et al., arXiv 2024] **AdaRC: Mitigating graph structure shifts during test-time** [[PDF]](https://arxiv.org/abs/2410.06976) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3635276106417759013&hl=en)
 
 - `SPDIM` [Li et al., arXiv 2024] **SPDIM: Source-free unsupervised conditional and label shift adaptation in EEG** [[PDF]](https://arxiv.org/abs/2411.07249) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2743532792452439142&hl=en)
+
+- `SFT` [Patel et al., Proc. ICLR 2025] **Efficient source-free time-series adaptation via parameter subspace disentanglement** [[PDF]](https://arxiv.org/abs/2410.02147) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15088096027663744139&hl=en)
 
 - `GraphATA` [Zhang and He, Proc. WWW 2025] **Aggregate to adapt: Node-centric aggregation for multi-source-free graph domain adaptation** [[PDF]](https://openreview.net/forum?id=RLpXUQgbfK) [[G-Scholar--]]() [[CODE]](https://github.com/cszhangzhen/GraphATA)
 
