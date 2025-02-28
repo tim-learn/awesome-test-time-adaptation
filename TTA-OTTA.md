@@ -582,7 +582,7 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `TTAC` [Su et al., Misc 2024] **Towards inference stage robust 3D point cloud recognition** [[PDF]](https://www.worldscientific.com/doi/abs/10.1142/9789811286490_0008) [[G-Scholar--]]()
 
 #### 2025
-- `TCR` [Sun et al., Proc. ICLR 2025] **Test-time adaptation for cross-modal retrieval with query shift** [[PDF]](https://arxiv.org/abs/2410.15624) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6910160519420145679&hl=en)
+- `TCR` [Sun et al., Proc. ICLR 2025] **Test-time adaptation for cross-modal retrieval with query shift** [[PDF]](https://arxiv.org/abs/2410.15624) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6910160519420145679&hl=en) [[CODE--]](https://github.com/XLearning-SCU/2025-ICLR-TCR)
 
 - `COME` [Zhang et al., Proc. ICLR 2025] **COME: Test-time adaption by conservatively minimizing entropy** [[PDF]](https://openreview.net/forum?id=506BjJ1ziZ) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17104346231524003203&hl=en) [[CODE]](https://anonymous.4open.science/r/anonymous-9F46)
 
