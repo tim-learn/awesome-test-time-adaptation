@@ -1080,6 +1080,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `...` [Oda et al., Proc. IWAIT 2025] **Strict source-free domain adaptation with simple assumptions for cardiac segmentation** [[PDF]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13510/1351007/Strict-source-free-domain-adaptation-with-simple-assumptions-for-cardiac/10.1117/12.3057249.short) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18286509675007678391&hl=en)
 
+- `...` [Zhang et al., Medical Image Analysis 2025] **Enhancing source-free domain adaptation in Medical Image Segmentation via regulated model self-training** [[PDF]](https://www.sciencedirect.com/science/article/pii/S1361841525000908) [[G-Scholar--]]()
+
 - `MPPL-SFDA` [Zhang et al., Biomedical Signal Processing and Control 2025] **Multicentric prototype and pseudo-labeling based source-free domain adaptation for Alzheimer's disease classification** [[PDF]](https://www.sciencedirect.com/science/article/pii/S1746809424015416) [[G-Scholar--]]()
 
 - `C2MAL` [Zhou et al., Medical & Biological Engineering & Computing 2025] **C2MAL: Cascaded network-guided class-balanced multi-prototype auxiliary learning for source-free domain adaptive medical image segmentation** [[PDF]](https://link.springer.com/article/10.1007/s11517-025-03287-0) [[G-Scholar--]]()
@@ -1198,6 +1200,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `SUMMIT` [Simons et al., Proc. ICCV 2023] **SUMMIT: Source-free adaptation of uni-modal models to multi-modal targets** [[PDF]](https://arxiv.org/abs/2308.11880) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11393512066880928622&hl=en) [[CODE]](https://github.com/csimo005/SUMMIT)
 
+- `CDUL` [Abdelfattah et al., Proc. ICCV 2023] **CDUL: CLIP-driven unsupervised learning for multi-label image classification** [[PDF]](https://openaccess.thecvf.com/content/ICCV2023/html/Abdelfattah_CDUL_CLIP-Driven_Unsupervised_Learning_for_Multi-Label_Image_Classification_ICCV_2023_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10923615722465272903&hl=en) [[CODE]](https://github.com/cs-mshah/CDUL)
+
 - `MISFIT` [Rizzoli et al., arXiv 2023] **Source-free domain adaptation for RGB-D semantic segmentation with vision transformers** [[PDF]](https://arxiv.org/abs/2305.14269) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1106788040715184555&hl=en)
 
 - `CPL` [Zhang et al., Proc. ICML 2024] **Candidate pseudolabel learning: Enhancing vision-language models by prompt tuning with unlabeled data** [[PDF]](https://openreview.net/forum?id=sBJNokmYuV) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13370731097677354084&hl=en) [[CODE]](https://github.com/vanillaer/Candidate_Pseudolabel_Learning-ICML2024)
@@ -1247,6 +1251,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 - `ECALP` [Li et al., arXiv 2024] **Efficient and context-aware label propagation for zero-/few-shot training-free adaptation of vision-language model** [[PDF]](https://arxiv.org/abs/2412.18303) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2144864553872756774&hl=en)
 
 - `L2C` [Chi et al., Proc. ICLR 2025] **Learning to adapt frozen CLIP for few-shot test-time domain adaptation** [[PDF]](https://openreview.net/forum?id=TD3SGJfBC7) [[G-Scholar--]]()
+
+- `CCD` [Kim and Shim, Proc. CVPR 2025] **Classifier-guided CLIP distillation for unsupervised multi-label classification** [[PDF]](https://arxiv.org/abs/2503.16873) [[G-Scholar--]]() [[CODE--]](https://github.com/k0u-id/CCD)
 
 - `GTA-CLIP` [Saha et al., arXiv 2025] **Generate, transduct, adapt: Iterative transduction with VLMs** [[PDF]](https://arxiv.org/abs/2501.06031) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3421787342752012824&hl=en) [[CODE--]](https://github.com/cvl-umass/GTA-CLIP)
 

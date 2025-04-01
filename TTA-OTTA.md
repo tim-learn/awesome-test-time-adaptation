@@ -226,6 +226,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
   ~~- `ROSITA` [Sreenivas and Biswas, Misc 2025] **Efficient open set single image test time adaptation of vision language models** [[PDF]](https://openreview.net/forum?id=72YVabBErN) [[G-Scholar--]]()~~
 
+- `Q-PART` [Liu et al., Proc. CVPR 2025] **Q-PART: Quasi-periodic adaptive regression with test-time training for pediatric left ventricular ejection fraction regression** [[PDF]](https://arxiv.org/abs/2503.04131) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3382661975009724270&hl=en) [[CODE]](https://github.com/ljwztc/Q-PART)
+
 - `CauSiam` [Cui et al., arXiv 2025] **Continual test-time adaptation for single image defocus deblurring via causal siamese networks** [[PDF]](https://arxiv.org/abs/2501.09052) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6609881184284575680&hl=en)
 
 ## Online Batch-level
