@@ -188,6 +188,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `InvSeg` [Lin et al., arXiv 2024] **InvSeg: Test-time prompt inversion for semantic segmentation** [[PDF]](https://arxiv.org/abs/2410.11473) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10469529667852002453&hl=en) [[CODE--]](https://github.com/jyLin8100/InvSeg)
 
+- `SemLA` [Qorbani et al., Proc. CVPR 2025] **Semantic library adaptation: LoRA retrieval and fusion for open-vocabulary semantic segmentation** [[PDF]](https://arxiv.org/abs/2503.21780) [[G-Scholar--]]() [[CODE]](https://github.com/rezaqorbani/SemLA)
+
 - `Seg-TTO` [Silva et al., arXiv 2025] **Test-time optimization for domain adaptive open vocabulary segmentation** [[PDF]](https://arxiv.org/abs/2501.04696) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11664277597711483004&hl=en)
 
 - `INT` [Hu et al., arXiv 2025] **INT: Instance-specific negative mining for task-generic promptable segmentation** [[PDF]](https://arxiv.org/abs/2501.18753) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18003844780246240761&hl=en)
@@ -436,6 +438,8 @@ blurring** [[PDF]](https://arxiv.org/abs/2407.09059) [[G-Scholar]](https://schol
 
 - `ProteinTTT` [Bushuiev et al., arXiv 2024] **Training on test proteins improves fitness, structure, and function prediction** [[PDF]](https://arxiv.org/abs/2411.02109) [[G-Scholar]](https://scholar.google.com/scholar?cluster=959823846646259228&hl=en) [[CODE]](https://github.com/anton-bushuiev/ProteinTTT)
 
+- `TSA` [Hsu et al., arXiv 2025] **Structural alignment improves graph test-time adaptation** [[PDF]](https://arxiv.org/abs/2502.18334) [[G-Scholar--]]()
+
 ### CLIP-related
 - `TPT` [Shu et al., Proc. NeurIPS 2022] **Test-time prompt tuning for zero-shot generalization in vision-language models** [[PDF]](https://openreview.net/forum?id=e8PVEkSa4Fq) [[G-Scholar]](https://scholar.google.com/scholar?cluster=213109028691722316&hl=en) [[CODE]](https://github.com/azshue/TPT)
 
@@ -574,7 +578,7 @@ blurring** [[PDF]](https://arxiv.org/abs/2407.09059) [[G-Scholar]](https://schol
 
 - `GTTA-ST` [Feng et al., arXiv 2024] **GPT4Battery: An LLM-driven framework for adaptive state of health estimation of raw Li-ion batteries** [[PDF]](https://arxiv.org/abs/2402.00068) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4166002995492174535&hl=en)
 
-- `AudioMAE-TTT` [Dumpala et al., arXiv 2024] **Test-time training for depression detection** [[PDF]](https://arxiv.org/abs/2404.05071) [[G-Scholar--]]()
+- `AudioMAE-TTT` [Dumpala et al., arXiv 2024] **Test-time training for depression detection** [[PDF]](https://arxiv.org/abs/2404.05071) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8705608396141224534&hl=en)
 
 - `...` [Yu et al., arXiv 2024] **DPA-Net: Structured 3D abstraction from sparse views via differentiable primitive assembly** [[PDF]](https://arxiv.org/abs/2404.00875) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17420548736806547943&hl=en)
 
@@ -582,7 +586,9 @@ blurring** [[PDF]](https://arxiv.org/abs/2407.09059) [[G-Scholar]](https://schol
 
 - `CustomTTT` [Bi et al., arXiv 2024] **CustomTTT: Motion and appearance customized video generation via test-time training** [[PDF]](https://arxiv.org/abs/2412.15646) [[G-Scholar--]]() [[CODE]](https://github.com/RongPiKing/CustomTTT)
 
-- `TTT4D` [Zhang et al., arXiv 2025] **Test time training for 4D medical image interpolation** [[PDF]](https://arxiv.org/abs/2502.02341) [[G-Scholar--]]() [[CODE]](https://github.com/ChaosTheProducer/TTT4D)
+- `TTT4D` [Zhang et al., arXiv 2025] **Test time training for 4D medical image interpolation** [[PDF]](https://arxiv.org/abs/2502.02341) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1240940334208942556&hl=en) [[CODE]](https://github.com/ChaosTheProducer/TTT4D)
+
+- `R2-T2` [Li et al., arXiv 2025] **R2-T2: Re-Routing in test-time for multimodal mixture-of-experts** [[PDF]](https://arxiv.org/abs/2502.20395) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2630379142017530500&hl=en) [[CODE]](https://github.com/tianyi-lab/R2-T2)
 
 ## Batch-level
 ### Classification
@@ -644,6 +650,8 @@ federated learning** [[PDF]](https://arxiv.org/abs/2310.18816) [[G-Scholar]](htt
 #### 2025
 - `ReC-TTT` [Colussi et al., Proc. WACV 2025] **ReC-TTT: Contrastive feature reconstruction for test-time training** [[PDF]](https://arxiv.org/abs/2411.17869) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12047861309613070229&hl=en) [[CODE]](https://github.com/warpcut/ReC-TTT)
 
+- `Hybrid-TTN` [Vianna et al., IEEE TUFFC 2025] **Unsupervised test-time adaptation for hepatic steatosis grading using ultrasound b-mode images** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10942471/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=574186267738851007&hl=en)
+
 ### Video processing (multiple frames)
 - `PGO` [Brahmbhatt et al., Proc. CVPR 2018] **Geometry-aware learning of maps for camera localization** [[PDF]](http://openaccess.thecvf.com/content_cvpr_2018/html/Brahmbhatt_Geometry-Aware_Learning_of_CVPR_2018_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15361942550307476955&hl=en) [[CODE]](https://github.com/NVlabs/geomapnet)
 
@@ -682,6 +690,8 @@ federated learning** [[PDF]](https://arxiv.org/abs/2310.18816) [[G-Scholar]](htt
 - `...` [Wu et al., arXiv 2024] **DeNVeR: Deformable neural vessel representations for unsupervised video vessel segmentation** [[PDF]](https://arxiv.org/abs/2406.01591) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15443771597451862644&hl=en)
 
 - `...` [Yan et al., arXiv 2025] **TeST-V: Test-time support-set tuning for zero-shot video classification** [[PDF]](https://arxiv.org/abs/2502.00426) [[G-Scholar--]]()
+
+- `FIESTA` [Honarmand et al., arXiv 2025] **FIESTA: Fisher information-based efficient selective test-time adaptation** [[PDF]](https://arxiv.org/abs/2502.00426) [[G-Scholar--]]()
 
 ### Misc
 - `TTP` [Li et al., Proc. NeurIPS 2021] **Test-time personalization with a transformer for human pose estimation** [[PDF]](https://openreview.net/forum?id=cwSkaedP-wz) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8881142280914530303&hl=en) [[CODE]](https://github.com/harry11162/TTP)

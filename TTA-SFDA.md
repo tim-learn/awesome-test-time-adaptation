@@ -667,6 +667,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `FuzHDA` [Li et al., IEEE TFUZZ 2025] **Fuzzy domain adaptation from heterogeneous source teacher models** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10883015/) [[G-Scholar--]]()
 
+- `ElimPCL` [Cheng et al., Proc. ICME 2025] **ElimPCL: Eliminating noise accumulation with progressive curriculum labeling for source-free domain adaptation** [[PDF]](https://arxiv.org/abs/2503.23712) [[G-Scholar--]]()
+
 ## Attacks and Defenses
 - `AdaptGuard` [Sheng et al., Proc. ICCV 2023] **AdaptGuard: Defending against universal attacks for model adaptation** [[PDF]](https://arxiv.org/abs/2303.10594) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5822749974898079720&hl=en) 
 
@@ -800,6 +802,9 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 - `FFreeDA` [Rizzoli et al., arXiv 2024] **When cars meet drones: Hyperbolic federated learning for source-free domain adaptation in adverse weather** [[PDF]](https://arxiv.org/abs/2403.13762) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14495060341531327733&hl=en)
 
 - `360SFUDA++` [Zheng et al., arXiv 2024] **360SFUDA++: Towards source-free UDA for panoramic segmentation by learning reliable category prototypes** [[PDF]](https://arxiv.org/abs/2404.16501) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12998254106770471662&hl=en) [[CODE]](https://github.com/zhengxujosh/360SFUDA)
+
+### 2025
+- `UITI` [An et al., Misc 2025] **UITI: Unpaired image-to-image source-free domain adaptation for semantic segmentation** [[PDF]](https://www.researchsquare.com/article/rs-6170622/v1) [[G-Scholar--]]()
 
 ## Object Detection
 ### before 2020
@@ -1165,6 +1170,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `LTVAL` [Guo et al., Multimedia Tools and Applications 2023] **LTVAL: Label transfer virtual adversarial learning framework for source-free facial expression recognition** [[PDF]](https://link.springer.com/article/10.1007/s11042-023-15297-x) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4189974368646562589&hl=en)
 
+- `DSFDA` [Sharafi et al., Proc. FG 2025] **Disentangled source-free personalization for facial expression recognition with neutral target data** [[PDF]](https://arxiv.org/abs/2503.20771) [[G-Scholar--]]() [[CODE]](https://github.com/MasoumehSharafi/DSFDA-for-Pain-Assessment)
+
 ### Face forgery detection
 - `...` [Xu et al., CVIU 2024] **Uncertainty guided test-time training for face forgery detection** [[PDF]](https://www.sciencedirect.com/science/article/pii/S1077314224002662) [[G-Scholar--]]()
 
@@ -1255,6 +1262,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 - `CCD` [Kim and Shim, Proc. CVPR 2025] **Classifier-guided CLIP distillation for unsupervised multi-label classification** [[PDF]](https://arxiv.org/abs/2503.16873) [[G-Scholar--]]() [[CODE--]](https://github.com/k0u-id/CCD)
 
 - `GTA-CLIP` [Saha et al., arXiv 2025] **Generate, transduct, adapt: Iterative transduction with VLMs** [[PDF]](https://arxiv.org/abs/2501.06031) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3421787342752012824&hl=en) [[CODE--]](https://github.com/cvl-umass/GTA-CLIP)
+
+- `ViLAaD` [Tarashima et al., arXiv 2025] **ViLAaD: Enhancing "attracting and dispersing" source-free domain adaptation with vision-and-language model** [[PDF]](https://arxiv.org/abs/2503.23529) [[G-Scholar--]]()
 
 ### Image Super-Resolution
 - `SOSR` [Ai et al., arXiv 2023] **SOSR: Source-free image super-resolution with wavelet augmentation transformer** [[PDF]](https://arxiv.org/abs/2303.17783) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15698511251689818196&hl=en)
@@ -1583,6 +1592,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 - `CSSL` [Wang et al., User Modeling and User-Adapted Interaction 2025] **A contrastive self-supervised learning method for source-free EEG emotion recognition** [[PDF]](https://link.springer.com/article/10.1007/s11257-024-09424-y) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5236416154497442425&hl=en)
 
 - `NUD` [Wang et al., Biomedical Signal Processing and Control 2025] **Active source-free domain adaptation for intracranial EEG classification via neighborhood uncertainty and diversity** [[PDF]](https://www.sciencedirect.com/science/article/pii/S1746809424015222) [[G-Scholar--]]()
+
+- `JSEA` [Kari et al., arXiv 2025] **Joint source-environment adaptation of data-driven underwater acoustic source ranging based on model uncertainty** [[PDF]](https://arxiv.org/abs/2503.23258) [[G-Scholar--]]()
 
 ## Misc
 - [Yang et al., Proc. ACM-MM2007] **Cross-domain video concept detection using adaptive svms** [[PDF]](https://dl.acm.org/doi/abs/10.1145/1291233.1291276) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4589454669556425406&hl=en)

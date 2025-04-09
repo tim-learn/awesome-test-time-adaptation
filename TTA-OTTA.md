@@ -169,6 +169,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `DynaPrompt` [Xiao et al., Proc. ICLR 2025] **DynaPrompt: Dynamic test-time prompt tuning** [[PDF]](https://arxiv.org/abs/2501.16404) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14906421846082837173&hl=en) [[CODE]](https://github.com/zzzx1224/DynaPrompt)
 
+- `CRG` [Zhai et al., Proc. ICME 2025] **Mitigating cache noise in test-time adaptation for large vision-language models** [[PDF]](https://arxiv.org/abs/2503.18334) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9415287172058415858&hl=en)
+
 - `OGA` [Fuchs et al., arXiv 2025] **Online gaussian test-time adaptation of vision-language models** [[PDF]](https://arxiv.org/abs/2501.04352) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16801571758871886215&hl=en) [[CODE]](https://github.com/cfuchs2023/OGA)
 
 ### Vision-and-language navigation
@@ -588,21 +590,25 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `TTE` [Kim et al., Proc. ICLR 2025] **Test-time ensemble via linear mode connectivity: A path to better adaptation** [[PDF]](https://openreview.net/forum?id=4wk2eOKGvh) [[G-Scholar--]]()
 
+- `SURGEON` [Ma et al., Proc. CVPR 2025] **SURGEON: Memory-adaptive fully test-time adaptation via dynamic activation sparsity** [[PDF]](https://arxiv.org/abs/2503.20354) [[G-Scholar--]]() [[CODE--]](https://github.com/kadmkbl/SURGEON)
+
 - `PALM` [Maharana et al., Proc. AAAI 2025] **PALM: Pushing adaptive learning rate mechanisms for continual test-time adaptation** [[PDF]](https://arxiv.org/abs/2403.10650) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7716777332753810830&hl=en)
 
-- `MGTTA` [Deng et al., Proc. AAAI 2025] **Learning to generate gradients for test-time adaptation via test-time training layers** [[PDF]](https://arxiv.org/abs/1910.03915) [[G-Scholar--]]() [[CODE--]](https://github.com/keikeiqi/MGTTA)
+- `MGTTA` [Deng et al., Proc. AAAI 2025] **Learning to generate gradients for test-time adaptation via test-time training layers** [[PDF]](https://arxiv.org/abs/1910.03915) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9513025851068109507&hl=en) [[CODE--]](https://github.com/keikeiqi/MGTTA)
 
 - `...` [Si et al., Proc. ICASSP 2025] **Generalize your face forgery detectors: An insertable adaptation module is all you need** [[PDF]](https://arxiv.org/abs/2412.20801) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14020276034270904866&hl=en)
 
-- `DISTA` [Alfarra et al., TMLR 2025] **Test-time adaptation with source based auxiliary tasks** [[PDF]](https://openreview.net/forum?id=XWAXcxNg4n) [[G-Scholar--]]()
+- `DISTA` [Alfarra et al., TMLR 2025] **Test-time adaptation with source based auxiliary tasks** [[PDF]](https://openreview.net/forum?id=XWAXcxNg4n) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9494324961047511528&hl=en)
 
 - `CPT4` [Karimian and Beigy, Information Sciences 2025] **CPT4: Continual prompted transformer for test time training** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0020025524017559) [[G-Scholar--]]() [[CODE]](https://github.com/mahan66/cpt4)
 
-- `DRDT3` [Huang et al., arXiv 2025] **DRDT3: Diffusion-refined decision test-time training model** [[PDF]](https://arxiv.org/abs/2501.06718) [[G-Scholar--]]()
+- `...` [Lee et al., IEEE Access 2025] **Continual test-time adaptation for robust remote photoplethysmography estimation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10938539/) [[G-Scholar--]]()
+
+- `DRDT3` [Huang et al., arXiv 2025] **DRDT3: Diffusion-refined decision test-time training model** [[PDF]](https://arxiv.org/abs/2501.06718) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15680412356312756589&hl=en)
 
 - `TAMER` [Zhu et al., arXiv 2025] **TAMER: A test-time adaptive MoE-driven framework for EHR representation learning** [[PDF]](https://arxiv.org/abs/2501.05661) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7839050350819357258&hl=en) [[CODE]](https://github.com/yhzhu99/TAMER)
 
-- `CUI` [Lyu et al., arXiv 2025] **Conformal uncertainty indicator for continual test-time adaptation** [[PDF]](https://arxiv.org/abs/2502.02998) [[G-Scholar--]]()
+- `CUI` [Lyu et al., arXiv 2025] **Conformal uncertainty indicator for continual test-time adaptation** [[PDF]](https://arxiv.org/abs/2502.02998) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18066822712608427666&hl=en)
 
 ### Attacks & Defenses
 - `TePA` [Cong et al., Proc. S&P 2024] **Test-time poisoning attacks against test-time adaptation models** [[PDF]](https://arxiv.org/abs/2308.08505) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13810860861574844121&hl=en) [[CODE]](https://github.com/tianshuocong/TePA)
@@ -649,9 +655,9 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `...` [Lee et al., Proc. ICCV 2023] **Towards open-set test-time adaptation utilizing the wisdom of crowds in entropy minimization** [[PDF]](https://arxiv.org/abs/2308.06879) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9274526450280903261&hl=en)
 
-- `OAST` [Su et al., Proc. ICCV 2023] **Unsupervised video object segmentation with online adversarial self-tuning** [[PDF]](https://openaccess.thecvf.com/content/ICCV2023/html/Su_Unsupervised_Video_Object_Segmentation_with_Online_Adversarial_Self-Tuning_ICCV_2023_paper.html) [[G-Scholar--]]()
+- `OAST` [Su et al., Proc. ICCV 2023] **Unsupervised video object segmentation with online adversarial self-tuning** [[PDF]](https://openaccess.thecvf.com/content/ICCV2023/html/Su_Unsupervised_Video_Object_Segmentation_with_Online_Adversarial_Self-Tuning_ICCV_2023_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8280985717603138566&hl=en)
 
-- `3A-TTA` [Huang et al., Proc. BMVC 2023] **Test-time adaptation for robust face anti-spoofing** [[PDF]](https://papers.bmvc2023.org/0379.pdf) [[G-Scholar--]]()
+- `3A-TTA` [Huang et al., Proc. BMVC 2023] **Test-time adaptation for robust face anti-spoofing** [[PDF]](https://papers.bmvc2023.org/0379.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3567459412737582254&hl=en)
 
 - `...` [Zhu et al., Proc. MICCAI 2023] **Uncertainty and shape-aware continual test-time adaptation for cross-domain segmentation of medical images** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_63) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15122565899426168206&hl=en) [[CODE--]](https://github.com/ThisGame42/CTTA)
 
