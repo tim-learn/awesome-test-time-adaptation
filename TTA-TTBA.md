@@ -100,6 +100,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `IEL` [Remington et al., Misc 2024] **IEL: Intra-model ensemble learning For single sample test-time adaptation** [[PDF]](https://openreview.net/forum?id=4LiegvCeQD) [[G-Scholar--]]()
 
+- `IIDC` [Jiang et al., Neurocomputing 2025] **Iterative compression towards in-distribution features in domain generalization** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0925231225006836) [[G-Scholar--]]()
+
 ### Segmentation
 - `DIEM` [Wang et al., arXiv 2019] **Dynamic scale inference by entropy minimization** [[PDF]](https://arxiv.org/abs/1908.03182) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11939087491312325887&hl=en)
 
@@ -328,11 +330,13 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `...` [Shao et al., IEEE TFUZZ 2024] **Adaptive fuzzy degradation perception based on CLIP prior for all-in-one image restoration** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10791873/) [[G-Scholar--]]() [[CODE]](https://github.com/jackliu63656/ADPforAIR)
 
-- `OML` [Wang et al., IEEE Transactions on Radiation and Plasma Medical Sciences 2024] **Test-time adaptation via orthogonal meta-learning for medical imaging** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10681615) [[G-Scholar--]]()
+- `OML` [Wang et al., IEEE Transactions on Radiation and Plasma Medical Sciences 2024] **Test-time adaptation via orthogonal meta-learning for medical imaging** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10681615) [[G-Scholar]](https://scholar.google.com/scholar?cluster=279112500112467779&hl=en)
 
 - `...` [Klug et al., arXiv 2024] **MotionTTT: 2D test-time-training motion estimation for 3D motion corrected MRI** [[PDF]](https://arxiv.org/abs/2409.09370) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1905781321696318910&hl=en)
 
-- `...` [Chen et al., arXiv 2024] **Test-time adaptation for image compression with distribution regularization** [[PDF]](https://arxiv.org/abs/2410.12191) [[G-Scholar--]]()
+- `...` [Chen et al., arXiv 2024] **Test-time adaptation for image compression with distribution regularization** [[PDF]](https://arxiv.org/abs/2410.12191) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5366189782085892610&hl=en)
+
+- `D2SA` [Zhang et al., arXiv 2025] **D2SA: Dual-stage distribution and slice adaptation for efficient test-time adaptation in MRI reconstruction** [[PDF]](https://arxiv.org/abs/2503.20815) [[G-Scholar--]]()
 
 ### Mapping between paired images
 - `SSMSR` [Zhu et al., Proc. ICRA 2021] **Test-time training for deformable multi-scale image registration** [[PDF]](https://arxiv.org/abs/2103.13578) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6326490607378414181&hl=en)
