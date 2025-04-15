@@ -98,9 +98,12 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `IT3` [Durasov et al., arXiv 2024] **IT3: Idempotent test-time training** [[PDF]](https://arxiv.org/abs/2410.04201) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17706467862678052230&hl=en)
 
-- `IEL` [Remington et al., Misc 2024] **IEL: Intra-model ensemble learning For single sample test-time adaptation** [[PDF]](https://openreview.net/forum?id=4LiegvCeQD) [[G-Scholar--]]()
+- `IEL` [Remington et al., Misc 2024] **IEL: Intra-model ensemble learning for single sample test-time adaptation** [[PDF]](https://openreview.net/forum?id=4LiegvCeQD) [[G-Scholar--]]()
 
+#### 2025
 - `IIDC` [Jiang et al., Neurocomputing 2025] **Iterative compression towards in-distribution features in domain generalization** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0925231225006836) [[G-Scholar--]]()
+
+- `SPACE` [Luo et al., arXiv 2025] **SPACE: SPike-aware consistency enhancement for test-time adaptation in spiking neural networks** [[PDF]](https://arxiv.org/abs/2504.02298) [[G-Scholar--]]()
 
 ### Segmentation
 - `DIEM` [Wang et al., arXiv 2019] **Dynamic scale inference by entropy minimization** [[PDF]](https://arxiv.org/abs/1908.03182) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11939087491312325887&hl=en)
@@ -196,6 +199,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `INT` [Hu et al., arXiv 2025] **INT: Instance-specific negative mining for task-generic promptable segmentation** [[PDF]](https://arxiv.org/abs/2501.18753) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18003844780246240761&hl=en)
 
+- `...` [Chen et al., arXiv 2025] **Test-time adaptation for foundation medical segmentation model without parametric updates** [[PDF]](https://arxiv.org/abs/2504.02008) [[G-Scholar--]]()
+
 ### Detection
 - `OSHOT` [D'Innocente et al., Proc. ECCV 2020] **One-shot unsupervised cross-domain detection** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-030-58517-4_43) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7600955351500947376&hl=en) [[CODE]](https://github.com/VeloDC/oshot_detection)
 
@@ -252,7 +257,9 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `...` [Shaikh et al., Proc. CVPR Workshops 2024] **Adaptive randomized smoothing for certified multi-step defence** [[PDF]](https://tta-cvpr2024.github.io/_downloads/61e60378db6d598c6bec6643f2d79daa/matc_8_adaptive_randomized_smoothing_.pdf) [[G-Scholar--]]()
 
-- `...` [Yeh et al., arXiv 2024] **Test-time adversarial defense with opposite adversarial path and high attack time cost** [[PDF]](https://arxiv.org/abs/2410.16805) [[G-Scholar--]]()
+- `...` [Yeh et al., arXiv 2024] **Test-time adversarial defense with opposite adversarial path and high attack time cost** [[PDF]](https://arxiv.org/abs/2410.16805) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8559252599192231988&hl=en)
+
+- `TTC` [Xing et al., Proc. CVPR 2025] **CLIP is strong enough to fight back: Test-time counterattacks towards zero-shot adversarial robustness of CLIP** [[PDF]](https://arxiv.org/abs/2503.03613) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6684646667087879432&hl=en) [[CODE]](https://github.com/Sxing2/CLIP-Test-time-Counterattacks)
 
 ### Pose estimation
 - `ISO` [Zhang et al., Proc. NeurIPS 2020] **Inference stage optimization for cross-scenario 3d human pose estimation** [[PDF]](https://proceedings.neurips.cc/paper/2020/hash/1943102704f8f8f3302c2b730728e023-Abstract.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1453780569346725768&hl=en)
@@ -495,6 +502,8 @@ blurring** [[PDF]](https://arxiv.org/abs/2407.09059) [[G-Scholar]](https://schol
 
 - `BEM` [Wu et al., Proc. ICLR 2025] **Multi-label test-time adaptation with bound entropy minimization** [[PDF]](https://openreview.net/forum?id=75PhjtbBdr) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15554800015800904362&hl=en) [[CODE]](https://anonymous.4open.science/r/ML-TTA-10BE/README.md)
 
+- `O-TPT` [Sharifdeen et al., Proc. CVPR 2025] **O-TPT: Orthogonality constraints for calibrating test-time prompt tuning in vision-language models** [[PDF]](https://arxiv.org/abs/2503.12096) [[G-Scholar--]]() [[CODE]](https://github.com/ashshaksharifdeen/O-TPT)
+
 - `TPS` [Sui et al., Proc. WACV 2025] **Just shift it: Test-time prototype shifting for zero-shot generalization with vision-language models** [[PDF]](https://arxiv.org/abs/2403.12952) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15629234813577501375&hl=en) [[CODE]](https://github.com/elaine-sui/TPS)
 
 - `TTL` [Imam et al., Proc. WACV 2025] **Test-time low rank adaptation via confidence maximization for zero-shot generalization of vision-language models** [[PDF]](https://arxiv.org/abs/2407.15913) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15339667606687082459&hl=en) [[CODE]](https://github.com/Razaimam45/TTL-Test-Time-Low-Rank-Adaptation)
@@ -506,6 +515,8 @@ blurring** [[PDF]](https://arxiv.org/abs/2407.09059) [[G-Scholar]](https://schol
 - `LoRA-TTT` [Kojima et al., arXiv 2025] **LoRA-TTT: Low-rank test-time training for vision-language models** [[PDF]](https://arxiv.org/abs/2502.02069) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3889360808457707101&hl=en)
 
 - `TNT` [Imam et al., arXiv 2025] **Noise is an efficient learner for zero-shot vision-language models** [[PDF]](https://arxiv.org/abs/2502.06019) [[G-Scholar--]]() [[CODE--]](https://github.com/Razaimam45/TNT)
+
+- `BPRE` [Qiao et al., arXiv 2025] **Bidirectional prototype-reward co-evolution for test-time adaptation of vision-language models** [[PDF]](https://arxiv.org/abs/2503.09394) [[G-Scholar--]]()
 
 ### Audio Classification
 - `...` [Chen et al., arXiv 2024] **Multiple consistency-guided test-time adaptation for contrastive audio-language models with unlabeled audio** [[PDF]](https://arxiv.org/abs/2412.17306) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17440872618964057508&hl=en)

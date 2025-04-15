@@ -1616,6 +1616,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `SDANU` [Jia et al., Measurement Science and Technology 2025] **A novel source-free domain adaptation network for intelligent diagnosis of bearings under unknown faults** [[PDF]](https://iopscience.iop.org/article/10.1088/1361-6501/adc6a6/meta) [[G-Scholar--]]()
 
+- `AI3M` [Liu et al., Mechanical Systems and Signal Processing 2025] **An adaptive source-free unsupervised domain adaptation method for mechanical fault detection** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0888327025001761) [[G-Scholar]](https://scholar.google.com/scholar?cluster=405100385356478046&hl=en)
+
 - `...` [Liu et al., IEEE Robotics and Automation Letters 2025] **Contrastive learning-based secure unsupervised domain adaptation framework and its application in cross-factory intelligent manufacturing** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10948317/) [[G-Scholar--]]()
 
 - `JSEA` [Kari et al., arXiv 2025] **Joint source-environment adaptation of data-driven underwater acoustic source ranging based on model uncertainty** [[PDF]](https://arxiv.org/abs/2503.23258) [[G-Scholar--]]()

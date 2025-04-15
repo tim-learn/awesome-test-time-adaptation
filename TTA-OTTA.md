@@ -173,6 +173,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `OGA` [Fuchs et al., arXiv 2025] **Online gaussian test-time adaptation of vision-language models** [[PDF]](https://arxiv.org/abs/2501.04352) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16801571758871886215&hl=en) [[CODE]](https://github.com/cfuchs2023/OGA)
 
+- `MoE-TTA` [Iftee et al., Proc. ICCIT 2025] **MoE-TTA: Enhancing continual test-time adaptation for vision-language models through mixture of experts** [[PDF]](https://mdakilraihaniftee.github.io/assets/pdf/moe-tta.pdf) [[G-Scholar--]]() 
+
 ### Vision-and-language navigation
 - `EAM` [Tan et al., IEEE TMM 2025] **Source-free elastic model adaptation for vision-and-language navigation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10856447) [[G-Scholar--]]()
 
@@ -590,13 +592,15 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `TTE` [Kim et al., Proc. ICLR 2025] **Test-time ensemble via linear mode connectivity: A path to better adaptation** [[PDF]](https://openreview.net/forum?id=4wk2eOKGvh) [[G-Scholar--]]()
 
-- `SURGEON` [Ma et al., Proc. CVPR 2025] **SURGEON: Memory-adaptive fully test-time adaptation via dynamic activation sparsity** [[PDF]](https://arxiv.org/abs/2503.20354) [[G-Scholar--]]() [[CODE--]](https://github.com/kadmkbl/SURGEON)
+- `SURGEON` [Ma et al., Proc. CVPR 2025] **SURGEON: Memory-adaptive fully test-time adaptation via dynamic activation sparsity** [[PDF]](https://arxiv.org/abs/2503.20354) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5585816655006700047&hl=en) [[CODE--]](https://github.com/kadmkbl/SURGEON)
 
 - `PALM` [Maharana et al., Proc. AAAI 2025] **PALM: Pushing adaptive learning rate mechanisms for continual test-time adaptation** [[PDF]](https://arxiv.org/abs/2403.10650) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7716777332753810830&hl=en)
 
 - `MGTTA` [Deng et al., Proc. AAAI 2025] **Learning to generate gradients for test-time adaptation via test-time training layers** [[PDF]](https://arxiv.org/abs/1910.03915) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9513025851068109507&hl=en) [[CODE--]](https://github.com/keikeiqi/MGTTA)
 
 - `...` [Si et al., Proc. ICASSP 2025] **Generalize your face forgery detectors: An insertable adaptation module is all you need** [[PDF]](https://arxiv.org/abs/2412.20801) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14020276034270904866&hl=en)
+
+- `ResiTTA` [Zhou et al., Proc. ICASSP 2025] **Resilient test-time adaptation by mitigating batch-normalization overfitting** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10888647/) [[G-Scholar--]]() [[CODE]](https://github.com/XingzhiZhou/ResiTTA)
 
 - `DISTA` [Alfarra et al., TMLR 2025] **Test-time adaptation with source based auxiliary tasks** [[PDF]](https://openreview.net/forum?id=XWAXcxNg4n) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9494324961047511528&hl=en)
 
@@ -709,6 +713,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `DPO` [Chen et al., Proc. ACMMM 2024] **Fast online fault diagnosis for PMSM based on adaptation model** [[PDF]](https://arxiv.org/abs/2406.13891) [[G-Scholar--]]() [[CODE--]](https://github.com/Jo-wang/DPO)
 
 - `MOS` [Chen et al., arXiv 2024] **MOS: Model synergy for test-time adaptation on LiDAR-based 3D object detection** [[PDF]](https://arxiv.org/abs/2406.14878) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11014535634299932024&hl=en) [[CODE--]](https://github.com/zhuoxiao-chen/MOS)
+
+- `ITTA` [Fu et al., Expert Systems with Applications 2025] **Robust crop disease detection using multi-domain data augmentation and isolated test-time adaptation** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0957417425009467) [[G-Scholar--]]()
 
 ### NLP
 - `OIL` [Ye et al., Proc. EMNLP Findings 2022] **Robust question answering against distribution shifts with test-time adaptation: An empirical study** [[PDF]](https://arxiv.org/abs/2302.04618) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14000848114209529359&hl=en) [[CODE]](https://github.com/oceanypt/coldqa-tta)
