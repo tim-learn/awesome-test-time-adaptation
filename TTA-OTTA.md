@@ -70,9 +70,11 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `...` [Tang et al., arXiv 2024] **Learning visual conditioning tokens to correct domain shift for fully test-time adaptation** [[PDF]](https://arxiv.org/abs/2406.19341) [[G-Scholar]](https://scholar.google.com/scholar?cluster=177797170965053841&hl=en)
 
-- `MITA` [Yuan et al., arXiv 2024] **MITA: Bridging the gap between model and data for test-time adaptation** [[PDF]](https://arxiv.org/abs/2410.09398) [[G-Scholar--]]()
+- `MITA` [Yuan et al., arXiv 2024] **MITA: Bridging the gap between model and data for test-time adaptation** [[PDF]](https://arxiv.org/abs/2410.09398) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4150556580389958796&hl=en)
 
-- `IEL` [Remington et al., Misc 2024] **IEL: Intra-model ensemble learning For single sample test-time adaptation** [[PDF]](https://openreview.net/forum?id=4LiegvCeQD) [[G-Scholar--]]()
+- `IEL` [Remington et al., Misc 2024] **IEL: Intra-model ensemble learning for single sample test-time adaptation** [[PDF]](https://openreview.net/forum?id=4LiegvCeQD) [[G-Scholar--]]()
+
+- `SPA` [Niu et al., arXiv 2025] **Self-bootstrapping for versatile test-time adaptation** [[PDF]](https://arxiv.org/abs/2504.08010) [[G-Scholar--]]()
 
 ### Segmentation
 - `OnAVOS` [Voigtlaender and Leibe., Proc. BMVC 2017] **Online adaptation of convolutional neural networks for video object segmentation** [[PDF]](https://arxiv.org/abs/1706.09364) [[G-Scholar]](https://scholar.google.com.tw/scholar?cluster=7737687280948943248&hl=en)
@@ -602,9 +604,13 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `ResiTTA` [Zhou et al., Proc. ICASSP 2025] **Resilient test-time adaptation by mitigating batch-normalization overfitting** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10888647/) [[G-Scholar--]]() [[CODE]](https://github.com/XingzhiZhou/ResiTTA)
 
+- `...` [Karti et al., Proc. ICBSII 2025] **Waves don't lie: Leveraging test-time training and kolmogorov arnold networks for EEG-based biometrics** [[PDF]](https://www.researchgate.net/publication/390797286_Waves_Don't_Lie_Leveraging_Test-Time_Training_and_Kolmogorov_Arnold_Networks_for_EEG-Based_Biometrics) [[G-Scholar--]]() 
+
 - `DISTA` [Alfarra et al., TMLR 2025] **Test-time adaptation with source based auxiliary tasks** [[PDF]](https://openreview.net/forum?id=XWAXcxNg4n) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9494324961047511528&hl=en)
 
 - `CPT4` [Karimian and Beigy, Information Sciences 2025] **CPT4: Continual prompted transformer for test time training** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0020025524017559) [[G-Scholar--]]() [[CODE]](https://github.com/mahan66/cpt4)
+
+- `...` [Huang et al., IEEE SPL 2025] **Mitigating missing feature channels at inference stage: Test-time adaptation through self-training with data imputation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10891023/) [[G-Scholar--]]()
 
 - `...` [Lee et al., IEEE Access 2025] **Continual test-time adaptation for robust remote photoplethysmography estimation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10938539/) [[G-Scholar--]]()
 
@@ -613,6 +619,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `TAMER` [Zhu et al., arXiv 2025] **TAMER: A test-time adaptive MoE-driven framework for EHR representation learning** [[PDF]](https://arxiv.org/abs/2501.05661) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7839050350819357258&hl=en) [[CODE]](https://github.com/yhzhu99/TAMER)
 
 - `CUI` [Lyu et al., arXiv 2025] **Conformal uncertainty indicator for continual test-time adaptation** [[PDF]](https://arxiv.org/abs/2502.02998) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18066822712608427666&hl=en)
+
+- `BoTTA` [Danilowski et al., arXiv 2025] **BoTTA: Benchmarking on-device test time adaptation** [[PDF]](https://arxiv.org/abs/2504.10149) [[G-Scholar--]]()
 
 ### Attacks & Defenses
 - `TePA` [Cong et al., Proc. S&P 2024] **Test-time poisoning attacks against test-time adaptation models** [[PDF]](https://arxiv.org/abs/2308.08505) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13810860861574844121&hl=en) [[CODE]](https://github.com/tianshuocong/TePA)

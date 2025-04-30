@@ -518,6 +518,8 @@ blurring** [[PDF]](https://arxiv.org/abs/2407.09059) [[G-Scholar]](https://schol
 
 - `BPRE` [Qiao et al., arXiv 2025] **Bidirectional prototype-reward co-evolution for test-time adaptation of vision-language models** [[PDF]](https://arxiv.org/abs/2503.09394) [[G-Scholar--]]()
 
+- `CDC` [Chen et al., EAAI 2025] **Enhancing crop disease recognition via prompt learning-based progressive mixup and contrastive language-image pre-training dynamic calibration** [[PDF]](https://www.sciencedirect.com/science/article/pii/S095219762500805X) [[G-Scholar--]]()
+
 ### Audio Classification
 - `...` [Chen et al., arXiv 2024] **Multiple consistency-guided test-time adaptation for contrastive audio-language models with unlabeled audio** [[PDF]](https://arxiv.org/abs/2412.17306) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17440872618964057508&hl=en)
 

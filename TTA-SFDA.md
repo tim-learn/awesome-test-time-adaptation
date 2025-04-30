@@ -671,6 +671,14 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `MLR` [Li et al., Pattern Recognition 2025] **Leveraging multi-level regularization for efficient domain adaptation of black-box predictors** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320325002717) [[G-Scholar--]]()
 
+- `SUFS` [Li et al., Pattern Recognition 2025] **Separation of unknown features and samples for unbiased source-free open set domain adaptation** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320325003218) [[G-Scholar--]]()
+
+- `...` [Zhang et al., IEEE Geoscience and Remote Sensing Letters 2025] **Ship detection in SAR images via source-free domain adaptation from optical image domain** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10891040/) [[G-Scholar--]]()
+
+- `EBPR` [Meng et al., Pattern Recognition Letters 2025] **Energy-based pseudo-label refining for source-free domain adaptation** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0167865525001370) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2064201758216349882&hl=en)
+
+- `...` [Guo and Li, Knowledge and Information Systems 2025] **Contrastive prototype source-free adaptation boosted by inherent data structure** [[PDF]](https://link.springer.com/article/10.1007/s10115-025-02385-7) [[G-Scholar--]]()
+
 ## Attacks and Defenses
 - `AdaptGuard` [Sheng et al., Proc. ICCV 2023] **AdaptGuard: Defending against universal attacks for model adaptation** [[PDF]](https://arxiv.org/abs/2303.10594) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5822749974898079720&hl=en) 
 
@@ -1110,15 +1118,17 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 ### 2023
 - `STHC` [Li et al., Proc. CVPR 2023] **Source-free video domain adaptation with spatial-temporal-historical consistency learning** [[PDF]](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Source-Free_Video_Domain_Adaptation_With_Spatial-Temporal-Historical_Consistency_Learning_CVPR_2023_paper.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6519226237067497793&hl=en) 
 
-- `DALL-V` [Zara et al., Proc. ICCV 2023] **The unreasonable effectiveness of large language-vision models for source-free video domain adaptation** [[PDF]](https://arxiv.org/abs/2308.09139) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18439349657086663420&hl=en) [[CODE--]](https://github.com/giaczara/dallv)
+- `DALL-V` [Zara et al., Proc. ICCV 2023] **The unreasonable effectiveness of large language-vision models for source-free video domain adaptation** [[PDF]](https://arxiv.org/abs/2308.09139) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18439349657086663420&hl=en) [[CODE]](https://github.com/giaczara/dallv)
 
 - `LCMV` [Neubert et al., Proc. ICIAP 2023] **LCMV: Lightweight classification module for video domain adaptation** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-43153-1_23) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11153014118790552510&hl=en)
 
 - `...` [Neubert., Master Thesis 2023] **Source-free domain adaptation for video action recognition** [[PDF]](https://webthesis.biblio.polito.it/secure/26775/1/tesi.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9953124906512607690&hl=en)
 
-- `CleanAdapt` [Dasgupta et al., Misc 2024] **Source-free video domain adaptation by learning from noisy labels** [[PDF]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4832737) [[G-Scholar--]]() [[CODE]](https://github.com/avijit9/CleanAdapt)
+- `CleanAdapt` [Dasgupta et al., Misc 2024] **Source-free video domain adaptation by learning from noisy labels** [[PDF]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4832737) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15914376423884787323&hl=en) [[CODE]](https://github.com/avijit9/CleanAdapt)
 
-- `CleanAdapt+TS` [Neubert et al., Pattern Recognition 2025] **Source-free video domain adaptation by learning from noisy labels** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320324010793) [[G-Scholar--]]() [[CODE]](https://github.com/avijit9/CleanAdapt)
+- `CleanAdapt+TS` [Neubert et al., Pattern Recognition 2025] **Source-free video domain adaptation by learning from noisy labels** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320324010793) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15914376423884787323&hl=en) [[CODE]](https://github.com/avijit9/CleanAdapt)
+
+- `Co-STAR` [Dadashzadeh et al., arXiv 2025] **Co-STAR: Collaborative curriculum self-training with adaptive regularization for source-free video domain adaptation** [[PDF]](https://arxiv.org/abs/2504.11669) [[G-Scholar--]]() [[CODE--]](https://github.com/Plrbear/Co-Star)
 
 - `...` [Zara, Master Thesis 2025] **Human action recognition in the real world: handling domain shift in open-set, source-free and multi-source scenarios** [[PDF]](https://iris.unitn.it/handle/11572/443511) [[G-Scholar]](https://scholar.google.com/scholar?cluster=739977252216400299&hl=en)
 
@@ -1270,6 +1280,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 - `GTA-CLIP` [Saha et al., arXiv 2025] **Generate, transduct, adapt: Iterative transduction with VLMs** [[PDF]](https://arxiv.org/abs/2501.06031) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3421787342752012824&hl=en) [[CODE--]](https://github.com/cvl-umass/GTA-CLIP)
 
 - `ViLAaD` [Tarashima et al., arXiv 2025] **ViLAaD: Enhancing "attracting and dispersing" source-free domain adaptation with vision-and-language model** [[PDF]](https://arxiv.org/abs/2503.23529) [[G-Scholar--]]()
+
+- `...` [Xu et al., arXiv 2025] **Probability distribution alignment and low-rank weight decomposition for source-free domain adaptive brain decoding** [[PDF]](https://arxiv.org/abs/2504.09109) [[G-Scholar--]]()
 
 ### Image Super-Resolution
 - `SOSR` [Ai et al., arXiv 2023] **SOSR: Source-free image super-resolution with wavelet augmentation transformer** [[PDF]](https://arxiv.org/abs/2303.17783) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15698511251689818196&hl=en)
@@ -1600,9 +1612,11 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `SFT` [Patel et al., Proc. ICLR 2025] **Efficient source-free time-series adaptation via parameter subspace disentanglement** [[PDF]](https://arxiv.org/abs/2410.02147) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15088096027663744139&hl=en)
 
-- `GraphATA` [Zhang and He, Proc. WWW 2025] **Aggregate to adapt: Node-centric aggregation for multi-source-free graph domain adaptation** [[PDF]](https://openreview.net/forum?id=RLpXUQgbfK) [[G-Scholar--]]() [[CODE]](https://github.com/cszhangzhen/GraphATA)
+- `GraphATA` [Zhang and He, Proc. WWW 2025] **Aggregate to adapt: Node-centric aggregation for multi-source-free graph domain adaptation** [[PDF]](https://openreview.net/forum?id=RLpXUQgbfK) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17295134469464662445&hl=en) [[CODE]](https://github.com/cszhangzhen/GraphATA)
 
-- `KTDA` [Jiao et al., IEEE TII 2025] **Source-free black-box adaptation for machine fault diagnosis** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10851433/) [[G-Scholar--]]()
+- `KTDA` [Jiao et al., IEEE TII 2025] **Source-free black-box adaptation for machine fault diagnosis** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10851433/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15500242352771600002&hl=en)
+
+- `CoUDA` [Chen et al., IEEE TII 2025] **CoUDA: Continual unsupervised domain adaptation for industrial fault diagnosis under dynamic working conditions** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10896871/) [[G-Scholar--]]()
 
 - `BRR` [Zhan et al., Neural Networks 2025] **Reducing bias in source-free unsupervised domain adaptation for regression** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0893608025000401) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5294577320566535956&hl=en)
 
@@ -1617,6 +1631,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 - `SDANU` [Jia et al., Measurement Science and Technology 2025] **A novel source-free domain adaptation network for intelligent diagnosis of bearings under unknown faults** [[PDF]](https://iopscience.iop.org/article/10.1088/1361-6501/adc6a6/meta) [[G-Scholar--]]()
 
 - `AI3M` [Liu et al., Mechanical Systems and Signal Processing 2025] **An adaptive source-free unsupervised domain adaptation method for mechanical fault detection** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0888327025001761) [[G-Scholar]](https://scholar.google.com/scholar?cluster=405100385356478046&hl=en)
+
+- `CSAD` [Li et al., Mechanical Systems and Signal Processing 2025] **Calibrated source-free adaptation for intelligent diagnosis** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0888327025002833) [[G-Scholar--]]()
 
 - `...` [Liu et al., IEEE Robotics and Automation Letters 2025] **Contrastive learning-based secure unsupervised domain adaptation framework and its application in cross-factory intelligent manufacturing** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10948317/) [[G-Scholar--]]()
 
