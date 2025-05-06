@@ -1097,7 +1097,9 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `...` [Oda et al., Proc. IWAIT 2025] **Strict source-free domain adaptation with simple assumptions for cardiac segmentation** [[PDF]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13510/1351007/Strict-source-free-domain-adaptation-with-simple-assumptions-for-cardiac/10.1117/12.3057249.short) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18286509675007678391&hl=en)
 
-- `...` [Zhang et al., Medical Image Analysis 2025] **Enhancing source-free domain adaptation in Medical Image Segmentation via regulated model self-training** [[PDF]](https://www.sciencedirect.com/science/article/pii/S1361841525000908) [[G-Scholar--]]()
+- `...` [Zhang et al., Medical Image Analysis 2025] **Enhancing source-free domain adaptation in medical image segmentation via regulated model self-training** [[PDF]](https://www.sciencedirect.com/science/article/pii/S1361841525000908) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4313468517098520011&hl=en)
+
+- `...` [Soylu et al., IEEE TBME 2025] **Migration of deep learning models across ultrasound scanners** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10977778/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3359585114202157563&hl=en)
 
 - `MPPL-SFDA` [Zhang et al., Biomedical Signal Processing and Control 2025] **Multicentric prototype and pseudo-labeling based source-free domain adaptation for Alzheimer's disease classification** [[PDF]](https://www.sciencedirect.com/science/article/pii/S1746809424015416) [[G-Scholar--]]()
 

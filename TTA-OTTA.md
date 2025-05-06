@@ -600,6 +600,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `MGTTA` [Deng et al., Proc. AAAI 2025] **Learning to generate gradients for test-time adaptation via test-time training layers** [[PDF]](https://arxiv.org/abs/1910.03915) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9513025851068109507&hl=en) [[CODE--]](https://github.com/keikeiqi/MGTTA)
 
+- `SoTa-DiT` [Ma and Qian, Proc. WACV 2025] **Disentangle source and target knowledge for continual test-time adaptation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10943676/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3293156536862292747&hl=en)
+
 - `...` [Si et al., Proc. ICASSP 2025] **Generalize your face forgery detectors: An insertable adaptation module is all you need** [[PDF]](https://arxiv.org/abs/2412.20801) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14020276034270904866&hl=en)
 
 - `ResiTTA` [Zhou et al., Proc. ICASSP 2025] **Resilient test-time adaptation by mitigating batch-normalization overfitting** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10888647/) [[G-Scholar--]]() [[CODE]](https://github.com/XingzhiZhou/ResiTTA)
