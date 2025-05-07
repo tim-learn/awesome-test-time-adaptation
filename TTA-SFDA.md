@@ -659,11 +659,13 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `BN-SFDA` [Deng et al., Proc. AISTATS 2025] **Rethinking the role of batch normalization in source-free domain adaptation** [[PDF]](https://openreview.net/forum?id=NiyGv5qTzI) [[G-Scholar--]]() [[CODE]](https://github.com/SJTU-dxw/BN-SFDA)
 
+- `EBPR` [Deng et al., Proc. AISTATS 2025] **Leveraging frozen batch normalization for co-training in source-free domain adaptation** [[PDF]](https://proceedings.mlr.press/v258/deng25c.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16283498704495397599&hl=en) [[CODE]](https://github.com/SJTU-dxw/BN-SFDA)
+
 - `GMM` [Schlachter et al., Proc. WACV 2025] **Memory-efficient pseudo-labeling for online source-free universal domain adaptation using a gaussian mixture model** [[PDF]](https://arxiv.org/abs/2407.14208) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5405263564082143661&hl=en) [[CODE]](https://github.com/pascalschlachter/GMM)
 
 - `EKS` [Rai et al., Proc. WACV 2025] **Label calibration in source free domain adaptation** [[PDF]](https://arxiv.org/abs/2501.07072) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10481551965563048436&hl=en) [[CODE--]](https://visdomlab.github.io/EKS/)
 
-- `ElimPCL` [Cheng et al., Proc. ICME 2025] **ElimPCL: Eliminating noise accumulation with progressive curriculum labeling for source-free domain adaptation** [[PDF]](https://arxiv.org/abs/2503.23712) [[G-Scholar--]]()
+- `ElimPCL` [Cheng et al., Proc. ICME 2025] **ElimPCL: Eliminating noise accumulation with progressive curriculum labeling for source-free domain adaptation** [[PDF]](https://arxiv.org/abs/2503.23712) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15452441344301908136&hl=en)
 
 - `NVC-LLN` [Xu et al., IEEE TPAMI 2025] **Unraveling the mysteries of label noise in source-free domain adaptation: Theory and practice** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10858421) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6005165208774683209&hl=en) [[CODE]](https://github.com/xugezheng/labelNoiseInSFDA)
 
