@@ -681,6 +681,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `...` [Guo and Li, Knowledge and Information Systems 2025] **Contrastive prototype source-free adaptation boosted by inherent data structure** [[PDF]](https://link.springer.com/article/10.1007/s10115-025-02385-7) [[G-Scholar--]]()
 
+- `...` [Tian and Kang, Knowledge-Based Systems 2025] **Source-free unsupervised domain adaptation through trust-guided partitioning and worst-case aligning** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0950705125005398) [[G-Scholar--]]()
+
 ## Attacks and Defenses
 - `AdaptGuard` [Sheng et al., Proc. ICCV 2023] **AdaptGuard: Defending against universal attacks for model adaptation** [[PDF]](https://arxiv.org/abs/2303.10594) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5822749974898079720&hl=en) 
 
@@ -816,6 +818,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 - `360SFUDA++` [Zheng et al., arXiv 2024] **360SFUDA++: Towards source-free UDA for panoramic segmentation by learning reliable category prototypes** [[PDF]](https://arxiv.org/abs/2404.16501) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12998254106770471662&hl=en) [[CODE]](https://github.com/zhengxujosh/360SFUDA)
 
 ### 2025
+- `SNSA` [Zheng et al., Proc. AAAI 2025] **Supportive negatives spectral augmentation for source-free cross-domain segmentation** [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/33148) [[G-Scholar--]]()
+
 - `UITI` [An et al., Misc 2025] **UITI: Unpaired image-to-image source-free domain adaptation for semantic segmentation** [[PDF]](https://www.researchsquare.com/article/rs-6170622/v1) [[G-Scholar--]]()
 
 ## Object Detection
@@ -1107,6 +1111,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `C2MAL` [Zhou et al., Medical & Biological Engineering & Computing 2025] **C2MAL: Cascaded network-guided class-balanced multi-prototype auxiliary learning for source-free domain adaptive medical image segmentation** [[PDF]](https://link.springer.com/article/10.1007/s11517-025-03287-0) [[G-Scholar--]]()
 
+- `RIOG` [Yan et al., IEEE Sensors Journal 2025] **RIOG: Rectify-to-match gradient for source-free domain adaptive medical image segmentation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10980183) [[G-Scholar--]]() [[CODE]](https://github.com/dogeONE-bit/RIOG)
+
 ## Video Classification
 ### 2022
 - `ATCoN` [Xu et al., Proc. ECCV 2022] **Learning temporal consistency for source-free video domain adaptation** [[PDF]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136940144.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4238691108482542310&hl=en) [[CODE]](https://github.com/xuyu0010/ATCoN)
@@ -1215,6 +1221,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 - `AAMT` [Qu et al., IEEE TMM 2024] **AAMT: Adversarial attack-driven mutual teaching for source-free domain-adaptive person reidentification** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10475539/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1116489178484008905&hl=en)
 
 - `SFPS` [Yan et al., Pattern Recognition 2025] **Source-free domain adaptive person search** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320324010689) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11553475249890518895&hl=en)
+
+- `DCL` [Jia et al., Proc. AAAI 2025] **Doubly contrastive learning for source-free domain adaptive person search** [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/32413) [[G-Scholar--]]()
 
 ### Multi-modality
 - `SOCKET` [Ahmed et al., Proc. ECCV 2022] **Cross-modal knowledge transfer without task-relevant source data** [[PDF]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136940108.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8131184106801888753&hl=en) [[CODE]](https://github.com/merlresearch/SOCKET)
@@ -1628,6 +1636,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `TFDA` [Furqon et al., Information Sciences 2025] **Time and frequency synergy for source-free time-series domain adaptations** [[PDF]](https://arxiv.org/abs/2410.17511) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8585440708527090222&hl=en) [[CODE]](https://github.com/furqon3009/TFDA)
 
+- `SFDAF` [Ye et al., Reliability Engineering & System Safety 2025] **Source-free domain adaptation framework for rotating machinery fault diagnosis by reliable self-learning and auxiliary contrastive learning** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0951832025004296) [[G-Scholar--]]()
+
 - `CSSL` [Wang et al., User Modeling and User-Adapted Interaction 2025] **A contrastive self-supervised learning method for source-free EEG emotion recognition** [[PDF]](https://link.springer.com/article/10.1007/s11257-024-09424-y) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5236416154497442425&hl=en)
 
 - `NUD` [Wang et al., Biomedical Signal Processing and Control 2025] **Active source-free domain adaptation for intracranial EEG classification via neighborhood uncertainty and diversity** [[PDF]](https://www.sciencedirect.com/science/article/pii/S1746809424015222) [[G-Scholar--]]()
@@ -1718,3 +1728,7 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 - `...` [Zeng et al., arXiv 2024] **LLM embeddings improve test-time adaptation to tabular Y|X-shifts** [[PDF]](https://arxiv.org/abs/2410.07395) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18201469738692370537&hl=en) [[CODE]](https://github.com/namkoong-lab/LLM-Tabular-Shifts)
 
 - `ACT` [Li and Wu et al., arXiv 2025] **Asymmetric co-training for source-free few-shot domain adaptation** [[PDF]](https://arxiv.org/abs/2502.14214) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14716110979078801764&hl=en) [[CODE]](https://github.com/gengxuli/ACT)
+
+- `ISA` [Fan et al., arXiv 2025] **Adapting in-domain few-shot segmentation to new domains without retraining** [[PDF]](https://arxiv.org/abs/2504.21414) [[G-Scholar--]]()
+
+- `RIOG` [Yan et al., IEEE Sensors Journal 2025] **RIOG: Rectify-to-match gradient for source-free domain adaptive medical image segmentation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10980183) [[G-Scholar--]]() [[CODE]](https://github.com/dogeONE-bit/RIOG)

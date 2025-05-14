@@ -594,6 +594,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `TTE` [Kim et al., Proc. ICLR 2025] **Test-time ensemble via linear mode connectivity: A path to better adaptation** [[PDF]](https://openreview.net/forum?id=4wk2eOKGvh) [[G-Scholar--]]()
 
+- `LinearTCA+` [You et al., Proc. ICML 2025] **Test-time correlation alignment** [[PDF]](https://arxiv.org/abs/2505.00533) [[G-Scholar--]]() [[CODE]](https://github.com/youlj109/TCA)
+
 - `SURGEON` [Ma et al., Proc. CVPR 2025] **SURGEON: Memory-adaptive fully test-time adaptation via dynamic activation sparsity** [[PDF]](https://arxiv.org/abs/2503.20354) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5585816655006700047&hl=en) [[CODE--]](https://github.com/kadmkbl/SURGEON)
 
 - `PALM` [Maharana et al., Proc. AAAI 2025] **PALM: Pushing adaptive learning rate mechanisms for continual test-time adaptation** [[PDF]](https://arxiv.org/abs/2403.10650) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7716777332753810830&hl=en)
@@ -632,6 +634,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `RTTDP` [Su et al., arXiv 2024] **On the adversarial risk of test time adaptation: An investigation into realistic test-time data poisoning** [[PDF]](https://arxiv.org/abs/2410.04682) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3697094159927663503&hl=en)
 
 - `FCA` [Rifat et al., Proc. ICLR 2025] **On the adversarial vulnerability of label-free test-time adaptation** [[PDF]](https://openreview.net/forum?id=N0ETIi580T) [[G-Scholar--]]()
+
+- `TSDA` [Fang et al., IEEE Geoscience and Remote Sensing Letters 2025] **Two-stage domain adaptation for hyperspectral image classification based on self-distillation and test-time adaptation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10985900/) [[G-Scholar--]]() [[CODE--]](https://github.com/Li-ZK/TSDA-2025)
 
 ### CLIP-based
 - `SwapPrompt` [Ma et al., Proc. NeurIPS 2023] **SwapPrompt: Test-time prompt adaptation for vision-language models** [[PDF]](https://openreview.net/forum?id=EhdNQiOWgQ) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17344404046023372078&hl=en)
@@ -820,6 +824,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `RetiGen` [Chen et al., arXiv 2024] **Active learning guided federated online adaptation: Applications in medical image segmentation** [[PDF]](https://arxiv.org/abs/2403.15647) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14090677088897670741&hl=en) [[CODE]](https://github.com/zgy600/RetiGen)
 
+- `FedSPL` [Liang et al., Proc. AAAI 2025] **TTA-FedDG: Leveraging test-time adaptation to address federated domain generalization** [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/34053) [[G-Scholar--]]()
+
 - `ALAA-TTEA` [Liao et al., International Journal of Machine Learning and Cybernetics 2025] **Combining adaptive local aggregation average and test-time energy adaptation for federated learning** [[PDF]](https://link.springer.com/article/10.1007/s13042-025-02580-6) [[G-Scholar--]]()
 
 - `FedCTTA` [Rajib et al., Misc 2025] **FedCTTA: A collaborative approach to continual test-time adaptation in federated learning** [[PDF]](https://www.mirsazzathossain.me/files/fedctta.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10124489811465088317&hl=en)
@@ -897,7 +903,13 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `...` [Bach and Nguyen-Tang, Misc 2024] **Update larger, train faster: Stable test-time adaptation utilizing noisy-pseudo labels** [[PDF]](https://openreview.net/forum?id=ezzmWTm8r6) [[G-Scholar--]]()
 
+- `...` [Kim et al., Proc. ICLR Workshop 2025] **Interactive few-shot online adaptation for user-guided segmentation in aerial images** [[PDF]](https://ml-for-rs.github.io/iclr2025/camera_ready/papers/9.pdf) [[G-Scholar--]]()
+
+- `TTAPose` [Huang et al., IEEE Robotics and Automation Letters 2025] **TTAPose: Test-time adaptation for unseen object pose estimation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10976352) [[G-Scholar--]]()
+
 - `...` [Wei and Zhou, arXiv 2025] **Billet number recognition based on test-time adaptation** [[PDF]](https://arxiv.org/abs/2502.09026) [[G-Scholar--]]()
+
+- `CDPD` [Fu et al., arXiv 2025] **Pest detection in dynamic environments: an adaptive continual test-time domain adaptation strategy** [[PDF]](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-025-01371-y) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18248031628983903804&hl=en)
 
 ## Related
 - `GTTA-ST` [Marsden et al., arXiv 2022] **Introducing intermediate domains for effective self-training during test-time** [[PDF]](https://arxiv.org/abs/2208.07736) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11840087784657470158&hl=en)
