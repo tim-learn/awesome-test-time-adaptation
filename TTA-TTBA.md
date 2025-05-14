@@ -181,7 +181,7 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `Adaptive WaVNet` [Qian et al., Medical Physics 2024] **Adaptive wavelet-VNet for single-sample test time adaptation in medical image segmentation** [[PDF]](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.17423) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5877801300333275518&hl=en)
 
-- `InTEnt` [Dong et al., arXiv 2024] **Medical image segmentation with InTEnt: Integrated entropy weighting for single image test-time adaptation** [[PDF]](https://arxiv.org/abs/2402.09604) [[G-Scholar]](https://scholar.google.com/scholar?cluster=963613001981542095&hl=en) [[CODE--]](https://github.com/mazurowski-lab/single-image-test-time-adaptation)
+- `InTEnt` [Dong et al., arXiv 2024] **Medical image segmentation with InTEnt: Integrated entropy weighting for single image test-time adaptation** [[PDF]](https://arxiv.org/abs/2402.09604) [[G-Scholar]](https://scholar.google.com/scholar?cluster=963613001981542095&hl=en) [[CODE]](https://github.com/mazurowski-lab/single-image-test-time-adaptation)
 
 - `TTT-KD` [Weijler et al., arXiv 2024] **TTT-KD: Test-time training for 3D semantic segmentation through knowledge distillation from foundation models** [[PDF]](https://arxiv.org/abs/2403.11691) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11875871707658891748&hl=en)
 
