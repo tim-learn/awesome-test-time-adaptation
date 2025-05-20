@@ -910,6 +910,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `...` [Liu et al., arXiv 2024] **Source-free domain adaptive object detection in remote sensing images** [[PDF]](https://arxiv.org/abs/2401.17916) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6757841461042013328&hl=en)
 
+- `AATS` [Pu et al., Proc. AAAI 2025] **Leveraging anatomical consistency for multi-object detection in ultrasound images via source-free unsupervised domain adaptation** [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/32700) [[G-Scholar--]]() [[CODE]](https://github.com/xmed-lab/AATS)
+
 - `MGDL` [Tian et al., IEEE TITS 2025] **Multi-level guided discrepancy learning for source-free object detection in hazy conditions** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10972168) [[G-Scholar--]]()
 
 - `LPLDA` [Kim et al., IEEE Geoscience and Remote Sensing Letters 2025] **Source-free domain adaptation for remote-sensing object detection using low-confidence pseudo labels** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10949131/) [[G-Scholar--]]()
@@ -1117,6 +1119,10 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `RIOG` [Yan et al., IEEE Sensors Journal 2025] **RIOG: Rectify-to-match gradient for source-free domain adaptive medical image segmentation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10980183) [[G-Scholar--]]() [[CODE]](https://github.com/dogeONE-bit/RIOG)
 
+- `DiT-SFDA` [Wang et al., Expert Systems with Applications 2025] **DiT-SFDA: A source-free domain adaptation method for intelligent diagnosis of cardiovascular diseases with limited heart sound samples** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10980183) [[G-Scholar--]]()
+
+- `...` [Hu et al., IEEE Communications Letters 2025] **Source-free domain adaptation for RFFI via multi-neighborhood semantic consistency and spatial adjacency** [[PDF]](https://ieeexplore.ieee.org/abstract/document/11003095/) [[G-Scholar--]]()
+
 ## Video Classification
 ### 2022
 - `ATCoN` [Xu et al., Proc. ECCV 2022] **Learning temporal consistency for source-free video domain adaptation** [[PDF]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136940144.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4238691108482542310&hl=en) [[CODE]](https://github.com/xuyu0010/ATCoN)
@@ -1295,7 +1301,9 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `L2C` [Chi et al., Proc. ICLR 2025] **Learning to adapt frozen CLIP for few-shot test-time domain adaptation** [[PDF]](https://openreview.net/forum?id=TD3SGJfBC7) [[G-Scholar--]]()
 
-- `CCD` [Kim and Shim, Proc. CVPR 2025] **Classifier-guided CLIP distillation for unsupervised multi-label classification** [[PDF]](https://arxiv.org/abs/2503.16873) [[G-Scholar--]]() [[CODE--]](https://github.com/k0u-id/CCD)
+- `CCD` [Kim and Shim, Proc. CVPR 2025] **Classifier-guided CLIP distillation for unsupervised multi-label classification** [[PDF]](https://arxiv.org/abs/2503.16873) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7291616615919122487&hl=en) [[CODE--]](https://github.com/k0u-id/CCD)
+
+- `TIPPLE` [Lu et al., IEEE TIP 2025] **Task-to-instance prompt learning for vision-language models at test time** [[PDF]](https://ieeexplore.ieee.org/document/10925517) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7061085335833209582&hl=en) [[CODE]](https://github.com/zhiheLu/TIPPLE)
 
 - `GTA-CLIP` [Saha et al., arXiv 2025] **Generate, transduct, adapt: Iterative transduction with VLMs** [[PDF]](https://arxiv.org/abs/2501.06031) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3421787342752012824&hl=en) [[CODE--]](https://github.com/cvl-umass/GTA-CLIP)
 
@@ -1665,6 +1673,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 - `JSEA` [Kari et al., arXiv 2025] **Joint source-environment adaptation of data-driven underwater acoustic source ranging based on model uncertainty** [[PDF]](https://arxiv.org/abs/2503.23258) [[G-Scholar--]]()
 
 - `CT` [Sun et al., arXiv 2025] **Learning compositional transferability of time series for source-free domain adaptation** [[PDF]](https://arxiv.org/abs/2504.14994) [[G-Scholar--]]() [[CODE]](https://anonymous.4open.science/r/CT-SFDA-Code/)
+
+- `...` [Imtiaz and Khan, arXiv 2025] **Towards practical emotion recognition: An unsupervised source-free approach for EEG domain adaptation** [[PDF]](https://arxiv.org/abs/2504.03707) [[G-Scholar]](https://scholar.google.com/scholar?cluster=977933230914225710&hl=en) 
 
 ## Related
 - [Yang et al., Proc. ACM-MM2007] **Cross-domain video concept detection using adaptive svms** [[PDF]](https://dl.acm.org/doi/abs/10.1145/1291233.1291276) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4589454669556425406&hl=en)

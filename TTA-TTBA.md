@@ -665,6 +665,8 @@ federated learning** [[PDF]](https://arxiv.org/abs/2310.18816) [[G-Scholar]](htt
 - `PAN` [Camuffo et al., arXiv 2024] **Enhanced model robustness to input corruptions by per-corruption adaptation of normalization statistics** [[PDF]](https://arxiv.org/abs/2407.06450) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7611612506238718514&hl=en) 
 
 #### 2025
+- `SCAP` [Zhang et al., Proc. CVPR 2025] **SCAP: Transductive test-time adaptation via supportive clique-based attribute prompting** [[PDF]](https://arxiv.org/abs/2503.12866) [[G-Scholar--]]() [[CODE]](https://github.com/zhoujiahuan1991/CVPR2025-SCAP)
+
 - `ReC-TTT` [Colussi et al., Proc. WACV 2025] **ReC-TTT: Contrastive feature reconstruction for test-time training** [[PDF]](https://arxiv.org/abs/2411.17869) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12047861309613070229&hl=en) [[CODE]](https://github.com/warpcut/ReC-TTT)
 
 - `Hybrid-TTN` [Vianna et al., IEEE TUFFC 2025] **Unsupervised test-time adaptation for hepatic steatosis grading using ultrasound b-mode images** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10942471/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=574186267738851007&hl=en)
@@ -780,6 +782,9 @@ federated learning** [[PDF]](https://arxiv.org/abs/2310.18816) [[G-Scholar]](htt
 - `QTTT` [Jian et al., arXiv 2024] **Test-time training with quantum auto-encoder: From distribution shift to noisy quantum circuits** [[PDF]](https://arxiv.org/abs/2411.06828) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12221972040319018327&hl=en)
 
 - `...` [Kasa et al., Misc 2024] **Adapting prediction sets to distribution shifts without labels** [[PDF]](https://openreview.net/forum?id=k2gGy2hpfx) [[G-Scholar--]]()
+
+### 2025
+- `TTDG-MGM` [Lv et al., Proc. CVPR 2025] **Test-time domain generalization via universe learning: A multi-graph matching approach for medical image segmentation** [[PDF]](https://arxiv.org/abs/2503.13012) [[G-Scholar--]]() [[CODE]](https://github.com/Yore0/TTDG-MGM)
 
 - `...` [Omolegan et al., Proc. ISBI 2025] **Exploring test time adaptation for subcortical segmentation of the fetal brain in 3D ultrasound** [[PDF]](https://arxiv.org/abs/2502.08774) [[G-Scholar--]]() [[CODE]](https://github.com/joshuaomolegan/TTA-for-3D-Fetal-Subcortical-Segmentation)
 

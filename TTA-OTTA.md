@@ -137,6 +137,10 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `MUTA` [Li et al., IEEE TMI 2025] **Multi-view test-time adaptation for semantic segmentation in clinical cataract surgery** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10843248) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2340498421240283450&hl=en) [[CODE]](https://github.com/liamheng/CAI-algorithms)
 
+- `...` [Ye et al., Pattern Recognition 2025] **Domain consistency learning for continual test-time adaptation in image semantic segmentation** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320325002456) [[G-Scholar--]]()
+
+- `ITTA` [Fu et al., Expert Systems With Applications 2025] **Robust crop disease detection using multi-domain data augmentation and isolated test-time adaptation** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0957417425009467) [[G-Scholar--]]()
+
 ### Object Detection
 - `...` [Lin et al., arXiv 2023] **VCL challenges 2023 at ICCV 2023 technical report: Bi-level adaptation method for test-time adaptive object detection** [[PDF]](https://arxiv.org/abs/2310.08986) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6724013113617030497&hl=en)
 
