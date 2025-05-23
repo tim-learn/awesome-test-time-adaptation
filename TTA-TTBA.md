@@ -366,6 +366,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `...` [Chaudhary et al., arXiv 2024] **Uncertainty-aware test-time adaptation for inverse consistent diffeomorphic lung image registration** [[PDF]](https://arxiv.org/abs/2411.07567) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1769928162046691095&hl=en)
 
+- `UATTA-QSM` [Ravishankar et al., Proc. ISBI 2025] **UATTA-QSM: Uncertainty-aware test time adaptation for improved quantitative susceptibility mapping** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10980951/) [[G-Scholar--]]()
+
 ### Generative modeling
 - `GIP` [Bau et al., ACM TOG 2019] **Semantic photo manipulation with a generative image prior** [[PDF]](https://arxiv.org/abs/2005.07727) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6750293979132878511&hl=en)
 

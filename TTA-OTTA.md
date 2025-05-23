@@ -74,7 +74,9 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `IEL` [Remington et al., Misc 2024] **IEL: Intra-model ensemble learning for single sample test-time adaptation** [[PDF]](https://openreview.net/forum?id=4LiegvCeQD) [[G-Scholar--]]()
 
-- `SPA` [Niu et al., arXiv 2025] **Self-bootstrapping for versatile test-time adaptation** [[PDF]](https://arxiv.org/abs/2504.08010) [[G-Scholar--]]()
+- `SPA` [Niu et al., arXiv 2025] **Self-bootstrapping for versatile test-time adaptation** [[PDF]](https://arxiv.org/abs/2504.08010) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18198101999279076327&hl=en)
+
+- `OD-TTA` [Ma et al., arXiv 2025] **On-demand test-time adaptation for edge devices** [[PDF]](https://arxiv.org/abs/2505.00986) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10253068990217161308&hl=en)
 
 ### Segmentation
 - `OnAVOS` [Voigtlaender and Leibe., Proc. BMVC 2017] **Online adaptation of convolutional neural networks for video object segmentation** [[PDF]](https://arxiv.org/abs/1706.09364) [[G-Scholar]](https://scholar.google.com.tw/scholar?cluster=7737687280948943248&hl=en)
@@ -611,6 +613,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `...` [Si et al., Proc. ICASSP 2025] **Generalize your face forgery detectors: An insertable adaptation module is all you need** [[PDF]](https://arxiv.org/abs/2412.20801) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14020276034270904866&hl=en)
 
 - `ResiTTA` [Zhou et al., Proc. ICASSP 2025] **Resilient test-time adaptation by mitigating batch-normalization overfitting** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10888647/) [[G-Scholar--]]() [[CODE]](https://github.com/XingzhiZhou/ResiTTA)
+
+- `ITADT` [Ravishankar et al., Proc. ISBI 2025] **Inference time adaptation for improved retinal disease diagnosis using optical coherence tomography images** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10980931/) [[G-Scholar--]]()
 
 - `...` [Karti et al., Proc. ICBSII 2025] **Waves don't lie: Leveraging test-time training and kolmogorov arnold networks for EEG-based biometrics** [[PDF]](https://www.researchgate.net/publication/390797286_Waves_Don't_Lie_Leveraging_Test-Time_Training_and_Kolmogorov_Arnold_Networks_for_EEG-Based_Biometrics) [[G-Scholar--]]() 
 
