@@ -186,6 +186,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 ### Vision-and-language navigation
 - `EAM` [Tan et al., IEEE TMM 2025] **Source-free elastic model adaptation for vision-and-language navigation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10856447) [[G-Scholar--]]()
 
+- `Search-TTA` [Tan et al., arXiv 2025] **Search-TTA: A multimodal test-time adaptation framework for visual search in the wild** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10856447) [[G-Scholar--]]() [[CODE--]](https://github.com/marmotlab/Search-TTA)
+
 ### Action recognition
 - `ViTTA` [Lin et al., Proc. CVPR 2023] **Video test-time adaptation for action recognition** [[PDF]](https://arxiv.org/abs/2211.15393) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14921741895103050225&hl=en) [[CODE--]](https://github.com/wlin-at/ViTTA)
 
