@@ -139,7 +139,9 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `MUTA` [Li et al., IEEE TMI 2025] **Multi-view test-time adaptation for semantic segmentation in clinical cataract surgery** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10843248) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2340498421240283450&hl=en) [[CODE]](https://github.com/liamheng/CAI-algorithms)
 
-- `...` [Ye et al., Pattern Recognition 2025] **Domain consistency learning for continual test-time adaptation in image semantic segmentation** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320325002456) [[G-Scholar--]]()
+- `...` [Ye et al., Pattern Recognition 2025] **Domain consistency learning for continual test-time adaptation in image semantic segmentation** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320325002456) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4450953583374906256&hl=en)
+
+- `CertainTTA` [Dong et al., Information Fusion 2025] **CertainTTA: Estimating uncertainty for test-time adaptation on medical image segmentation** [[PDF]](https://www.sciencedirect.com/science/article/pii/S1566253525003732) [[G-Scholar--]]()
 
 - `ITTA` [Fu et al., Expert Systems With Applications 2025] **Robust crop disease detection using multi-domain data augmentation and isolated test-time adaptation** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0957417425009467) [[G-Scholar--]]()
 
@@ -836,9 +838,9 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `FedSPL` [Liang et al., Proc. AAAI 2025] **TTA-FedDG: Leveraging test-time adaptation to address federated domain generalization** [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/34053) [[G-Scholar--]]()
 
-- `ALAA-TTEA` [Liao et al., International Journal of Machine Learning and Cybernetics 2025] **Combining adaptive local aggregation average and test-time energy adaptation for federated learning** [[PDF]](https://link.springer.com/article/10.1007/s13042-025-02580-6) [[G-Scholar--]]()
+- `FedCTTA` [Rajib et al., Proc. IJCNN 2025] **FedCTTA: A collaborative approach to continual test-time adaptation in federated learning** [[PDF]](https://arxiv.org/abs/2505.13643) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10124489811465088317&hl=en)
 
-- `FedCTTA` [Rajib et al., Misc 2025] **FedCTTA: A collaborative approach to continual test-time adaptation in federated learning** [[PDF]](https://www.mirsazzathossain.me/files/fedctta.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10124489811465088317&hl=en)
+- `ALAA-TTEA` [Liao et al., International Journal of Machine Learning and Cybernetics 2025] **Combining adaptive local aggregation average and test-time energy adaptation for federated learning** [[PDF]](https://link.springer.com/article/10.1007/s13042-025-02580-6) [[G-Scholar--]]()
 
 ### Misc
 - `Ev-TTA` [Kim et al., Proc. CVPR 2022] **Ev-TTA: Test-time adaptation for event-based object recognition** [[PDF]](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_Ev-TTA_Test-Time_Adaptation_for_Event-Based_Object_Recognition_CVPR_2022_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14941098914432467048&hl=en) [[CODE]](https://github.com/82magnolia/ev_tta)

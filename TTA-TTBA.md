@@ -609,6 +609,8 @@ blurring** [[PDF]](https://arxiv.org/abs/2407.09059) [[G-Scholar]](https://schol
 
 - `R2-T2` [Li et al., arXiv 2025] **R2-T2: Re-Routing in test-time for multimodal mixture-of-experts** [[PDF]](https://arxiv.org/abs/2502.20395) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2630379142017530500&hl=en) [[CODE]](https://github.com/tianyi-lab/R2-T2)
 
+- `TTMM` [Bertolissi et al., arXiv 2025] **Local mixtures of experts: Essentially free test-time training via model merging** [[PDF]](https://arxiv.org/abs/2505.14136) [[G-Scholar]](https://scholar.google.com/scholar?cluster=362057851846694197&hl=en) [[CODE]](https://github.com/rbertolissi/ttmerge)
+
 ## Batch-level
 ### Classification
 - `ARM` [Zhang et al., Proc. NeurIPS 2021] **Adaptive risk minimization: Learning to adapt to domain shift** [[PDF]](https://openreview.net/forum?id=-zgb2v8vV_w) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6509702681777063562&hl=en) [[CODE]](https://github.com/henrikmarklund/arm)
