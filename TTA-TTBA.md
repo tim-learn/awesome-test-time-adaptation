@@ -199,7 +199,9 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `INT` [Hu et al., arXiv 2025] **INT: Instance-specific negative mining for task-generic promptable segmentation** [[PDF]](https://arxiv.org/abs/2501.18753) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18003844780246240761&hl=en)
 
-- `...` [Chen et al., arXiv 2025] **Test-time adaptation for foundation medical segmentation model without parametric updates** [[PDF]](https://arxiv.org/abs/2504.02008) [[G-Scholar--]]()
+- `...` [Chen et al., arXiv 2025] **Test-time adaptation for foundation medical segmentation model without parametric updates** [[PDF]](https://arxiv.org/abs/2504.02008) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6369203664695106285&hl=en)
+
+- `AutoMiSeg` [Li et al., arXiv 2025] **AutoMiSeg: Automatic medical image segmentation via test-time adaptation of foundation models** [[PDF]](https://arxiv.org/abs/2505.17931) [[G-Scholar--]]()
 
 ### Detection
 - `OSHOT` [D'Innocente et al., Proc. ECCV 2020] **One-shot unsupervised cross-domain detection** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-030-58517-4_43) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7600955351500947376&hl=en) [[CODE]](https://github.com/VeloDC/oshot_detection)

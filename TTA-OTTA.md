@@ -78,6 +78,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `OD-TTA` [Ma et al., arXiv 2025] **On-demand test-time adaptation for edge devices** [[PDF]](https://arxiv.org/abs/2505.00986) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10253068990217161308&hl=en)
 
+- `FRET` [You et al., arXiv 2025] **FRET: Feature redundancy elimination for test time adaptation** [[PDF]](https://arxiv.org/abs/2505.10641) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4875678160451933659&hl=en) [[CODE]](https://anonymous.4open.science/r/fret-21BD)
+
 ### Segmentation
 - `OnAVOS` [Voigtlaender and Leibe., Proc. BMVC 2017] **Online adaptation of convolutional neural networks for video object segmentation** [[PDF]](https://arxiv.org/abs/1706.09364) [[G-Scholar]](https://scholar.google.com.tw/scholar?cluster=7737687280948943248&hl=en)
 
@@ -785,7 +787,9 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `ST2ST` [Fahim et al., Proc. CVPR Workshops 2024] **ST2ST: Self-supervised test-time adaptation for video action recognition** [[PDF]](https://tta-cvpr2024.github.io/_downloads/71c70b99c912cb3c70bd2f6cd13023b7/matp_5_st2st_self_supervised_test_tim.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11039226010014788470&hl=en) 
 
 ### Multi-modal
-- `SuMi` [Guo and Jin, Proc. ICLR 2025] **Smoothing the shift: Towards stable test-time adaptation under complex multimodal noises** [[PDF]](https://openreview.net/forum?id=rObkvzJxTG) [[G-Scholar--]]() [[CODE]](https://github.com/zrguo/SuMi)
+- `SuMi` [Guo and Jin, Proc. ICLR 2025] **Smoothing the shift: Towards stable test-time adaptation under complex multimodal noises** [[PDF]](https://openreview.net/forum?id=rObkvzJxTG) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17892570839833145671&hl=en) [[CODE]](https://github.com/zrguo/SuMi)
+
+- `Eng2TTA` [Pei et al., The Visual Computer 2025] **Energy-guided test-time adaptation for data shifts in multi-modal perception** [[PDF]](https://link.springer.com/article/10.1007/s00371-025-03952-3) [[G-Scholar--]]()
 
 ### Graph
 - `GAPGC` [Chen et al., Proc. ICML Workshops 2022] **GraphTTA: Test time adaptation on graph neural networks** [[PDF]](https://arxiv.org/abs/2208.09126) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3397674391742244376&hl=en)
