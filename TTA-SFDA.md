@@ -1285,8 +1285,6 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `DIFO` [Tang et al., Proc. WACV 2024] **Source-free domain adaptation with frozen multimodal foundation model** [[PDF]](https://arxiv.org/abs/2311.16510) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7386217752559798759&hl=en) 
 
-- `OT-VP` [Zhang et al., Proc. CVPR Workshops 2024] **OT-VP: Optimal transport-guided visual prompting for test-time adaptation** [[PDF]](https://tta-cvpr2024.github.io/_downloads/63a4c7ea64117d8e8f2db690967c01fb/matc_4_ot_vp_optimal_transport_guided.pdf) [[G-Scholar--]]() 
-
 - `QED` [Liu et al., IEEE TCSVT 2024] **Question type-aware debiasing for test-time visual question answering model adaptation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10550013) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6734344509097123329&hl=en)
 
 - `BBC` [Tian et al., Signal, Image and Video Processing 2024] **CLIP-guided black-box domain adaptation of image classification** [[PDF]](https://link.springer.com/article/10.1007/s11760-024-03101-8) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1976933170084150331&hl=en)
@@ -1314,6 +1312,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 - `L2C` [Chi et al., Proc. ICLR 2025] **Learning to adapt frozen CLIP for few-shot test-time domain adaptation** [[PDF]](https://openreview.net/forum?id=TD3SGJfBC7) [[G-Scholar--]]()
 
 - `CCD` [Kim and Shim, Proc. CVPR 2025] **Classifier-guided CLIP distillation for unsupervised multi-label classification** [[PDF]](https://arxiv.org/abs/2503.16873) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7291616615919122487&hl=en) [[CODE--]](https://github.com/k0u-id/CCD)
+
+- `OT-VP` [Zhang et al., Proc. WACV 2025] **OT-VP: Optimal transport-guided visual prompting for test-time adaptation** [[PDF]](https://arxiv.org/abs/2407.09498) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11745331765878647225&hl=en) [[CODE]](https://github.com/yunbeizhang/OT-VP)
 
 - `SOp` [Zeng et al., IJCV 2025] **Supplementary prompt learning for vision-language models** [[PDF]](https://link.springer.com/article/10.1007/s11263-025-02451-1) [[G-Scholar--]]()
 
@@ -1403,7 +1403,9 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `Surgeryv2` [Yang et al., arXiv 2024] **SurgeryV2: Bridging the gap between model merging and multi-task learning with deep representation surgery** [[PDF]](https://arxiv.org/abs/2410.14389) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1720729308555898635&hl=en) [[CODE]](https://github.com/ennengyang/surgeryv2)
 
-- `AdaRank` [Lee et al., arXiv 2025] **AdaRank: Adaptive rank pruning for enhanced model merging** [[PDF]](https://arxiv.org/abs/2503.22178) [[G-Scholar--]]() [[CODE]](https://github.com/david3684/AdaRank)
+- `AdaRank` [Lee et al., arXiv 2025] **AdaRank: Adaptive rank pruning for enhanced model merging** [[PDF]](https://arxiv.org/abs/2503.22178) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17941890181114039128&hl=en) [[CODE]](https://github.com/david3684/AdaRank)
+
+- `MINGLE` [Qiu et al., arXiv 2025] **MINGLE: Mixtures of null-space gated low-rank experts for test-time continual model merging** [[PDF]](https://arxiv.org/abs/2505.11883) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11203805628440293983&hl=en)
 
 ### Misc
 - `...` [Rufin et al., arXiv 2023] **Taking it further: Leveraging pseudo labels for field delineation across label-scarce smallholder regions** [[PDF]](https://arxiv.org/abs/2312.08384) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8445827874885835800&hl=en)

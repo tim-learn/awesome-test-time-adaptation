@@ -547,8 +547,6 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `DYN` [Jiang et al., arXiv 2024] **Discover your neighbors: Advanced stable test-time adaptation in dynamic world** [[PDF]](https://arxiv.org/abs/2406.05413) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2948296646488402340&hl=en)
 
-- `DPCore` [Zhang et al., arXiv 2024] **Dynamic domains, dynamic solutions: DPCore for continual test-time adaptation** [[PDF]](https://arxiv.org/abs/2406.10737) [[G-Scholar--]]() [[CODE--]](https://github.com/zybeich/DPCore)
-
 - `...` [Nguyen et al., arXiv 2024] **Adaptive cascading network for continual test-time adaptation** [[PDF]](https://arxiv.org/abs/2407.12240) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4275723307575902162&hl=en)
 
 - `TPD` [Zeng et al., arXiv 2024] **Graph-guided test-time adaptation for glaucoma diagnosis using fundus photography** [[PDF]](https://arxiv.org/abs/2407.04396) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10762810297733718605&hl=en)
@@ -608,6 +606,10 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `LinearTCA+` [You et al., Proc. ICML 2025] **Test-time correlation alignment** [[PDF]](https://arxiv.org/abs/2505.00533) [[G-Scholar--]]() [[CODE]](https://github.com/youlj109/TCA)
 
+- `DPCore` [Zhang et al., Proc. ICML 2025] **DPCore: Dynamic prompt coreset for continual test-time adaptation** [[PDF]](https://arxiv.org/abs/2406.10737) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15485063974376049341&hl=en) [[CODE]](https://github.com/zybeich/DPCore
+
+  ~~`DPCore` [Zhang et al., arXiv 2024] **Dynamic domains, dynamic solutions: DPCore for continual test-time adaptation** [[PDF]](https://arxiv.org/abs/2406.10737) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15485063974376049341&hl=en) [[CODE]](https://github.com/zybeich/DPCore)~~
+
 - `SURGEON` [Ma et al., Proc. CVPR 2025] **SURGEON: Memory-adaptive fully test-time adaptation via dynamic activation sparsity** [[PDF]](https://arxiv.org/abs/2503.20354) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5585816655006700047&hl=en) [[CODE--]](https://github.com/kadmkbl/SURGEON)
 
 - `PALM` [Maharana et al., Proc. AAAI 2025] **PALM: Pushing adaptive learning rate mechanisms for continual test-time adaptation** [[PDF]](https://arxiv.org/abs/2403.10650) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7716777332753810830&hl=en)
@@ -638,7 +640,9 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `CUI` [Lyu et al., arXiv 2025] **Conformal uncertainty indicator for continual test-time adaptation** [[PDF]](https://arxiv.org/abs/2502.02998) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18066822712608427666&hl=en)
 
-- `BoTTA` [Danilowski et al., arXiv 2025] **BoTTA: Benchmarking on-device test time adaptation** [[PDF]](https://arxiv.org/abs/2504.10149) [[G-Scholar--]]()
+- `BoTTA` [Danilowski et al., arXiv 2025] **BoTTA: Benchmarking on-device test time adaptation** [[PDF]](https://arxiv.org/abs/2504.10149) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18203268026542739521&hl=en)
+
+- `ReservoirTTA` [Vray et al., arXiv 2025] **ReservoirTTA: Prolonged test-time adaptation for evolving and recurring domains** [[PDF]](https://arxiv.org/abs/2505.14511) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4723775664539355283&hl=en)
 
 ### Attacks & Defenses
 - `TePA` [Cong et al., Proc. S&P 2024] **Test-time poisoning attacks against test-time adaptation models** [[PDF]](https://arxiv.org/abs/2308.08505) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13810860861574844121&hl=en) [[CODE]](https://github.com/tianshuocong/TePA)
@@ -675,6 +679,9 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 - `AdaND` [Cao et al., Proc. ICLR 2025] **Noisy test-time adaptation in vision-language models** [[PDF]](https://openreview.net/forum?id=iylpeTI0Ql) [[G-Scholar--]]() [[CODE]](https://github.com/donghao51/AEO)
 
 - `StatA` [Zanella et al., arXiv 2025] **Realistic test-time adaptation of vision-language models** [[PDF]](https://arxiv.org/abs/2501.03729) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16402829394452610007&hl=en) [[CODE]](https://github.com/MaxZanella/StatA)
+
+- `UnInfo` [Adachi et al., arXiv 2025] **Uniformity first: Uniformity-aware test-time
+adaptation of vision-language models against image corruption** [[PDF]](https://arxiv.org/abs/2505.12912) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5213743477778789283&hl=en) [[CODE]](https://github.com/kzkadc/uninfo)
 
 ### Segmentation
 - `RNCR` [Hu et al., Proc. MICCAI 2021] **Fully test-time adaptation for image segmentation** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-030-87199-4_24) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18183176392541200399&hl=en)
@@ -764,7 +771,9 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 ### Speech
 - `CEA` [Liu et al., arXiv 2023] **Advancing test-time adaptation for acoustic foundation models in open-world shifts** [[PDF]](https://arxiv.org/abs/2310.09505) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17833880766013368425&hl=en)
 
-- `DSUTA` [Lin et al., arXiv 2024] **Continual test-time adaptation for end-to-end speech recognition on noisy speech** [[PDF]](https://arxiv.org/abs/2406.11064) [[G-Scholar--]]()
+- `DSUTA` [Lin et al., Proc. EMNLP 2024] **Continual test-time adaptation for end-to-end speech recognition on noisy speech** [[PDF]](https://arxiv.org/abs/2406.11064) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6680131737033978589&hl=en)
+
+- `AdaKWS` [Xiao et al., Proc. Interspeech 2025] **AdaKWS: Towards robust keyword spotting with test-time adaptation** [[PDF]](https://arxiv.org/abs/2505.14600) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9529877626939198650&hl=en)
 
 ### Defense
 - `Dent` [Wang et al., arXiv 2021] **Fighting gradients with gradients: Dynamic defenses against adversarial attacks** [[PDF]](https://arxiv.org/abs/2105.08714) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17688777795747313333&hl=en) [[CODE]](https://github.com/DequanWang/dent)
