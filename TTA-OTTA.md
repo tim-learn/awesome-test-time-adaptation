@@ -606,9 +606,9 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `LinearTCA+` [You et al., Proc. ICML 2025] **Test-time correlation alignment** [[PDF]](https://arxiv.org/abs/2505.00533) [[G-Scholar--]]() [[CODE]](https://github.com/youlj109/TCA)
 
-- `DPCore` [Zhang et al., Proc. ICML 2025] **DPCore: Dynamic prompt coreset for continual test-time adaptation** [[PDF]](https://arxiv.org/abs/2406.10737) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15485063974376049341&hl=en) [[CODE]](https://github.com/zybeich/DPCore
+- `DPCore` [Zhang et al., Proc. ICML 2025] **DPCore: Dynamic prompt coreset for continual test-time adaptation** [[PDF]](https://arxiv.org/abs/2406.10737) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15485063974376049341&hl=en) [[CODE]](https://github.com/zybeich/DPCore)
 
-  ~~`DPCore` [Zhang et al., arXiv 2024] **Dynamic domains, dynamic solutions: DPCore for continual test-time adaptation** [[PDF]](https://arxiv.org/abs/2406.10737) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15485063974376049341&hl=en) [[CODE]](https://github.com/zybeich/DPCore)~~
+  ~~[Zhang et al., arXiv 2024] **Dynamic domains, dynamic solutions: DPCore for continual test-time adaptation** [[PDF]](https://arxiv.org/abs/2406.10737) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15485063974376049341&hl=en) [[CODE]](https://github.com/zybeich/DPCore)~~
 
 - `SURGEON` [Ma et al., Proc. CVPR 2025] **SURGEON: Memory-adaptive fully test-time adaptation via dynamic activation sparsity** [[PDF]](https://arxiv.org/abs/2503.20354) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5585816655006700047&hl=en) [[CODE--]](https://github.com/kadmkbl/SURGEON)
 
