@@ -74,7 +74,9 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `IEL` [Remington et al., Misc 2024] **IEL: Intra-model ensemble learning for single sample test-time adaptation** [[PDF]](https://openreview.net/forum?id=4LiegvCeQD) [[G-Scholar--]]()
 
-- `SPA` [Niu et al., arXiv 2025] **Self-bootstrapping for versatile test-time adaptation** [[PDF]](https://arxiv.org/abs/2504.08010) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18198101999279076327&hl=en)
+- `SPA` [Niu et al., Proc. ICML 2025] **Self-bootstrapping for versatile test-time adaptation** [[PDF]](https://arxiv.org/abs/2504.08010) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18198101999279076327&hl=en)
+
+- `ReCAP` [Hu et al., Proc. ICML 2025] **Beyond entropy: Region confidence proxy for wild test-time adaptation** [[PDF]](https://arxiv.org/abs/2505.20704) [[G-Scholar]](https://scholar.google.com/scholar?cluster=581226220946371682&hl=en) [[CODE]](https://github.com/hzcar/ReCAP)
 
 - `OD-TTA` [Ma et al., arXiv 2025] **On-demand test-time adaptation for edge devices** [[PDF]](https://arxiv.org/abs/2505.00986) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10253068990217161308&hl=en)
 
@@ -794,6 +796,8 @@ adaptation of vision-language models against image corruption** [[PDF]](https://
 - `DiffTTA` [Yang et al., Proc. CVPR 2024] **Genuine knowledge from practice: Diffusion test-time adaptation for video adverse weather removal** [[PDF]](https://arxiv.org/abs/2403.07684) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2362711304803738776&hl=en)
 
 - `ST2ST` [Fahim et al., Proc. CVPR Workshops 2024] **ST2ST: Self-supervised test-time adaptation for video action recognition** [[PDF]](https://tta-cvpr2024.github.io/_downloads/71c70b99c912cb3c70bd2f6cd13023b7/matp_5_st2st_self_supervised_test_tim.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11039226010014788470&hl=en) 
+
+- `...` [Zeng et al., IEEE TCSVT 2025] **Exploring audio cues for enhanced test-time video model adaptation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/11036107) [[G-Scholar--]]()
 
 ### Multi-modal
 - `SuMi` [Guo and Jin, Proc. ICLR 2025] **Smoothing the shift: Towards stable test-time adaptation under complex multimodal noises** [[PDF]](https://openreview.net/forum?id=rObkvzJxTG) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17892570839833145671&hl=en) [[CODE]](https://github.com/zrguo/SuMi)
