@@ -544,6 +544,9 @@ blurring** [[PDF]](https://arxiv.org/abs/2407.09059) [[G-Scholar]](https://schol
 ### Image manipulation localization
 - `ForgeryTTT` [Liu et al., arXiv 2024] **ForgeryTTT: Zero-shot image manipulation localization with test-time training** [[PDF]](https://arxiv.org/abs/2410.04032) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3479083020472177316&hl=en)
 
+### Out-of-distribution detection
+- `DCC` [Guo et al., Proc. ICML 2025] **Improving out-of-distribution detection via dynamic covariance calibration** [[PDF]](https://arxiv.org/abs/2506.09399) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17963286134857951547&hl=en) [[CODE]](https://github.com/workerbcd/ooddcc)
+
 ### Misc
 - `PAD` [Hansen et al., Proc. ICLR 2021] **Self-supervised policy adaptation during deployment** [[PDF]](https://openreview.net/forum?id=o_V-MjyyGV_) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10107448604973336784&hl=en) [[CODE]](https://github.com/nicklashansen/policy-adaptation-during-deployment)
 
