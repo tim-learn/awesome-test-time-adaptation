@@ -92,8 +92,6 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `TPS` [Sui et al., Proc. CVPR Workshops 2024] **Just shift it: Test-time prototype shifting for zero-shot generalization with vision-language models** [[PDF]](https://arxiv.org/abs/2403.12952) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15629234813577501375&hl=en) [[CODE]](https://github.com/elaine-sui/TPS)
 
-- `SDA` [Guo et al., arXiv 2024] **Everything to the synthetic: Diffusion-driven test-time adaptation via synthetic-domain alignment** [[PDF]](https://arxiv.org/abs/2406.04295) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2953274777395588123&hl=en) [[CODE]](https://github.com/SHI-Labs/Diffusion-Driven-Test-Time-Adaptation-via-Synthetic-Domain-Alignment)
-
 - `...` [Hu et al., arXiv 2024] **Diffusion model driven test-time image adaptation for robust skin lesion classification** [[PDF]](https://arxiv.org/abs/2405.11289) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3035106452576593208&hl=en) [[CODE--]](https://github.com/minghu0830/Skin-TTA_Diffusion)
 
 - `IT3` [Durasov et al., arXiv 2024] **IT3: Idempotent test-time training** [[PDF]](https://arxiv.org/abs/2410.04201) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17706467862678052230&hl=en)
@@ -101,6 +99,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 - `IEL` [Remington et al., Misc 2024] **IEL: Intra-model ensemble learning for single sample test-time adaptation** [[PDF]](https://openreview.net/forum?id=4LiegvCeQD) [[G-Scholar--]]()
 
 #### 2025
+- `SDA` [Guo et al., Proc. CVPR 2025] **Everything to the synthetic: Diffusion-driven test-time adaptation via synthetic-domain alignment** [[PDF]](https://arxiv.org/abs/2406.04295) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2953274777395588123&hl=en) [[CODE]](https://github.com/SHI-Labs/Diffusion-Driven-Test-Time-Adaptation-via-Synthetic-Domain-Alignment)
+
 - `IIDC` [Jiang et al., Neurocomputing 2025] **Iterative compression towards in-distribution features in domain generalization** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0925231225006836) [[G-Scholar--]]()
 
 - `SPACE` [Luo et al., arXiv 2025] **SPACE: SPike-aware consistency enhancement for test-time adaptation in spiking neural networks** [[PDF]](https://arxiv.org/abs/2504.02298) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7586272821935183146&hl=en)
@@ -195,13 +195,15 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 
 - `SemLA` [Qorbani et al., Proc. CVPR 2025] **Semantic library adaptation: LoRA retrieval and fusion for open-vocabulary semantic segmentation** [[PDF]](https://arxiv.org/abs/2503.21780) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1976459732370966731&hl=en) [[CODE]](https://github.com/rezaqorbani/SemLA)
 
+- `VICT` [Xie et al., Proc. CVPR 2025] **Test-time visual in-context tuning** [[PDF]](https://arxiv.org/abs/2503.21777) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7003206240281730298&hl=en) [[CODE]](https://github.com/Jiahao000/VICT)
+
+- `...` [Chen et al., Proc. ICCV 2025] **Test-time adaptation for foundation medical segmentation model without parametric updates** [[PDF]](https://arxiv.org/abs/2504.02008) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6369203664695106285&hl=en)
+
 - `Seg-TTO` [Silva et al., arXiv 2025] **Test-time optimization for domain adaptive open vocabulary segmentation** [[PDF]](https://arxiv.org/abs/2501.04696) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11664277597711483004&hl=en)
 
 - `INT` [Hu et al., arXiv 2025] **INT: Instance-specific negative mining for task-generic promptable segmentation** [[PDF]](https://arxiv.org/abs/2501.18753) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18003844780246240761&hl=en)
 
-- `...` [Chen et al., arXiv 2025] **Test-time adaptation for foundation medical segmentation model without parametric updates** [[PDF]](https://arxiv.org/abs/2504.02008) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6369203664695106285&hl=en)
-
-- `AutoMiSeg` [Li et al., arXiv 2025] **AutoMiSeg: Automatic medical image segmentation via test-time adaptation of foundation models** [[PDF]](https://arxiv.org/abs/2505.17931) [[G-Scholar--]]()
+- `AutoMiSeg` [Li et al., arXiv 2025] **AutoMiSeg: Automatic medical image segmentation via test-time adaptation of foundation models** [[PDF]](https://arxiv.org/abs/2505.17931) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9186294718968419174&hl=en)
 
 ### Detection
 - `OSHOT` [D'Innocente et al., Proc. ECCV 2020] **One-shot unsupervised cross-domain detection** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-030-58517-4_43) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7600955351500947376&hl=en) [[CODE]](https://github.com/VeloDC/oshot_detection)
@@ -496,8 +498,6 @@ blurring** [[PDF]](https://arxiv.org/abs/2407.09059) [[G-Scholar]](https://schol
 
 - `TCA` [Wang et al., arXiv 2024] **Tokens on demand: Token condensation as training-free test-time adaptation** [[PDF]](https://arxiv.org/abs/2410.14729) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13325682508138007943&hl=en)
 
-- `TAPT` [Wang et al., arXiv 2024] **TAPT: Test-time adversarial prompt tuning for robust inference in vision-language models** [[PDF]](https://arxiv.org/abs/2411.13136) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17479152377155248319&hl=en)
-
 - `TS3` [Yin et al., arXiv 2024] **S3: Synonymous semantic space for improving zero-shot generalization of vision-language models** [[PDF]](https://arxiv.org/abs/2412.04925) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5247100664641347141&hl=en)
 
 - `MP-TPT` [Huang et al., Misc 2024] **Multi-perspective test-time prompt tuning for global, local visuals, and language** [[PDF]](https://openreview.net/forum?id=0Xc6o1HKXD) [[G-Scholar--]]()
@@ -505,6 +505,8 @@ blurring** [[PDF]](https://arxiv.org/abs/2407.09059) [[G-Scholar]](https://schol
 - `RA-TTA` [Lee et al., Proc. ICLR 2025] **RA-TTA: Retrieval-augmented test-time adaptation for vision-language models** [[PDF]](https://openreview.net/forum?id=V3zobHnS61) [[G-Scholar--]]()
 
 - `BEM` [Wu et al., Proc. ICLR 2025] **Multi-label test-time adaptation with bound entropy minimization** [[PDF]](https://openreview.net/forum?id=75PhjtbBdr) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15554800015800904362&hl=en) [[CODE]](https://anonymous.4open.science/r/ML-TTA-10BE/README.md)
+
+- `TAPT` [Wang et al., Proc. CVPR 2025] **TAPT: Test-time adversarial prompt tuning for robust inference in vision-language models** [[PDF]](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_TAPT_Test-Time_Adversarial_Prompt_Tuning_for_Robust_Inference_in_Vision-Language_CVPR_2025_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17479152377155248319&hl=en)
 
 - `O-TPT` [Sharifdeen et al., Proc. CVPR 2025] **O-TPT: Orthogonality constraints for calibrating test-time prompt tuning in vision-language models** [[PDF]](https://arxiv.org/abs/2503.12096) [[G-Scholar--]]() [[CODE]](https://github.com/ashshaksharifdeen/O-TPT)
 
@@ -612,9 +614,11 @@ blurring** [[PDF]](https://arxiv.org/abs/2407.09059) [[G-Scholar]](https://schol
 
 - `TTT4D` [Zhang et al., arXiv 2025] **Test time training for 4D medical image interpolation** [[PDF]](https://arxiv.org/abs/2502.02341) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1240940334208942556&hl=en) [[CODE]](https://github.com/ChaosTheProducer/TTT4D)
 
-- `R2-T2` [Li et al., arXiv 2025] **R2-T2: Re-Routing in test-time for multimodal mixture-of-experts** [[PDF]](https://arxiv.org/abs/2502.20395) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2630379142017530500&hl=en) [[CODE]](https://github.com/tianyi-lab/R2-T2)
+- `R2-T2` [Li et al., arXiv 2025] **R2-T2: Re-routing in test-time for multimodal mixture-of-experts** [[PDF]](https://arxiv.org/abs/2502.20395) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2630379142017530500&hl=en) [[CODE]](https://github.com/tianyi-lab/R2-T2)
 
 - `TTMM` [Bertolissi et al., arXiv 2025] **Local mixtures of experts: Essentially free test-time training via model merging** [[PDF]](https://arxiv.org/abs/2505.14136) [[G-Scholar]](https://scholar.google.com/scholar?cluster=362057851846694197&hl=en) [[CODE]](https://github.com/rbertolissi/ttmerge)
+
+- `Highlight-TTA` [Islam et al., arXiv 2025] **Ttest-time adaptation for video highlight detection using meta-auxiliary learning and cross-modality hallucinations** [[PDF]](https://arxiv.org/abs/2508.04924) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17441714860157138227&hl=en)
 
 ## Batch-level
 ### Classification

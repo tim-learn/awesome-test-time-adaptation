@@ -642,8 +642,6 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `SlimTTT` [Cai et al., Misc 2024] **Resource efficient test-time training with slimmable network** [[PDF]](https://openreview.net/forum?id=7iuFxx9Ccx) [[G-Scholar--]]()
 
-- `LPR` [Yoo et al., Misc 2024] **Label space-induced pseudo label refinement for multi-source black-box domain adaptation** [[PDF]](https://openreview.net/forum?id=JGTC6WgO4T) [[G-Scholar--]]()
-
 - `...` [Musabe, Master Thesis 2024] **Towards regression-free and source-free online domain adaptation** [[PDF]](https://mspace.lib.umanitoba.ca/items/d9190005-e89a-4b46-b2de-f12042436094) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8863159720183005103&hl=en)
 
 - `...` [Eastwood, Phd Thesis 2024] **Shift happens: How can machine learning systems be best prepared?** [[PDF]](https://era.ed.ac.uk/handle/1842/41628) [[G-Scholar--]]()
@@ -659,9 +657,11 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 
 - `GROTO` [Deng et al., Proc. CVPR 2025] **Multi-granularity class prototype topology distillation for class-incremental source-free unsupervised domain adaptation**  [[PDF]](https://arxiv.org/abs/2411.16064) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7070005802717419106&hl=en) [[CODE]](https://github.com/dengpeihua/GROTO)
 
-- `BN-SFDA` [Deng et al., Proc. AISTATS 2025] **Rethinking the role of batch normalization in source-free domain adaptation** [[PDF]](https://openreview.net/forum?id=NiyGv5qTzI) [[G-Scholar--]]() [[CODE]](https://github.com/SJTU-dxw/BN-SFDA)
+- `...` [Zhu et al., Proc. CVPR 2025] **Revisiting source-free domain adaptation: Insights into representativeness, generalization, and variety** [[PDF]](https://openaccess.thecvf.com/content/CVPR2025/html/Zhu_Revisiting_Source-Free_Domain_Adaptation_Insights_into_Representativeness_Generalization_and_Variety_CVPR_2025_paper.html) [[G-Scholar--]]()
 
-- `EBPR` [Deng et al., Proc. AISTATS 2025] **Leveraging frozen batch normalization for co-training in source-free domain adaptation** [[PDF]](https://proceedings.mlr.press/v258/deng25c.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16283498704495397599&hl=en) [[CODE]](https://github.com/SJTU-dxw/BN-SFDA)
+- `DTE` [Liu et al., Proc. CVPR 2025] **Distinguish then exploit: Source-free open set domain adaptation via weight barcode estimation and sparse label assignment**  [[PDF]](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Distinguish_Then_Exploit_Source-free_Open_Set_Domain_Adaptation_via_Weight_CVPR_2025_paper.html) [[G-Scholar--]]()
+
+- `BN-SFDA` [Deng et al., Proc. AISTATS 2025] **Leveraging frozen batch normalization for co-training in source-free domain adaptation** [[PDF]](https://proceedings.mlr.press/v258/deng25c.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16283498704495397599&hl=en) [[CODE]](https://github.com/SJTU-dxw/BN-SFDA)
 
 - `GMM` [Schlachter et al., Proc. WACV 2025] **Memory-efficient pseudo-labeling for online source-free universal domain adaptation using a gaussian mixture model** [[PDF]](https://arxiv.org/abs/2407.14208) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5405263564082143661&hl=en) [[CODE]](https://github.com/pascalschlachter/GMM)
 
@@ -670,6 +670,8 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 - `ElimPCL` [Cheng et al., Proc. ICME 2025] **ElimPCL: Eliminating noise accumulation with progressive curriculum labeling for source-free domain adaptation** [[PDF]](https://arxiv.org/abs/2503.23712) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15452441344301908136&hl=en)
 
 - `NVC-LLN` [Xu et al., IEEE TPAMI 2025] **Unraveling the mysteries of label noise in source-free domain adaptation: Theory and practice** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10858421) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6005165208774683209&hl=en) [[CODE]](https://github.com/xugezheng/labelNoiseInSFDA)
+
+- `LPR` [Yoo et al., IEEE TIP 2024] **Label space-induced pseudo label refinement for multi-source black-box domain adaptation** [[PDF]](https://openreview.net/forum?id=JGTC6WgO4T) [[G-Scholar--]]()
 
 - `FuzHDA` [Li et al., IEEE TFUZZ 2025] **Fuzzy domain adaptation from heterogeneous source teacher models** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10883015/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9134621624830129177&hl=en)
 
@@ -1134,15 +1136,17 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `...` [Soylu et al., IEEE TBME 2025] **Migration of deep learning models across ultrasound scanners** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10977778/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3359585114202157563&hl=en)
 
-- `MPPL-SFDA` [Zhang et al., Biomedical Signal Processing and Control 2025] **Multicentric prototype and pseudo-labeling based source-free domain adaptation for Alzheimer's disease classification** [[PDF]](https://www.sciencedirect.com/science/article/pii/S1746809424015416) [[G-Scholar--]]()
+- `ProSFDA` [Hu et al., Pattern Recognition 2025] **Source-free domain adaptation using prompt learning for medical image segmentation** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320325009513) [[G-Scholar--]]() [[CODE]](https://github.com/ShishuaiHu/ProSFDA)
+
+- `MPPL-SFDA` [Zhang et al., Biomedical Signal Processing and Control 2025] **Multicentric prototype and pseudo-labeling based source-free domain adaptation for Alzheimer's disease classification** [[PDF]](https://www.sciencedirect.com/science/article/pii/S1746809424015416) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15201571002467832800&hl=en)
 
 - `ESFDA` [Zhou et al., Biomedical Signal Processing and Control 2025] **Progressive pseudo-labels enhancement for source-free domain adaptation medical image segmentation** [[PDF]](https://www.sciencedirect.com/science/article/pii/S1746809425005646) [[G-Scholar--]]() [[CODE]](https://github.com/ggllllll/ESFDA)
 
-- `C2MAL` [Zhou et al., Medical & Biological Engineering & Computing 2025] **C2MAL: Cascaded network-guided class-balanced multi-prototype auxiliary learning for source-free domain adaptive medical image segmentation** [[PDF]](https://link.springer.com/article/10.1007/s11517-025-03287-0) [[G-Scholar--]]()
+- `C2MAL` [Zhou et al., Medical & Biological Engineering & Computing 2025] **C2MAL: Cascaded network-guided class-balanced multi-prototype auxiliary learning for source-free domain adaptive medical image segmentation** [[PDF]](https://link.springer.com/article/10.1007/s11517-025-03287-0) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13976412109320209474&hl=en)
 
-- `RIOG` [Yan et al., IEEE Sensors Journal 2025] **RIOG: Rectify-to-match gradient for source-free domain adaptive medical image segmentation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10980183) [[G-Scholar--]]() [[CODE]](https://github.com/dogeONE-bit/RIOG)
+- `RIOG` [Yan et al., IEEE Sensors Journal 2025] **RIOG: Rectify-to-match gradient for source-free domain adaptive medical image segmentation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10980183) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10452141168785889020&hl=en) [[CODE]](https://github.com/dogeONE-bit/RIOG)
 
-- `DiT-SFDA` [Wang et al., Expert Systems with Applications 2025] **DiT-SFDA: A source-free domain adaptation method for intelligent diagnosis of cardiovascular diseases with limited heart sound samples** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10980183) [[G-Scholar--]]()
+- `DiT-SFDA` [Wang et al., Expert Systems with Applications 2025] **DiT-SFDA: A source-free domain adaptation method for intelligent diagnosis of cardiovascular diseases with limited heart sound samples** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10980183) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14580884301475166651&hl=en)
 
 ## Video Classification
 ### 2022
@@ -1217,7 +1221,7 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `SDA-FAS++` [Liu et al., IEEE TPAMI 2024] **Source-free domain adaptation with domain generalized pretraining for face anti-spoofing** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10449373) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6628630424057197693&hl=en)
 
-- `OTA` [Li et al.,  arXiv 2025] **Optimal transport-guided source-free adaptation for face anti-spoofing** [[PDF]](https://arxiv.org/abs/2503.22984) [[G-Scholar--]]()
+- `OTA` [Li et al.,  Proc. CVPR 2025] **Optimal transport-guided source-free adaptation for face anti-spoofing** [[PDF]](https://arxiv.org/abs/2503.22984) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2180790669821559803&hl=en)
 
 ### Occluded Face Recognition
 - `SFOFR` [Zhang et al., Proc. ICASSP 2022] **Free lunch for cross-domain occluded face recognition without source data** [[PDF]](https://ieeexplore.ieee.org/abstract/document/9746642/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11652130877492418578&hl=en)
@@ -1780,8 +1784,11 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `...` [Zeng et al., arXiv 2024] **LLM embeddings improve test-time adaptation to tabular Y|X-shifts** [[PDF]](https://arxiv.org/abs/2410.07395) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18201469738692370537&hl=en) [[CODE]](https://github.com/namkoong-lab/LLM-Tabular-Shifts)
 
+### 2025
+- `RIOG` [Yan et al., IEEE Sensors Journal 2025] **RIOG: Rectify-to-match gradient for source-free domain adaptive medical image segmentation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10980183) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10452141168785889020&hl=en) [[CODE]](https://github.com/dogeONE-bit/RIOG)
+
 - `ACT` [Li and Wu et al., arXiv 2025] **Asymmetric co-training for source-free few-shot domain adaptation** [[PDF]](https://arxiv.org/abs/2502.14214) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14716110979078801764&hl=en) [[CODE]](https://github.com/gengxuli/ACT)
 
-- `ISA` [Fan et al., arXiv 2025] **Adapting in-domain few-shot segmentation to new domains without retraining** [[PDF]](https://arxiv.org/abs/2504.21414) [[G-Scholar--]]()
+- `ISA` [Fan et al., arXiv 2025] **Adapting in-domain few-shot segmentation to new domains without retraining** [[PDF]](https://arxiv.org/abs/2504.21414) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4911420265576809229&hl=en)
 
-- `RIOG` [Yan et al., IEEE Sensors Journal 2025] **RIOG: Rectify-to-match gradient for source-free domain adaptive medical image segmentation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10980183) [[G-Scholar--]]() [[CODE]](https://github.com/dogeONE-bit/RIOG)
+- `...` [Wang and Henao, arXiv 2025] **Model recycling framework for multi-source data-free supervised transfer learning** [[PDF]](https://arxiv.org/abs/2508.02039) [[G-Scholar--]]()
