@@ -5,7 +5,11 @@ A curated list of awesome test-time (**<u>domain/ batch/ instance/ online/ prior
 ## Problem
 ![avatar](TTA.png)
 
+## Update
+- [Sep 8, 2025] **Interested in maintaining this project?** We're looking for contributors to help keep it active and growing. Feel free to open an issue or reach out to me via email.
+
 ## Contents
+
 - [Test-Time (Source-Free) Domain Adaptation (SFDA)](./TTA-SFDA.md)
 
 - [Test-Time Batch Adaptation (TTBA)](./TTA-TTBA.md/#Batch-level)
