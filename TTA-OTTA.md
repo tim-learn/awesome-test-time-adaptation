@@ -624,9 +624,13 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `TCA` [Zanella et al., Proc. CVPR 2025] **Maintaining consistent inter-class topology in continual test-time adaptation** [[PDF]](https://openaccess.thecvf.com/content/CVPR2025/html/Ni_Maintaining_Consistent_Inter-Class_Topology_in_Continual_Test-Time_Adaptation_CVPR_2025_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=927027564537858734&hl=en) [[CODE]](https://github.com/Successybbdwm/TCA)
 
+- `DUO` [Hu et al., Proc. ICCV 2025] **Adaptive dual uncertainty optimization: Boosting monocular 3D object detection under test-time shifts** [[PDF]](https://arxiv.org/abs/2508.20488) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13512312493051996719&hl=en) [[CODE]](https://github.com/hzcar/DUO)
+
 - `PALM` [Maharana et al., Proc. AAAI 2025] **PALM: Pushing adaptive learning rate mechanisms for continual test-time adaptation** [[PDF]](https://arxiv.org/abs/2403.10650) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7716777332753810830&hl=en)
 
 - `MGTTA` [Deng et al., Proc. AAAI 2025] **Learning to generate gradients for test-time adaptation via test-time training layers** [[PDF]](https://arxiv.org/abs/1910.03915) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9513025851068109507&hl=en) [[CODE--]](https://github.com/keikeiqi/MGTTA)
+
+- `PAF` [Lee et al., Proc. BMVC 2025] **Stabilizing open-set test-time adaptation via primary-auxiliary filtering and knowledge-integrated prediction** [[PDF]](https://arxiv.org/abs/2508.18751) [[G-Scholar--]]() [[CODE--]](https://github.com/powerpowe/PAF-KIP-OSTTA)
 
 - `SoTa-DiT` [Ma and Qian, Proc. WACV 2025] **Disentangle source and target knowledge for continual test-time adaptation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10943676/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3293156536862292747&hl=en)
 
@@ -662,6 +666,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `ReservoirTTA` [Vray et al., arXiv 2025] **ReservoirTTA: Prolonged test-time adaptation for evolving and recurring domains** [[PDF]](https://arxiv.org/abs/2505.14511) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4723775664539355283&hl=en)
 
+- `NAVIA` [Xiong et al., arXiv 2025] **Neutralizing token aggregation via information augmentation for efficient test-time adaptation** [[PDF]](https://arxiv.org/abs/2508.03388) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6441315597540574113&hl=en)
+
 ### Attacks & Defenses
 - `TePA` [Cong et al., Proc. S&P 2024] **Test-time poisoning attacks against test-time adaptation models** [[PDF]](https://arxiv.org/abs/2308.08505) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13810860861574844121&hl=en) [[CODE]](https://github.com/tianshuocong/TePA)
 
@@ -678,7 +684,7 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `HisTPT` [Zhang et al., Proc. NeurIPS 2024] **Historical test-time prompt tuning for vision foundation models** [[PDF]](https://arxiv.org/abs/2410.20346) [[G-Scholar]](https://scholar.google.com/scholar?cluster=326021961961482674&hl=en)
 
-- `VTE` [Döbler et al., Proc. CVPR Workshops 2024] **A lost opportunity for vision-language models: A comparative study of online test-time adaptation for vision-language models** [[PDF]](https://arxiv.org/abs/2405.14977) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7035942210888393067&hl=en) [[CODE]](https://github.com/mariodoebler/test-time-adaptation)
+- `VTE` [Döbler et al., Proc. ECCV Workshops 2024] **A lost opportunity for vision-language models: A comparative study of online test-time adaptation for vision-language models** [[PDF]](https://arxiv.org/abs/2405.14977) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7035942210888393067&hl=en) [[CODE]](https://github.com/mariodoebler/test-time-adaptation)
 
 - `PCoTTA` [Wang et al., Proc. IJCNN 2024] **Prompt-Based memory bank for continual test-time domain adaptation in vision-language models** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10650069) [[G-Scholar--]]()
 
