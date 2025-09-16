@@ -191,11 +191,14 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `TCA` [Wang et al., Proc. ICCV 2025] **Is less more? Exploring token condensation as training-free test-time adaptation** [[PDF]](https://arxiv.org/abs/2410.14729) [[G-Scholar--]]() [[CODE]](https://github.com/Jo-wang/TCA)
 
+- `ETTA` [Dastmalchi et al., Proc. BMVC 2025] **ETTA: Efficient test-time adaptation for
+vision-language models through dynamic embedding updates** [[PDF]](https://arxiv.org/abs/2508.05898) [[G-Scholar]](https://scholar.google.com/scholar?cluster=618416185775245059&hl=en) [[CODE]](https://github.com/hamidreza-dastmalchi/ETTA)
+
 - `CRG` [Zhai et al., Proc. ICME 2025] **Mitigating cache noise in test-time adaptation for large vision-language models** [[PDF]](https://arxiv.org/abs/2503.18334) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9415287172058415858&hl=en)
 
-- `OGA` [Fuchs et al., arXiv 2025] **Online gaussian test-time adaptation of vision-language models** [[PDF]](https://arxiv.org/abs/2501.04352) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16801571758871886215&hl=en) [[CODE]](https://github.com/cfuchs2023/OGA)
-
 - `MoE-TTA` [Iftee et al., Proc. ICCIT 2025] **MoE-TTA: Enhancing continual test-time adaptation for vision-language models through mixture of experts** [[PDF]](https://mdakilraihaniftee.github.io/assets/pdf/moe-tta.pdf) [[G-Scholar--]]() 
+
+- `OGA` [Fuchs et al., arXiv 2025] **Online gaussian test-time adaptation of vision-language models** [[PDF]](https://arxiv.org/abs/2501.04352) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16801571758871886215&hl=en) [[CODE]](https://github.com/cfuchs2023/OGA)
 
 ### Vision-and-language navigation
 - `EAM` [Tan et al., IEEE TMM 2025] **Source-free elastic model adaptation for vision-and-language navigation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10856447) [[G-Scholar--]]()
@@ -668,6 +671,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `NAVIA` [Xiong et al., arXiv 2025] **Neutralizing token aggregation via information augmentation for efficient test-time adaptation** [[PDF]](https://arxiv.org/abs/2508.03388) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6441315597540574113&hl=en)
 
+- `ADVMEM` [Alhuwaider et al., arXiv 2025] **ADVMEM: Adversarial memory initialization for realistic test-time adaptation via tracklet-based benchmarking** [[PDF]](https://arxiv.org/abs/2509.02182) [[G-Scholar--]]() [[CODE--]](https://github.com/Shay9000/advMem)
+
 ### Attacks & Defenses
 - `TePA` [Cong et al., Proc. S&P 2024] **Test-time poisoning attacks against test-time adaptation models** [[PDF]](https://arxiv.org/abs/2308.08505) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13810860861574844121&hl=en) [[CODE]](https://github.com/tianshuocong/TePA)
 
@@ -873,7 +878,9 @@ adaptation of vision-language models against image corruption** [[PDF]](https://
 
 - `ProxyTTA` [Park et al., Proc. CVPR 2024] **Test-time adaptation for depth completion** [[PDF]](https://arxiv.org/abs/2402.03312) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1187743167076919385&hl=en)
 
-- `...` [Hyoseok et al., Proc. AAAI 2025] **Zero-shot depth completion via test-time alignment with affine-invariant depth prior** [[PDF]](https://arxiv.org/abs/2502.06338) [[G-Scholar--]]() [[CODE]](https://github.com/postech-ami/Zero-Shot-Depth-Completion)
+- `ETA` [Chung et al., Proc. ICCV 2025] **ETA: Energy-based test-time adaptation for depth completion** [[PDF]](https://arxiv.org/abs/2508.05989) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5313827292505568032&hl=en)
+
+- `...` [Hyoseok et al., Proc. AAAI 2025] **Zero-shot depth completion via test-time alignment with affine-invariant depth prior** [[PDF]](https://arxiv.org/abs/2502.06338) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13920720012427319046&hl=en) [[CODE]](https://github.com/postech-ami/Zero-Shot-Depth-Completion)
 
 ### Federated
 - `FEDTHE+` [Jiang and Lin, Proc. ICLR 2023] **Test-time robust personalization for federated learning** [[PDF]](https://openreview.net/forum?id=3aBuJEza5sq) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8267318836942039958&hl=en) [[CODE]](https://github.com/lins-lab/fedthe)

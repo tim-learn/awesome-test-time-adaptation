@@ -797,9 +797,11 @@ federated learning** [[PDF]](https://arxiv.org/abs/2310.18816) [[G-Scholar]](htt
 - `...` [Kasa et al., Misc 2024] **Adapting prediction sets to distribution shifts without labels** [[PDF]](https://openreview.net/forum?id=k2gGy2hpfx) [[G-Scholar--]]()
 
 ### 2025
-- `TTDG-MGM` [Lv et al., Proc. CVPR 2025] **Test-time domain generalization via universe learning: A multi-graph matching approach for medical image segmentation** [[PDF]](https://arxiv.org/abs/2503.13012) [[G-Scholar--]]() [[CODE]](https://github.com/Yore0/TTDG-MGM)
+- `TTDG-MGM` [Lv et al., Proc. CVPR 2025] **Test-time domain generalization via universe learning: A multi-graph matching approach for medical image segmentation** [[PDF]](https://arxiv.org/abs/2503.13012) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4730461552932246284&hl=en) [[CODE]](https://github.com/Yore0/TTDG-MGM)
 
-- `...` [Omolegan et al., Proc. ISBI 2025] **Exploring test time adaptation for subcortical segmentation of the fetal brain in 3D ultrasound** [[PDF]](https://arxiv.org/abs/2502.08774) [[G-Scholar--]]() [[CODE]](https://github.com/joshuaomolegan/TTA-for-3D-Fetal-Subcortical-Segmentation)
+- `T2ARec` [Zhang et al., Proc. RecSys 2025] **Test-time alignment with state space model for tracking user interest shifts in sequential recommendation** [[PDF]](https://dl.acm.org/doi/abs/10.1145/3705328.3748060) [[G-Scholar--]]()
+
+- `...` [Omolegan et al., Proc. ISBI 2025] **Exploring test time adaptation for subcortical segmentation of the fetal brain in 3D ultrasound** [[PDF]](https://arxiv.org/abs/2502.08774) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9339297180258207284&hl=en) [[CODE]](https://github.com/joshuaomolegan/TTA-for-3D-Fetal-Subcortical-Segmentation)
 
 - `IGTTA` [Ravishankar et al., IEEE TMI 2025] **Information geometric approaches for patient-specific test-time adaptation of deep learning models for semantic segmentation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10880478/) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14797966070323984402&hl=en)
 

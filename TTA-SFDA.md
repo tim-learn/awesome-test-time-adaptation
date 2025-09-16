@@ -1791,4 +1791,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `ISA` [Fan et al., arXiv 2025] **Adapting in-domain few-shot segmentation to new domains without retraining** [[PDF]](https://arxiv.org/abs/2504.21414) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4911420265576809229&hl=en)
 
-- `...` [Wang and Henao, arXiv 2025] **Model recycling framework for multi-source data-free supervised transfer learning** [[PDF]](https://arxiv.org/abs/2508.02039) [[G-Scholar--]]()
+- `...` [Wang and Henao, arXiv 2025] **Model recycling framework for multi-source data-free supervised transfer learning** [[PDF]](https://arxiv.org/abs/2508.02039) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3029478131497952983&hl=en)
+
+- `...` [Kihara et al., Proc. ICIP Workshops 2025] **Rethinking the backbone in class imbalanced federated source free domain adaptation: The utility of vision foundation models** [[PDF]](https://arxiv.org/abs/2509.08372) [[G-Scholar--]]()
+
+- `SFCP` [Angelman et al., Proc. COPA 2025] **Calibrating without labels: Source-free conformal prediction using pseudo-labels** [[PDF]](https://proceedings.mlr.press/v266/angelman25a.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2560136740349043119&hl=en)
