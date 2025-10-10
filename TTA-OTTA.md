@@ -671,7 +671,9 @@ vision-language models through dynamic embedding updates** [[PDF]](https://arxiv
 
 - `NAVIA` [Xiong et al., arXiv 2025] **Neutralizing token aggregation via information augmentation for efficient test-time adaptation** [[PDF]](https://arxiv.org/abs/2508.03388) [[G-Scholar]](https://scholar.google.com/scholar?cluster=6441315597540574113&hl=en)
 
-- `ADVMEM` [Alhuwaider et al., arXiv 2025] **ADVMEM: Adversarial memory initialization for realistic test-time adaptation via tracklet-based benchmarking** [[PDF]](https://arxiv.org/abs/2509.02182) [[G-Scholar--]]() [[CODE--]](https://github.com/Shay9000/advMem)
+- `ADVMEM` [Alhuwaider et al., arXiv 2025] **ADVMEM: Adversarial memory initialization for realistic test-time adaptation via tracklet-based benchmarking** [[PDF]](https://arxiv.org/abs/2509.02182) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5206932520617637720&hl=en) [[CODE--]](https://github.com/Shay9000/advMem)
+
+- `Hi-Vec` [Ambekar et al., arXiv 2025] **Hierarchical adaptive networks with task vectors for test-time adaptation** [[PDF]](https://arxiv.org/abs/2508.09223) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15043811010135642131&hl=en)
 
 ### Attacks & Defenses
 - `TePA` [Cong et al., Proc. S&P 2024] **Test-time poisoning attacks against test-time adaptation models** [[PDF]](https://arxiv.org/abs/2308.08505) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13810860861574844121&hl=en) [[CODE]](https://github.com/tianshuocong/TePA)
@@ -719,6 +721,9 @@ vision-language models through dynamic embedding updates** [[PDF]](https://arxiv
 adaptation of vision-language models against image corruption** [[PDF]](https://arxiv.org/abs/2505.12912) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5213743477778789283&hl=en) [[CODE]](https://github.com/kzkadc/uninfo)
 
 - `BayesTTA` [Cui et al., arXiv 2025] **BayesTTA: Continual-temporal test-time adaptation for vision-language models via gaussian discriminant analysis** [[PDF]](https://arxiv.org/abs/2507.08607) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15294530545323245795&hl=en) [[CODE]](https://github.com/cuishuang99/BayesTTA)
+
+- `CLIPTTA` [Lafon et al., arXiv 2025] **CLIPTTA: Robust contrastive vision-language
+test-time adaptation** [[PDF]](https://arxiv.org/abs/2507.14312) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2879872331743642569&hl=en) [[CODE]](https://anonymous.4open.science/r/CLIPTTA-682D/README.md)
 
 ### Segmentation
 - `RNCR` [Hu et al., Proc. MICCAI 2021] **Fully test-time adaptation for image segmentation** [[PDF]](https://link.springer.com/chapter/10.1007/978-3-030-87199-4_24) [[G-Scholar]](https://scholar.google.com/scholar?cluster=18183176392541200399&hl=en)

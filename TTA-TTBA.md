@@ -518,7 +518,7 @@ blurring** [[PDF]](https://arxiv.org/abs/2407.09059) [[G-Scholar]](https://schol
 
 - `TLLA` [Li et al., arXiv 2025] **Test-time loss landscape adaptation for zero-shot generalization in vision-language models** [[PDF]](https://arxiv.org/abs/2501.18864) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5227529988235240881&hl=en)
 
-- `LoRA-TTT` [Kojima et al., arXiv 2025] **LoRA-TTT: Low-rank test-time training for vision-language models** [[PDF]](https://arxiv.org/abs/2502.02069) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3889360808457707101&hl=en)
+- `LoRA-TTT` [Kojima et al., Proc. ICML Workshops 2025] **LoRA-TTT: Low-rank test-time training for vision-language models** [[PDF]](https://arxiv.org/abs/2502.02069) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3889360808457707101&hl=en)
 
 - `TNT` [Imam et al., arXiv 2025] **Noise is an efficient learner for zero-shot vision-language models** [[PDF]](https://arxiv.org/abs/2502.06019) [[G-Scholar--]]() [[CODE--]](https://github.com/Razaimam45/TNT)
 
