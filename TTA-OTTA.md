@@ -84,6 +84,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `FRET` [You et al., arXiv 2025] **FRET: Feature redundancy elimination for test time adaptation** [[PDF]](https://arxiv.org/abs/2505.10641) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4875678160451933659&hl=en) [[CODE]](https://anonymous.4open.science/r/fret-21BD)
 
+- `Lana` [? et al., Misc 2025] **An unlearning-enhanced general framework for test-time adaptation** [[PDF]](https://openreview.net/forum?id=YtiZpRAv7e) [[G-Scholar--]]()
+
 ### Segmentation
 - `OnAVOS` [Voigtlaender and Leibe., Proc. BMVC 2017] **Online adaptation of convolutional neural networks for video object segmentation** [[PDF]](https://arxiv.org/abs/1706.09364) [[G-Scholar]](https://scholar.google.com.tw/scholar?cluster=7737687280948943248&hl=en)
 
@@ -189,7 +191,9 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `FreeTTA` [Dai and Yang, Proc. CVPR 2025] **Free on the fly: Enhancing flexibility in test-time adaptation with online EM** [[PDF]](https://openaccess.thecvf.com/content/CVPR2025/html/Dai_Free_on_the_Fly_Enhancing_Flexibility_in_Test-Time_Adaptation_with_CVPR_2025_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14191139564941373722&hl=en)
 
-- `TCA` [Wang et al., Proc. ICCV 2025] **Is less more? Exploring token condensation as training-free test-time adaptation** [[PDF]](https://arxiv.org/abs/2410.14729) [[G-Scholar--]]() [[CODE]](https://github.com/Jo-wang/TCA)
+- `BCA` [Zhou et al., Proc. CVPR 2025] **Bayesian test-time adaptation for vision-language models** [[PDF]](https://arxiv.org/abs/2503.09248) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16198302683118201187&hl=en) [[CODE]](https://github.com/buerzlh/Bayesian-Test-Time-Adaptation-for-Vision-Language-Models)
+
+- `TCA` [Wang et al., Proc. ICCV 2025] **Is less more? Exploring token condensation as training-free test-time adaptation** [[PDF]](https://arxiv.org/abs/2410.14729) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3330484032070042306&hl=en) [[CODE]](https://github.com/Jo-wang/TCA)
 
 - `ETTA` [Dastmalchi et al., Proc. BMVC 2025] **ETTA: Efficient test-time adaptation for
 vision-language models through dynamic embedding updates** [[PDF]](https://arxiv.org/abs/2508.05898) [[G-Scholar]](https://scholar.google.com/scholar?cluster=618416185775245059&hl=en) [[CODE]](https://github.com/hamidreza-dastmalchi/ETTA)
@@ -199,6 +203,8 @@ vision-language models through dynamic embedding updates** [[PDF]](https://arxiv
 - `MoE-TTA` [Iftee et al., Proc. ICCIT 2025] **MoE-TTA: Enhancing continual test-time adaptation for vision-language models through mixture of experts** [[PDF]](https://mdakilraihaniftee.github.io/assets/pdf/moe-tta.pdf) [[G-Scholar--]]() 
 
 - `OGA` [Fuchs et al., arXiv 2025] **Online gaussian test-time adaptation of vision-language models** [[PDF]](https://arxiv.org/abs/2501.04352) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16801571758871886215&hl=en) [[CODE]](https://github.com/cfuchs2023/OGA)
+
+- `BCA+` [Zhou et al., arXiv 2025] **Bayesian test-time adaptation for object recognition and detection with vision-language models** [[PDF]](https://arxiv.org/abs/2510.02750) [[G-Scholar--]]() [[CODE--]](https://github.com/buerzlh/Bayesian-Class-Adaptation-plus)
 
 ### Vision-and-language navigation
 - `EAM` [Tan et al., IEEE TMM 2025] **Source-free elastic model adaptation for vision-and-language navigation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10856447) [[G-Scholar--]]()

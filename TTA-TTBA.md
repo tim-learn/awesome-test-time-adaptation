@@ -508,23 +508,25 @@ blurring** [[PDF]](https://arxiv.org/abs/2407.09059) [[G-Scholar]](https://schol
 
 - `TAPT` [Wang et al., Proc. CVPR 2025] **TAPT: Test-time adversarial prompt tuning for robust inference in vision-language models** [[PDF]](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_TAPT_Test-Time_Adversarial_Prompt_Tuning_for_Robust_Inference_in_Vision-Language_CVPR_2025_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17479152377155248319&hl=en)
 
-- `O-TPT` [Sharifdeen et al., Proc. CVPR 2025] **O-TPT: Orthogonality constraints for calibrating test-time prompt tuning in vision-language models** [[PDF]](https://arxiv.org/abs/2503.12096) [[G-Scholar--]]() [[CODE]](https://github.com/ashshaksharifdeen/O-TPT)
+- `O-TPT` [Sharifdeen et al., Proc. CVPR 2025] **O-TPT: Orthogonality constraints for calibrating test-time prompt tuning in vision-language models** [[PDF]](https://arxiv.org/abs/2503.12096) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3286255184523310600&hl=en) [[CODE]](https://github.com/ashshaksharifdeen/O-TPT)
 
 - `TPS` [Sui et al., Proc. WACV 2025] **Just shift it: Test-time prototype shifting for zero-shot generalization with vision-language models** [[PDF]](https://arxiv.org/abs/2403.12952) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15629234813577501375&hl=en) [[CODE]](https://github.com/elaine-sui/TPS)
 
 - `TTL` [Imam et al., Proc. WACV 2025] **Test-time low rank adaptation via confidence maximization for zero-shot generalization of vision-language models** [[PDF]](https://arxiv.org/abs/2407.15913) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15339667606687082459&hl=en) [[CODE]](https://github.com/Razaimam45/TTL-Test-Time-Low-Rank-Adaptation)
 
+- `LoRA-TTT` [Kojima et al., Proc. ICML Workshops 2025] **LoRA-TTT: Low-rank test-time training for vision-language models** [[PDF]](https://arxiv.org/abs/2502.02069) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3889360808457707101&hl=en)
+
 - `CaPL` [Yin et al., Pattern Recognition 2025] **Context-aware prompt learning for test-time vision recognition with frozen vision-language model** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320325000196) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8738378215972173300&hl=en) [[CODE]](https://github.com/yjh576/CaPL)
 
-- `TLLA` [Li et al., arXiv 2025] **Test-time loss landscape adaptation for zero-shot generalization in vision-language models** [[PDF]](https://arxiv.org/abs/2501.18864) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5227529988235240881&hl=en)
+- `CDC` [Chen et al., EAAI 2025] **Enhancing crop disease recognition via prompt learning-based progressive mixup and contrastive language-image pre-training dynamic calibration** [[PDF]](https://www.sciencedirect.com/science/article/pii/S095219762500805X) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16859773471166895095&hl=en)
 
-- `LoRA-TTT` [Kojima et al., Proc. ICML Workshops 2025] **LoRA-TTT: Low-rank test-time training for vision-language models** [[PDF]](https://arxiv.org/abs/2502.02069) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3889360808457707101&hl=en)
+- `TLLA` [Li et al., arXiv 2025] **Test-time loss landscape adaptation for zero-shot generalization in vision-language models** [[PDF]](https://arxiv.org/abs/2501.18864) [[G-Scholar]](https://scholar.google.com/scholar?cluster=5227529988235240881&hl=en)
 
 - `TNT` [Imam et al., arXiv 2025] **Noise is an efficient learner for zero-shot vision-language models** [[PDF]](https://arxiv.org/abs/2502.06019) [[G-Scholar--]]() [[CODE--]](https://github.com/Razaimam45/TNT)
 
 - `BPRE` [Qiao et al., arXiv 2025] **Bidirectional prototype-reward co-evolution for test-time adaptation of vision-language models** [[PDF]](https://arxiv.org/abs/2503.09394) [[G-Scholar--]]()
 
-- `CDC` [Chen et al., EAAI 2025] **Enhancing crop disease recognition via prompt learning-based progressive mixup and contrastive language-image pre-training dynamic calibration** [[PDF]](https://www.sciencedirect.com/science/article/pii/S095219762500805X) [[G-Scholar--]]()
+- `...` [Kaya et al., arXiv 2025] **Efficient test-time scaling for small vision-language models** [[PDF]](https://arxiv.org/abs/2510.03574) [[G-Scholar--]]() [[CODE]](https://github.com/monurcan/efficient_test_time_scaling)
 
 ### Audio Classification
 - `...` [Chen et al., arXiv 2024] **Multiple consistency-guided test-time adaptation for contrastive audio-language models with unlabeled audio** [[PDF]](https://arxiv.org/abs/2412.17306) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17440872618964057508&hl=en)
@@ -612,11 +614,11 @@ blurring** [[PDF]](https://arxiv.org/abs/2407.09059) [[G-Scholar]](https://schol
 
 - `CustomTTT` [Bi et al., arXiv 2024] **CustomTTT: Motion and appearance customized video generation via test-time training** [[PDF]](https://arxiv.org/abs/2412.15646) [[G-Scholar]](https://scholar.google.com/scholar?cluster=862053375146430210&hl=en) [[CODE]](https://github.com/RongPiKing/CustomTTT)
 
+- `TTMM` [Bertolissi et al., Proc. COLM 2025] **Local mixtures of experts: Essentially free test-time training via model merging** [[PDF]](https://arxiv.org/abs/2505.14136) [[G-Scholar]](https://scholar.google.com/scholar?cluster=362057851846694197&hl=en) [[CODE]](https://github.com/rbertolissi/ttmerge)
+
 - `TTT4D` [Zhang et al., arXiv 2025] **Test time training for 4D medical image interpolation** [[PDF]](https://arxiv.org/abs/2502.02341) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1240940334208942556&hl=en) [[CODE]](https://github.com/ChaosTheProducer/TTT4D)
 
 - `R2-T2` [Li et al., arXiv 2025] **R2-T2: Re-routing in test-time for multimodal mixture-of-experts** [[PDF]](https://arxiv.org/abs/2502.20395) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2630379142017530500&hl=en) [[CODE]](https://github.com/tianyi-lab/R2-T2)
-
-- `TTMM` [Bertolissi et al., arXiv 2025] **Local mixtures of experts: Essentially free test-time training via model merging** [[PDF]](https://arxiv.org/abs/2505.14136) [[G-Scholar]](https://scholar.google.com/scholar?cluster=362057851846694197&hl=en) [[CODE]](https://github.com/rbertolissi/ttmerge)
 
 - `Highlight-TTA` [Islam et al., arXiv 2025] **Ttest-time adaptation for video highlight detection using meta-auxiliary learning and cross-modality hallucinations** [[PDF]](https://arxiv.org/abs/2508.04924) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17441714860157138227&hl=en)
 
