@@ -101,6 +101,8 @@ A curated list of awesome test-time instance/ batch adaptation resources. Your c
 #### 2025
 - `SDA` [Guo et al., Proc. CVPR 2025] **Everything to the synthetic: Diffusion-driven test-time adaptation via synthetic-domain alignment** [[PDF]](https://arxiv.org/abs/2406.04295) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2953274777395588123&hl=en) [[CODE]](https://github.com/SHI-Labs/Diffusion-Driven-Test-Time-Adaptation-via-Synthetic-Domain-Alignment)
 
+- `NeuroTTT` [Wang et al., NeurIPS Workshops 2025] **Specialization after generalization: Towards understanding test-time training in foundation models** [[PDF]](https://arxiv.org/abs/2509.24510) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9293810431241874969&hl=en)
+
 - `IIDC` [Jiang et al., Neurocomputing 2025] **Iterative compression towards in-distribution features in domain generalization** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0925231225006836) [[G-Scholar--]]()
 
 - `SPACE` [Luo et al., arXiv 2025] **SPACE: SPike-aware consistency enhancement for test-time adaptation in spiking neural networks** [[PDF]](https://arxiv.org/abs/2504.02298) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7586272821935183146&hl=en)
@@ -621,6 +623,8 @@ blurring** [[PDF]](https://arxiv.org/abs/2407.09059) [[G-Scholar]](https://schol
 - `R2-T2` [Li et al., arXiv 2025] **R2-T2: Re-routing in test-time for multimodal mixture-of-experts** [[PDF]](https://arxiv.org/abs/2502.20395) [[G-Scholar]](https://scholar.google.com/scholar?cluster=2630379142017530500&hl=en) [[CODE]](https://github.com/tianyi-lab/R2-T2)
 
 - `Highlight-TTA` [Islam et al., arXiv 2025] **Ttest-time adaptation for video highlight detection using meta-auxiliary learning and cross-modality hallucinations** [[PDF]](https://arxiv.org/abs/2508.04924) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17441714860157138227&hl=en)
+
+- `NeuroTTT` [Wang et al., Misc 2025] **NeuroTTT: Bridging pretraining-downstream task misalignment in EEG foundation models via test-time training** [[PDF]](https://arxiv.org/abs/2508.04924) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1406558093784768375&hl=en) [[CODE]](https://github.com/wsl2000/NeuroTTT)
 
 ## Batch-level
 ### Classification

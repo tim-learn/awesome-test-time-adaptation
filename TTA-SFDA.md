@@ -1152,6 +1152,8 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `DiT-SFDA` [Wang et al., Expert Systems with Applications 2025] **DiT-SFDA: A source-free domain adaptation method for intelligent diagnosis of cardiovascular diseases with limited heart sound samples** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10980183) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14580884301475166651&hl=en)
 
+- `LFC` [Zhang et al., arXiv 2025] **Robust source-free domain adaptation for medical image segmentation based on curriculum learning** [[PDF]](https://arxiv.org/abs/2510.08393) [[G-Scholar--]]()
+
 ## Video Classification
 ### 2022
 - `ATCoN` [Xu et al., Proc. ECCV 2022] **Learning temporal consistency for source-free video domain adaptation** [[PDF]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136940144.pdf) [[G-Scholar]](https://scholar.google.com/scholar?cluster=4238691108482542310&hl=en) [[CODE]](https://github.com/xuyu0010/ATCoN)
@@ -1338,11 +1340,13 @@ domain adaptive medical object detection** [[PDF]](https://ieeexplore.ieee.org/a
 
 - `GTA-CLIP` [Saha et al., arXiv 2025] **Generate, transduct, adapt: Iterative transduction with VLMs** [[PDF]](https://arxiv.org/abs/2501.06031) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3421787342752012824&hl=en) [[CODE--]](https://github.com/cvl-umass/GTA-CLIP)
 
-- `ViLAaD` [Tarashima et al., arXiv 2025] **ViLAaD: Enhancing "attracting and dispersing" source-free domain adaptation with vision-and-language model** [[PDF]](https://arxiv.org/abs/2503.23529) [[G-Scholar--]]()
+- `ViLAaD` [Tarashima et al., arXiv 2025] **ViLAaD: Enhancing "attracting and dispersing" source-free domain adaptation with vision-and-language model** [[PDF]](https://arxiv.org/abs/2503.23529) [[G-Scholar]](https://scholar.google.com/scholar?cluster=9217733557730157004&hl=en)
 
 - `...` [Xu et al., arXiv 2025] **Probability distribution alignment and low-rank weight decomposition for source-free domain adaptive brain decoding** [[PDF]](https://arxiv.org/abs/2504.09109) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15957427133202491546&hl=en)
 
-- `...` [Li et al., arXiv 2025] **Revisiting CLIP for SF-OSDA: Unleashing zero-shot potential with adaptive threshold and training-free feature filtering** [[PDF]](https://arxiv.org/abs/2504.14224) [[G-Scholar--]]()
+- `...` [Li et al., arXiv 2025] **Revisiting CLIP for SF-OSDA: Unleashing zero-shot potential with adaptive threshold and training-free feature filtering** [[PDF]](https://arxiv.org/abs/2504.14224) [[G-Scholar]](https://scholar.google.com/scholar?cluster=10304650793455831369&hl=en)
+
+- `...` [Chen et al., arXiv 2025] **DAM: Dual active learning with multimodal foundation model for source-free domain adaptation** [[PDF]](https://arxiv.org/abs/2509.24896) [[G-Scholar]](https://scholar.google.com/scholar?cluster=12317581255754316700&hl=en)
 
 ### Image Super-Resolution
 - `SOSR` [Ai et al., arXiv 2023] **SOSR: Source-free image super-resolution with wavelet augmentation transformer** [[PDF]](https://arxiv.org/abs/2303.17783) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15698511251689818196&hl=en)

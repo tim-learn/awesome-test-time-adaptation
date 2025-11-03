@@ -681,6 +681,8 @@ vision-language models through dynamic embedding updates** [[PDF]](https://arxiv
 
 - `Hi-Vec` [Ambekar et al., arXiv 2025] **Hierarchical adaptive networks with task vectors for test-time adaptation** [[PDF]](https://arxiv.org/abs/2508.09223) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15043811010135642131&hl=en)
 
+- `CPATTA` [Shi et al., arXiv 2025] **Annotation-efficient active test-time adaptation with conformal prediction** [[PDF]](https://arxiv.org/abs/2509.25692) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8033749765652219000&hl=en) [[CODE]](https://github.com/tingyushi/CPATTA)
+
 ### Attacks & Defenses
 - `TePA` [Cong et al., Proc. S&P 2024] **Test-time poisoning attacks against test-time adaptation models** [[PDF]](https://arxiv.org/abs/2308.08505) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13810860861574844121&hl=en) [[CODE]](https://github.com/tianshuocong/TePA)
 
