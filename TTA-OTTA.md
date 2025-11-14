@@ -685,6 +685,8 @@ vision-language models through dynamic embedding updates** [[PDF]](https://arxiv
 
 - `CPATTA` [Shi et al., arXiv 2025] **Annotation-efficient active test-time adaptation with conformal prediction** [[PDF]](https://arxiv.org/abs/2509.25692) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8033749765652219000&hl=en) [[CODE]](https://github.com/tingyushi/CPATTA)
 
+- `BufferTTA` [Kim et al., Proc. NeurIPS 2025] **Buffer layers for test-time adaptation** [[PDF]](https://arxiv.org/abs/2510.21271) [[G-Scholar]](https://scholar.google.com/scholar?cluster=14132625036190867276&hl=en) [[CODE--]](https://github.com/hyeongyu-kim/Buffer_TTA)
+
 ### Attacks & Defenses
 - `TePA` [Cong et al., Proc. S&P 2024] **Test-time poisoning attacks against test-time adaptation models** [[PDF]](https://arxiv.org/abs/2308.08505) [[G-Scholar]](https://scholar.google.com/scholar?cluster=13810860861574844121&hl=en) [[CODE]](https://github.com/tianshuocong/TePA)
 

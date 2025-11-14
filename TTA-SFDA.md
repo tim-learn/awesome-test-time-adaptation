@@ -653,13 +653,15 @@ A curated list of awesome source-free domain adaptation resources. Your contribu
 ### 2025
 - `ProDe` [Tang et al., Proc. ICLR 2025] **Proxy denoising for source-free domain adaptation** [[PDF]](https://openreview.net/forum?id=FIj9IEPCKr) [[G-Scholar]](https://scholar.google.com/scholar?cluster=17620695069530556718&hl=en)
 
-- `UCon-SFDA` [Xu et al., Proc. ICLR 2025] **Revisiting source-free domain adaptation: A new perspective via uncertainty control** [[PDF]](https://openreview.net/forum?id=nx9Z5Kva96) [[G-Scholar--]]() [[CODE--]](https://github.com/xugezheng/UCon_SFDA)
+- `UCon-SFDA` [Xu et al., Proc. ICLR 2025] **Revisiting source-free domain adaptation: A new perspective via uncertainty control** [[PDF]](https://openreview.net/forum?id=nx9Z5Kva96) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16288335081161918109&hl=en) [[CODE]](https://github.com/xugezheng/UCon_SFDA)
 
 - `GROTO` [Deng et al., Proc. CVPR 2025] **Multi-granularity class prototype topology distillation for class-incremental source-free unsupervised domain adaptation**  [[PDF]](https://arxiv.org/abs/2411.16064) [[G-Scholar]](https://scholar.google.com/scholar?cluster=7070005802717419106&hl=en) [[CODE]](https://github.com/dengpeihua/GROTO)
 
 - `...` [Zhu et al., Proc. CVPR 2025] **Revisiting source-free domain adaptation: Insights into representativeness, generalization, and variety** [[PDF]](https://openaccess.thecvf.com/content/CVPR2025/html/Zhu_Revisiting_Source-Free_Domain_Adaptation_Insights_into_Representativeness_Generalization_and_Variety_CVPR_2025_paper.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=11793729373005494511&hl=en)
 
 - `DTE` [Liu et al., Proc. CVPR 2025] **Distinguish then exploit: Source-free open set domain adaptation via weight barcode estimation and sparse label assignment**  [[PDF]](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Distinguish_Then_Exploit_Source-free_Open_Set_Domain_Adaptation_via_Weight_CVPR_2025_paper.html) [[G-Scholar--]]()
+
+- `ANUE` [Pei and Yang, Proc. ACM MM 2025] **Adaptive neighbors and uncertainty estimation for source-free unsupervised domain adaptation with noisy labels** [[PDF]](https://dl.acm.org/doi/abs/10.1145/3746027.3755099) [[G-Scholar--]]()
 
 - `BN-SFDA` [Deng et al., Proc. AISTATS 2025] **Leveraging frozen batch normalization for co-training in source-free domain adaptation** [[PDF]](https://proceedings.mlr.press/v258/deng25c.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=16283498704495397599&hl=en) [[CODE]](https://github.com/SJTU-dxw/BN-SFDA)
 

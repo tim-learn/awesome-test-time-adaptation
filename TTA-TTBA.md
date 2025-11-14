@@ -504,7 +504,7 @@ blurring** [[PDF]](https://arxiv.org/abs/2407.09059) [[G-Scholar]](https://schol
 
 - `MP-TPT` [Huang et al., Misc 2024] **Multi-perspective test-time prompt tuning for global, local visuals, and language** [[PDF]](https://openreview.net/forum?id=0Xc6o1HKXD) [[G-Scholar--]]()
 
-- `RA-TTA` [Lee et al., Proc. ICLR 2025] **RA-TTA: Retrieval-augmented test-time adaptation for vision-language models** [[PDF]](https://openreview.net/forum?id=V3zobHnS61) [[G-Scholar--]]()
+- `RA-TTA` [Lee et al., Proc. ICLR 2025] **RA-TTA: Retrieval-augmented test-time adaptation for vision-language models** [[PDF]](https://openreview.net/forum?id=V3zobHnS61) [[G-Scholar]](https://scholar.google.com/scholar?cluster=1710780414067057085&hl=en)
 
 - `BEM` [Wu et al., Proc. ICLR 2025] **Multi-label test-time adaptation with bound entropy minimization** [[PDF]](https://openreview.net/forum?id=75PhjtbBdr) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15554800015800904362&hl=en) [[CODE]](https://anonymous.4open.science/r/ML-TTA-10BE/README.md)
 
@@ -517,6 +517,8 @@ blurring** [[PDF]](https://arxiv.org/abs/2407.09059) [[G-Scholar]](https://schol
 - `TTL` [Imam et al., Proc. WACV 2025] **Test-time low rank adaptation via confidence maximization for zero-shot generalization of vision-language models** [[PDF]](https://arxiv.org/abs/2407.15913) [[G-Scholar]](https://scholar.google.com/scholar?cluster=15339667606687082459&hl=en) [[CODE]](https://github.com/Razaimam45/TTL-Test-Time-Low-Rank-Adaptation)
 
 - `LoRA-TTT` [Kojima et al., Proc. ICML Workshops 2025] **LoRA-TTT: Low-rank test-time training for vision-language models** [[PDF]](https://arxiv.org/abs/2502.02069) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3889360808457707101&hl=en)
+
+- `CaCoD` [Wang and Cheng, Proc. MLIC 2025] **Confidence-aware contrastive distillation for test-time prompt tuning** [[PDF]](https://proceedings.mlr.press/v278/wang25g.html) [[G-Scholar]](https://scholar.google.com/scholar?cluster=3927040273137925633&hl=en)
 
 - `CaPL` [Yin et al., Pattern Recognition 2025] **Context-aware prompt learning for test-time vision recognition with frozen vision-language model** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320325000196) [[G-Scholar]](https://scholar.google.com/scholar?cluster=8738378215972173300&hl=en) [[CODE]](https://github.com/yjh576/CaPL)
 
