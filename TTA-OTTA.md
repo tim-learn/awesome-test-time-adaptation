@@ -86,6 +86,8 @@ A curated list of awesome online test-time adaptation resources. Your contributi
 
 - `Lana` [? et al., Misc 2025] **An unlearning-enhanced general framework for test-time adaptation** [[PDF]](https://openreview.net/forum?id=YtiZpRAv7e) [[G-Scholar--]]()
 
+- `Deep Edge Filter` [Lee et al., Proc. NeurIPS 2025] **Deep Edge Filter: Return of the Human-Crafted Layer in Deep Learning** [[PDF]](https://arxiv.org/abs/2510.13865) [[CODE]](https://github.com/dongkwani/DeepEdgeFilter)
+
 ### Segmentation
 - `OnAVOS` [Voigtlaender and Leibe., Proc. BMVC 2017] **Online adaptation of convolutional neural networks for video object segmentation** [[PDF]](https://arxiv.org/abs/1706.09364) [[G-Scholar]](https://scholar.google.com.tw/scholar?cluster=7737687280948943248&hl=en)
 
